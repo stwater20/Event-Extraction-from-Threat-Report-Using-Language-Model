@@ -1,0 +1,24 @@
+Cyber attack targets ONWASA; company refusing to pay ransom
+In the wake of Hurricane Florence disaster, ONWASA, a water utility company has been specifically targeted by cyber criminals. | O
+ONWASA provides water and sewer service to all of Onslow County except Jacksonville residents. | O
+According to a press release, ONWASA's internal computer system, including servers and personal computers, have been subjected to a sophisticated ransomware attack. | Ransom
+The attack has left the utility with limited computer capabilities. | O
+CEO Jeffrey Hudson said customer information was not compromised in the attack. | Databreach
+However, many other databases must be recreated in their entirety. | O
+ONWASA is working with the FBI, the Department of Homeland Security, the state of North Carolina and several technology security companies. | O
+They are also receiving help from N.C. Senator Harry Brown and N.C. Senator Thom Tillis. | O
+Hudson said he believes the attack was a targeted one because the hackers chose a local government that has recently been ransacked by a natural disaster. | O
+The hackers struck at 3 a.m. on Saturday -- a time Hudson says was their most vulnerable. | O
+The attack is similar in nature to the one experienced in Mecklenburg County last year. | O
+Hudson said the damage the attack caused could take weeks or even months to fix. | O
+According to ONWASA, the company had multiple layers of computer protection in place, including firewalls and malware/anti-virus software. | O
+The defenses of the computer systems at the main office were penetrated. | O
+ONWASA has received one email from the cyber criminals, who may be based in a foreign country. | O
+The email is consistent with ransomware attacks of other governments and corporations. | Ransom
+Ransom monies would be used to fund criminal, and perhaps terrorist activities in other countries.  | O 
+There is no expectation that a ransom payment would stop future attacks. | Ransom
+The cyber attackers are demanding payment to decrypt everything that was stolen. | Ransom
+ONWASA said it will not "negotiate with criminals nor bow to their demands." | Ransom
+Instead, ONWASA will rebuild its databases and computer systems from the ground up. | Ransom
+
+

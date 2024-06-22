@@ -1,0 +1,19 @@
+A Recent IE Patch is Causing Windows to Fail While Booting on Some Lenovo Laptops  
+Microsoft has seen its share of issues as of late, and now a seemingly simple patch is causing serious issues to certain laptops running the 2016 Anniversary Update. | DiscoverVulnerability
+The update was originally released to prevent a zero-day attack on IE. | PatchVulnerability
+Per Microsoft, this was the issue being fixed: | PatchVulnerability
+    A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer. | DiscoverVulnerability
+The vulnerability could corrupt memory in such a way that an attacker could execute arbitrary code in the context of the current user. | DiscoverVulnerability
+An attacker who successfully exploited the vulnerability could gain the same user rights as the current user. | DiscoverVulnerability
+If the current user is logged on with administrative user rights, an attacker who successfully exploited the vulnerability could take control of an affected system. | DiscoverVulnerability
+An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights. | O
+    In a web-based attack scenario, an attacker could host a specially crafted website that is designed to exploit the vulnerability through Internet Explorer and then convince a user to view the website, for example, by sending an email. | Phishing
+    The security update addresses the vulnerability by modifying how the scripting engine handles objects in memory. | PatchVulnerability
+But now that fix is causing a pretty big problem of its own: it’s preventing certain laptops from booting. | O
+The affected machines are part of a pretty small bunch—only Lenovo laptops with less than 8 GB of RAM running the 2016 Anniversary Update (1607)—but it’s still a pretty bad problem to have. | O
+Fortunately, there’s a way to bypass the failed boot by restarting into the UEFI and disabling Secure Boot. | O
+It’s also noted that if BitLocker is enabled that you may have to go through BitLocker recovery after disabling Secure Boot. | O
+On the upside, Microsoft is working with Lenovo to correct the issue and will release a fix sometime in the future. | PatchVulnerability
+I just wouldn’t count on it before the end of the year. | O
+Until then, be careful when updating devices, especially if they happen to be Lenovo laptops with limited RAM. | O
+

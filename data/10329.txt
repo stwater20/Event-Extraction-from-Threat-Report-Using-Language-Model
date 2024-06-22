@@ -1,0 +1,24 @@
+
+Apple's dark-horse macOS Mojave is out (and it's already pwned)
+Apple has posted the annual full overhaul of the Mac operating system, this time focusing on a redesign of the look and feel of the interface. | O
+The 10.14 incarnation of macOS, known as Mojave, has been released into general availability. | PatchVulnerability
+It includes new features, interface updates, and security patches – though at least one hole was left unpatched. | PatchVulnerability
+Apple is touting a set of interface improvements with the update, most notably the addition of a "Dark Mode" color scheme option and a Dynamic Desktop background that changes the image with the time of day. | O
+In more useful features, there's the Stacks utility that organizes messy desktops by grouping files into categories. | O
+Apple also added a set of new News, Stocks, Voice Memos, and Home applications for macOS, porting the tools from iOS, while the Mac Continuity Camera app will let users snap and share pictures from their iOS device. | O
+Apple also redesigned the macOS version of the App Store service. | O
+
+Nestled into the Mojave update was a patch bundle that addresses more than a half-dozen security holes. | O
+Mojave will include fixes for eight CVE-listed vulnerabilities. | PatchVulnerability
+These include two remote code execution flaws in the kernel (CVE-2018-4336, CVE-2018-4344) and weak RC4 encryption (CVE-2016-1777). | PatchVulnerability
+That '4344 flaw was discovered by eggheads at the UK government's eavesdropping nerve center, GCHQ. | DiscoverVulnerability
+Other flaws include a traffic intercept flaw in Bluetooth (CVE-2018-5383), a sandbox escape in the operation firewall (CVE-2018-4353), a restricted memory access flaw in Crash Reporter (CVE-2018-4333), and flaws in both Auto Unlock (CVE-2018-4321) and App Store (CVE-2018-4324) that would allow an attacker to access the user's Apple ID. | DiscoverVulnerability
+Seemingly, these patches are only available for macOS 10.14 – however, previous versions of the operating system were fixed up last week. | PatchVulnerability
+
+It didn't take long for at least one researcher to blast holes in the security features of the new operating system. | O
+Shortly after Mojave arrived, macOS guru Patrick Wardle dropped word of a vulnerability he discovered that would allow an attacker to bypass the privacy safeguards in Mojave that would normally prevent an unauthorized app from accessing things like users' contact details. | DiscoverVulnerability
+Here's a video of the exploit... | O
+Wardle said he has reported the bug to Apple, but will not release details beyond the proof-of-concept video until a fix can be released. | DiscoverVulnerability, PatchVulnerability
+More technical details are due to be released in November. | O
+
+

@@ -1,0 +1,22 @@
+Ransomware Strikes Lab-Testing Firm LabCorp
+LabCorp experienced a breach this past weekend, which it nows says was a ransomware attack. | Ransom
+The intrusion has also prompted concerns that patient data may have also been stolen. | Databreach 
+One of the biggest clinical lab testing companies in the world, LabCorp, was hit with a "new variant of ransomware" over the weekend. | Ransom
+"LabCorp promptly took certain systems offline as a part of its comprehensive response to contain and remove the ransomware from its system," the company told PCMag in an email. | O
+"We are working to restore additional systems and functions over the next several days." | O
+LabCorp declined to say what variant of ransomware was used. | O
+But according to The Wall Street Journal, the company was hit with a strain known as SamSam. | Ransom
+In March, the same strain attacked the city of Atlanta's IT network. | Ransom
+Like other ransomware variants, SamSam will effectively lock down a computer, encrypting all the files inside, and then demand the victim pay up to free the system. | Ransom
+In the Atlanta attack, the anonymous hackers demanded $51,000, which the city government reportedly refused to pay. | Ransom
+How much the hackers are demanding from LabCorp isn't clear; the company declined to answer further questions about the attack or if it will pay the ransom. | Ransom
+The lab testing provider first reported the breach on Monday, initially describing it as "suspicious activity" on the company's IT systems that relate to healthcare diagnostics. | O 
+This prompted fears that patient data may have been stolen. | Databreach
+The North Carolina-based company processes more than 2.5 million lab tests per week and has over 1,900 patient centers across the US. | O
+"LabCorp also has connections to most of the hospitals and other clinics in the United States," Pravin Kothari, CEO of cybersecurity firm CipherCloud, said in an email. | O
+"All of this presents, at some point, perhaps an increased risk of cyber attacks propagating and moving through this expanded ecosystem." | O
+On Thursday, LabCorp issued a new statement and said the attack was a ransomware strain. | Ransom
+At this point, the company has found "no evidence of theft or misuse of data," but it's continuing to investigate. | Databreach
+"As part of our in-depth and ongoing investigation into this incident, LabCorp has engaged outside security experts and is working with authorities, including law enforcement," the company added. | O
+
+
