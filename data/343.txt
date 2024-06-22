@@ -1,0 +1,16 @@
+Severe vulnerability in Cisco's WebEx extension for Chrome leaves PCs open to easy attack | CSO Online
+http://www.csoonline.com/article/3161140/software/severe-vulnerability-in-ciscos-webex-extension-for-chrome-leaves-pcs-open-to-easy-attack.html 
+2017_01_25 
+
+Anyone who uses the popular Cisco WebEx extension for Chrome should update to the latest version pronto. | O
+Google security researcher Tavis Ormandy recently discovered a serious vulnerability in the Chrome extension that leaves PCs wide open to attack. | DiscoverVulnerability
+The magic string was designed to remotely activate the WebEx browser extension. | O
+Once the extension was activated the bad guys could execute malicious code on the target machine. | O
+The impact on you at home: It’s a good idea for anyone who uses this extension to make sure it’s updated to the latest version given the severity of the vulnerability. | O
+It’s not clear if version 1.0.5 offers any significant protection against the threat Ormandy describes. | O
+Apparently, all version 1.0.3 did was offer a pop-up anytime that magic code was used, according to Cloudfare security researcher Filippo Valsorda. | O
+That puts the onus on the user to make sure they really want to be using WebEx when that pop-up appears. | O
+If you’d rather not bother with the extension it’s also possible to use a temporary, downloadable desktop program each time you want to use WebEx. | O
+That may not be convenient, but it’s an alternative. | O
+Ormandy’s discovery raised enough eyebrows that Mozilla blocked WebEx for Firefox. | O
+

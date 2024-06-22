@@ -1,0 +1,55 @@
+CVE-2017-5521: Bypassing Authentication on NETGEAR Routers
+https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/ 
+2017_01_31 
+
+Home routers are the first and sometimes last line of defense for a network. | O
+Despite this fact, many manufacturers of home routers fail to properly audit their devices for security issues before releasing them to the market. | O
+As security researchers, we are often disappointed to rediscover that this is not always the case, and that sometimes these vulnerabilities simply fall into our hands during our day-to-day lives. | O
+Such is the story of the two NETGEAR vulnerabilities I want to share with you today: | DiscoverVulnerability
+It was a cold and rainy winter night, almost a year ago, when my lovely NETGEAR VEGN2610 modem/router lost connection to the Internet. | O
+I was tucked in bed, cozy and warm, there was no way I was going downstairs to reset the modem, "I will just reboot it through the web panel" I thought to myself. | O
+Unfortunately I couldn't remember the password and it was too late at night to check whether my roommates had it. | O
+I considered my options: | O
+Needless to say, I chose the latter. | O
+I thought to myself, "Well, it has a web interface and I need to bypass the authentication somehow, so the web server is a good start." | O
+I started manually fuzzing the web server with different parameters, I tried "../.." classic directory traversal and such, and after about 1 minute of fuzzing, I tried "…" and I got this response: | O
+Fig 1: unauth.cgi | O
+"Hmm, what is that unauth.cgi thingy? | O
+Luckily for me the Internet connection had come back on its own, but I was now a man on a mission, so I started to look around to see if there were any known vulnerabilities for my VEGN2610. | O
+I started looking up what that "unauth.cgi" page could be, and I found 2 publicly disclosed exploits from 2014, for different models that manage to do unauthenticated password disclosure. | DiscoverVulnerability
+Those two guys found out that the number we get from unauth.cgi can be used with passwordrecovered.cgi to retrieve the credentials. | DiscoverVulnerability
+I tested the method described in both, and voila - I have my password, now I can go to sleep happy and satisfied. | O
+I woke up the next morning excited by the discovery, I thought to myself: "3 routers with same issue… Coincidence? | O
+Luckily, I had another, older NETGEAR router laying around; I tested it and bam! | O
+I started asking people I knew if they have NETGEAR equipment so I could test further to see the scope of the issue. | O
+In order to make life easier for non-technical people I wrote a python script called netgore, similar to wnroast, to test for this issue. | O
+I am aware of that and that is why I don't work as a full time programmer. | O
+As it turned out, I had an error in my code where it didn't correctly take the number from unauth.cgi and passed gibberish to passwordrecovered.cgi instead, but somehow it still managed to get the credentials! | O
+After few trials and errors trying to reproduce the issue, I found that the very first call to passwordrecovered.cgi will give out the credentials no matter what the parameter you send. | DiscoverVulnerability
+This is totally new bug that I haven't seen anywhere else. | O
+When I tested both bugs on different NETGEAR models, I found that my second bug works on a much wider range of models. | DiscoverVulnerability
+A full description of both of these findings as well as the python script used for testing can be found here. | O
+The vulnerabilities have been assigned CVE-2017-5521 and TWSL2017-003. | DiscoverVulnerability
+The Responsible Disclosure Process | O
+This is where the story of discovery ends and the story of disclosure begins. | O
+Following our Responsible Disclosure policy we sent both findings to NETGEAR in the beginning of April 2016. | DiscoverVulnerability
+In our initial contact, the first advisory had 18 models listed as vulnerable, although six of them didn't have the vulnerability in the latest firmware. | DiscoverVulnerability
+Perhaps it was fixed as part of a different patch cycle. | PatchVulnerability
+The second advisory included 25 models, all of which were vulnerable in their latest firmware version. | DiscoverVulnerability
+In June NETGEAR published a notice that provided a fix for a small subset of vulnerable routers and a workaround for the rest. | PatchVulnerability
+They also made the commitment to working toward 100% coverage for all affected routers. | O
+The notice has been updated several time since then and currently contains 31 vulnerable models, 18 of which are patched now, and 2 models that they previously listed as vulnerable, but are now listed as not vulnerable. | DiscoverVulnerability,PatchVulnerability
+In fact, our tests show that one of the models listed as not vulnerable (DGN2200v4) is, in fact, vulnerable and this can easily be reproduced with the POC provided in our advisory. | DiscoverVulnerability
+Over the past nine months we attempted to contact NETGEAR multiple times for clarification and to allow them time to patch more models. | PatchVulnerability
+Over that time we have found more vulnerable models that were not listed in the initial notice, although they were added later. | DiscoverVulnerability
+We also discovered that the Lenovo R3220 router is powered by NETGEAR firmware and it was vulnerable as well. | DiscoverVulnerability
+Luckily NETGEAR did eventually get back to us right before we were set to disclose these vulnerabilities publicly. | DiscoverVulnerability
+We were a little skeptical since our experience to date matched that of other third-party vulnerability researchers that have tried to responsibly disclose to NETGEAR only to be met with frustration. | DiscoverVulnerability
+The first was that NETGEAR committed to pushing out firmware to the currently unpatched models on an aggressive timeline. | O
+The second change made us more confident that NETGEAR was not just serious about patching these vulnerabilities, but serious about changing how they handle third-party disclosure in general. | PatchVulnerability
+We fully expect this move will not only smooth the relationship between third-party researchers and NETGEAR, but, in the end, will result in a more secure line of products and services.
+For starters, it affects a large number of models. | O
+We have found more than ten thousand vulnerable devices that are remotely accessible. | DiscoverVulnerability
+The real number of affected devices is probably in the hundreds of thousands, if not over a million. | O
+The vulnerability can be used by a remote attacker if remote administration is set to be Internet facing. | O
+

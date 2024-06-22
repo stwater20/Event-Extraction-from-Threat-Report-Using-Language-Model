@@ -1,0 +1,15 @@
+Phishers' new social engineering trick: PDF attachments with malicious links - Help Net Security
+https://www.helpnetsecurity.com/2017/01/27/social-engineering-pdf/ 
+2017_01_30 
+
+It is – or it should be – a well known fact that attackers occasionally email potential victims with PDF attachments containing malware or exploit code. | O
+But the latest attacks through PDF attachments are geared towards pushing users to enter their email account credentials into well-crafted phishing pages. | Phishing
+Microsoft security experts saw a lot of variants of the same attack, and they all start with spoofed emails supposedly delivering asked-for documents. | Phishing
+In one variation, the PDF makes it look like there has been an error, and the document can only be displayed with Microsoft Excel. | O
+But instead of actually opening it with their own software, potential victims are urged to open it by following the link offered in the PDF: | O
+If they do that, they will be redirected to a web page that makes it seem like the document can only be opened if the user signs in with their email credentials. | O
+In another variant, the PDF urges users to click on a link that will supposedly allow them to view a Dropbox-hosted document online. | O
+“Social engineering attacks are designed to take advantage of possible lapses in decision-making. | O
+Awareness is key; that is why we’re making these cybercriminal tactics known,” Microsoft’s Alden Pornasdoro explained. | O
+“In these times, when we’re seeing heightened phishing attacks with improved social engineering techniques, a little bit of paranoia doesn’t hurt. | Phishing
+For instance, question why Adobe Reader is trying to open an Excel file. | O

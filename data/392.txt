@@ -1,0 +1,15 @@
+More mobe malware creeps into Google Play – this time, ransomware • The Register    
+https://www.theregister.co.uk/2017/01/26/ransomware_infiltrates_google_mobe_market/ 
+2017_01_27 
+
+Researchers say a piece of ransomware disguised as a battery app made its way into the Play store. | Phishing
+Check Point says one of its customers contracted the malware app, dubbed "Charger," after installing what they thought was a battery monitoring tool called EnergyRescue. | O
+Researchers with Check Point Mobile Threat Prevention say the malware activates when EnergyRescue runs, and requires admin access to the device. | O
+Once that permission is granted, the malware checks for location (it does not attack phones in the Ukraine, Belarus, or Russia), then swipes all user contacts and SMS messages and locks down the device. | Databreach
+From there, the user is told that they must pay to deactivate the ransomware or they will have their full details spaffed out for various nefarious activities, including bank fraud and spam. | Ransom
+"You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes," the ransomware tells users. | Ransom
+Not ones to be unprofessional, the Charger operators attempt to reassure their victims by offering a "100% guarantee" that once the 0.2 Bitcoin ransom (currently around $183) is paid, all the collected information will be deleted and the device unlocked. | Ransom
+"The ransom demand for 0.2 Bitcoins is a much higher ransom demand than has been seen in mobile ransomware so far," note Check Point mobile security analysts Oren Koriat and Andrey Polkovnichenko. | Ransom
+"By comparison, the DataLust ransomware demanded merely $15." | Ransom
+Check Point says that thus far it has not spotted any payments being registered to the Bitcoin address used for the ransom collection, so it is unclear how much, if anything, has been made from this operation. | Ransom
+

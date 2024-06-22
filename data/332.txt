@@ -1,0 +1,16 @@
+Report: Half of ransomware's SMB victims pay up | CSO Online
+http://www.csoonline.com/article/3160905/backup-recovery/report-half-of-ransomwares-smb-victims-pay-up.html 
+2017_01_24 
+
+The average company had four ransomware attacks last year, paid an average ransom of $2,500 per incident, and spent 42 hours dealing with the attack. | Ransom
+"We're nowhere near the end of the ransomware threat," said Norman Guadagno, chief evangelist at Carbonite, which provides continuous automated cloud backup services. | O
+Of those who did not pay up, 42 percent said that having a full and accurate backup was the reason. | O
+And only 13 percent said their preparedness to prevent ransomware was "high." | O
+"People say, 'I know I should back up, have anti-virus, use strong passwords' -- but they don't do it," said Guadagno. | O
+Only 46 percent of respondents said that prevention of ransomware attacks was a high priority for their company. | O
+One reason could be that they don't think the hackers will bother with them. | O
+According to the survey, 55 percent of companies said they thought it was either likely or certain that the ransomware also exfiltrated data from the infected device. | Databreach
+Businesses should not only have anti-virus in place to keep ransomware from getting in, but also train their employees to spot potential attacks. | O
+According to the survey, only 29 percent of respondents said they were confident that their employees could detect risky links or sites. | O
+It just goes to show that you can't even trust cybercriminals these days. | O
+
