@@ -1,0 +1,19 @@
+Is HPCL's Website Under Cerber Ransomware Attack?
+http://www.inforisktoday.in/blogs/hpcls-website-under-cerber-ransomware-attack-p-2358 
+2017_01_13 
+
+The site now includes a malicious link that infects the computers of anyone visiting, Arctos contends. | O
+Palani Bala, Arctos' CTO, claims that  HPCL's  site was compromised by a series of attacks by the pseudo-Darkleech campaign, which exposes users to Nemucod malware that, in turn, downloads Cerber ransomware onto their machines. | O
+Darkleech is a long-running campaign that uses exploit kits to deliver malware. | O
+The executable downloaded logs delivered by exploit kits were analyzed through a behavior analysis engine, which identified the executable file as Cerber ransomware based on behavior classification, Bala says. | O
+Landing page deobfuscated by Arctos Ateles engine. | O
+Source: Arctos Threat Research Co. | O
+Bala claims the attackers run automated bots that look for vulnerable sites and then tamper with them by adding additional content that delivers malware to visitors' computers. | O
+Experts say hackers using Cerber ransomware usually demand $1,000 in bitcoin from infected users. | Ransom
+Cerber ransomware and its encryption components are updated daily on the site, he adds. | O
+First appearing in March 2016, Cerber often contains an audio file with a ransom message. | O
+The ransomware largely spreads via spear-phishing campaigns, security experts say. | Phishing
+Arctos suspects the HPCL attackers' bot might have exploited vulnerabilities in an old Apache web-server or any additional services/plug-ins running in the server, Bala says. | DiscoverVulnerability
+He recommends that HPCL's webserver infrastructure perimeter be protected around the clock by advanced security monitoring solutions to detect such compromises. | O
+In the meantime, it's time CERT-In made a recommendation to HPCL and others on how to avoid infections. | O
+

@@ -1,0 +1,41 @@
+The GRU-Ukraine Artillery Hack That May Never Have Happened
+https://www.linkedin.com/pulse/gru-ukraine-artillery-hack-may-never-have-happened-jeffrey-carr?trk=hp-feed-article-title-publish 
+2017_01_04 
+
+“It’s pretty high confidence that Fancy Bear had to be in touch with the Russian military,” Dmitri Alperovich told Forbes. | O
+Crowdstrike’s core argument has three premises: | O
+If all of these premises were true, then Crowdstrike’s prior claim that Fancy Bear must be affiliated with the GRU [4] would be substantially supported by this new finding. | O
+Dmitri referred to it in the PBS interview as “DNA evidence”. | O
+In fact, none of those premises are supported by the facts. | O
+This article is a summary of the evidence that I’ve gathered during hours of interviews and background research with Ukrainian hackers, soldiers, and an independent analysis of the malware by CrySys Lab. | O
+My complete findings will be presented in Washington D.C. next week on January 12th at Suits and Spooks. | O
+Crowdstrike, along with FireEye and other cybersecurity companies, have long propagated the claim that Fancy Bear and all of its affiliated monikers (APT28, Sednit, Sofacy, Strontium, Tsar Team, Pawn Storm, etc.) | O
+were the exclusive developers and users of X-Agent. | O
+If both a security company and a hacker collective have the X-Agent source code, then so do others, and attribution to APT28/Fancy Bear/GRU based solely upon the presumption of “exclusive use” must be thrown out. | O
+This doesn’t mean that the Russian government may not choose to use it. | O
+In fact, Sean Townsend believes that the Russian security services DO use it but he also knows that they aren’t the only ones. | O
+The first iteration of the POPR-D30 Android app designed by Ukrainian military officer Jaroslav Sherstuk (and the only iteration allegedly impacted by this malware) was a simple ballistics program that calculated corrections for humidity, atmospheric pressure, and other environmental factors that determine accuracy of the D-30 Howitzer. | O
+The Android APK malware doesn’t use GPS nor does it ask for GPS location information from the infected phone or tablet. | O
+That’s a surprising design flaw for custom-made malware whose alleged objective was to collect and transmit location data on Ukrainian artillery to the GRU. | Databreach
+It does collect base station information but that isn’t nearly sufficient for targeting purposes. | Databreach
+In rural areas, one base station could have a range of up to 30 kilometers (18.6 miles). | O
+Crowdstrike’s estimate of 80% losses of the D-30 Howitzers came from one source — an article written by pro-Russian blogger Boris Rozhin, a resident of Crimea who writes for a blog called The Saker which he calls “the voice of totalitarian propaganda | O
+Bloomberg journalist Leonid Bershidsky pointed out that the estimates “appear to be based on an assumption that changes in military balance reports, themselves far from perfect, can be interpreted as losses. | O
+Ukraine, a nation at war, doesn’t broadcast information about its specific capabilities”. | O
+Pavlo Narozhnyy, a Ukraine military advisor, told VOA that “I personally know hundreds of gunmen in the war zone. | O
+None of them told me of D-30 losses caused by hacking or any other reason”. | O
+Even Rozhin acknowledged that his interpretation of the International Institute of Strategic Studies (IISS) data needs work: “Generally speaking, both methods have their advantages and disadvantages, as it is obvious that lost armour did not count everything destroyed, as well as that the loss of hardware (counted based on staffing standards) in some cases did not mean that it was destroyed. | O
+For example, some hardware lost after 2013 was left in Crimea and returned to Ukraine only partially. | O
+Some hardware could have existed only on paper and even before the war could have been non-repairable. | O
+This suggests that the real losses of the UA still need to be further researched to make the conclusions more precise”. | O
+While the original POPR-D30 app was available for download online, users had to contact Sherstuk personally and provide their military credentials in order to receive a code for activation. | O
+There is no evidence that any of those users had their apps compromised by malware. | O
+In fact, Crowdstrike hasn’t provided any evidence that the malware-infected Android app was used by even a single Ukrainian soldier. | O
+Sherstuk himself stopped supporting the first version in 2015 [10] so how could Crowdstrike even begin to justify its claims as to the malware’s effectiveness? | O
+Part of the evidence supporting Russian government involvement in the DNC and related hacks (including the German Bundestag and France’s TV5 Monde) stemmed from the assumption that X-Agent malware was exclusively developed and used by Fancy Bear. | O
+We now know that’s false, and that the source code has been obtained by others outside of Russia. | Databreach
+The GRU, according to Crowdstrike, developed a variant of X-Agent to infect an Android mobile app in order to geolocate and destroy Ukraine’s D-30 howitzers. | O
+To do this, they chose an artillery app which had no way to send or receive data, and wrote malware for it that didn’t ask for GPS position information? | O
+Crowdstrike never contacted the app’s developer to inform him about their findings. | O
+Had they performed that simple courtesy, they might have learned from Jaroslav Sherstuk how improbable, if not impossible, their theory was. | O
+Instead, they worked inside of their own research bubble, performed no verification of infected applications or tablets used by Ukraine’s artillery corps, and extrapolated an effect of 80% losses based upon a self-proclaimed, pro-Russian propagandist and an imaginary number of infected applications. | O
