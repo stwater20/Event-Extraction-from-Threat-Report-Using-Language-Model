@@ -1,0 +1,15 @@
+Abta website: Holidaymakers hit by cyber attack - BBC News
+About 1,000 files accessed may include personal identity information of individuals who have made a complaint about an Abta-registered travel agent. | Databreach
+It says it is contacting those affected by the hack which happened on 27 February and has a dedicated helpline. | O
+It has also alerted the police and the Information Commissioner's Office (ICO). | Databreach
+Part of the ICO's role is to help the public manage their personal data. | O
+Abta chief executive Mark Tanzer said he would "personally like to apologise for the anxiety and concern" caused to Abta customers and members. | O
+"It is extremely disappointing that our web server, managed for Abta through a third party web developer and hosting company, was compromised and we are taking every step we can to help those affected." | O
+Mr Tanzer said the organisation was not aware of any of the information being shared beyond the infiltrator. | Databreach
+The organisation gives advice and guidance to holidaymakers, sets standards for travel firms and promotes responsible tourism in the UK and abroad. | Databreach
+It said the type of data which may have been accessed included: | Databreach
+Abta said the "vast majority" of the 43,000 people affected were those who had registered with email addresses and encrypted passwords or had filled in an online form with basic contact details. | O
+It said there was "a very low exposure risk to identity theft or online fraud" with this kind of data. | O
+It advised customers and ABTA members registered on the site to change their passwords as a "precautionary measure". | O
+It has also offered people who may be affected a free-of-charge identity theft protection service. | O
+

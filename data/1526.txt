@@ -1,0 +1,19 @@
+Fake News Site Targeting Android, Windows Users with Malware Scam | O
+Research conducted by both cyber security firm shows that the attacks first appeared in July 2015 and since then, cybercriminals behind these attacks have targeted hundreds of organizations within the region. | Databreach
+According to the research, hackers were using KasperAgent and Micropsia malware to target Windows operating system while SecureUpdate and Vamp malware were being used to target Android OS. | Phishing
+The cybercriminals behind these attacks used two different techniques to achieve their goal. | Databreach
+One technique involved using an URL shortener service Bit.ly to disguise the original malicious links. | Phishing
+The motive behind these attacks was to steal credentials and spy on the victims. | Phishing, Databreac, Databreach
+As per the research, hackers were targeting Educational institutes, Military organization and media companies from Palestine, Israel, Egypt, and the US. | O
+SecureUpdate, a malware disguised as an Android update was designed to download malicious payloads into the victim’s device while the Vamp was focused on stealing data from victims’ smartphones including call recordings, contact information, and stealing other important documents. | Phishing, Databreac, Databreach
+The malware designed to target Windows operating systemsKasperAgent and Micropsia were capable of downloading other payloads, executing arbitrary commands, stealing files, capturing a screenshot, logging keystrokes and much more. | Databreach
+Essentially the hackers were interested in stealing credentials of the infected devices. | Databreach
+At first, no connection was established between the attacks since all the malware were different from each other. | O
+On close inspection, however, the security firms found a link. | O
+The Same email address was used to register infectious domains which eventually revealed that the attacks were linked after all. | O
+Researchers revealed that more than 200 samples of the Windows malware and at least 17 samples of Android malware were discovered which means that potential victims of this malware could be numerous. | Databreach
+The researchers at Palo Alto firm stated “Through this campaign, there is little doubt that the attackers have been able to gain a great deal of information from their targets,” | Databreach
+The campaign also illustrates that for some targets old tricks remain sufficient to run a successful espionage campaign, including the use of URL shortening services, classic phishing techniques as well as using archive files to bypass some simple file checks. | Databreach
+This is not the first time when a sophisticated malware attack was aimed at the Middle Eastern countries. | O
+Just last month StoneDrill malware was discovered targeting not only the Middle East but also Europe. | O
+Also, Shamoon malware from Iran is currently targeting Saudi Arabian cyber infrastructure. | O

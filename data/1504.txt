@@ -1,0 +1,15 @@
+As Trump Entertains Xi Jinping, 'Operation Tradesecret' Spy Campaign Comes to Light
+Just in time for President Trump’s meeting with Chinese President Xi Jinping this week, and following The US Secretary of State’s recent visit to China, Fidelis Cybersecurity made a troubling discovery of a possible cyber-espionage sponsored by that country, which it’s calling Operation Tradesecret. | O
+In late February, the Fidelis threat research team observed Scanbox malware embedded on specific webpages on the National Foreign Trade Council (NFTC) site, whose members are key private-sector players involved in lobbying US foreign trade policy. | Phishing
+Scanbox provides multiple capabilities to threat actors.  | O
+It can be used to determine the versions of applications, as well as other selected tools, such as JavaScript keyloggers, running on the target's machine.  | O
+Information gathered from this reconnaissance can be used in targeted phishing campaigns, with the goal of exploiting specific vulnerabilities on end-user devices. | Phishing
+Indicators show the attackers are part of the global China-backed hacking group APT10, whose actions have extended to organizations in Japan.  | O
+Scanbox was previously reported to have been used by multiple Chinese actor groups, including those thought to be behind well-publicized, massive intrusions at Anthem Healthcare and the US Office of Personnel Management (OPM) breaches. | O
+“In the research community, Scanbox has exclusively been known to have been used by threat actors associated with, or sponsored by, the Chinese government,” researchers said in an analysis.  | O
+“Our most recent observation of the use of Scanbox was on a Uygher political site.  | Phishing
+Subsequent research has revealed artifacts suggesting that a similar campaign was conducted shortly after that involved a site masquerading as the Ministry of Foreign Affairs of Japan. | Phishing
+In this case, the targets specifically appear to be the NFTC board of directors, who are participants in the dialogue around the composition of the new trade policy framework being formulated within the Trump administration.  | O
+“Since the strategic web compromise was observed on the registration page for the board of directors meeting, it can be surmised that the campaign targeted the individuals visiting the site to register for the meeting,” Fidelis researchers noted. | Phishing
+“We observed a brief, targeted operation in which visitors to select webpages, including those used to register for specific meetings at the NFTC, were served reconnaissance malware known as the Scanbox framework,” the firm noted. | O
+The link from the NFTC site was removed on March 2—but Fidelis believes that the operation had almost certainly concluded by that time. | Phishing

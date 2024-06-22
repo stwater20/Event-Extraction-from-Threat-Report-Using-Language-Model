@@ -1,0 +1,23 @@
+Statement from ABTA CEO, Mark Tanzer, relating to Data Security Incident  - ABTA
+We recently became aware of unauthorised access to the web server supporting abta.com by an external infiltrator exploiting a vulnerability. | Databreach, DiscoverVulnerability
+Specialist technical consultants subsequently confirmed that the web server had been accessed. | Databreach, DiscoverVulnerability
+We are not aware of any information being shared beyond the infiltrator. | Databreach, DiscoverVulnerability
+We are actively monitoring the situation, but as a precautionary measure we are taking steps to warn both customers of ABTA Members and ABTA Members who have the potential to be affected. | Databreach, DiscoverVulnerability
+We are today contacting these people and providing them with information and guidance to help keep them safe from identity theft or online fraud. | Databreach, DiscoverVulnerability
+We have also alerted the relevant authorities, including the Information Commissioner and the Police. | Databreach, DiscoverVulnerability
+I would personally like to apologise for the anxiety and concern that this incident may cause to any customer of ABTA or ABTA Member who may be affected. | O
+It is extremely disappointing that our web server, managed for ABTA through a third party web developer and hosting company, was compromised, and we are taking every step we can to help those affected. | DiscoverVulnerability
+I will personally be working with the team to look at what we can learn from this situation. | DiscoverVulnerability
+Outlined below, we have answered further questions, which include some guidance for customers of ABTA and ABTA Members. | Databreach, DiscoverVulnerability
+We recently became aware of unauthorised access to the abta.com web server by an external infiltrator. | Databreach, DiscoverVulnerability
+This was possible due to a system vulnerability that the infiltrator exploited to access some data provided by some customers of ABTA Members and by ABTA Members themselves. | Databreach
+On immediate investigation, we identified that although ABTA’s own IT systems remained secure, there was a vulnerability to the web server for abta.com, which is managed for ABTA through a third-party web developer and hosting company. | DiscoverVulnerability
+As a precautionary measure we have taken steps to warn Members and customers of ABTA Members who have the potential to be affected. | Databreach, DiscoverVulnerability
+We have contacted those people and provided them with information and guidance to help keep them safe from identity theft or online fraud. | Databreach, DiscoverVulnerability
+These steps include two dedicated helplines, for customers of ABTA Members and for ABTA Members, and free access to an identity theft protection service offered by Experian. | Databreach
+We have also alerted the relevant authorities, including the Information Commissioner and the Police. | Databreach, DiscoverVulnerability
+The unauthorised access may have affected approximately 43,000 individuals. | Databreach
+Around 1,000 of these are files that may include personal identity information of customers of ABTA Members (in support of their complaint about an ABTA Member), uploaded since 11 January 2017; around 650 may include personal identity information of ABTA Members. | Databreach
+The vast majority of the 43,000 relate to people who have registered on abta.com, with email addresses and encrypted passwords, or have filled in an online form with basic contact details which are types of data at a very low exposure risk to identity theft or online fraud. | Databreach, DiscoverVulnerability
+We have provided specific guidance information, including contact details for a dedicated helpline to assist with any further questions. | Databreach, DiscoverVulnerability
+If you think you have been a victim of fraud, report it to Action Fraud online at www.actionfraud.police.uk or call 0300 123 2040. | O

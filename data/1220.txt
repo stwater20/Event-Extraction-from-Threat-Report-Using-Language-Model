@@ -1,0 +1,13 @@
+<Flaws in Moodle CMS put thousands of e-learning websites at risk | CSO Online
+A week ago the Moodle developers released updates for the still supported branches of the platform: | PatchVulnerability
+ 3.2.2, 3.1.5, 3.0.9 and 2.7.19. | PatchVulnerability
+The release notes mentioned that "a number of security related issues were resolved," but didn't provide any additional details about their nature or impact. | PatchVulnerability
+The severity of the flaws became apparent Monday, when security researcher Netanel Rubin, who found the vulnerabilities, published a detailed blog post about them. | DiscoverVulnerability
+They don't seem too critical on their own, but when combined, they allow attackers to create hidden administrative accounts and execute malicious PHP code on the underlying server. | O
+The exploit takes advantage of some false assumptions made by the developers, which Rubin described as a logic flaw, an Object Injection, a double SQL injection, and an overly permissive administrative dashboard. | O
+The logic issue stems from the reimplementation of a certain function without taking into account decisions made by the original function's developers. | O
+According to the researcher, it is the result of "having too much code, too many developers and lacking documentation." | O
+"Keep in mind that logical vulnerabilities can and will occur in almost all systems featuring a large code base," Rubin said. | O
+"Security issues in large code bases is, of course, not Moodle specific." | O
+Gaining administrative privileges on the Moodle platform is not only dangerous because attackers could install a PHP backdoor by uploading malicious plug-ins or templates, but also because Moodle installations store sensitive and private information about students taking online courses. | O
+<
