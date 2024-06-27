@@ -1,0 +1,18 @@
+Bank accounts raided after crooks exploit huge flaw in mobile networks – Naked Security
+When you’re as ginormous a target as the global telecommunications industry, and you’re sitting on a flaw as big as the one affecting its SS7 protocol, best not rely on “security through obscurity”. | DiscoverVulnerability
+You and your customers could get badly bitten – and so they have. | O
+The Signalling System No. 7 (SS7) telephony signaling protocol used to establish interoperability across some 800+ service providers worldwide, is deeply vulnerable to interception by hackers, criminals, and corrupt insiders. | DiscoverVulnerability
+We’ve known this for years. | O
+Now, in Germany, someone’s used that vulnerability to raid consumers’ online bank accounts. | O
+SS7 was designed back in the 1970s, when access to phone networks was viewed as rare and controllable: back then, for example, AT&T still had an essentially complete monopoly over all US phone service. | O
+But now, a world of internet, VoIP, and wireless providers can link into SS7 to do all manner of fascinating things, and mess-with-SS7 skills and tools aren’t nearly so scarce. | O
+The telecom industry, however, has been appallingly slow to react. | O
+Maybe they will now. | O
+As first reported by the German daily newspaper Süddeutsche Zeitung, this two-part attack zeroed in on SS7 call-forwarding features that allow networks to validate your SIM card when you travel internationally. | O
+First, according to Bank Info Security, hackers sent conventional fake phishing emails to victims, suckering them into visiting fake bank websites, where they were told to enter account numbers, passwords and the mobile phone numbers they had previously given their banks. | AttackPhishing
+Meanwhile, per The Register, the attackers “purchased access to a rogue telecommunications provider and set up a redirect for the victim’s mobile phone number to a handset controlled by the attackers”. | O
+Now, they could wait until late at night, log into the victims’ online accounts, and start money transfers. | O
+As part of their SMS-based two-factor authentication (2FA) systems, the banks would dutifully send one-time mobile transaction authentication number (mTAN) numbers to their customers. | O
+These would be hijacked by the criminals, who now had the second authentication factor they needed to complete the thefts. | O
+The short-term solution is for telecommunications service providers to turn off SS7’s call forwarding features except for trusted providers. | O
+O2-Telefonica told Süddeutsche Zeitung that it blocked the specific foreign carriers who were the source of these attacks in January – but that doesn’t prevent similar attacks arising from other sources against other carriers. | O

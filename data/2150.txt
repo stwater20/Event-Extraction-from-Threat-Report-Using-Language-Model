@@ -1,0 +1,14 @@
+Malware framework using legitimate utilities lobbed at government agencies - Help Net Security
+Bitdefender researchers have unearthed a previously unknown malware framework that, unlike those used by most APTs, contains many legitimate utilities. | O
+Dubbed Netrepser, the framework is used to find and exfiltrate all kinds of information from compromised Windows systems. | AttackPhishing
+The researchers believe that it is wielded by a dedicated cyber espionage group, as the victims are mostly computer systems of government agencies. | O
+Netrepser is usually delivered via spear-phishing emails spoofed to look like they are coming from a legitimate source. | AttackPhishing
+The email purports to deliver a document containing guidelines for discussion or a similar benign DOC file, and the recipient is urged to enable macros in order to view the contents of the file: | AttackPhishing
+But doing that will allow the embedded Visual Basic macro to drop a JavaScript file (JS) or a JScript Encoded File (JSE). | O
+This JS/JSE payload contacts the C&C server, send basic information about the compromised system, and fetches and executes malicious jobs with the help of legitimate tools and malware downloaded directly from it. | O
+It uses, among other things: | O
+All of these tools are packed with a custom file-packing algorithm that seems unique to this group, but that doesn’t tell us who are these hackers. | O
+“Even though the Netrepser malware uses free tools and utilities to carry various jobs to completion, the technical complexity of the attack, as well as the targets attacked, suggest that Netrepser is more than a commercial-grade tool,” the researchers noted. | O
+“Because of the nature of these attacks, attribution is impossible unless we dig into the realm of speculation. | O
+Our technical analysis however, has revealed that some documents and file paths this campaign is using are written in Cyrillic.”| O
+Technical details and indicators of compromise tied to this campaign can be found here. | O

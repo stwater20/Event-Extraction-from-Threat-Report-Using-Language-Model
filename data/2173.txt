@@ -1,0 +1,11 @@
+Hackers Leverage Flaws in SS7 to Drain Victims' Bank Accounts
+The attackers were able to redirect SMS messages used for two-factor authentication in order to approve money transfers. | O
+Earlier this year, hackers exploited vulnerabilities in the Signaling System No. 7 (SS7) protocols to sidestep two-factor authentication and steal funds from German victims' bank accounts, according to Germany's Suddeutsche Zeitung. | DiscoverVulnerability
+The hackers stole bank login credentials via phishing emails that appeared to come from the victims' banks, then leveraged flaws in SS7 to redirect the SMS messages required to confirm funds transfers. | AttackPhishing, AttackDatabreach
+"Criminals carried out an attack from a network of a foreign mobile network operator in the middle of January," a representative of Germany's O2 Telefonica said, according to Ars Technica. | O
+"The attack redirected incoming SMS messages for selected German customers to the attackers." | O
+Ars Technica notes that security researcher Karsten Nohl demonstrated the potential impact of the flaws in SS7 last year by recording calls and tracking the location of U.S. Rep. Ted Lieu. | DiscoverVulnerability
+Earlier this week, Lieu tweeted, "I've been screaming for FCC & telecom industry to fix #SS7 security flaw. PatchVulnerability
+Perhaps bank losses will get them to act." | O
+"EVERYONE'S BANK ACCOUNT IS AT RISK until FCC and telecom industry fix the devastating #SS7 flaw," he added. | PatchVulnerability
+

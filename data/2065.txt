@@ -1,0 +1,12 @@
+A Google Docs Phishing Scam Is Sweeping the Internet | WIRED
+If you get a Google Doc link in your inbox today, scrutinize it carefully before you click—even if it looks like it comes from someone you trust. | AttackPhishing
+A nasty phishing scam that impersonates a Google Docs request has swept the internet today, including a decent chunk of media companies. | AttackPhishing
+You've heard "think before you click" a million times, but it really could save you from a whole lot of hassle. | O
+Google has taken steps to neutralize this particular phish. | AttackPhishing
+The company said in a statement that it has "disabled offending accounts. | O
+We’ve removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again." But when it comes to phishing defense there's always an element of cat and mouse. | AttackPhishing, PatchVulnerability
+Large-scale phishing attacks and those impersonating popular services like Google log-in pages regularly stalk the internet. | AttackPhishing
+"The importance of this phish is not how it spread, but rather how it didn’t use malware or fake websites tricking users to give up their passwords," says Aaron Higbee, chief technology officer at the phishing research and defense company PhishMe, which analyzed data from the fake Google Docs campaign. | AttackPhishing 
+"This phish worked because it tricked the user into granting permissions to a third-party application. This is the future of phishing, and every security technology vendor is ill-equipped to deal with it." | AttackPhishing
+Similar Google Docs scams in particular have been circulating since at least 2014, but that doesn't make them any easier to spot, in part because they seem so authentic. | AttackPhishing
+Phishers can use real Google accounts and develop third-party plugins that can interact with Google services, so they can lure victims in through the most perfect-looking Google web pages of all: Genuine ones. | AttackPhishing

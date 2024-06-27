@@ -1,0 +1,22 @@
+Google Docs Phishing Scam a Game Changer
+The Google Doc phishing scam that conned over a million users this week illustrates how attackers cleverly respond to wider spread end-user awareness about how phishing attacks work. | AttackPhishing
+The attack didn't ask users to enter credentials. | O
+Instead, it exhibited very few traditional phishing scam behaviors and couldn't have been detected by endpoint protections. | AttackPhishing
+Some researchers are calling this attack a "game changer" that could be just the start of a new wave of attacks that take advantage of third-party authentication connections rampant in the cloud services-based economy. | O
+The attack tricked victims into clicking a link that gave attackers access to their Google Drive through OAuth authentication connections commonly used by third-party applications. | AttackPhishing
+The attackers did so by sending victims lure messages claiming to contain links to a shared Google Doc. | AttackPhishing
+Instead of a legit document, the link actually initiates a process to give a phony app masquerading as "Google Docs" access to the user's Google account. | AttackPhishing
+If the user is already logged into Google, the connection routes that app into an OAuth permissions page asking the user to "Allow" access to the user's legitimate Google Drive. | AttackPhishing
+"You aren't giving your Google credentials directly to the attacker. | O
+Rather, OAuth gives the attacker permissions to act on behalf of your account. | O
+You're on the real Google permissions page. | O
+OAuth is a legitimate way to give third-party applications access to your account. | O 
+The application name is 'Google Docs,' which is fake but convincing," says Jordan Wright, R&D engineer for Duo Security. "So unless you know that Google Docs won't ask for your permissions, there is little you could use to determine that this was fake." | AttackPhishing
+The lure emails appear to come from Google Drive from a previous victim, making it difficult to detect as a fakeout, says Travis Smith, senior security researcher at Tripwire. | AttackPhishing
+"Not only does this have a casual appearance of being legitimate, by being part of the official marketplace the link in the email went back directly to legitimate Google servers," says Smith. | O
+"For those that are trained to validate the link before clicking on it, this passes two of the common techniques the majority of internet users are trained to not click on every link they come across: 'Does it come from someone you trust and validate the link is going to a trusted source?'" | AttackPhishing
+The only big tip-off is that many of the messages seem to have an suspicious account, hhhhhhhhhhhhhhhh@mailinator.com, cc'd on the message, says John Bambenek, threat research manager at Fidelis Cybersecurity. | O
+He says the attack shows the glaring problem with OAuth, namely that it allows passive authentication. | O
+Netskope's analysis found that a number of enterprise users across various industries ended up falling prey to this attack. | O
+Google worked to quickly block the attack, but there was a window of opportunity in that time between compromise and mitigation where emails, contacts, attachments and whatever else on a Google account could have been purloined, he warns. | O
+"If an enterprise has identified that their users have granted access to the app in this attack, we recommend they conduct a full audit of the activities that were performed in Google Gmail after the permissions were granted to the app," Balupari writes. | O

@@ -1,0 +1,37 @@
+Erebus Ransomware Targets Linux Servers
+The IT security researchers at Trend Micro recently discovered malware that has the potential to infect Linux-based servers. | O
+The malware, called Erebus, has been responsible for hijacking 153 Linux-based networks of a South Korean web-hosting company called NAYANA. | O
+Erebus is a ransomware capable of infecting Linux operating systems. | O
+As such, around 3,400 of NAYANA’s clients were affected due to the attack with databases, websites and other files being encrypted. | O
+The incident took place on 10th June. | O
+As of now, NAYANA has not received the keys to decrypt their files despite having paid three parts of the ransom. | AttackRansom
+The fourth one, which is allegedly the last installment, is yet to be paid. | AttackRansom
+However, according to NAYANA, the attackers claimed to provide the key after three payments. | AttackRansom
+According to Trend Micro’s report, Erebus was originally found back in September 2016. | O
+At the time, the malware was not that harmful and was being distributed through malware-containing advertisements. | O
+Once the user clicked on those ads, the ransomware would activate in the usual way. | O
+The initial version of the Erebus only affected 423 file types and did so using the RSA-2048 encryption algorithm, thereby encrypting the files with the .encrypt extension. | O
+Furthermore, it was this variant that was using a number of websites in South Korea as a command-&-control (C&C) center. | O
+Later, in February 2017, the malware had seemingly evolved as now it had the ability to bypass User Account Control (UAC). | O
+For those who may be unfamiliar with UAC, it is primarily a Windows privacy protection system that restricts anyone who is not authorized, to alter the user’s computer. | O
+However, this later version of the Erebus was able to do so and inject ransomware ever so conveniently. | O
+The campaign in which this version was involved demanded a ransom of 0.085 bitcoins – equivalent to USD 216 at present – and threatened to delete the files in 96 hours if the ransom was not paid. | AttackRansom
+Now, however, Erebus has reached new heights by having the ability to bypass not only UAC but also affect entire networks that run on Linux. | O
+Given that most organizations today use Linux for their networks, it is no surprise to see that the effects of the malware are far-reaching. | O
+
+According to Trend Micro, the most recent version of Erebus uses RSA algorithm to alter the AES keys in Windows and change the encryption key as such. | O
+Also, the attack is accompanied by a Bluetooth service so as to ensure that the ransomware does not break, even after the computer is rebooted. | O
+This version can affect a total of 433 file types including databases, archives, office documents, email files, web-based files and multimedia files. | O
+The ransom demanded in this campaign amounts to 5 bitcoins, which is USD 12,344 currently. | AttackRansom
+Although ransomware affecting Linux based networks are rare, they are, however, not new. | O
+Erebus is not the first ransomware to have affected networks running on Linux. | O
+In fact, Trend Micro claims that such ransomware was discovered as far back as in 2014. | O
+Some of the ransomware include Linux.Encoder, Encrypter RaaS, KillDisk, KimcilWare and much more. | O
+All of these were allegedly developed from an open-source code project that was available as part of an educational campaign. | O
+The ransomware for Linux, despite being somewhat inferior to those for Windows, are still potent enough to cause damage on a massive scale. | O
+This is because, a number of organizations and data centers use Linux, and hijacking such high-end systems can only mean catastrophe. | O
+To avoid any accidents happening, IT officials and organizations running Linux-based networks need to take some serious precautions. | O
+The most obvious one is to simply keep the server updated with the latest firmware and anti-virus software. | O
+Furthermore, it is always a good idea to keep a back-up of your data files in two to three separate locations. | O
+It is also repeatedly advised to avoid installing unknown third-party programs as these can act as potential gateways for such ransomware. | O
+Lastly, IT administrators should keep monitoring the traffic that passes through the network and looks for anomalies by identifying any inconsistencies in event logs. | O
