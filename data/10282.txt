@@ -1,0 +1,23 @@
+I found a security hole in Steam that gave me every game's license keys and all I got was this... oh nice: $20,000
+A bloke has told how he discovered a bug in Valve's Steam marketplace that could have been exploited by thieves to steal game license keys and play pirated titles. | DiscoverVulnerability
+Researcher Artem Moskowsky told The Register earlier this week that he stumbled across the vulnerability – which earned him a $20,000 bug bounty for reporting it – by accident while looking over the Steam partner portal. | DiscoverVulnerability
+That's the site developers use to manage the games they make available for download from Steam. | O
+A professional bug-hunter and pentester, Moskowsky said he has been doing security research since he was in school, and for the past several years, he has made a career out of finding and reporting flaws. | DiscoverVulnerability
+In this case, while looking through the Steam developer site, he noticed it was fairly easy to change parameters in an API request, and get activation keys for a selected game in return. | O
+Those keys, also known as CD keys, can be used to activate and play games downloaded from Steam. | O
+The API is provided so developers and their partners can obtain license keys for their titles to pass onto gamers. | O
+"This bug was discovered randomly during the exploration of the functionality of a web application," Moskowsky explained. | DiscoverVulnerability
+"It could have been used by any attacker who had access to the portal." | O
+Essentially, anyone who had an account on the developer portal would be able to access the game activation keys for any other game Steam hosted, and sell or distribute them for pirates to use to play games from Steam. | O
+Fetching from the /partnercdkeys/assignkeys/ API with a zero key count returned a huge bunch of activation keys. | O
+"To exploit the vulnerability, it was necessary to make only one request," Moskowsky told El Reg. | O
+"I managed to bypass the verification of ownership of the game by changing only one parameter. | O
+After that, I could enter any ID into another parameter and get any set of keys." | O
+How severe was the flaw? Moskowski says that, in one case, he entered a random string into the request, to pick a title at random, and in return he got 36,000 activation keys for Portal 2, a game that still retails for $9.99 in the Steam store. | O
+Fortunately for Valve, Moskowsky opted to privately come forward with the flaw via HackerOne. | O
+The programming blunder has since been fixed. | PatchVulnerability
+As the HackerOne entry for the vulnerability shows, Moskowsky first submitted the report on the flaw in early August. | DiscoverVulnerability
+Three days later, Valve handed out the $15,000 bounty as well as a $5,000 bonus for the find, though Valve only allowed the report to go public on October 31. | O
+The researcher told us this is a pretty good turnaround, and Valve in particular is very good with handling researcher requests and paying out bug bounties. | O
+Impressively, this $20,000 bounty isn't even the biggest payout Moskowsky has received from the games service. | O
+Back in July he was given a cool $25,000 for weeding out a SQL Injection bug in the same developer portal. | DiscoverVulnerability

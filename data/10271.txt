@@ -1,0 +1,16 @@
+USPS took a year to fix a vulnerability that exposed all 60 million users’ data
+The US Postal Service says it’s fixed a security weakness on usps.com that let anyone see the personal account info of its users, including usernames and street addresses. | PatchVulnerability
+The open vulnerability was reportedly identified over a year ago by an independent researcher but USPS never patched it until this week, when Krebs on Security flagged the issue. | PatchVulnerability, DiscoverVulnerability
+The vulnerability included all 60 million user accounts on the website. | O
+It was caused by an authentication weakness in the site’s application programming interface (API) that allowed anyone to access a USPS database offered to businesses and advertisers to track user data and packages. | DiscoverVulnerability
+The API should have verified whether an account had permissions to read user data but USPS didn’t have such controls in place. | O
+Users’ personal data including emails, phone numbers, mailing campaign data were all exposed to anyone who was logged into the site. | AttackDatabreach
+Additionally, any user could request account changes for another user, so they could potentially change another account’s email address and phone number, although USPS does at least send a confirmation email to confirm the changes. | O
+Since street addresses are searchable through the database, any logged-in user could see who was living at each residence and even gain the data of multiple people in the same household. | O
+Krebs notes that because of the vulnerability, “no special hacking tools were needed to pull this data.” | O
+USPS said in a statement to Krebs: “Any information suggesting criminals have tried to exploit potential vulnerabilities in our network is taken very seriously. | DiscoverVulnerability
+Out of an abundance of caution, the Postal Service is further investigating to ensure that anyone who may have sought to access our systems inappropriately is pursued to the fullest extent of the law.” | O
+A recent audit of its system in October did not turn up this vulnerability, although it did find numerous other weaknesses. | O
+We’ve reached out for comment on whether USPS was aware of the issue when it was initially noted over a year ago. | O
+So far, no known exploits were made through this vulnerability. | O
+In USPS’ continued efforts to modernize and adapt to the digital age, it’s faced numerous cybersecurity challenges. | O

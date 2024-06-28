@@ -1,0 +1,17 @@
+Adobe Flash Player Critical Vulnerability Hits Windows Users, Fix Issued
+Adobe has released a priority update to plug a critical security flaw in its popular Flash Player on Windows. | PatchVulnerability
+As per an official announcement by the company, the latest patch will address issues in Adobe Flash Player 29.0.0.171 and other earlier versions. | PatchVulnerability
+The vulnerabilities, according to Adobe, are being used by hackers to embed malicious content distributed via email. | O
+Security firm Icebrg on Thursday announced that a zero-day vulnerability has led to exploitation in Adobe Flash specifically targeted towards users in the Middle East. | DiscoverVulnerability
+The vulnerability (CVE-2018-5002) enables attackers to execute certain actions by executing code on the victims' computers. | O
+As per the blog post, the exploit uses a Microsoft Office document for the attack. | O
+To circumvent the fact that Adobe Flash is blocked on most browsers, the exploit involves loading Flash Player from within Microsoft Office. | O
+The flaw was reported by Icebrg in collaboration with Qihoo 360 Core Security. | DiscoverVulnerability
+"While this attack leveraged a zero-day exploit, individual attacker actions do not happen in isolation. | O
+There are several other behavioural aspects that can be used for detection. | O
+Any single observable might be low confidence but multiple observables clustered might be indicative of suspicious or malicious activity," said Icebrg staff in its blog post. | O
+Of course, this is not the first instance wherein Flash Player's vulnerabilities have been exploited. | DiscoverVulnerability
+Back in October last year, the company had issued a security patch to fix a critical leak. | PatchVulnerability
+Users have been strongly recommended to update Adobe Flash in order to avoid any such vulnerabilities seeping into your machines. | O
+The update, however, is not a guarantee towards protection against future discrepancies. | O
+It is thus advised to enable flash on only a secondary browser that is not used majorly on the computer. | O

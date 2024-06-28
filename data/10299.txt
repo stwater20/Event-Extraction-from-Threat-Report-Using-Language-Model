@@ -1,0 +1,53 @@
+Cybersecurity 101: How universities are dealing with hackers
+As thousands of freshmen move into their dorms for the first time, there are plenty of thoughts rushing through their minds: their first time away from home, what cringey nickname they're gonna try to make a thing, if there are any parties before orientation kicks off. | O
+One thing that probably isn't on their minds is whether they're going to get hacked. | O
+But that's all Carnegie Mellon University's IT department thinks about. | O
+Back-to-school season means hordes of vulnerable computers arriving on campus. | O
+The beginning of the semester is the most vulnerable time for a campus network, and every year, with new students coming in, schools have to make sure everything runs smoothly. | O 
+Carnegie Mellon's network gets hit with 1,000 attacks a minute -- and that's on a normal day. | O
+Cybersecurity is an increasingly important aspect of our everyday lives, with technology playing a massive role in nearly everything we do. | O
+Universities have been vulnerable to attacks in the past, with cybercriminals stealing student and faculty databases and hackers vandalizing university websites. | AttackDatabreach 
+Students are often targets for hackers, even before they're officially enrolled. | O
+Considering how much money flows into a university from tuition costs, along with paying for room and board, criminals are looking to cash in on weak campus cybersecurity. | O 
+A bonus for hackers: Admissions offices often hold data with private information like student Social Security numbers and addresses, as well as their families' data from financial aid applications. | O
+
+Phishing happens when hackers steal your passwords by sending you links to fake websites that look like the real deal. | AttackPhishing, AttackDatabreach
+It's how Russians hacked the Democratic National Committee during the presidential election, and it's a popular attack to use on universities as well. | O
+The latest warning, sent Monday, called out malware hidden in a document pretending to be from Syracuse University's chancellor. | AttackPhishing
+Digging through my old emails, I found about 20 phishing warnings that had gone out during the four years I'd been there. | O
+Syracuse declined to comment on phishing attacks against the school, but in a 2016 blog post, it said the attacks were "getting more frequent, cunning and malicious." | AttackPhishing
+The school is not alone. | O
+Duo Security, which protects more than 400 campuses, found that 70 percent of universities in the UK have fallen victim to phishing attacks. | AttackPhishing
+Syracuse, which uses Duo Security, fights phishing attacks with two-factor authentication, which requires a second form of identity verification, like a code sent to your phone. | AttackPhishing
+But it just rolled out the feature last year. | O
+Kendra Cooley, a security analyst at Duo Security, pointed out that students are more likely to fall for phishing attacks because they haven't been exposed to them as frequently as working adults have. | AttackPhishing
+Also, cybercriminals know how to target young minds. | O
+"You see a lot of click-bait phishing messages like celebrity gossip or free travel," Cooley said. | O
+All students at Carnegie Mellon are required to take a tech literacy course, in which cybersecurity is a focus, said Mary Ann Blair, the school's chief information security officer. | O
+The school also runs monthly phishing campaigns: If a student or faculty member falls for the friendly trap, they're redirected to a training opportunity. | AttackPhishing
+When your network is being hit with at least two phishing attempts a day, Blair said, it's a crucial precaution to keep students on guard. | AttackPhishing
+"It's just constantly jiggling the doorknobs to see if they're unlocked," Blair said. | O
+"A lot of it is automated attacks." 
+
+It's not just the thousands of new students that have university IT departments bracing for impact, it's also their gadgets. | O
+"All these kids are coming on campus, and you don't know the security level of their devices, and you can't manage it, because it's theirs," said Dennis Borin, a senior solutions architect at security company EfficientIP. | O
+A lot of university IT teams have their hands tied because they can't individually go to every student and scan all their computers. | O
+Borin's company protects up to 75 campuses across the United States, and it's always crunch time at the beginning of the semester. | O
+"If I was on campus, I wouldn't let anybody touch my device," Borin said. | O
+"So if somebody has malware on their device, how do you protect against an issue like that?" | O
+Instead of going through every single student, Borin said, his company just casts a wide net over the web traffic. | O
+If there's any suspicious activity coming from a specific device, they're able to send warnings to the student and kick him or her off the network when necessary. | O
+Keeping school networks safe is important for ensuring student life runs smoothly. | O
+A university that had only two people on its team reached out to EfficientIP after it suffered an attack. | O
+All of the school's web services were down for an entire week while recovering from the attack, Borin said. | O
+
+Scam artists love to take advantage of timing, and the back-to-school season is a great opportunity for them. | O
+There was an influx of fake ransomware protection apps when WannaCry hit, as well as a spike in phony Pokemon Go apps stuffed with malware during the height of the game's popularity. | AttackRansom
+If there's a massive event going on, you can bet people are flooding the market with phony apps to trick victims into downloading viruses. | AttackPhishing
+A quick search for "back to school apps" in August found 1,182 apps that were blacklisted for containing malware or spyware, according to security firm RiskIQ. | O  
+Researchers from the company scanned 120 mobile app stores, including the Google Play store, which had more than 300 blacklisted apps. | O
+They found apps for back-to-school tools; themes and wallpapers for your device; and some apps that promised to help you "cheat on your exams." | O
+Though most of the blacklisted apps are poorly made games, others pretend to help you be a better student. | O
+Other warning signs to watch out for when it comes to sketchy apps are poorly written reviews and developers using public domain emails for contacts, Risk IQ said. For any educational apps, like Blackboard Learn, you should always check the sources and look for the official versions. | O
+New students coming to school have enough to worry about. | O 
+Let's hope a crash course in cybersecurity is enough to ensure they make it to graduation without getting hit by hacks. | O

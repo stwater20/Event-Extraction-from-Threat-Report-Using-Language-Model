@@ -1,0 +1,18 @@
+Microsoft September Patch Fixed 61 Vulnerabilities Including A Zero-Day
+Last month, Microsoft Patch Tuesday addressed 60 vulnerabilities that also included two zero-day flaws. | PatchVulnerability
+This month also, the tech giant released a huge patch update to mitigate various flaws in its products. | PatchVulnerability
+The Microsoft September patch fixed around 61 different vulnerabilities. | PatchVulnerability
+The patch bundle also included a fix for the recently discovered APLC zero-day vulnerability that has already created trouble. | PatchVulnerability
+Recently, a zero-day vulnerability disclosed on Twitter has created a lot of chaos as it was immediately exploited in a malware campaign. | DiscoverVulnerability
+The APLC zero-day flaw gained attention after a Twitter user with the alias SandboxEscaper disclosed it in a tweet. | DiscoverVulnerability
+Later, a CERT/CC researcher verified the bug. | DiscoverVulnerabilityDiscoverVulnerability
+This vulnerability in the Windows Task Scheduler allowed an attacker to gain System-level access. | O
+As promised at that time by the firm, the Microsoft September patch has addressed this Advanced Local Procedure Call (ALPC) flaw. | PatchVulnerability
+As disclosed in their advisory, Microsoft acknowledged the exploitation of this vulnerability (CVE-2018-8440). | DiscoverVulnerability
+Explaining the details about the bug and the patch released, Microsoft states,“To exploit this vulnerability, an attacker would first have to log on to the system. | PatchVulnerability
+An attacker could then run a specially crafted application that could exploit the vulnerability and take control over an affected system. | PatchVulnerability
+The update addresses the vulnerability by correcting how Windows handles calls to ALPC.” | O
+Besides the single APLC zero-day flaw, Microsoft also patched 61 other flaws in various products, including 17 critical vulnerabilities. | PatchVulnerability
+The affected software receiving the bug fixes include Microsoft Windows, Microsoft Edge, ChakraCore, Microsoft Office and Web Apps, Microsoft.Data.OData, Internet Explorer, ASP.NET and the .NET Framework. | PatchVulnerability
+In addition, the Microsoft September patch also addressed a flaw in the Adobe Flash Player (CVE-2018-15967). | PatchVulnerability
+Although Adobe also released a fix for this vulnerability along with other fixes released this week in the September Update pack. | PatchVulnerability

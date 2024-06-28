@@ -1,0 +1,20 @@
+Microsoft patch awaited for zero-day vulnerability
+A Windows zero-day bug has made the news. | O
+By zero-day, it means that a vulnerability has been exposed but it is not yet patched. | PatchVulnerability, DiscoverVulnerability
+Darren Allan in TechRadar was one of the tech watchers reporting on the vulnerability, which could occur through a privilege escalation bug. | DiscoverVulnerability
+"The user linked to a page on GitHub which appears to contain a proof-of-concept (PoC) for the vulnerability," said Charlie Osborne in ZDNet. | O
+"CERT/CC (the US cybersecurity organization which looks to counter emerging threats) has confirmed that this vulnerability can be leveraged against a 64-bit Windows 10 PC which has been fully patched up to date, " said TechRadar, in turn referring to a story in The Register, | PatchVulnerability, DiscoverVulnerability
+Richard Chergwin, The Register, had reported that "CERT/CC vulnerability analyst Will Dormann quickly verified the bug." | DiscoverVulnerability
+CERT/CC did a formal investigation, and posted an advisory. | O
+"'Microsoft Windows task scheduler contains a vulnerability in the handling of ALPC, which can allow a local user to gain SYSTEM privileges,' the alert stated." | DiscoverVulnerability
+This can be leveraged to gain SYSTEM privileges. | O
+We have confirmed that the public exploit code works on 64-bit Windows 10 and Windows Server 2016 systems. | DiscoverVulnerability
+We have also confirmed compatibility with 32-bit Windows 10 with minor modifications to the public exploit code. | DiscoverVulnerability
+Compatibility with other Windows versions is possible with further modifications." | O
+Should we worry? Allan said it is a local bug. | O
+The attacker would have to be already logged into the PC to exploit it, or be running code on the machine. | O
+But wait. | O
+Though local, Ars Technica's Peter Bright let its readers know what the flaw allows one to do. | O
+Not pretty. | O
+Bright wrote that "The flaw allows anyone with the ability to run code on a system to elevate their privileges to 'SYSTEM' level, the level used by most parts of the operating system and the nearest thing that Windows has to an all-powerful superuser." | O
+Osborne in ZDNet said that while the impact was limited, "the public disclosure of a zero-day is still likely a headache for the Redmond giant." | O

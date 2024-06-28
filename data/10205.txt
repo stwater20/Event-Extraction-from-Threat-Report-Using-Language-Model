@@ -1,0 +1,15 @@
+December 2018 security patch details confirmed by Samsung
+Merely a day after rolling out the December 2018 security patch early, Samsung has now revealed the details of the latest security maintenance release. | PatchVulnerability 
+The Galaxy Xcover 4 is the first smartphone to get this update. | PatchVulnerability
+Samsung will be releasing the patch for more compatible devices in the coming weeks. | PatchVulnerability
+It has detailed the contents of this patch as part of its monthly security maintenance release process. | O
+The update includes patches from Google for Android in addition to patches from Samsung for its custom software. | O
+The December 2018 security patch has fixes for six critical vulnerabilities discovered in the Android operating system. | O
+The most severe vulnerability in the framework section could enable a malicious app to run unapproved code in the context of a privileged process. | DiscoverVulnerability
+However, no moderate or low-risk vulnerabilities were required to be patched in this latest security maintenance release. | PatchVulnerability
+The update does bring quite a patches for 40 Samsung Vulnerabilities and Exposures (SVE) items. | PatchVulnerability
+This includes a vulnerability in the Secure Folder app which could have allowed access without authentication. | O
+Another vulnerability in the app could have resulted in the exposure of the gallery app without authentication. | O
+Therefore, Samsung will now get down to the business of rolling out the December 2018 security patch to supported devices. | PatchVulnerability
+We should expect some handsets to start receiving it within the next few days. | O 
+The company may start rolling it out to high-end devices first. | O
