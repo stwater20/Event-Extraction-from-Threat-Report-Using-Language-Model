@@ -1,14 +1,14 @@
 More than 120,000 affected by W-2 Phishing scams this tax season | CSO Online
-At last count, 110 organizations have reported successful Phishing attacks targeting W-2 records, placing more than 120,000 taxpayers at risk for identity fraud. | Phishing, Publish data
+At last count, 110 organizations have reported successful Phishing attacks targeting W-2 records, placing more than 120,000 taxpayers at risk for identity fraud. | AttackPhishing, Databreach
 Many of those working for the victimized firms have had a stressful time dealing with the fallout. | O
 Those who have experienced this unique type of crime say it's a nightmare. | O
 Some of those affected have had fraudulent returns filed under their name, in addition to issues with educational expenses. | O
 In one case, the scammers created flexible spending accounts with their stolen identities. | O
-The Phishing attacks causing so much damage, also known as BEC (Business Email Compromise) attacks, are simple and effective. | Phishing, Publish data
+The Phishing attacks causing so much damage, also known as BEC (Business Email Compromise) attacks, are simple and effective. | AttackPhishing
 They exploit trust relationships within the office, and in many cases, exploit the routine practice of sharing data via email. | O
-According to the IRS, these attacks are some of the most dangerous email scams the agency has seen in a long time. | Phishing
-"It can result in the large-scale theft of sensitive data that criminals can use to commit various crimes, including filing fraudulent tax returns. | Databreach
+According to the IRS, these attacks are some of the most dangerous email scams the agency has seen in a long time. | AttackPhishing
+"It can result in the large-scale theft of sensitive data that criminals can use to commit various crimes, including filing fraudulent tax returns. | AttackDatabreach
 We need everyone’s help to turn the tide against this scheme," IRS Commissioner, John Koskinen, remarked in a warning issued last month. | O
 In 2016, Databreaches.net tracked 145 BEC victims. | O
 With more than five weeks left in the current tax season, the count sits at 110 (as of 03-13-17) and shows no signs of slowing. | O
-As mentioned, those impacted by the BEC attacks have described the aftermath as a frustrating nightmare, one that drains them of time and in some cases money when their returns are delayed. | Phishing
+As mentioned, those impacted by the BEC attacks have described the aftermath as a frustrating nightmare, one that drains them of time and in some cases money when their returns are delayed. | AttackPhishing
