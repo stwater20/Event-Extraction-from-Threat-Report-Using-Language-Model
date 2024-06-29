@@ -1,4 +1,4 @@
-Equifax's Latest Data Leak: Argentina
+Equifax's Latest Data Leak: Argentina | AttackDatabreach
 Investigators with Hold Security, a Wisconsin-based security consultancy, on Tuesday afternoon discovered an unsecure internal customer service portal for the company's Argentinian operations. | O
 The national ID numbers for at least 14,000 Argentinians have been exposed, but the leak could potentially affect tens of thousands more people. | AttackDatabreach
 The website held thousands of credit-related dispute records, faxes and national identity numbers for Argentinians who had filed complaints. | O
