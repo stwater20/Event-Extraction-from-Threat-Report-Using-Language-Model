@@ -9,8 +9,8 @@ This simple fix was possibly lost on some uninformed targets who were too uncomf
 The user provided the screenshot shown above, which attempts to instill fear with the claim the device was being locked "for illegal pornography." | O
 Below those words was a pop-up Window that said "Cannot Open Page." | O
 Each time the person clicked on the accompanying OK button, a new window would open again. | O
-The JavaScript used in the attack shows signs of being used to exploit the same Safari flaw present in iOS version 8, which was released in 2014. | Ransom, PatchVulnerability, DiscoverVulnerability
-The attackers, the Lookout researchers said, purchased a large number of domains in an attempt to "catch users that are seeking controversial content on the internet and coerce them into paying a ransom to them." | Ransom
+The JavaScript used in the attack shows signs of being used to exploit the same Safari flaw present in iOS version 8, which was released in 2014. | AttackRansom, PatchVulnerability, DiscoverVulnerability
+The attackers, the Lookout researchers said, purchased a large number of domains in an attempt to "catch users that are seeking controversial content on the internet and coerce them into paying a ransom to them." | AttackRansom
 Sites tailored the messages they delivered based on country identifiers. | O
-The campaign in many respects resembles one that hit Android users in 2014. | Ransom, DiscoverVulnerability
-That one demanded a $300 ransom paid in the form of mechanisms such as Paysafecard or uKash. | Ransom
+The campaign in many respects resembles one that hit Android users in 2014. | AttackRansom, DiscoverVulnerability
+That one demanded a $300 ransom paid in the form of mechanisms such as Paysafecard or uKash. | AttackRansom
