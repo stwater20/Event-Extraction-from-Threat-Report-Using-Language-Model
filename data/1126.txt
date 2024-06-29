@@ -1,4 +1,4 @@
-SMBs Increasingly Targeted in Ransomware Attacks
+SMBs Increasingly Targeted in Ransomware Attacks | AttackRansom
 Small and medium businesses across Europe are being actively targeted by ransomware attacks, new research has shown. | AttackRansom
 According to data protection firm Datto, 87% of European IT service providers it surveyed said their SMB customers had been hit by a ransomware attack at some point during the previous 12 months. | AttackRansom
 Additionally, 40% of respondents reported multiple attacks during that time. | O
