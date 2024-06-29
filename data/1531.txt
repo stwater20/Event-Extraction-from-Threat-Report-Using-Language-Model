@@ -1,0 +1,19 @@
+Mobile apps of 7 Indian banks compromised: FireEye - Business Line
+The mobile apps of seven banks in India were infected with malware that can steal sensitive financial information, a study has revealed. | AttackDatabreach
+According to US-based cyber security firm FireEye, banking network frauds have spread around the world. | O
+The firm has tracked such incidents that affected banks in Ukraine, Ecuador and India, with losses totalling more than $100 million. | AttackDatabreach
+“In India, we have seen financially-motivated cyber-criminal groups launching sophisticated attacks to steal funds from many potential sources: organisations, consumers, ATMs and banks. | AttackDatabreach
+“As India’s digital payment systems handle more transactions, they will become more lucrative targets,” Vishal Raman, India Head at FireEye told BusinessLine. | O
+“We have found mobile apps of seven large banks in India infected with malware that has the capability to steal user credentials. | AttackDatabreach
+We have informed the banks about the same,” Raman said, without disclosing the names of the banks to prevent misuse of the vulnerabilities. | AttackDatabreach
+Raman said that while the security deployed by banks in India has improved over the years, hackers seem to be moving faster and banks are merely playing catch-up. | AttackDatabreach
+“We’re seeing a much higher degree of sophistication from attackers than ever before. | O
+Nation-states continue to set a high bar for sophisticated cyber attacks, but some financial threat actors have caught up. | O
+Financial attackers have improved their tactics, techniques and procedures to the point where they have become difficult to detect and challenging to investigate and remediate,” he said. | O
+According to FireEye, a majority of both victim organisations and those working diligently on defensive improvements are still lacking fundamental security controls and capabilities to either prevent breaches or to minimise the damages and consequences of an inevitable compromise. | O
+The two major malware found on Indian banking apps by FireEye are: Webinjects and Bugat. | AttackDatabreach
+Webinjects are a functionality integrated into many types of credential theft malware that allow hackers to dynamically alter what is displayed to victims on an infected device (mobile phone). | AttackDatabreach
+In some cases a message is displayed that encourages users to download a malicious application, under the guise of installing a personal security certificate for their cell phone SIM card. | AttackPhishing
+Bugat is a credential theft malware used by a limited number of cyber-crime groups. | AttackDatabreach
+These groups spread the malware widely often through spam e-mail campaigns. | AttackPhishing
+“Based on our analysis of Bugat configuration files observed in August 2015, targets exclusively related to financial services used by consumers, corporations and financial services were added during this time, continuing the operators’ focus on this sector,” Raman said. | AttackDatabreach

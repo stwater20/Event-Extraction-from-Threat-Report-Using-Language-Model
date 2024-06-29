@@ -1,0 +1,24 @@
+At $175, this ransomware service is a boon to cybercriminals | CSO Online
+Cybercriminals have another easy-to-use ransomware kit to add to their arsenals, thanks to a new variant called Karmen that hackers can buy on the black market for $175. | AttackRansom
+A Russian-speaking user called DevBitox has been advertising the ransomware in underground forums, security firm Recorded Future said in a blog post on Tuesday. | O
+Karmen is what experts call ransomware-as-a-service -- a particularly worrisome trend. | O
+Amateur hackers with little technical know-how can buy access to them, and in return, they’ll receive a whole suite of web-based tools to develop their own ransomware attacks. | AttackRansom
+In Karmen's case, it offers an easy-to-use dashboard interface. | O
+Buyers can modify the ransomware, view what machines they've infected, and see how much they’ve earned. | O
+To spread ransomware, hackers will often rely on spam emails with an attachment or a link to a website that contains malicious coding. | O
+Once it infects a computer, the ransomware will then encrypt the files hosted inside. | AttackRansom
+To release the files, victims will have to pay up, usually in bitcoin. | AttackRansom
+DevBitox, one of the developers behind Karmen, has posted messages in various forums saying that Russian and English language versions of the ransomware-as-a-service are available. | O
+The dashboard to the Karmen ransomware-as-a-service. | O
+So far, the hacker has sold 20 copies of Karmen, according to Recorded Future, which noted that the first infections of the ransomware variant occurred as early as December in Germany and the U.S. | O
+The $175 fee is a one-time upfront payment, said Andrei Barysevich, a director at Recorded Future. | O
+“This lowers the barrier for other criminals to carry out ransomware attacks, and allows buyers to retain 100 percent of payments from their infected victims,” he added. | AttackRansom
+However, victims hit with the Karmen ransomware have recourse. | AttackRansom
+That’s because the malicious coding is derived from Hidden Tear, an open source ransomware project. | O
+Cybercriminals have been using Hidden Tear to build their own ransomware variants. | AttackRansom
+However, security experts have been responding with free decryption tools designed to release computers of the infections. | O
+Michael Gillespie, a security researcher, has developed his own decryption key generator that can address ransomware built from Hidden Tear. | O
+He advises that victims contact him for help. | AttackRansom
+Gillespie has also developed a site that can diagnose what kind of ransomware has infected a computer, and offers advice on how it might be fixed. | O
+No More Ransom is another site with free tools that can decrypt certain ransomware infections. | O
+Security experts also recommend that businesses make routine backups of their important systems, in the event of a ransomware attack. | AttackRansom

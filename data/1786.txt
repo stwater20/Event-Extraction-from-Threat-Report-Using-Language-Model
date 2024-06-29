@@ -1,0 +1,8 @@
+Fake Australian Securities and Investments Commission emails target business owners with malware - Security - CRN Australia
+The Australian Securities and Investments Commission has issued a warning after scammers posing as the regulator emailed Australian businesses on Wednesday morning with malware-laden notices. | AttackPhishing
+The emails reportedly asked customers to renew their business details via provided links, which, when clicked, would activate a Javascript dropper and infect computers with malware. | AttackPhishing
+Email security vendor MailGuard issued an alert suggesting a stolen ID may have been used to help set up the scam. | O
+The originating domain, austgov.com, was registered in China, where strict regulations around domain registration require an authentic ID to be scanned. | O
+MailGuard also said the domain was backed by a legitimate email infrastructure, which helped the emails bypass email server spam detection. | O
+The emails come with ASIC and Australian Government branding and puts anyone who follows their instructions at risk. | AttackPhishing
+ASIC recommends users keep antivirus software up to date, be wary of emails that do not address recipients by name or that spell recipients’ names incorrectly and be suspicious of emails with unknown attachments. | O

@@ -1,0 +1,18 @@
+We Can Calm Down: Microsoft Already Patched Most of the Shadow Brokers Exploits - Motherboard
+On Friday, the hacker group known as The Shadow Brokers released a trove of Windows exploits.  | O
+But Microsoft says it has already issued patches for the majority of attacks, and the most recent fix came last month. | PatchVulnerability
+"Most of the exploits that were disclosed fall into vulnerabilities that are already patched in our supported products," a blog post published Friday night by Microsoft reads. | PatchVulnerability, DiscoverVulnerability
+Broadly, the exploits could have allowed a hacker to compromise affected computers on a variety of Windows versions. | PatchVulnerability, DiscoverVulnerability
+For example, the ERRATICGOPHER attack was addressed prior to the release of Windows Vista, and ETERNALCHAMPION was fixed with two other previously disclosed vulnerabilities, according to the blog post. | PatchVulnerability, DiscoverVulnerability
+ETERNALBLUE, ETERNALROMANCE, and ETERNALSYNERGY were all patched on March 14, according to a Microsoft Security Bulletin.  | PatchVulnerability
+Microsoft did not patch three other exploits, ENGLISHMANDENTIST, ESTEEMAUDIT, and EXPLODINGCAN, ostensibly because the attacks could not be reproduced on supported systems—that is, modern versions of Windows that Microsoft still issues updates for.  | PatchVulnerability
+Microsoft says customers using Windows 7 or above are not at risk. | O
+"Customers still running prior versions of these products are encouraged to upgrade to a supported offering," the Microsoft blog post added. | O
+Interestingly before the March 14 patch, vulnerabilities related to several ETERNAL exploits also affected Windows 10, according to the Microsoft Security Bulletin.  | DiscoverVulnerability
+But, again, a fully up to date copy of Windows 10 will not be vulnerable. | PatchVulnerability, DiscoverVulnerability
+Originally, it was believed that many of these exploits were so-called zero-days; exploits that took advantage of vulnerabilities that Microsoft was not aware of.  | DiscoverVulnerability
+Security researchers verified that many of the exploits did work against Windows systems. | DiscoverVulnerability
+However, it turns out that at least one of the researchers did not test the exploits against a fully up to date Windows machine, and crucially, not on one that included the March 14 patch. | PatchVulnerability, DiscoverVulnerability
+Matthew Hickey, otherwise known as Hacker Fantastic and the co-founder of British cybersecurity firm Hacker House, told Motherboard on Saturday he had used a "clean install" of Windows to test the attacks.  | O
+Meaning that the machine didn't include the latest security fixes, and led to erroneous results. | PatchVulnerability
+It's pretty much always a good idea to keep your computer's operating system fully up to date, especially when news of critical security issues comes to light. | PatchVulnerability

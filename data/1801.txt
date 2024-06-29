@@ -1,0 +1,10 @@
+Microsoft shrugs off report that Edge can expose user identities from JS Fetch requests • The Register
+Updated An independent researcher claims to have uncovered a security flaw in Microsoft Edge. | DiscoverVulnerability
+The issue enables any website to identify someone by their username from another website, according to Ariel Zelivansky. | DiscoverVulnerability, PatchVulnerability
+More specifically, the researcher alleges that Edge exposes the URL of any JavaScript Fetch response, contrary to the specification. | DiscoverVulnerability
+This poses a problem because a crafted fetch request on a webpage can redirect to a URL containing the visitor's username (e.g., requesting https://facebook.com/me will pull in https://facebook.com/username). | DiscoverVulnerability
+Zelivansky notified Microsoft, but the company stated the issue was not a security problem. | DiscoverVulnerability, PatchVulnerability
+El Reg sought additional comment from Microsoft but was informed that the company had nothing further to add beyond its initial response to Zelivansky. | O
+The researcher publicized his findings and informed The Reg earlier this month after Microsoft decided against issuing a security fix for the issue. | DiscoverVulnerability, PatchVulnerability
+The privacy concern sparked a discussion thread on Reddit. ® | O
+Despite Microsoft assigning an engineer to investigate, they continue to classify the matter as not a security vulnerability. | O
