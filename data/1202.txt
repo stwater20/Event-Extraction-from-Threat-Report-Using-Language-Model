@@ -1,10 +1,10 @@
 Millions of Accounts from 11 Hacked Bitcoin Forums Being Sold on Dark Web
-The databases were stolen between 2011 to 2017 from widely visited forums providing information about Bitcoin mining and trading. | Databreach
-The combined number of data stolen from these forums is more than 12,000,000 including 536,727accounts from MerlinsMagicBitcoin.com which suffered a data breach in January 2017, 514,409 accounts from BitcoinTalk.org forum which was hacked in May 2015, 568,357 stolen from BTC-E.com back in October 2014, 21,439 accounts from BTC4Free.com which was hacked in January 2014, 21,439 accounts from BTC4Free.com which was also hacked in January 2014. | Databreach
-3,153 Bitcoin.Lixter.com which was breached in September 2014, 1,780 BitLeak.net accounts stolen back in March 2014, 28,298 DogeWallet.com accounts stolen in January 2014, 61,011 MtGox.com stolen in June 2011, 34,513 BitsCircle.com (breach date unknown) 10,855,376 BitcoinSec from 2014 breach and 3,149 accounts from TheBitcoinShop.pixub.com (breach date unknown). | Databreach
-In some cases, the passwords have been decrypted while some are using SHA1 hash which is easy to decrypt since Google security researchers have already broken the SHA-1 web security tool last month. | O
-The price set for this data is USD 400 (BTC 0.3817) | O
-It must be noted that BitcoinTalk.org and BTC-E.com are two of the most important bitcoin related platforms having their data sold on the dark web since 2016 by several other vendors. | Databreach
+The databases were stolen between 2011 to 2017 from widely visited forums providing information about Bitcoin mining and trading. | AttackDatabreach
+The combined number of data stolen from these forums is more than 12,000,000 including 536,727 accounts from MerlinsMagicBitcoin.com which suffered a data breach in January 2017, 514,409 accounts from BitcoinTalk.org forum which was hacked in May 2015, 568,357 stolen from BTC-E.com back in October 2014, 21,439 accounts from BTC4Free.com which was hacked in January 2014, 21,439 accounts from BTC4Free.com which was also hacked in January 2014. | AttackDatabreach
+3,153 Bitcoin.Lixter.com which was breached in September 2014, 1,780 BitLeak.net accounts stolen back in March 2014, 28,298 DogeWallet.com accounts stolen in January 2014, 61,011 MtGox.com stolen in June 2011, 34,513 BitsCircle.com (breach date unknown) 10,855,376 BitcoinSec from 2014 breach and 3,149 accounts from TheBitcoinShop.pixub.com (breach date unknown). | AttackDatabreach
+In some cases, the passwords have been decrypted while some are using SHA1 hash which is easy to decrypt since Google security researchers have already broken the SHA-1 web security tool last month. | O
+The price set for this data is USD 400 (BTC 0.3817) | O
+It must be noted that BitcoinTalk.org and BTC-E.com are two of the most important bitcoin related platforms having their data sold on the dark web since 2016 by several other vendors. | AttackDatabreach
 However, we are not sure about rest of the platforms. | O
 Either way, if you have an account on any of the forums mentioned above change your password asap. | O
-Also, some of the forums discussed aren’t active anymore; therefore, the relevance of their data is out of the question. | O
+Also, some of the forums discussed aren’t active anymore; therefore, the relevance of their data is out of the question. | O
