@@ -1,4 +1,4 @@
-IAAF Says Hit By Cyberattack From Russian Group
+IAAF Says Hit By Cyberattack From Russian Group | O
 The world governing body of track and field says it has become the victim of a cyberattack by a Russian hacking group linked to other incidents, including the hacking of the World Anti-Doping Agency and the U.S. Democratic Party. | AttackDatabreach
 In an April 3 statement, the International Association of Athletics Federations (IAAF) attributed the attack to the Fancy Bear group. | AttackDatabreach
 It said it believed the attack "has compromised athletes' Therapeutic Use Exemption (TUE) applications stored on IAAF servers" during an unauthorized remote access to its network on February 21. | AttackDatabreach
