@@ -1,5 +1,5 @@
-Scareware scammers target iOS users - Help Net Security
-A bug in the way that Mobile Safari handles pop-up dialogs has been abused to scare iOS users into paying a “fine” in the form of an iTunes pre-paid card. | PatchVulnerability, Ransom
+Scareware scammers target iOS users - Help Net Security | AttackRansom
+A bug in the way that Mobile Safari handles pop-up dialogs has been abused to scare iOS users into paying a “fine” in the form of an iTunes pre-paid card. | PatchVulnerability, AttackRansom
 “This attack was initially reported to Lookout’s Support desk by one of our users running iOS 10.2. | PatchVulnerability
 “The user provided a screenshot showing a ransomware message from pay-police[. | O
 ]com, with an overlaid ‘Cannot Open Page’ dialog from Safari. | O
