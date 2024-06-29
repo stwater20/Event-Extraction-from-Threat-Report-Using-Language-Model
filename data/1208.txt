@@ -1,4 +1,4 @@
-McShame: McDonald's API Leaks Data for 2.2 Million Users
+McShame: McDonald's API Leaks Data for 2.2 Million Users | AttackDatabreach
 Things are getting messy at McDonald's in India, and that's not just for consumers of the Maharaja Mac - a double-stacked grilled chicken monstrosity with jalapenos and habanero sauce. | AttackDatabreach
 The flaw, found by payments company Fallible, exposed names, email addresses, phone numbers, home addresses and sometimes the coordinates of those homes, as well as links to social media profiles. | AttackDatabreach, DiscoverVulnerability
 And Fallible contends that the leak still hasn't been properly fixed. | AttackDatabreach, DiscoverVulnerability
