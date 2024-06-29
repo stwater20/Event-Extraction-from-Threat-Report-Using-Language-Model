@@ -1,4 +1,4 @@
-Aviation-Related Phishing Campaigns Seeking Credentials | Threatpost | The first stop for security news
+Aviation-Related Phishing Campaigns Seeking Credentials | Threatpost | The first stop for security news | AttackPhishing
 “Over the past several weeks, we have seen a combination of attack techniques. | O
 One, where an attacker impersonates a travel agency or someone inside a company. | O
 Recipients are told an email contains an airline ticket or e-ticket,” said Asaf Cidon, vice president, content security services at Barracuda Networks. | AttackPhishing
@@ -9,11 +9,11 @@ In these types of attacks, adversaries go to great lengths to spoof the airline�
 Recent phishing campaigns, he said, are targeting logistic, shipping and manufacturing industries. | AttackPhishing
 Barracuda’s warning comes a week after the U.S. Computer Emergency Readiness Team issued an alert of similar attacks targeting airline consumers. | AttackPhishing
 It warned email-based phishing campaigns were attempting to obtain credentials as well. | AttackPhishing
-“Systems infected through phishing campaigns act as an entry point for attackers to gain access to sensitive business or personal information,” according to the US-CERT warning. | AttackPhishing, Databreach
+“Systems infected through phishing campaigns act as an entry point for attackers to gain access to sensitive business or personal information,” according to the US-CERT warning. | AttackPhishing, AttackDatabreach
 Delta said some victims were sent emails that claimed to contain invoices or receipts inside attached documents. | AttackPhishing
 When asked about the warning, Delta declined to comment. | O
 More troubling to Barracuda researchers was the success rate adversaries are having with phishing campaigns it is tracking. | AttackPhishing
 “Our analysis shows that for the airline phishing attack, attackers are successful over 90 percent of the time in getting employees to open airline impersonation emails,” Cidon wrote in a research note posted Thursday. | AttackPhishing
 “This is one of the highest success rates for phishing attacks”. | AttackPhishing
 In June, Microsoft Malware Protection Center reported a resurgence in the use of Office document macro attacks. | O
-Researchers say crooks attempting to install malware and perpetrate credential-harvesting attacks are more likely to use social engineering to trick people into installing malware than to exploit vulnerabilities with tools such as exploit kits. | AttackDatabreach, Phishing
+Researchers say crooks attempting to install malware and perpetrate credential-harvesting attacks are more likely to use social engineering to trick people into installing malware than to exploit vulnerabilities with tools such as exploit kits. | AttackDatabreach, AttackPhishing
