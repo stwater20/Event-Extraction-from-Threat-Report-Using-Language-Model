@@ -16,4 +16,4 @@ The natural target for this attack would be the SYSTEM account present in all HA
 The potential business impact of an attacker with access to the SYSTEM account is extraordinary. | O
 I strongly urge all SAP HANA customers to check their HANA version levels and make immediate plans to prioritize these updates. | DiscoverVulnerability, PatchVulnerability
 SAP customers who have already deployed active threat protection (ATP) controls or third-party products are one step ahead of zero-day threats. | PatchVulnerability
-For the rest, look to invest in an active threat monitoring and detection solution — meaning a SAP-specific threat vector detection solution.f | PatchVulnerability
+For the rest, look to invest in an active threat monitoring and detection solution — meaning a SAP-specific threat vector detection solution. | PatchVulnerability
