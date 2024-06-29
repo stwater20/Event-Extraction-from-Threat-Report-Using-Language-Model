@@ -1,4 +1,4 @@
-Microsoft patch for Jet Database Engine vulnerability 'flawed'
+Microsoft patch for Jet Database Engine vulnerability 'flawed' | PatchVulnerability
 Microsoft issued numerous bug fixes on its most recent Patch Tuesday, but according to the security firm 0patch, there were issues with one of the flaws for a critical vulnerability. | PatchVulnerability
 The vulnerability in question, (CVE-2018-8423), is a memory corruption vulnerability that exists in the Jet Database Engine that, when exploited, allows for remote code execution. | DiscoverVulnerability
 0patch noticed that the patch Microsoft had issued was flawed as a result of studying the official patch of the Jet Database Engine and a “micropatch” that the security researchers had created for the same flaw. | PatchVulnerability
