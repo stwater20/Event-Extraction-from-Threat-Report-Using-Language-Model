@@ -1,4 +1,4 @@
-Vulnerability in WhatsApp and Telegram allowed complete account takeover - Help Net Security
+Vulnerability in WhatsApp and Telegram allowed complete account takeover - Help Net Security | DiscoverVulnerability
 Check Point researchers today revealed a new vulnerability on WhatsApp and Telegram’s online platforms – WhatsApp Web & Telegram Web. | DiscoverVulnerability, AttackDatabreach
 By exploiting this vulnerability, attackers could completely take over user accounts, and access victims’ personal and group conversations, photos, videos and other shared files, contact lists, and more. | DiscoverVulnerability, AttackDatabreach
 The vulnerability allows an attacker to send the victim malicious code, hidden within an innocent looking image. | DiscoverVulnerability, AttackDatabreach
