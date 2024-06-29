@@ -1,4 +1,4 @@
-Google releases September security patch, rolling out now for Pixel, Nexus, and Essential devices
+Google releases September security patch, rolling out now for Pixel, Nexus, and Essential devices | PatchVulnerability
 It’s a new month which means another security patch from Google has been released and it’s currently rolling out to Pixel and select Nexus devices. | PatchVulnerability
 The September 5, 2018 patch includes fixes for almost 60 vulnerabilities that were found in the AOSP repository. | PatchVulnerability, DiscoverVulnerability
 The update also includes in-car Bluetooth performance improvements for Pixel devices. | O
