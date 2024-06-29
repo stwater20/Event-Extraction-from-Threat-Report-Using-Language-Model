@@ -1,4 +1,4 @@
-Logitech Options App Plagued By PID Exploit, Security Vulnerability Fixed With New Update
+Logitech Options App Plagued By PID Exploit, Security Vulnerability Fixed With New Update | PatchVulnerability
 Logitech Options is an app that controls all of Logitech’s mice and keyboards. | O
 It offers several different configurations like Changing function key shortcuts, Customizing mouse buttons, Adjusting point and scroll behavior and etc. | O
 This app contained a huge security flaw that was discovered by Tavis Ormandy who is a Google security researcher. | DiscoverVulnerability
