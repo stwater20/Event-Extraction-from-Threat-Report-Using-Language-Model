@@ -1,4 +1,4 @@
-Android devices can be fatally hacked by malicious Wi-Fi networks | Ars Technicas
+Android devices can be fatally hacked by malicious Wi-Fi networks | Ars Technica
 A broad array of Android phones are vulnerable to attacks that use booby-trapped Wi-Fi signals to achieve full device takeover, a researcher has demonstrated. | DiscoverVulnerability
 The vulnerability resides in a widely used Wi-Fi chipset manufactured by Broadcom and used in both iOS and Android devices. | DiscoverVulnerability
 Apple patched the vulnerability with Monday's release of iOS 10.3.1. | DiscoverVulnerability
