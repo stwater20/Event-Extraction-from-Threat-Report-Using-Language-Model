@@ -1,4 +1,4 @@
-Severe vulnerability exposes WordPress websites to attack
+Severe vulnerability exposes WordPress websites to attack | O
 A severe WordPress vulnerability which has been left a year without being patched has the potential to disrupt countless websites running the CMS, researchers claim. | DiscoverVulnerability, PatchVulnerability
 At the BSides technical cybersecurity conference in Manchester on Thursday, Secarma researcher Sam Thomas said the bug permits attackers to exploit the WordPress PHP framework, resulting in a full system compromise. | DiscoverVulnerability
 If the domain permits the upload of files, such as image formats, attackers can upload a crafted thumbnail file in order to trigger a file operation through the "phar://" stream wrapper. | O
