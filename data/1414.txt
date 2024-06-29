@@ -1,4 +1,4 @@
-Fileless: Evasive Intrusion Tactics Pose Challenge for Network Defense — NJCCIC
+Fileless: Evasive Intrusion Tactics Pose Challenge for Network Defense — NJCCIC | O
 The NJCCIC assesses with high confidence that fileless and “non-malware” intrusion tactics pose high risk to organizations, both public and private, and will be increasingly employed by capable threat actors intent on stealing data or establishing persistence on networks to support ongoing espionage objectives or to enable future acts of sabotage. | AttackDatabreach
 Furthermore, we assess most organizations are not currently equipped to defend against these tactics. | AttackDatabreach
 The NJCCIC recommends all organizations reevaluate the capabilities and efficacy of their current cybersecurity technologies and processes, as well as their staffs, to ensure they are effectively managing and reducing the risk of data breaches and disruptive or destructive attacks conducted using fileless methods. | AttackDatabreach
