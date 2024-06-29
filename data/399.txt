@@ -7,7 +7,7 @@ It's unclear exactly what type of phone he's using for his late-night White Hous
 The source added that if they were to advise Trump on using cell phones, they'd tell him to use a highly customized one so hackers wouldn't have a comparable test device. | O
 But the best thing, they added, would be to simply tell Trump: "no more cell phones." | O
 Using any kind of phone, according to the source and other security researchers, is a risk in and of itself for Trump. | O
-If someone were to hack Trump through his Twitter-phone (for lack of a better word), they might steal his password to other more important accounts, or, worse, they could jump to another device on the White House internal network, perhaps one that contains more sensitive information. | Databreach
+If someone were to hack Trump through his Twitter-phone (for lack of a better word), they might steal his password to other more important accounts, or, worse, they could jump to another device on the White House internal network, perhaps one that contains more sensitive information. | AttackDatabreach
 "[Trump] shouldn't have personal computers of any kind, they should be government controlled." | O
 In 2014, hackers broke into the White House network. | O
 At the time, the Obama administration downplayed the intrusion, saying it only affected the unclassified networks, but former White House officials said that network can still hold sensitive information such as the president's schedule, staff member's emails and other information. | O

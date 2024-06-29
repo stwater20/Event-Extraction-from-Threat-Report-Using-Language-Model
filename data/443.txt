@@ -1,0 +1,14 @@
+EyePyramid and a Lesson on the Perils of Attribution - TrendLabs Security Intelligence Blog
+http://blog.trendmicro.com/trendlabs-security-intelligence/eyepyramid-lesson-perils-attribution/ 
+2017_01_31 
+
+In the past weeks, information-stealing malware EyePyramid made headlines after it was used to steal 87GB of sensitive data from government offices, private companies and public organizations. | AttackDatabreach
+More than 100 email domains and 18,000 email accounts were targeted, including those of high-profile victims in Italy, the U.S., Japan and Europe. | O
+The natural assumption for many would be that EyePyramid was a state-sponsored cyberespionage campaign. | O
+It was ultimately attributed to a brother-sister team who used the malware for profit. | O
+Playing Whodunit is Hard | O
+If there’s anything EyePyramid can valuably teach us, it’s that playing whodunit is hard. | O
+Attribution is one of the most complicated aspects in cybersecurity. | O
+It’s partly because of the Internet’s underlying architecture and the many ways perpetrators can cover their tracks. | O
+While we can attribute cyberattacks to certain threat actors, most threat researchers and information security professionals are cautious and often avoid attributing them to a specific person, group, or country. | O
+

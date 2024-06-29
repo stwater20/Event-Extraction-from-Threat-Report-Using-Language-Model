@@ -1,0 +1,16 @@
+How app makers increasingly track your every move - CSMonitor.com
+http://www.csmonitor.com/World/Passcode/2017/0206/How-app-makers-increasingly-track-your-every-move 
+2017_02_07 
+
+Privacy advocates say tech companies are becoming more brazen about collecting users' location data and personal information. | AttackDatabreach
+February 6, 2017 | O
+—For just a few days last month, a photo filter app called Meitu, which turns selfies into pearl-skinned, doe-eyed Anime characters, enthralled the social media world. | O
+But Meitu faded as quickly as it rose to internet fame after cybersecurity researchers exposed what was really behind the app. | O
+Meitu’s application program interfaces (API) revealed code that collected a bevy of personal data that goes far beyond what typical photo apps gather. | AttackDatabreach
+It amassed users' precise locations, call information, carrier information, and Wi-Fi connections. | AttackDatabreach
+The company explained that it collected all that data to "optimize app performance" and better engage users. | O
+As smartphones become ubiquitous, app makers are becoming more brazen about collecting personal data, say experts and privacy advocates. | AttackDatabreach
+And while iPhones and Android devices have limited privacy settings, most consumers remain in the dark about what companies are collecting and how they are using that information. | AttackDatabreach
+"There's been erosion of privacy over the past few years." | O
+In 2015, he cowrote a study that found a dozen or so popular Android apps – from companies such as the Weather Channel and Groupon – collecting location data about every three minutes. | AttackDatabreach
+

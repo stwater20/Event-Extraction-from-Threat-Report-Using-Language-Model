@@ -3,9 +3,9 @@ http://motherboard.vice.com/read/hackers-hack-hacking-forum-as-soon-as-its-launc
 2017_01_20 
 
 In 2015, the FBI shuttered malware marketplace Darkode, and then at the end of last year a small group of hackers launched their own eponymous copycat version. | O
-Almost immediately, however, other hackers attacked that new site, and stole user account information. | Databreach
+Almost immediately, however, other hackers attacked that new site, and stole user account information. | AttackDatabreach
 "It's a shit show on what happened," a Darkode staff member who used the handle Bullets told Motherboard. | O
-Hackers managed to steal a database of Darkode's users, including usernames and hashed passwords. | Databreach
+Hackers managed to steal a database of Darkode's users, including usernames and hashed passwords. | AttackDatabreach
 Paid breach notification site LeakBase provided Motherboard with a copy of the data. | O
 The database included this reporter's Darkode account, used to briefly visit the site when it launched. | O
 The data also includes users' email addresses and IP addresses; something that might be particularly worrying if those who signed up were involved in any illegal activity—it probably doesn't help to have an IP address linked to your identity floating around the internet. | O

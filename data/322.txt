@@ -11,13 +11,13 @@ Vehicles have become an extension of one’s connected self and the technology a
 With the emergence of sophisticated technology, the nature of vehicle theft has changed. | O
 A major adversary of today’s vehicle owner is a smarter, connected and more targeted network of criminals, known as ‘Connected Vehicle Thieves’. | O
 LoJack, provider of vehicle theft recovery and advanced fleet management solutions, shows how these New Age thieves can take advantage of the technology in vehicles. | O
-Vehicle-enabled ransom: One growing and increasingly lucrative type of cybercrime is the use of ransomware, where inserted malware encrypts digital data and instructs a victim to pay the criminal a ransom to restore the decrypted information. | Ransom
-With the emergence of the connected car and vehicles being used as WiFi hot spots, vehicle-enabled ransomware is a predictable next step for hackers, exploiting this new avenue to commit digital “kidnapping”. | Ransom
-For example, in the near future, they could easily break into a vehicle, disable the engine and brakes, and demand bitcoin to restore the car to its functional state. | Ransom
+Vehicle-enabled ransom: One growing and increasingly lucrative type of cybercrime is the use of ransomware, where inserted malware encrypts digital data and instructs a victim to pay the criminal a ransom to restore the decrypted information. | AttackRansom
+With the emergence of the connected car and vehicles being used as WiFi hot spots, vehicle-enabled ransomware is a predictable next step for hackers, exploiting this new avenue to commit digital “kidnapping”. | AttackRansom
+For example, in the near future, they could easily break into a vehicle, disable the engine and brakes, and demand bitcoin to restore the car to its functional state. | AttackRansom
 Scanner boxes as smart keys: Thieves have begun carrying scanner boxes, or devices that can exploit the electronic system utilized by key fobs. | O
 These criminals can then unlock, and even start, a vehicle without even touching the key. | O
 Once the key comes in close enough range to the scanner box and is compromised. | O
 Data leading to identity theft: These days, connected cars carry more information and personal data than ever before, making identity theft a more serious threat. | O
 Thieves are targeting your vehicle, but also the data within it, which could lead to credit card details, location information, Social Security numbers, and personal IDs like drivers’ licenses. | O
-Once this information is obtained, it’s possible for a hacker to access any of your online accounts. | Databreach
+Once this information is obtained, it’s possible for a hacker to access any of your online accounts. | AttackDatabreach
 

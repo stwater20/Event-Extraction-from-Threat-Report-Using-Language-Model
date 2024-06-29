@@ -7,7 +7,7 @@ This is because there are certain bugs in older Samsung Galaxy phones and tablet
 The bugs allow these types of messages to be executed without user interaction. | O
 As the ContextIS researchers who discovered the vulnerabilities explained, this avenue of attack can be abused by crooks to hold users’ devices for ransom. | DiscoverVulnerability
 “First a ransom note is sent, if ignored then the malicious configuration message can be sent,” they noted. | O
-If the victim pays up, a configuration message can later be sent to stop the rebooting. | Ransom
+If the victim pays up, a configuration message can later be sent to stop the rebooting. | AttackRansom
 The vulnerabilities in question, CVE-2016-7988 and CVE-2016-7989, can be triggered through SMS on the S4, S4 Mini, S5 and Note 4, but not on newer Samsung devices. | DiscoverVulnerability
 “It’s worth noting that although newer phones such as the S6 and S7 aren’t affected over the air, [a similar result] could be accomplished by a malicious app abusing CVE-2016-7988,” they added. | DiscoverVulnerability
 These specific issues are related to modifications Samsung made to to the Android telephony framework and are found in a Samsung-specific application for handling carrier messages. | O

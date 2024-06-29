@@ -1,0 +1,14 @@
+WordPress Websites Exposed to Severe Content Injection Vulnerability
+https://www.hackread.com/wordpress-severe-content-injection-vulnerability/ 
+2017_02_02 
+
+So when there is a security flaw in its system, it affects millions of users on the Internet. | O
+Sucuri found a Content Injection or Privilege Escalation vulnerability affecting the REST API allowing an attacker to modify the content of any post or page within a WordPress site. | DiscoverVulnerability
+However, there is good news since Sucuri discretely reported the vulnerability to WordPress security team who handled the matter professionally and informed as many security providers and hosts and implemented a patch before this became public. | DiscoverVulnerability,PatchVulnerability
+In their blog post, Marc Alexandre Montpas from Sucuri stated that “This privilege escalation vulnerability affects the WordPress REST API that was recently added and enabled by default on WordPress 4.7.0. | DiscoverVulnerability
+One of these REST endpoints allows access (via the API) to view, edit, delete and create posts. | O
+Within this particular endpoint, a subtle bug allows visitors to edit any post on the site. | O
+The REST API is enabled by default on all sites using WordPress 4.7.0 or 4.7.1. | O
+We are hiding some technical details to make it harder for the bad guys, but depending on the plugins installed on a site, it can lead to a RCE (remote command execution). | O
+Also, even though the content is passed through wp_kses, there are ways to inject Javascript and HTML through it. | O
+

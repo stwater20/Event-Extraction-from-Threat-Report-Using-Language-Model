@@ -3,7 +3,7 @@ https://www.bleepingcomputer.com/news/security/ransomware-locks-down-public-libr
 2017_01_23 
 
 Over 700 computers at all of SLPL's 16 branches have been hit. | O
-According to library spokesperson Jen Hatton, SLPL doesn't intend to pay the ransom, which is around $35,000, about $50 per infected PC. | Ransom
+According to library spokesperson Jen Hatton, SLPL doesn't intend to pay the ransom, which is around $35,000, about $50 per infected PC. | AttackRansom
 Instead, library technicians plan to wipe and reinstall all computers from the ground up, an operation that might take a while, several local news outlets have reported [1, 2, 3, 4]. | O
 Hatton said the infection took root on the night between Wednesday and Thursday. | O
 By the next day, the library had to shut down all book returns and checkout operations. | O

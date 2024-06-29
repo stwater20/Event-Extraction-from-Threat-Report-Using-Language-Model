@@ -4,15 +4,15 @@ http://arstechnica.com/security/2017/01/ransomware-app-hosted-in-google-play-inf
 
 Google Play, the official market for Android apps, was caught hosting a ransomware app that infected at least one real-world handset, security researchers said Tuesday. | O
 The ransomware was dubbed Charger and was hidden inside an app called EnergyRescue, according to a blog post published by security firm Check Point Software. | O
-Once installed, Charger stole SMS contacts and prompted unsuspecting users to grant it all-powerful administrator rights. | Databreach
-If users clicked OK, the malicious app locked the device and displayed the following message: | Ransom
-You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes. | Ransom
+Once installed, Charger stole SMS contacts and prompted unsuspecting users to grant it all-powerful administrator rights. | AttackDatabreach
+If users clicked OK, the malicious app locked the device and displayed the following message: | AttackRansom
+You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes. | AttackRansom
 WE GIVE 100% GUARANTEE THAT ALL FILES WILL RESTORE AFTER WE RECEIVE PAYMENT. | O
 WE WILL UNLOCK THE MOBILE DEVICE AND DELETE ALL YOUR DATA FROM OUR SERVER! | O
 TURNING OFF YOUR PHONE IS MEANINGLESS, ALL YOUR DATA IS ALREADY STORED ON OUR SERVERS! | O
-WE STILL CAN SELLING IT FOR SPAM, FAKE, BANK CRIME etc… We collect and download all of your personal data. | Databreach
-All information about your social networks, Bank accounts, Credit Cards. | Databreach
-We collect all data about your friends and family. | Databreach
+WE STILL CAN SELLING IT FOR SPAM, FAKE, BANK CRIME etc… We collect and download all of your personal data. | AttackDatabreach
+All information about your social networks, Bank accounts, Credit Cards. | AttackDatabreach
+We collect all data about your friends and family. | AttackDatabreach
 The app sought 0.2 Bitcoin, currently worth about $180. | O
 In an e-mail, Check Point researchers said the app was available in Google Play for four days and had only a "handful" of downloads. | O
 "We believe the attackers only wanted to test the waters and not spread it yet," the researchers told Ars. | O

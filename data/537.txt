@@ -1,0 +1,24 @@
+Hacker takes out dark web hosting service using well-known exploit | CSO Online
+http://www.csoonline.com/article/3166194/security/hacker-takes-out-dark-web-hosting-service-using-well-known-exploit.html 
+2017_02_07 
+
+On Friday, the unnamed hacker began dumping a sizable database stolen from Freedom Hosting II onto the internet, potentially exposing its users. | AttackDatabreach
+The hosting service, Freedom Hosting II, was known for operating thousands of sites that were accessible through the Tor browser; the "dark web" is essentially the encrypted network comprising Tor servers and browsers. | O
+Its main landing page was replaced with a message saying that it had been hacked. | O
+Allegedly, Freedom Hosting II had been hosting child pornography sites, though its anonymous operator claimed to have a zero-tolerance policy toward such content, according to the hacker behind the breach. | O
+“What we found while searching through your server is more than 50% child porn…” the hacker wrote in the message left on the site. | O
+“Moreover, you host many scam sites, some of which are evidently run by yourself to cover hosting expenses”. | O
+In an email to the IDG News Service, the hacker explained how the breach came about. | O
+“I just recently read an article about a well-known exploit that some hosting providers fell victims of many years ago,” the person said. | O
+However, starting on Jan. 30, the hacker gained access to its web server, using a 20-step method. | O
+The hack essentially involved starting a new site on Freedom Hosting II and creating a link to gain access to the service’s root directory. | O
+This allowed the hacker to browse the entire server. | O
+“I had reading permissions to everything the web server could get access to just by creating a symlink to / (the root directory)”. | O
+After coming across child porn sites, the hacker decided to take over Freedom Hosting II by altering its configuration file to trigger a password reset. | O
+“Once I found out what they were hosting, I just wanted to shut them down,” said the hacker, who’s also been circulating what he stole through a torrent file. | AttackDatabreach
+The dump includes 74GB of files and a 2.3GB database from the service, the hacker claims. | AttackDatabreach
+“The IP of the server has been leaked, which potentially could reveal the admin's identity,” the hacker added. | AttackDatabreach
+Chris Monteiro, a cybercrime researcher based in the U.K., has been looking through the data dump, which he said appears to be real. | O
+The information includes the sites that Freedom Hosting II had been operating, along with the admin credentials to access them. | O
+The dump also appears to contain a client database, meaning that anyone who used Freedom Hosting II might be exposed, Monteiro said. | AttackDatabreach
+

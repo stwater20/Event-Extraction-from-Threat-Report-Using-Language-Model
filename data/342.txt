@@ -3,24 +3,24 @@ http://www.consumerreports.org/digital-security/smartphone-ransomware-a-looming-
 2017_01_25 
 
 Imagine turning on your smartphone to send a text and finding this threatening notice instead: | O
-“You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes. | Ransom
+“You need to pay for us, otherwise we will sell portion of your personal information on black market every 30 minutes. | AttackRansom
 WE GIVE 100% GUARANTEE THAT ALL FILES WILL RESTORE AFTER WE RECEIVE PAYMENT. | O
 WE WILL UNLOCK THE MOBILE DEVICE AND DELETE ALL YOUR DATA FROM OUR SERVER! | O
 TURNING OFF YOUR PHONE IS MEANINGLESS, ALL YOUR DATA IS ALREADY STORED ON OUR SERVERS! | O
 WE STILL CAN SELLING IT FOR SPAM, FAKE, BANK CRIME etc. | O
-We collect and download all of your personal data. | Databreach
+We collect and download all of your personal data. | AttackDatabreach
 All information about your social networks, Bank accounts, Credit Cards. | O
-We collect all data about your friends and family." | Databreach
+We collect all data about your friends and family." | AttackDatabreach
 This is the message, word for word, found recently by Oren Koriat and Andrey Polkovnichenko, a pair of mobile cybersecurity analysts at Check Point, a security firm in California. | O
 The smartphone on which it appeared was an Android model that had been compromised by smartphone ransomware. | O
 Ransomware has become a ubiquitous threat to personal-computer users. | O
-Criminals remotely access a victim's computer and lock all the files using encryption software, offering to unlock the data in exchange for a payment. | Ransom
-The first ransomware attack on a phone occurred in 2013, according to the Check Point researchers, but until now has been confined to small numbers of victims, primarily in Eastern Europe. | Ransom
+Criminals remotely access a victim's computer and lock all the files using encryption software, offering to unlock the data in exchange for a payment. | AttackRansom
+The first ransomware attack on a phone occurred in 2013, according to the Check Point researchers, but until now has been confined to small numbers of victims, primarily in Eastern Europe. | AttackRansom
 Now, the company says, the threat has gained a toehold in the United States. | O
 Koriat and Polkovnichenko found the software, which they dubbed Charger, embedded in an app called Energy Rescue, which purports to make a phone battery last longer. | O
-"The infected app steals contacts and SMS messages from the user’s device and asks for admin permissions," the company said in a statement. | Databreach
-"If granted, the ransomware locks the device and displays a message demanding payment." | Ransom
-The payment demanded was 0.2 bitcoin, or about $180 at the current exchange rate. | Ransom
+"The infected app steals contacts and SMS messages from the user’s device and asks for admin permissions," the company said in a statement. | AttackDatabreach
+"If granted, the ransomware locks the device and displays a message demanding payment." | AttackRansom
+The payment demanded was 0.2 bitcoin, or about $180 at the current exchange rate. | AttackRansom
 (The phone was being used for business and didn't contain much personal data; the owner chose to replace the phone rather than pay.) | O
 The most disturbing part of the attack might be that the app was downloaded from the Google Play store. | O
 Android phones can use apps from other sources, but security experts usually recommend that users stick to the Play store to take advantage of the processes Google uses to check the software for safety. | O
@@ -31,10 +31,10 @@ Padon added that this malware was particularly sophisticated, using a number of 
 Google commended the security firm for catching the Charger threat so early. | O
 "We appreciate Check Point’s efforts to raise awareness about this issue," a Google spokesperson says. | O
 "We’ve taken the appropriate actions in Play and will continue to work closely with the research community to help keep Android users safe." | O
-Ransomware attacks on mobile phones are still relatively rare. | Ransom
+Ransomware attacks on mobile phones are still relatively rare. | AttackRansom
 One well-known case involved users of pornography apps in Eastern Europe who were targeted by ransomware called DataLust, Check Point says. | O
-In those cases, the ransom was set at 1,000 rubles, or about $15. | Ransom
+In those cases, the ransom was set at 1,000 rubles, or about $15. | AttackRansom
 There's evidence that Charger, too, comes from Eastern Europe—beyond the clichéd bad grammar of the ransom note. | O
 "This is likely done to keep the developers from being prosecuted in their own countries or being extradited between countries." | O
-Ransomware attacks are joining a growing list of threats to mobile phone security. | Ransom
+Ransomware attacks are joining a growing list of threats to mobile phone security. | AttackRansom
 
