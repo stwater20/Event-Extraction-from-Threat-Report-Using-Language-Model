@@ -1,4 +1,4 @@
-Businesses warned: Don't open emails purportedly from IRS or Indiana Revenue
+Businesses warned: Don't open emails purportedly from IRS or Indiana Revenue | O
 The Indiana Department of Revenue (DOR) and the Internal Revenue Service (IRS) are warning folks of fraudulent emails impersonating either revenue agency and encouraging individuals to open files corrupted with malware. | AttackPhishing
 These scam emails use tax transcripts as bait to entice users to open the attachments. | AttackPhishing
 The scam is particularly problematic for businesses or government agencies whose employees open the malware infected attachments, putting the entire network at risk. | O
