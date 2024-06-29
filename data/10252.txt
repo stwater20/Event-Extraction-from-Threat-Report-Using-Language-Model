@@ -1,4 +1,4 @@
-Hackers are now favoring ransomware over personal data theft
+Hackers are now favoring ransomware over personal data theft | AttackDatabreach
 IBM’s latest X-Force Threat Intelligence Index report reveals that more than 2.9 billion records were leaked through publicly disclosed incidents in 2017. | AttackDatabreach
 While that sounds horribly bad, there’s a bright side to this stormy disclosure: the number is 25 percent lower than the amount of records leaked in 2016. | AttackDatabreach
 Why? Because hackers are shifting over to ransomware. | O
