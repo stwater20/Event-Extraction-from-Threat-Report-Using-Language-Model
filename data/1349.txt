@@ -1,4 +1,4 @@
-Security flaws found in 'panic button' for Colombian activists, journalists | TheHill
+Security flaws found in 'panic button' for Colombian activists, journalists | TheHill | DiscoverVulnerability
 A "panic button" distributed by the Colombian government to high-risk activists and journalists has a number of security flaws, at least one of which is by design, a security firm reported. | DiscoverVulnerability
 Rapid7 investigated the Eview EV-07S GPS tracker at the behest of The Associated Press. | O
 The site lists main applications of the EV-07S as elderly care, disabled and patient care, child protection, employee management, and pet and animal tracking. | O
