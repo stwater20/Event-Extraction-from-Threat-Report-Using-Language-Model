@@ -1,4 +1,4 @@
-Statement from ABTA CEO, Mark Tanzer, relating to Data Security Incident  - ABTA
+Statement from ABTA CEO, Mark Tanzer, relating to Data Security Incident  - ABTA | O
 We recently became aware of unauthorised access to the web server supporting abta.com by an external infiltrator exploiting a vulnerability. | AttackDatabreach, DiscoverVulnerability
 Specialist technical consultants subsequently confirmed that the web server had been accessed. | AttackDatabreach, DiscoverVulnerability
 We are not aware of any information being shared beyond the infiltrator. | AttackDatabreach, DiscoverVulnerability
