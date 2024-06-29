@@ -1,0 +1,16 @@
+SecurityBrief Asia - Digital Shadows on why it's sometimes best to avoid "Cupid's" arrow 
+https://securitybrief.asia/story/digital-shadows-why-its-sometimes-best-avoid-cupids-arrow/ 
+2017_02_13 
+
+Valentine’s Day is fast-approaching and the story goes that if Cupid hits you with his golden arrow you’ll fall madly in love. | O
+But there are other actors taking aim at you on Valentine’s Day whose arrows you need to avoid as the outcomes aren’t nearly as desirable. | O
+Think back to early February 2016, when many online florists experienced a surge in traffic that wasn’t due simply to a rush to buy flowers. | O
+Dozens of florists were hit by targeted DDoS attacks during their busiest time of the year, causing problems for some and knocking others offline who were asked to pay a ransom before they could resume operations. | AttackRansom
+It’s fairly typical for bad actors to escalate extortion-based campaigns during seasonal events when the stakes for targets are high. | AttackRansom
+Looking to profit with minimal investment, attackers exploit known vulnerabilities as they attempt to breach systems. | O
+For example, the 2016 Valentine’s Day DDoS attacks used Shellshock, a critical vulnerability that’s present in Linux, UNIX and Mac OS X that had been discovered more than a year earlier. | DiscoverVulnerability
+Of course, online florists are not alone when it comes to being targeted by cyber criminals. | O
+Different times of the year and major news events can trigger a surge in attacks aimed at particular industries and geographies. | O
+Organisations need to understand their threat model and apply security processes as appropriate. | O
+Threat actors will continue to take advantage of events to launch attacks, but you can avoid their arrows this Valentine’s Day. | O
+

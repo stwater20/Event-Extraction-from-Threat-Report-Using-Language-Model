@@ -1,0 +1,22 @@
+Mac malware is still crude, but it’s slowly catching up to its Windows rivals | Ars Technica
+https://arstechnica.com/security/2017/02/mac-malware-has-a-way-to-go-but-its-slowly-catching-up-to-windows/ 
+2017_02_09 
+
+Malicious Microsoft Word documents that abuse macros have long been the bane of Windows users. | O
+Now, security researchers have found what may be the first such real-world attack to infect Macs. | O
+Allies and Rivals Digest Trump's Victory - Carnegie Endowment for International Peace." | O
+It was taken almost verbatim from EmPyre, an open-source exploit framework for Macs. | O
+By the time the researchers found the booby-trapped document, the securitychecking.org was no longer serving the payload, so it wasn't possible to know precisely what it did. | O
+But the Empyre component the macro borrowed allowed for persistent infections that contained a wide range of capabilities, including monitoring webcams, stealing passwords and encryption keys stored in the keychain, and accessing browsing histories. | AttackDatabreach
+The overall quality of the malware wasn't particularly advanced. | O
+As unsophisticated as they seem, malicious macros remain vexingly effective at infecting large numbers of people who should know better. | O
+Word macros, for instance, were the initial infection point to the first known hacker-caused power outage, which left 225,000 Ukrainians without electricity in December 2015. | O
+Malicious macros also power some of the most aggressive strains of ransomware, including one known as Locky. | O
+Macros seemed to make a comeback in late 2014 with the rise of the Dridex malware, presumably as improved security in Java, Adobe Flash, and Internet Explorer made it harder to exploit those applications. | O
+"By using macros in Word documents, they are exploiting the weakest link; humans!" | O
+Patrick Wardle, who is director of research at security firm Synack, wrote in an analysis of the malicious document. | O
+"And moreover since macros are 'legitimate' functionality (vs. say a memory corruption vulnerability) the malware's infection vector doesn't have to worry about crashing the system nor being 'patched' out." | O
+Wardle's analysis on Monday came the same day that two unrelated researchers reported finding a separate piece of Mac malware in the wild that was designed to steal credentials from the keychain. | AttackDatabreach
+Like the malicious Word document, the malware was poorly written and lifted other developers' code. | O
+Taken together, however, the discoveries suggest that mainstream MacOS malware has yet to catch up to its Windows counterparts, but that the gap is steadily closing. | O
+

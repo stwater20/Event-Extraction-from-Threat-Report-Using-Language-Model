@@ -1,0 +1,28 @@
+Movie night? Nope. It's a fake iTunes receipt from phishers targeting Apple users
+https://www.grahamcluley.com/itunes-movie-phishing/ 
+2017_02_27 
+
+A new phishing campaign is using a fake iTunes receipt for movie purchases to compromise Apple users' sensitive information. | AttackPhishing
+Fortinet researchers first spotted the phishing campaign over the weekend of 17 February. | AttackPhishing
+The attack begins when an Apple user receives a receipt that appears to have come from iTunes. | AttackPhishing
+In actuality, an email address based in Norway sent the message. | O
+The receipt lists purchases for a series of movies. | O
+These films (which include "Allied", "Arrival", and "Jack Reacher: Never Go Back") debuted in theaters recently, which makes the ruse relevant and consequently more believable. | O
+This email isn't the first time phishers (or smishers, for that matter) have targeted Apple users. | O
+Users in the United Kingdom, Australia, and the United States have witnessed similar attacks over the past few years. | O
+This particular campaign targets Canadian users and seems to have improved upon earlier iterations of the scam. | O
+Of course, most users who receive the receipt will wonder why they've been charged so much money for something they haven't purchased. | O
+Their attention will subsequently go to the link at the bottom of the email that claims they can obtain a full refund. | O
+But clicking on the link doesn't help them in the slightest. | O
+As explained by Fortinet's researchers: | O
+"At the bottom of the receipt, there’s a link to request a “full refund” in case of an unauthorized transaction. | O
+Apple has no need for a user's Social insurance number, which Canadians need to work for or to access government services, or their mother's maiden name. | O
+But the phishers want their targets to overlook that fact and enter their details. | O
+Indeed, doing so would help the attackers assume control of their victim's credit card and other financial information. | O
+This campaign, like so many others, demonstrates the importance of carefully reviewing suspicious emails. | O
+Users should look at the sending email address to see if it's legitimate. | O
+If they come across an invoice or receipt for a credit card purchase, they should check their account history for such a transaction. | O
+If they don't find anything, that means scammers are just trying to scare them into handing over their payment card details. | O
+Additionally, users might consider setting up transaction notifications on their payment cards. | O
+That way, if they haven't received an alert of a transaction, they'll immediately know that an invoice such as the one above is a fake. | O
+
