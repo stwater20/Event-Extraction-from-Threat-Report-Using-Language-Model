@@ -1,4 +1,4 @@
-Cisco critical flaw: At least 8.5 million switches open to attack, so patch now
+Cisco critical flaw: At least 8.5 million switches open to attack, so patch now | PatchVulnerability
 Cisco patches a severe flaw in switch deployment software that can be attacked with crafted messages sent to a port that's open by default. | PatchVulnerability
 Cisco has released patches for 34 vulnerabilities mostly affecting its IOS and IOS XE networking software, including three critical remote code execution security bugs. | PatchVulnerability, DiscoverVulnerability
 Perhaps the most serious issue Cisco has released a patch for is critical bug CVE-2018-0171 affecting Smart Install, a Cisco client for quickly deploying new switches for Cisco IOS Software and Cisco IOS XE Software. | PatchVulnerability, DiscoverVulnerability
