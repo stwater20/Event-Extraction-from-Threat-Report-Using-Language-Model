@@ -1,4 +1,4 @@
-Patch Drupal now: Yet another critical website bug found – a sequel to 'Drupalgeddon2'
+Patch Drupal now: Yet another critical website bug found – a sequel to 'Drupalgeddon2' | PatchVulnerability, DiscoverVulnerability 
 After scrambling to patch a critical vulnerability late last month, Drupal is at it again. | PatchVulnerability
 The open source content management project has issued an unscheduled security update to augment its previous patch for Drupalgeddon2. | PatchVulnerability
 There was also a cross-site scripting bug advisory in mid-April. | O
