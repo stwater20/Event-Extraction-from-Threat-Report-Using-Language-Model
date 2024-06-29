@@ -8,8 +8,7 @@ On Monday, LastPass responded by explaining that the Google Project Zero man had
 The firm offered a few steps that users could take to protect themselves from client-side security issues. | DiscoverVulnerability
 These include: launching sites directly from the LastPass vault; switching on two-factor authentication for any site that offers it; and to be constantly on the lookout for phishing attacks. | DiscoverVulnerability, Phishing
 It’s the second vulnerability in a week that Ormandy has reported to LastPass. | DiscoverVulnerability, PatchVulnerability
-Last week, the password manager firm was forced to fix a critical zero day that would have allowed remote code execution, enabling an attacker to steal users’ passwords. | PatchVulnerability
+Last week, the password manager firm was forced to fix a critical zero day that would have allowed remote code execution, enabling an attacker to steal users’ passwords. | DiscoverVulnerability, PatchVulnerability
 The prolific Ormandy also helped to make the firm more secure last year when he found “a bunch of obvious critical problems” in the service. | DiscoverVulnerability
 Yet he has also publicly appeared to query the logic of using an online service which, if breached, could give up its customers’ passwords. | DiscoverVulnerability
 One Twitter follower claimed at the time: “I'm perplexed anyone uses an online service to store passwords.” Ormandy responded: “Yeah, me too.” | DiscoverVulnerability
-
