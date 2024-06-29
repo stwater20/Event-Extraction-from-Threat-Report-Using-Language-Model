@@ -1,4 +1,4 @@
-Update now: Adobe fixes 85 serious flaws in Acrobat and Reader
+Update now: Adobe fixes 85 serious flaws in Acrobat and Reader | PatchVulnerability
 Adobe has released updates fixing a long list of security vulnerabilities discovered in the Mac and Windows versions of Acrobat and Reader. | PatchVulnerability, DiscoverVulnerability
 In total, the first October update brings 85 CVEs, including 47 rated as ‘critical’ with the remaining 39 classified as ‘important’. | O
 It’s too early to get much detail on the flaws but those rated critical break down as 46 allowing code execution and one allowing privilege escalation. | O
