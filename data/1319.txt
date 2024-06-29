@@ -1,4 +1,4 @@
-FBI Warns Healthcare Industry of FTP Attacks | SecurityWeek.Com
+FBI Warns Healthcare Industry of FTP Attacks | SecurityWeek.Com | O
 The Cyber Division of the U.S. Federal Bureau of Investigation (FBI) has issued an alert to warn the healthcare industry that malicious actors are actively targeting File Transfer Protocol (FTP) servers that allow anonymous access. | AttackDatabreach
 According to the law enforcement agency, attackers have targeted the FTP servers of medical and dental facilities in an effort to obtain access to protected health information (PHI) and personally identifiable information (PII), and use it to intimidate, blackmail and harass business owners. | AttackDatabreach
 “The FBI recommends medical and dental healthcare entities request their respective IT services personnel to check networks for FTP servers running in anonymous mode. | AttackDatabreach
