@@ -7,12 +7,12 @@ In the domain name records, he listed his home address. | O
 “When you bring in amateurs who don’t follow standard protocol, that carries risk,” said Alex Holden, chief information security officer at Hold Security. | AttackDatabreach
 At the time, the company notified the FBI but only believed 26 accounts had been targeted. | AttackDatabreach
 It wasn't until mid 2016 that the true enormity of the hack started to become apparent. | AttackDatabreach
-Security experts say it’s possible Baratov or a second hacker hired to help might have bragged online about the hack at some point, tipping off U.S. investigators. | AttackPhishing, Databreach
+Security experts say it’s possible Baratov or a second hacker hired to help might have bragged online about the hack at some point, tipping off U.S. investigators. | AttackPhishing, AttackDatabreach
 And then in August 2016 a database allegedly stolen from Yahoo was found circulating on the black market. | AttackDatabreach
 “Some of the information about this hack was basically leaked,” Holden said. | AttackDatabreach
 “That’s not a sign of a mature intelligence operation”. | O
 So why did Russia turn to a 22-year-old from Canada? | O
-According to the indictment, Baratov broke into the accounts through spear phishing email attacks, which are often designed to dupe victims into handing over password information. | AttackPhishing, Databreach
+According to the indictment, Baratov broke into the accounts through spear phishing email attacks, which are often designed to dupe victims into handing over password information. | AttackPhishing, AttackDatabreach
 However, spear phishing only works best if the emails appear authentic. | AttackPhishing
 “The benefit of having Karim, the Canadian, on the team probably allowed creation of far more believable phishing attacks due to his being a native English speaker,” said Chester Wisniewski, a research scientist at security firm Sophos, in an email. | AttackPhishing
 In addition to Baratov, the Russian agents allegedly hired a 29-year-old Latvian named Aleksey Belan, who pulled off the main hack against Yahoo, and stole the database involving 500 million user accounts. | AttackPhishing, Databreach
