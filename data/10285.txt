@@ -1,4 +1,4 @@
-Cisco patches critical Nexus flaws: Are your switches vulnerable?
+Cisco patches critical Nexus flaws: Are your switches vulnerable? | PatchVulnerability
 Cisco has released fixes for 34 flaws in its software, including 24 that affect its FXOS software for Firepower firewalls and NX-OS software for Nexus switches. | DiscoverVulnerability, PatchVulnerability
 Cisco's June updates include fixes for five critical arbitrary code execution vulnerabilities affecting FXOS and NX-OS and 19 high-rated flaws affecting the software. | DiscoverVulnerability
 Four of the critical flaws affect FXOS and NX-OS Cisco Fabric Services, while the fifth one affects the NX-API feature of NX-OS. | DiscoverVulnerability
