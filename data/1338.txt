@@ -1,4 +1,4 @@
-IIS 6.0 Vulnerability Leads to Code Execution - TrendLabs Security Intelligence Blog
+IIS 6.0 Vulnerability Leads to Code Execution - TrendLabs Security Intelligence Blog | DiscoverVulnerability
 Microsoft Internet Information Services (IIS) 6.0 is vulnerable to a zero-day Buffer Overflow vulnerability (CVE-2017-7269) due to an improper validation of an ‘IF’ header in a PROPFIND request. | DiscoverVulnerability
 A remote attacker could exploit this vulnerability in the IIS WebDAV Component with a crafted request using PROPFIND method. | DiscoverVulnerability
 Successful exploitation could result in denial of service condition or arbitrary code execution in the context of the user running the application. | DiscoverVulnerability
