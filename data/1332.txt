@@ -1,4 +1,4 @@
-Outdated software biggest cyber-breach culprit | ITProPortal
+Outdated software biggest cyber-breach culprit | ITProPortal | DiscoverVulnerability
 According to cybersecurity firm Avast, you probably didn't, and that's the number one cause of cybersecurity incidents. | O
 Avast just released a new report, entitled Avast PC Trends Report January 2017. | O
 It is based on insights from the company’s AVG TuneUp product, and says that more than half (52 per cent) of the most popular PC applications are outdated. | O
