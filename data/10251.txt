@@ -1,4 +1,4 @@
-Ransomware shifts focus from holding passwords hostage to hijacking your PC
+Ransomware shifts focus from holding passwords hostage to hijacking your PC | AttackRansom
 A malicious website initially set up to extort visitors to pay a cryptocurrency ransom has changed its course. | AttackRansom
 Instead of demanding payment via Bitcoin, Ethereum, Bitcoin Cash or Litecoin in exchange for not leaking your password on the internet, the site now hijacks your computer’s processing power to mine cryptocurrency in the background. | AttackRansom
 Designed as a copy of the Have I Been Pwned attack, the site began by asking users to enter their emails to see if their password has been compromised. | AttackDatabreach
@@ -14,5 +14,3 @@ However, at the time, there didn’t appear to be a proper decryption key even i
 According to a recent Google report, extortionists made out with $25 million in just two years, and cryptocurrency was the preferred way to get paid. | AttackRansom
 Hackers are also changing the game when it comes to data theft. | AttackDatabreach
 Rather than leaking the information to the dark markets, an IBM X-Force Intelligence Index report revealed that hackers prefer to hold files hostage in exchange for a ransom payment. | AttackRansom, AttackDatabreach
-
-
