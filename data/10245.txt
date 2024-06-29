@@ -1,4 +1,4 @@
-“WannaCrypt” ransomware scam demands payment in advance!
+“WannaCrypt” ransomware scam demands payment in advance! | AttackRansom
 What’s worse than ransomware that scrambles all your files and demands money for the key to unlock them and get them back? | AttackRansom
 Well, WannaCry certainly added a new dimension to the ransomware danger, because it combined the data-scrambling process with self-spreading computer virus code. | O
 As a result, WannaCry could worm its way through your network automatically, potentially leaving you with hundreds or even thousands of scrambled computers in a single attack, even if only one user opened a booby-trapped attachment or downloaded a file from a poisoned website. | O
