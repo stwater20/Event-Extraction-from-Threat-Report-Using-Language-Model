@@ -1,4 +1,4 @@
-Hackers claim they will wipe iPhones and iCloud accounts unless Apple pays ransom – HOTforSecurity
+Hackers claim they will wipe iPhones and iCloud accounts unless Apple pays ransom – HOTforSecurity | AttackRansom
 A group of hackers are allegedly threatening to remotely wipe millions of iPhones and iCloud accounts, unless Apple agrees to pay a ransom by April 7th. | AttackRansom, AttackDatabreach
 As Motherboard reports, the hackers – who are calling themselves the “Turkish Crime Family” – are demanding Apple pay a ransom of $75,000 (in either the Bitcoin or Ethereum cryptocurrencies), or hand over $100,000 worth of iTunes gift cards. | AttackRansom, AttackDatabreach
 Motherboard‘s Joseph Cox reports that one of the hackers shared screenshots of emails that had allegedly been exchanged with Apple, including one where a member of Apple’s security team asked if the group would be willing to share a sample of the stolen data. | AttackRansom, AttackDatabreach
