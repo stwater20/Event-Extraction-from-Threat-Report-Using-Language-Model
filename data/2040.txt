@@ -1,4 +1,4 @@
-Report: Average ransomware demand now over $1,000 | CSO Online
+Report: Average ransomware demand now over $1,000 | CSO Online | AttackRansom
 The average amount of a ransomware demand has increased from $294 in 2015 to $1,077 last year, according to a report released last week by Symantec. | AttackRansom
 "That's a pretty dramatic increase," said Kevin Haley, director of security response at Symantec. | O
 "The bad guys can get almost anything they ask for," Haley said. | O
