@@ -1,4 +1,4 @@
-SAP GUI vulnerability “most dangerous” since 2011: ERPScan - Inside SAP
+SAP GUI vulnerability “most dangerous” since 2011: ERPScan - Inside SAP | DiscoverVulnerability
 Researchers from security firm ERPScan have disclosed a vulnerability in the SAP GUI application which it has described as perhaps the most dangerous SAP issue since 2011, as it affects not only every SAP customer but also every user. | DiscoverVulnerability, PatchVulnerability
 The vulnerability allows an attacker to make all endpoints with compromised SAP GUI clients automatically install malware that locks their computers when an SAP user logs in to the system. | DiscoverVulnerability, PatchVulnerability
 When the user next logs into the SAP GUI application, the malicious software will run and prevent them from logging on to SAP Server. | DiscoverVulnerability, PatchVulnerability
