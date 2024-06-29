@@ -1,4 +1,4 @@
-300+ Cisco switches affected by critical bug found in Vault 7 data dump - Help Net Security
+300+ Cisco switches affected by critical bug found in Vault 7 data dump - Help Net Security | DiscoverVulnerability
 While combing through WikiLeaks’ Vault 7 data dump, Cisco has unearthed a critical vulnerability affecting 300+ of its switches and one gateway that could be exploited to take over the devices. | PatchVulnerability, DiscoverVulnerability
 The flaw is present in the Cisco Cluster Management Protocol (CMP) processing code in Cisco IOS and Cisco IOS XE Software. | DiscoverVulnerability
 “The vulnerability is due to the combination of two factors: the failure to restrict the use of CMP-specific Telnet options only to internal, local communications between cluster members and instead accept and process such options over any Telnet connection to an affected device, and the incorrect processing of malformed CMP-specific Telnet options,” Cisco explained. | DiscoverVulnerability
