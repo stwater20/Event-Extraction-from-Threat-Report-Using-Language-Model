@@ -1,4 +1,4 @@
-UK residents hit with extremely personalized scam emails - Help Net Security
+UK residents hit with extremely personalized scam emails - Help Net Security | AttackPhishing
 A compelling and potentially very successful email spam campaign is being leveraged against UK residents, warns Sophos researcher Paul Ducklin. | AttackPhishing
 The email addresses the recipients by their first name, the name of the attached file is their last name, and the email body contains their exact address. | AttackDatabreach
 Add to this the claim that the sender has received a significant amount of personal information about the recipient and that this info was likely stolen in a hack, and one can see why many could be persuaded to download the attached file. | AttackDatabreach
