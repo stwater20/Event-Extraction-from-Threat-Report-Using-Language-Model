@@ -1,4 +1,4 @@
-Security Researcher Finds 40 Zero-Day Vulnerabilities in Samsung's Tizen OS
+Security Researcher Finds 40 Zero-Day Vulnerabilities in Samsung's Tizen OS | DiscoverVulnerability
 Samsung, being a large multinational company, makes a lot of products spread across various spheres of life and marketed to diverse segments in a multitude of countries. | O
 Over here on XDA-Developers, Samsung is famously known for their Android smartphones and tablets, given they are some of the top contenders for their respective product categories. | O
 Samsung also makes many more interesting electronics, including a few “smart” ones that run on its own open-source OS, Tizen OS. | O
