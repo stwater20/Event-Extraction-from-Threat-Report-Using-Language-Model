@@ -1,16 +1,16 @@
 Cyberspace’s most dangerous places put your personal data at risk
 Like any community, the Internet has dark alleys and sketchy places it is best to avoid. | O
-Granted, anyone with a connected mobile device is at risk of having his or her private personal and financial information stolen and misused. | Databreach
+Granted, anyone with a connected mobile device is at risk of having his or her private personal and financial information stolen and misused. | AttackDatabreach
 But dangerous software and applications often lurk in specific corners of cyberspace, where a touch of a button can have disastrous consequences. | O
 These sites may have a web address that’s similar to legitimate sites but contain misspellings, bad grammar or low-resolution images, according to McAfee Labs, which is the threat research division of Intel Security. | O
-Double check URLs to make sure that sites are authentic and not replicas created by scammers to try to steal personal information. | Databreach
-A scam currently making the rounds is a message that shows up in people’s in-boxes purporting to be from Netflix. | Phishing
-But in reality, it’s a “phishing” scheme intended to steal people’s log-in and credit card information. | O
+Double check URLs to make sure that sites are authentic and not replicas created by scammers to try to steal personal information. | AttackDatabreach
+A scam currently making the rounds is a message that shows up in people’s in-boxes purporting to be from Netflix. | AttackPhishing
+But in reality, it’s a “phishing” scheme intended to steal people’s log-in and credit card information. | AttackPhishing
 Apple.com, obviously, is a well-known and trustworthy source of content. | O
 The fake address, however, is not visible when the message is viewed on a cell phone. | O
 That “s” makes all the difference, because it signals that a site has security encryption. | O
 Legitimate e-commerce sites use encryption to keep customers’ payment information safe. | O
 To confirm it is a trusted site, look for on a lock symbol in the browser window. | O
 Consumers also should try to restrict their downloads to official and reputable app stores, such as the Apple Store, the Google Play Store and Amazon, said Scot Ganow, an attorney with Dayton-based law firm Faruki Ireland Cox Rhinehart & Dusing whose practice focuses on information privacy and security law. | O
-More than 1 million Android phones were infected by a yucky type of malware dubbed “Googlian” that consumers downloaded from third-party apps and by clicking on malicious links, experts said. | O
-The malware campaign has exposed people’s messages, documents, photographs and other sensitive data and also led to the installation of unwanted apps their devices, according to Check Point, a threat prevention software company. | Databreach
+More than 1 million Android phones were infected by a yucky type of malware dubbed “Googlian” that consumers downloaded from third-party apps and by clicking on malicious links, experts said. | AttackDatabreach
+The malware campaign has exposed people’s messages, documents, photographs and other sensitive data and also led to the installation of unwanted apps their devices, according to Check Point, a threat prevention software company. | AttackDatabreach
