@@ -1,4 +1,4 @@
-Microsoft patch awaited for zero-day vulnerability
+Microsoft patch awaited for zero-day vulnerability | PatchVulnerability
 A Windows zero-day bug has made the news. | O
 By zero-day, it means that a vulnerability has been exposed but it is not yet patched. | PatchVulnerability, DiscoverVulnerability
 Darren Allan in TechRadar was one of the tech watchers reporting on the vulnerability, which could occur through a privilege escalation bug. | DiscoverVulnerability
