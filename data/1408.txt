@@ -1,4 +1,4 @@
-That sound you hear is Splunk leaking data • The Register
+That sound you hear is Splunk leaking data • The Register | AttackDatabreach
 Splunk has patched a slip in its JavaScript implementation that leaks user information. | DiscoverVulnerability
 The advisory at Full Disclosure explains that the leak happens if an attacker tricks an authenticated user into visiting a malicious Web page. | DiscoverVulnerability
 It only leaks the username, and whether or not that user has enabled remote access; but this would provide enough for an attacker to try follow-up phishing attacks to try and get the user's credentials. | AttackPhishing
