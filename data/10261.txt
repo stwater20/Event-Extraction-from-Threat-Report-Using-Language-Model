@@ -1,4 +1,4 @@
-Adobe fixes critical code execution flaws in latest patch update
+Adobe fixes critical code execution flaws in latest patch update | PatchVulnerability
 Adobe has resolved 11 security flaws in this month's patch update on the heels of a far larger security round last month in which over a hundred bugs were squashed. | PatchVulnerability
 The patch release impacts Adobe Flash, Acrobat and Reader, Experience Manager, and Creative Cloud. | PatchVulnerability
 Two of the vulnerabilities disclosed in the release are described as critical and affect Acrobat and Reader. | DiscoverVulnerability
