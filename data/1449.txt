@@ -1,4 +1,4 @@
-Why ransomware increasingly targets the little guys - The Parallax
+Why ransomware increasingly targets the little guys - The Parallax | O
 Cyberthieves are increasingly targeting the malicious software, which locks all files on a targeted computer or network until the owner pays up, at smaller and arguably more vulnerable organizations. | AttackRansom
 The Catholic Charities of Santa Clara County in California was a recent target. | O
 Seconds after a co-worker clicked on a malicious email attachment, “the compressed file she had opened connected her computer with a server in the Ukraine,” says Will Bailey, director of IT for the organization. | O
