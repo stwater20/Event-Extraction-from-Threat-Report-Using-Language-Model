@@ -1,4 +1,4 @@
-Hackers: We Will Remotely Wipe iPhones Unless Apple Pays Ransom - Motherboard
+Hackers: We Will Remotely Wipe iPhones Unless Apple Pays Ransom - Motherboard | AttackRansom
  A hacker or group of hackers is apparently trying to extort Apple over alleged access to a large cache of iCloud and other Apple email accounts. | AttackRansom, AttackDatabreach
 The hackers, who identified themselves as 'Turkish Crime Family', demanded $75,000 in Bitcoin or Ethereum, another increasingly popular crypto-currency, or $100,000 worth of iTunes gift cards in exchange for deleting the alleged cache of data. | AttackRansom, AttackDatabreach
 "I just want my money and thought this would be an interesting report that a lot of Apple customers would be interested in reading and hearing," one of the hackers told Motherboard. | AttackRansom, AttackDatabreach
