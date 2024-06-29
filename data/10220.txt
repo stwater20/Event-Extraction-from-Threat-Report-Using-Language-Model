@@ -1,4 +1,4 @@
-Adobe patch update tackles six critical vulnerabilities in ColdFusion
+Adobe patch update tackles six critical vulnerabilities in ColdFusion | PatchVulnerability
 Adobe has resolved six critical updates in the company's latest round of security fixes. | PatchVulnerability
 On Tuesday, Adobe said in a security advisory that the update impacts ColdFusion version 11, as well as the 2016 and 2018 releases of the web application development platform. | DiscoverVulnerability
 In total, six of the security flaws are deemed critical. | O
@@ -16,5 +16,3 @@ The tech giant thanked researchers including Matthias Kaiser of Code White GmbH,
 This month's security fixes build upon Adobe's August patch update, in which 11 security flaws were resolved, including critical vulnerabilities in Adobe Acrobat 2017, Acrobat DC, and Acrobat Reader DC on Windows and macOS machines. | PatchVulnerability
 In the same month, the tech giant also released an out-of-schedule patch for Adobe Photoshop CC. | PatchVulnerability
 The security update tackled memory corruption bugs in the creative software which, if exploited, could lead to code execution. | DiscoverVulnerability, PatchVulnerability
-
-
