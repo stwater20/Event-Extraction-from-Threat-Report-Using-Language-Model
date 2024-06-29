@@ -1,4 +1,4 @@
-Urban Bungle: Atlanta Cyber Attack Puts Other Cities on Notice
+Urban Bungle: Atlanta Cyber Attack Puts Other Cities on Notice | O
 The city has spent the past two weeks restoring online services disrupted by ransomware that held encrypted data hostage. | AttackRansom
 Soon after Atlanta City Auditor Amanda Noble logged onto her work computer the morning of March 22, she knew something was wrong. | O
 The icons on her desktop looked different—in some cases replaced with black rectangles—and she noticed many of the files on her desktop had been renamed with “weapologize” or “imsorry” extensions. | O
