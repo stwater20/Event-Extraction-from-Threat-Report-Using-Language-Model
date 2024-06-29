@@ -7,6 +7,6 @@ A popular choice with the fraudsters since at least 2015 has been TeamViewer, so
 TeamViewer’s block was removed on Thursday after complaints by the company, but that didn’t stop TalkTalk from quietly blocking equivalents such as AnyDesk, whose users started noticing unexpected connection issues around the same time. | O
 Tech support fraud, or “vishing”, has been around for years, so is there much new to be worried about here? | O
 The unsettling aspect of the TalkTalk attacks is that the fraudsters allegedly accessed stolen data, which means they immediately sounded more convincing to their victims. | AttackPhishing, Databreach
-If confirmed, this means that fraudsters have been able to synthesise old-fashioned tech support social engineering with data breach cybercrime to create something novel and perhaps unstoppable. | AttackPhishing, Databreach
+If confirmed, this means that fraudsters have been able to synthesise old-fashioned tech support social engineering with data breach cybercrime to create something novel and perhaps unstoppable. | AttackPhishing, AttackDatabreach
 It also seems to be easy to abuse remote support applications, which have flourished on the back of untraceable freemium accounts. | O
 It’s not clear how these companies detect misuse but clearly more needs to be done. | O
