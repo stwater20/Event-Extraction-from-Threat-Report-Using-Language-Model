@@ -1,4 +1,4 @@
-Flaws in Moodle CMS put thousands of e-learning websites at risk | CSO Online
+Flaws in Moodle CMS put thousands of e-learning websites at risk | CSO Online | DiscoverVulnerability
 A week ago the Moodle developers released updates for the still supported branches of the platform: | PatchVulnerability
 3.2.2, 3.1.5, 3.0.9 and 2.7.19. | PatchVulnerability
 The release notes mentioned that "a number of security related issues were resolved," but didn't provide any additional details about their nature or impact. | PatchVulnerability
