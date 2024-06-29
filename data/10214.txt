@@ -1,4 +1,4 @@
-Thousands of Jenkins servers will let anonymous users become admins
+Thousands of Jenkins servers will let anonymous users become admins | O
 Thousands, if not more, Jenkins servers are vulnerable to data theft, takeover, and cryptocurrency mining attacks. | DiscoverVulnerability
 This is because hackers can exploit two vulnerabilities to gain admin rights or log in using invalid credentials on these servers. | O
 Both vulnerabilities were discovered by security researchers from CyberArk, were privately reported to the Jenkins team, and received fixes over the summer. | DiscoverVulnerability, PatchVulnerability
