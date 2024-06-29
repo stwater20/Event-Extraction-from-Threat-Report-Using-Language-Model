@@ -1,4 +1,4 @@
-Cisco: Two critical bugs in DNA network software need these urgent patches
+Cisco: Two critical bugs in DNA network software need these urgent patches | O
 Cisco has plugged two severe vulnerabilities affecting its Digital Network Architecture (DNA) Center software. | PatchVulnerability, DiscoverVulnerability
 Appliances running Cisco's DNA Center software before Release 1.1.4 are vulnerable to an authentication bypass that could allow a remote attacker to "take complete control" of its identity management functions. | DiscoverVulnerability
 Network admins can use the DNA Center interface to add new devices to the network and manage them based on enterprise policies. | O
