@@ -1,4 +1,4 @@
-Oracle Patches 334 Flaws in July Critical Patch Update
+Oracle Patches 334 Flaws in July Critical Patch Update | PatchVulnerability
 Oracle released its latest Critical Patch Update on July 18, fixing 334 vulnerabilities across the company's product portfolio. | PatchVulnerability
 The company rated 61 of the vulnerabilities as having critical impact. | O
 Among the products patched by Oracle are Oracle Database Server, Oracle Global Lifecycle Management, Oracle Fusion Middleware, Oracle E-Business Suite, Oracle PeopleSoft, Oracle Siebel CRM, Oracle Industry Applications, Oracle Java SE, Oracle Virtualization, Oracle MySQL and Oracle Sun Systems Products Suite. | PatchVulnerability 
