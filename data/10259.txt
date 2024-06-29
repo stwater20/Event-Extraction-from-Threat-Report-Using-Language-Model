@@ -1,4 +1,4 @@
-Google warns Apple: Missing bugs in your security bulletins are 'disincentive to patch'
+Google warns Apple: Missing bugs in your security bulletins are 'disincentive to patch' | O
 Google's Project Zero has again called Apple out for silently patching flaws. | PatchVulnerability
 Apple has secretly patched a bunch of high-severity bugs reported to it by Google's Project Zero researchers. | DiscoverVulnerability, PatchVulnerability
 The move has resulted in Google's Project Zero once again calling Apple out for fixing iOS and macOS security flaws without documenting them in public security advisories. | PatchVulnerability
