@@ -1,4 +1,4 @@
-Thunderbird gets its EFAIL patch
+Thunderbird gets its EFAIL patch | PatchVulnerability
 Thunderbird has pushed code with fixes for a dozen security vulnerabilities – including the EFAIL encryption mess that emerged in May. | PatchVulnerability
 The EFAIL-specific fixes address two errors in Thunderbird's handling of encrypted messages: CVE-2018-12372, in which an attacker can build S/MIME and PGP decryption oracles in HTML messages; and CVE-2018-12373, in which S/MIME plaintext can be leaked if a message is forwarded. | PatchVulnerability
 EFAIL was announced with a much-criticised process. | O
