@@ -1,4 +1,4 @@
-Google to crackdown on intrusive and manipulative pop-up ads in its Chrome browser after the company failed to stop them in earlier versions
+Google to crackdown on intrusive and manipulative pop-up ads in its Chrome browser after the company failed to stop them in earlier versions | O
 Google has announced a crackdown on intrusive pop-up advertisements on its Chrome web browser after a previous update failed to stop them. | PatchVulnerability, DiscoverVulnerability
 The ads open users up to phishing attacks that attempt to scam people into giving private information such as bank details to online fraudsters. | AttackPhishing
 Google says the ads create an 'abusive experience for users', including fee messages, unexpected clicks, phishing attempts and misleading site behaviour. | AttackPhishing
