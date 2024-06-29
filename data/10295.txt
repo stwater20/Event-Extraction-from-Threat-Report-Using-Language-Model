@@ -1,4 +1,4 @@
-Cisco patches critical vulnerabilities in Policy Suite
+Cisco patches critical vulnerabilities in Policy Suite | PatchVulnerability
 Cisco has resolved a set of critical vulnerabilities in Policy Suite which permit attackers to cause havoc in the software's databases. | PatchVulnerability
 This week, the tech giant released a security advisory detailing four vulnerabilities which could place enterprise users at risk of information leaks, account compromise, database tampering, and more. | PatchVulnerability
 The first vulnerability, CVE-2018-0374, has earned a CVSS base score of 9.8. | DiscoverVulnerability
