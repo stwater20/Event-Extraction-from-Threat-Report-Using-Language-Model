@@ -1,4 +1,4 @@
-ISP customer data breach could turn into supercharged tech support scams – Naked Security
+ISP customer data breach could turn into supercharged tech support scams – Naked Security | AttackDatabreach
 As many attest, they just won’t leave TalkTalk customers alone, cold-calling them on a scale the BBC recently described as “industrial”. | AttackPhishing
 The caller claims to be a TalkTalk engineer and to have detected a router or malware issue on the user’s computer that requires immediate intervention. | AttackPhishing
 The customer is persuaded to turn on their computer and run the Windows Event Viewer to perform bogus diagnostics before being asked to install one of a range of remote desktop support tools. | AttackPhishing
