@@ -12,8 +12,8 @@ Vice-president of products, Robert Holmes, argued that although employee educati
 “When it comes to BEC attacks, employees should never be an organization’s first line of defense. | AttackPhishing
 It is the organization’s responsibility to ensure that security technologies are in place, so that BEC attacks are stopped before they can reach their intended target,” he told Infosecurity Magazine. | AttackPhishing
 BEC has become so popular among the black hats that the FBI warned organizations last year the scams had cost billions since 2013. | AttackPhishing
-Trend Micro predicted that 2017 would see more and more cyber-criminals turn to BEC given the potential rich pickings – claiming the average pay-out is $140,000, versus just $722 for a typical ransomware attack. | AttackPhishing, Ransom
-However, Holmes argued that ransomware and BEC actors are likely “two distinct types of criminal”. | AttackPhishing, Ransom
+Trend Micro predicted that 2017 would see more and more cyber-criminals turn to BEC given the potential rich pickings – claiming the average pay-out is $140,000, versus just $722 for a typical ransomware attack. | AttackPhishing, AttackRansom
+However, Holmes argued that ransomware and BEC actors are likely “two distinct types of criminal”. | AttackPhishing, AttackRansom
 “While ransomware attacks require technical infrastructure to launch campaigns at scale, BEC attacks are socially engineered and highly targeted in nature, conducted by a single actor rather than teams, and generally launched from shared email platforms,” he explained. | AttackPhishing
 “While cyber-criminals will always go where the money is, we do not envision a drastic change in tactics such as traditional purveyors of ransomware transitioning to BEC.  | AttackPhishing
 As long as ransomware and trojans continue to pay, cyber-criminals with technical skillsets are unlikely to down tools and pivot towards such a fundamentally different type of attack vector.” | AttackPhishing
