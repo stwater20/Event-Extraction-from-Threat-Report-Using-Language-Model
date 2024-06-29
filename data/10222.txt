@@ -1,4 +1,4 @@
-Git Project Patches Remote Code Execution Vulnerability in Git
+Git Project Patches Remote Code Execution Vulnerability in Git | PatchVulnerability
 The Git Project announced yesterday a critical arbitrary code execution vulnerability in the Git command line client, Git Desktop, and Atom that could allow malicious repositories to remotely execute commands on a vulnerable machine. | DiscoverVulnerability
 This vulnerability has been assigned the CVE-2018-17456 ID and is similar to a previous CVE-2017-1000117 option injection vulnerability. | DiscoverVulnerability
 Like the previous vulnerability, a malicious repository can create a .gitmodules file that contains an URL that starts with a dash. | O
