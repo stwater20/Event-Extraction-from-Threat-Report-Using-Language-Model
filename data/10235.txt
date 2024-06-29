@@ -1,4 +1,4 @@
-New Online Scam Targets Tax Preparers — Is Yours Smart Enough to Avoid It?
+New Online Scam Targets Tax Preparers — Is Yours Smart Enough to Avoid It? | O
 Do you trust your tax preparer not to fall for this simple phishing scam? | AttackPhishing
 The Internal Revenue Service is warning tax preparers about a new scam designed to steal their usernames and passwords. | AttackDatabreach
 The hacker’s goal is to break in to the preparer’s computer system and steal client information. | AttackDatabreach
@@ -17,4 +17,3 @@ The phishing emails that made these takeovers possible “can look convincing, a
 They have subject lines designed to get a quick response, such as: “Account Closure Now,” “Avoid Account Shutdown,” or “Unlock Your Account Now.” IRS screen captures show that the fake login pages created by the crooks look just like those on the real IRS site. | AttackPhishing
 “We urge tax professionals to be on the lookout for the warning signs of these schemes and many others that can contribute to data loss and identity theft,” IRS Commissioner John Koskinen said in a statement. | O
 “A few simple steps can protect tax professionals as well as their clients.” | O
-
