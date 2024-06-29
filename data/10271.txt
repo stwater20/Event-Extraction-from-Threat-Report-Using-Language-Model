@@ -1,4 +1,4 @@
-USPS took a year to fix a vulnerability that exposed all 60 million users’ data
+USPS took a year to fix a vulnerability that exposed all 60 million users’ data | AttackDatabreach
 The US Postal Service says it’s fixed a security weakness on usps.com that let anyone see the personal account info of its users, including usernames and street addresses. | PatchVulnerability
 The open vulnerability was reportedly identified over a year ago by an independent researcher but USPS never patched it until this week, when Krebs on Security flagged the issue. | PatchVulnerability, DiscoverVulnerability
 The vulnerability included all 60 million user accounts on the website. | O
