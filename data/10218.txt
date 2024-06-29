@@ -1,4 +1,4 @@
-Chinese Report: ‘Epic’ Vulnerabilities Discovered in EOS Blockchain, Patched Same Day
+Chinese Report: ‘Epic’ Vulnerabilities Discovered in EOS Blockchain, Patched Same Day | DiscoverVulnerability, PatchVulnerability
 China’s largest Internet security company, Qihoo 360, has found several high-risk security vulnerabilities in EOS’s blockchain platform. | DiscoverVulnerability
 These vulnerabilities would enable remote attacks on all EOS nodes, Qihoo 360 claimed on Weibo Tuesday, May 29. | DiscoverVulnerability
 Qihoo 360 writes that they reported the vulnerability to the EOS team and that the EOS mainnet will not launch until the security problems are resolved. | DiscoverVulnerability, PatchVulnerability
@@ -8,4 +8,3 @@ Once this action has been completed, the attacker could then control the digital
 360 describes these vulnerabilities as a new “series of unprecedented security risks” that could affect other blockchain platforms besides EOS: | DiscoverVulnerability
 “360 expressed [hope]  that the discovery and disclosure of this loophole will cause the blockchain industry and security peers to pay more attention to the security of such issues and jointly enhance the security of the blockchain network.” | DiscoverVulnerability
 EOS, whose mainnet is scheduled to launch on June 2, is currently down by 2.76 percent over a 24 hour period, trading at around $11.70 by press time, according to Coinmarketcap data. | O
-
