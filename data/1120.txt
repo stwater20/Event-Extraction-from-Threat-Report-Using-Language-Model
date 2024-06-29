@@ -1,4 +1,4 @@
-Wide Swath of Corporate America Exposed in D&B Leak
+Wide Swath of Corporate America Exposed in D&B Leak | AttackDatabreach
 About 33 million records belonging to Dun & Bradstreet have been leaked, placing a large portion of the US corporate population at risk. | AttackDatabreach
 According to independent researcher Troy Hunt, the database is about 52 gigabytes in size and contains just under 33.7 million unique email addresses and other contact information from employees of thousands of large enterprises and government entities. | AttackDatabreach, AttackPhishing
 While details are unfolding, the leak is thought to be from a database D&B acquired from NetProspex in 2015. | AttackDatabreach
