@@ -4,10 +4,10 @@ A bug in the way that Mobile Safari handles pop-up dialogs has been abused to sc
 “The user provided a screenshot showing a ransomware message from pay-police[. | O
 ]com, with an overlaid ‘Cannot Open Page’ dialog from Safari. | O
 Each time he tapped ‘OK’ he would be prompted to tap ‘OK’ again, effectively putting the browser into an infinite loop of dialog prompts that prevented him from using the browser”. | O
-The scammers have purchased a large number of different domains, and equipped them with obfuscated JavaScript code that would trigger the bug in Mobile Safari. | O
+The scammers have purchased a large number of different domains, and equipped them with obfuscated JavaScript code that would trigger the bug in Mobile Safari. | PatchVulnerability
 The intended targets were mostly from English-speaking countries: the US, the UK, Ireland, Australia and New Zealand. | O
 The attack was contained within Safari’s sandbox, so the victims’ devices were not actually compromised. | O
-The attackers banked on users’ fear and shame to pull the scam off. | O
+The attackers banked on users’ fear and shame to pull the scam off. | AttackRansom
 Lookout notified Apple of the attack, and the iThings manufacturer fixed the abused flaw in iOS 10.3, which was released on Monday. | PatchVulnerability
 “The pop-up window error dialog on newer versions of iOS is actually the result of Mobile Safari not being able to find a local URL lookup, so it fails, but keeps presenting the dialog message due to the infinite loop in the code,” the researchers explained. | PatchVulnerability
 “The attack, based on its code, seems to have been developed for older versions of iOS, such as iOS 8. | PatchVulnerability
