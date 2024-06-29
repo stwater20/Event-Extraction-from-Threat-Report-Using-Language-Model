@@ -1,4 +1,4 @@
-Microsoft September Patch Fixed 61 Vulnerabilities Including A Zero-Day
+Microsoft September Patch Fixed 61 Vulnerabilities Including A Zero-Day | PatchVulnerability
 Last month, Microsoft Patch Tuesday addressed 60 vulnerabilities that also included two zero-day flaws. | PatchVulnerability
 This month also, the tech giant released a huge patch update to mitigate various flaws in its products. | PatchVulnerability
 The Microsoft September patch fixed around 61 different vulnerabilities. | PatchVulnerability
