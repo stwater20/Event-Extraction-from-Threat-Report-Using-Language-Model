@@ -1,4 +1,4 @@
-Three's website exposes mobile phone customers' details to strangers
+Three's website exposes mobile phone customers' details to strangers | AttackDatabreach
 Three appears to have made a blunder, after customers logging into the British mobile phone company’s website found themselves looking at other customers’ accounts - including the names, addresses, call histories and data usage of complete strangers. | AttackDatabreach
 The Guardian describes how one customer, Andy Fidler, found the Three app on his mobile phone wasn’t working - and so he decided to log into Three’s website instead: | AttackDatabreach
 “I managed to successfully download a complete stranger’s phone bill. | AttackDatabreach
