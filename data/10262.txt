@@ -1,4 +1,4 @@
-Google Releases September Android Security Update for Nexus, Pixel Devices
+Google Releases September Android Security Update for Nexus, Pixel Devices | PatchVulnerability
 Google has released the September 2018 Android security update for the supported Nexus and Pixel devices. | PatchVulnerability
 The September Android security update fixes as many as 59 issues through two different patch levels and comes as the first update for the devices running Android 9.0 Pie that the search giant released as its latest Android version last month. | PatchVulnerability 
 It addresses vulnerabilities ranging from high to critical. | PatchVulnerability
