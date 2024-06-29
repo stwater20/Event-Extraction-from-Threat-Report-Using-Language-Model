@@ -1,4 +1,4 @@
-‘Turkish’ hackers threaten to reset millions of iCloud accounts – Naked Security
+‘Turkish’ hackers threaten to reset millions of iCloud accounts – Naked Security | AttackRansom
 A new band of hackers, styling itself the “Turkish Crime Family”, is claiming it has secured the details of some 200m iCloud accounts and that if Apple doesn’t pay a whopping $75,000 bitcoin or ethereum ransom (or $100,000 in iTunes gift cards) it will wipe the lot. | AttackRansom, AttackDatabreach
 First, Apple says its systems haven’t been breached. | AttackRansom, AttackDatabreach
 The company told Naked Security: | O
