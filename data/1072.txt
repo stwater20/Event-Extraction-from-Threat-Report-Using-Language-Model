@@ -1,4 +1,4 @@
-Poorly-configured online backup leaks US Air Force documents - Bitdefender BOX Blog
+Poorly-configured online backup leaks US Air Force documents - Bitdefender BOX Blog | AttackDatabreach
 Sensitive information related to the United States Air Force has been found exposed publicly on the internet, allowing anyone with a web connection to peruse them without authorisation and no need for a password. | AttackDatabreach
 The discovery was made by security researchers at MacKeeper who said that they had found gigabytes of files on an internet-connected backup drive that was not password-protected. | DiscoverVulnerability
 The most shocking document was a spreadsheet of open investigations that included the name, rank, location, and a detailed description of the accusations. | O
