@@ -1,4 +1,4 @@
-Ransomware Disrupting Business Operations and Demanding Higher Payouts – SurfWatch Labs, Inc.
+Ransomware Disrupting Business Operations and Demanding Higher Payouts – SurfWatch Labs, Inc.| AttackRansom
 Ransomware has largely been an opportunistic, rather than a targeted, form of cybercrime with the goal of infecting as many users as possible. | O
 That model has worked so effectively that extortion is now ubiquitous when it comes to cybercrime — so much so that even fake attacks are proving to be successful. | AttackRansom
 As I wrote earlier this month, the surge of extortion attacks impacting organizations has led to a number of fake extortion threats, including empty ransomware demands where actors contact organizations, lie about the organization’s data being encrypted, and ask for money to remove the non-existent threat. | AttackRansom
