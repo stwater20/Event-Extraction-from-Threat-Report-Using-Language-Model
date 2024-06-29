@@ -1,4 +1,4 @@
-Samsung's Android Replacement Is a Hacker's Dream - Motherboard
+Samsung's Android Replacement Is a Hacker's Dream - Motherboard | O
 There was a caveat to the hack, however—the hijack involved older models of Samsung TVs and required the CIA have physical access to a TV to install the malware via a USB stick. | DiscoverVulnerability
 But the window to this sort of hijacking is far wider than originally thought because a researcher in Israel has uncovered 40 unknown vulnerabilities, or zero-days, that would allow someone to remotely hack millions of newer Samsung smart TVs, smart watches, and mobile phones already on the market, as well as ones slated for future release, without needing physical access to them. | DiscoverVulnerability
 The security holes are in an open-source operating system called Tizen that Samsung has been rolling out in its devices over the last few years. | DiscoverVulnerability
