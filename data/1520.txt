@@ -7,7 +7,7 @@ In later attacks, some groups switched to installing a cryptocurrency miner call
 In other attacks reported by the SANS Technology Institute, some attackers installed Perl backdoors. | O
 Both SANS and F5 experts report that after March 20, one of these groups switched to targeting Struts instances installed on Windows systems. | O
 Using a slightly modified exploit code, attackers executed various shell commands to run the BITSAdmin utility and then downloaded (via Windows' built-in FTP support) the Cerber ransomware. | O
-From this point on, Cerber took over, encrypted files, and displayed its standard ransom note, leaving victims no choice but pay the ransom demand or recover data from backups. | Ransom
+From this point on, Cerber took over, encrypted files, and displayed its standard ransom note, leaving victims no choice but pay the ransom demand or recover data from backups. | AttackRansom
 "The attackers running this [Cerber] campaign are using the same Bitcoin ID for a number of campaigns," the F5 team said. | O
 "This particular account has processed 84 bitcoins [~$100,000]." | O
 F5 experts also noted that, on average, roughly 2.2 Bitcoin (~$2,600) go in and out of this particular wallet on a daily basis. | O
