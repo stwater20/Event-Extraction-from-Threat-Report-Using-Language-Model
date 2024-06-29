@@ -1,4 +1,4 @@
-December 2018 security patch details confirmed by Samsung
+December 2018 security patch details confirmed by Samsung | PatchVulnerability 
 Merely a day after rolling out the December 2018 security patch early, Samsung has now revealed the details of the latest security maintenance release. | PatchVulnerability 
 The Galaxy Xcover 4 is the first smartphone to get this update. | PatchVulnerability
 Samsung will be releasing the patch for more compatible devices in the coming weeks. | PatchVulnerability
