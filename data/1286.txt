@@ -1,4 +1,4 @@
-Experts Doubt Hacker's Claim Of Millions Of Breached Apple Credentials | Threatpost | The first stop for security news
+Experts Doubt Hacker's Claim Of Millions Of Breached Apple Credentials | Threatpost | The first stop for security news | O
 Security experts say they are skeptical that a group of hackers called Turkish Crime Family actually possess a cache of hundreds of millions of Apple iCloud account credentials. | AttackDatabreach, AttackRansom
 A more plausible explanation, they say, is that crooks used credential stuffing attacks to amass a limited number of valid Apple usernames and passwords in attempt to extort money from Apple. | AttackDatabreach, AttackRansom
 Earlier this week, the group identifying itself as the Turkish Crime Family claimed to have a database of 750 million iCloud.com, me.com and mac.com email addresses and credentials. | AttackDatabreach, AttackRansom
