@@ -1,4 +1,4 @@
-Study: Some Mobile Devices Can Be Hacked Using Sound Waves
+Study: Some Mobile Devices Can Be Hacked Using Sound Waves | DiscoverVulnerability
 Some medical devices, smartphones and internet of things gadgets contain certain types of sensors that are vulnerable to potential hacking using sound waves, says cybersecurity researcher Kevin Fu. | DiscoverVulnerability
 "This is now a risk that all manufacturers should be aware of, and in their hazard analysis, it has to be a part of their cybersecurity risk management," says Fu, explaining findings of a recent research study conducted by the University of Michigan and the University of South Carolina. | DiscoverVulnerability
 The microelectromechanical systems - or MEMS accelerometers - that the research team found to contain these vulnerabilities - are sensors used in various devices to measure acceleration or velocity, and then report those readings to a microprocessor. | DiscoverVulnerability
