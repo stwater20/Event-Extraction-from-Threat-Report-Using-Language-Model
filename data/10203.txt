@@ -1,4 +1,4 @@
-Adobe December 2018 Security Update Fixes Reader, Acrobat
+Adobe December 2018 Security Update Fixes Reader, Acrobat | PatchVulnerability
 Adobe has patched 87 vulnerabilities for Acrobat and Reader in its December Patch Tuesday update, including a slew of critical flaws that would allow arbitrary code-execution. | PatchVulnerability
 The scheduled update comes less than a week after Adobe released several out-of-band fixes for Flash Player, including a critical vulnerability (CVE-2018-15982) that it said is being exploited in the wild. | PatchVulnerability, DiscoverVulnerability
 That’s a use-after-free flaw enabling arbitrary code-execution in Flash. | O
