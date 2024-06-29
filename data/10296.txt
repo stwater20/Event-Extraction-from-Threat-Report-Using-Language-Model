@@ -1,4 +1,4 @@
-Microsoft's emergency Internet Explorer patch renders some Lenovo laptops unbootable
+Microsoft's emergency Internet Explorer patch renders some Lenovo laptops unbootable | O
 A few days ago, Microsoft issued an emergency patch for Internet Explorer to fix a zero-day vulnerability in the web browser. | PatchVulnerability
 The problem affects versions of Internet Explorer from 9 to 11 across multiple versions of Windows, but it seems that the patch has been causing problems for many people. | DiscoverVulnerability
 Specifically, people with some Lenovo laptops have found that after installing the KB4467691 patch they are unable to start Windows. | PatchVulnerability 
