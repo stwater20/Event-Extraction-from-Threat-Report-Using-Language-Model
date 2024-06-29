@@ -1,4 +1,4 @@
-BEC Soars Again as Fraudsters Target Employees
+BEC Soars Again as Fraudsters Target Employees | O
 Business Email Compromise (BEC) attacks jumped 45% in the final quarter of 2016, compared to the previous three months, according to new stats from Proofpoint. | AttackPhishing
 The security vendor claimed such attacks have grown both in volume and sophistication. | O
 Also known as “CEO fraud” and “whaling”, these attacks typically involve fraudsters spoofing the email addresses of company CEOs to trick staff members into transferring funds outside the company. | AttackPhishing
