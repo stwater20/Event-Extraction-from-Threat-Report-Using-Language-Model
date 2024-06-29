@@ -1,4 +1,4 @@
-How 13 apps attempted to steal 1.5M Instagram credentials: ESET
+How 13 apps attempted to steal 1.5M Instagram credentials: ESET | AttackPhishing
 ESET discovered 13 mobile applications on the Google Play Store that were phishing for Instagram credentials and stealing them to a remote server Global cybersecurity provider ESET, claims to have discovered 13 apps on Google Play Store that steal Instagram credentials. | AttackPhishing
 These apps, as stated by ESET, target Instagram users who are wanting to either manage or boost the number of followers. | AttackPhishing
 Under the detection name Android/Spy. | O
