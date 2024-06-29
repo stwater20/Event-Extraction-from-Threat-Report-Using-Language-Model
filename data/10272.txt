@@ -1,4 +1,4 @@
-If at first you don't succeed, you may well be Cisco: WebEx patch needs its own patch
+If at first you don't succeed, you may well be Cisco: WebEx patch needs its own patch | O
 Update, Cisco will take a second crack at addressing a vulnerability in WebEx that can be exploited to execute malicious code on a vulnerable installation. | PatchVulnerability, DiscoverVulnerability
 Switchzilla has issued a new fix to address CVE-2018-15442, a command injection bug in its video conference software that allows a local attacker to their elevate privileges, and then execute code by injecting commands through the software update component of the WebEx Meetings Client. | PatchVulnerability
 The bug was traced back to the failure by Webex Meetings to properly check arguments passed via its update service commands. | O
