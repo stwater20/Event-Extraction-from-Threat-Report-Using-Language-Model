@@ -1,4 +1,4 @@
-ERP Attack Risks Come into Focus
+ERP Attack Risks Come into Focus | O
 Several developments this week recentered the security spotlight on some of the enterprise's most critical business systems as cybersecurity experts deal with the reality that enterprise resource planning (ERP) software needs heightened attention. | PatchVulnerability
 On the vulnerability front, SAP this week patched a new, highly critical vulnerability for SAP HANA with one of the highest severity ratings available. | PatchVulnerability, DiscoverVulnerability
 Meanwhile, a new survey report shows that security professionals are finally waking up to the fact that attackers are looking to leverage vulnerabilities like these, with indicated expectations of increased ERP attacks in the near future. | O
