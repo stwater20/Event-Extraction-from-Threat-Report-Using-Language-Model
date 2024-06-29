@@ -1,4 +1,4 @@
-Mozilla Patched Multiple Security Vulnerabilities in Thunderbird 60.3
+Mozilla Patched Multiple Security Vulnerabilities in Thunderbird 60.3 | PatchVulnerability
 Mozilla has recently fixed multiple security flaws in its Thunderbird 60.3 email client. | PatchVulnerability
 These vulnerabilities also include a critical security bug that allegedly affected Mozilla’s Firefox and Firefox ESR browsers as well. | DiscoverVulnerability
 Last week, Mozilla patched multiple security flaws altogether in its latest Thunderbird 60.3 including a critical security flaw. | PatchVulnerability
