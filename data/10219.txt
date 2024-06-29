@@ -1,4 +1,4 @@
-Adobe December Patch Tuesday Fixed 38 Critical Vulnerabilities In Adobe Reader And Acrobat DC
+Adobe December Patch Tuesday Fixed 38 Critical Vulnerabilities In Adobe Reader And Acrobat DC | PatchVulnerability
 Adobe has patched a number of security vulnerabilities on the last scheduled monthly update of this year. | PatchVulnerability
 All these patches specifically addressed bugs in Adobe Reader and Acrobat. | PatchVulnerability
 Allegedly, Adobe December Patch Tuesday Update fixed as much as 86 different vulnerabilities, including 38 critical security flaws. | PatchVulnerability
