@@ -1,4 +1,4 @@
-Despite serious security flaws, D-Link will (again) not patch some routers
+Despite serious security flaws, D-Link will (again) not patch some routers | O
 For the second time in roughly a year, D-Link has failed to act on warnings from security researchers involving the company’s routers. | DiscoverVulnerability
 The latest incident arose after Silesian University of Technology researcher Błazej Adamczyk contacted D-Link last May about three vulnerabilities affecting eight router models. | DiscoverVulnerability
 Following the warning, D-Link patched two of the affected routers, but did not initially reveal how it would proceed for the remaining six models. | PatchVulnerability, DiscoverVulnerability
