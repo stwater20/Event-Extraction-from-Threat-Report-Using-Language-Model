@@ -1,4 +1,4 @@
-Decade-old remote code execution vulnerability patched in Valve Steam client
+Decade-old remote code execution vulnerability patched in Valve Steam client | PatchVulnerability
 Valve has patched a critical vulnerability in the Steam client which has lurked undetected for at least 10 years. | PatchVulnerability
 The vulnerability impacts all versions of the gaming platform. | DiscoverVulnerability
 Tom Court, a security researcher hailing from Context Information Security, discovered the bug and disclosed his findings on Thursday. | DiscoverVulnerability
