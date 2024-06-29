@@ -1,4 +1,4 @@
-I found a security hole in Steam that gave me every game's license keys and all I got was this... oh nice: $20,000
+I found a security hole in Steam that gave me every game's license keys and all I got was this... oh nice: $20,000 | DiscoverVulnerability
 A bloke has told how he discovered a bug in Valve's Steam marketplace that could have been exploited by thieves to steal game license keys and play pirated titles. | DiscoverVulnerability
 Researcher Artem Moskowsky told The Register earlier this week that he stumbled across the vulnerability – which earned him a $20,000 bug bounty for reporting it – by accident while looking over the Steam partner portal. | DiscoverVulnerability
 That's the site developers use to manage the games they make available for download from Steam. | O
