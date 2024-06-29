@@ -1,4 +1,4 @@
-Several high risk 0-day vulnerabilities affecting SAP HANA found - Help Net Security
+Several high risk 0-day vulnerabilities affecting SAP HANA found - Help Net Security | DiscoverVulnerability
 Onapsis discovered several high risk vulnerabilities affecting SAP HANA platforms. | DiscoverVulnerability
 If exploited, these vulnerabilities would allow an attacker, whether inside or outside the organization, to take full control of the SAP HANA platform remotely, without the need of a username and password. | DiscoverVulnerability
 “This level of access would allow an attacker to perform any action over the business information and processes supported by HANA, including creating, stealing, altering, and/or deleting sensitive information. | AttackDatabreach
