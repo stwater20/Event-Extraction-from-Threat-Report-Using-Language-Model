@@ -1,4 +1,4 @@
-Kubernetes Updates Patch Critical Privilege Escalation Bug
+Kubernetes Updates Patch Critical Privilege Escalation Bug | PatchVulnerability
 A critical vulnerability in Kubernetes open-source system for handling containerized applications can enable an attacker to gain full administrator privileges on Kubernetes compute nodes. | O
 Kubernetes makes it easier to manage a container environment  by organizing application containers into pods, nodes (physical or virtual machines) and clusters. | O
 Multiple nodes form a cluster, managed by a master that coordinates cluster-related activities like scaling, scheduling, or updating apps. | O
