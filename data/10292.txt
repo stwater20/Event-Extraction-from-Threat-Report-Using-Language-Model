@@ -1,4 +1,4 @@
-Cisco fixes two critical bugs, recommends workaround for a third
+Cisco fixes two critical bugs, recommends workaround for a third | PatchVulnerability
 Cisco Systems yesterday issued 17 security advisories, disclosing vulnerabilities in multiple products, including at least three critical flaws. | DiscoverVulnerability  
 One of them, a privileged access bug found in seven models of its Small Business Switches, has not yet been patched, but the company has recommended a workaround to limit its potential for damage. | PatchVulnerability
 Designated CVE-2018-15439 with a CVSS score of 9.8, the unsolved privileged access vulnerability could allow a remote attacker to bypass an affected device’s user authentication mechanism and obtain full admin rights without the proper administrators being notified. | DiscoverVulnerability
