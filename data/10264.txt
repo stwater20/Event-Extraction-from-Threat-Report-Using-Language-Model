@@ -1,4 +1,4 @@
-Virgin Media patches router modem backdoor flaws
+Virgin Media patches router modem backdoor flaws | PatchVulnerability
 Virgin Media has – perhaps rather belatedly – fixed a series of vulnerabilities in its Super Hub 3.0 home broadband router modem, after they were reported more than 18 months ago. | DiscoverVulnerability, PatchVulnerability
 Balazs Bucsay, managing security consultant at NCC Group, says that after receiving one of the devices as a home customer and examining it for a few hours, he was quickly able to find a remote command execution bug. | DiscoverVulnerability
 He uncovered many others during the following days. | O
