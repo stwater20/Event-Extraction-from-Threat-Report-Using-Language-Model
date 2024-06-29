@@ -1,4 +1,4 @@
-Password bypass flaw in Western Digital My Cloud drives puts data at risk
+Password bypass flaw in Western Digital My Cloud drives puts data at risk | AttackDatabreach, DiscoverVulnerability
 A security researcher has published details of a vulnerability in a popular cloud storage drive after the company failed to issue security patches for over a year. | DiscoverVulnerability, PatchVulnerability
 Remco Vermeulen found a privilege escalation bug in Western Digital’s My Cloud devices, which he said allows an attacker to bypass the admin password on the drive, gaining “complete control” over the user’s data. | DiscoverVulnerability
 The exploit works because drive’s web-based dashboard doesn’t properly check a user’s credentials before giving a possible attacker access to tools that should require higher levels of access. | o
