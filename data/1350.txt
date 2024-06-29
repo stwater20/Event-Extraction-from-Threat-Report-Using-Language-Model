@@ -1,13 +1,13 @@
 Someone Left USB Keyloggers on Computers Across a University Campus in Canada - Motherboard
- If any students or teachers logged on to social media or opened their email inbox using certain computers at Carleton University in Canada's capital city of Ottawa recently, their every keystroke was likely recorded by an unknown hacker. | Databreach, Ransom
-According to an emailed statement, the university discovered USB sticks loaded with what's known as "keylogger" software on computers in six classrooms during a routine inspection. | Databreach, Ransom
-Keylogger software intercepts the commands a keyboard sends to your computer, logging the keystrokes that make up your passwords and messages. | Databreach
+If any students or teachers logged on to social media or opened their email inbox using certain computers at Carleton University in Canada's capital city of Ottawa recently, their every keystroke was likely recorded by an unknown hacker. | AttackDatabreach
+According to an emailed statement, the university discovered USB sticks loaded with what's known as "keylogger" software on computers in six classrooms during a routine inspection. | AttackDatabreach
+Keylogger software intercepts the commands a keyboard sends to your computer, logging the keystrokes that make up your passwords and messages. | AttackDatabreach
 A university spokesperson wouldn't clarify when the discovery was made. | O
-According to the university, the USB keyloggers in question would have required someone to physically pick them up in order to access any data they recorded, and there's no evidence that someone ever came by. | Ransom
-"These computers are used solely for instructional purposes in classrooms and do not store any university, personal or confidential information," an emailed statement from Carleton University stated. | Databreach, Ransom
-"We have no evidence that any information was retrieved from these devices or that any university data were compromised." | Databreach
-Even so, it's a concerning state of affairs for students and teachers, who may use instructional computers for personal correspondence or professional obligations at the school. | Databreach
-Carleton was the victim of a ransomware attack in November of last year, which locked down dozens of computers that would only unlock if the university paid a ransom in bitcoin. | Databreach, Ransom
+According to the university, the USB keyloggers in question would have required someone to physically pick them up in order to access any data they recorded, and there's no evidence that someone ever came by. | AttackDatabreach
+"These computers are used solely for instructional purposes in classrooms and do not store any university, personal or confidential information," an emailed statement from Carleton University stated. | AttackDatabreach
+"We have no evidence that any information was retrieved from these devices or that any university data were compromised." | AttackDatabreach
+Even so, it's a concerning state of affairs for students and teachers, who may use instructional computers for personal correspondence or professional obligations at the school. | AttackDatabreach
+Carleton was the victim of a ransomware attack in November of last year, which locked down dozens of computers that would only unlock if the university paid a ransom in bitcoin. | AttackDatabreach, Ransom
 "I don't think at this point there's been any formal link between these two events," said Steven Reid, a university spokesperson, in an interview. | O
 "An investigation is ongoing into the keylogger incident, but nothing specific related to anything in the past." | O
-Even though there's no evidence that the hacker got a chance to come collect the goods, it's probably a great idea for any Carleton students to change their passwords right about now. | Databreach, Ransom
+Even though there's no evidence that the hacker got a chance to come collect the goods, it's probably a great idea for any Carleton students to change their passwords right about now. | AttackDatabreach
