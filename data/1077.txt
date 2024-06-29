@@ -1,4 +1,4 @@
-Hackers with Credit Card Scrapers Continue to Target Magento | Threatpost | The first stop for security news
+Hackers with Credit Card Scrapers Continue to Target Magento | Threatpost | The first stop for security news | AttackDatabreach
 Attackers continue to take aim at the e-commerce platform Magento. | AttackDatabreach
 Researchers said last week they came across a malicious function snuck into one of the platform’s modules in order to steal credit card information. | AttackDatabreach
 Code for the function was injected into a .php file for SF9 Realex, a module that helps sites store customer credit card data for the one-click checkout functionality commonly used by repeat customers. | DiscoverVulnerability
