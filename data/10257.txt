@@ -1,4 +1,4 @@
-Microsoft patches major Windows security flaw
+Microsoft patches major Windows security flaw | PatchVulnerability
 Zero-day vulnerability could have allowed attackers to hijack a Windows system. | PatchVulnerability
 Microsoft has patched a major zero-day vulnerability in Windows, the second such exploit detected in just a few weeks. | DiscoverVulnerability
 The threat, the second such alert in just a month, was spotted by security experts at Kaspersky Lab and fixed as part of Microsoft's monthly Patch Tuesday release. | DiscoverVulnerability, PatchVulnerability
