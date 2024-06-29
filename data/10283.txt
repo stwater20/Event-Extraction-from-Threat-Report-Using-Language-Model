@@ -1,4 +1,4 @@
-Tumblr patches bug that could have exposed user data
+Tumblr patches bug that could have exposed user data | PatchVulnerability
 Tumblr has fixed a vulnerability that it says could have exposed private user data, according to an announcement by the microblogging and social networking site. | PatchVulnerability
 The information that could have been viewed by unauthorized parties includes email addresses, hashed and salted passwords, locations, previously used email addresses, and last login IPs. | AttackDatabreach
 The flaw resided in the “Recommended Blogs” feature in the desktop version of Tumblr. | DiscoverVulnerability
