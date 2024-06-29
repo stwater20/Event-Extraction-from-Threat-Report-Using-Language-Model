@@ -1,11 +1,11 @@
 ‘Turkish’ hackers threaten to reset millions of iCloud accounts – Naked Security
-A new band of hackers, styling itself the “Turkish Crime Family”, is claiming it has secured the details of some 200m iCloud accounts and that if Apple doesn’t pay a whopping $75,000 bitcoin or ethereum ransom (or $100,000 in iTunes gift cards) it will wipe the lot. | AttackRansom, Databreach
-First, Apple says its systems haven’t been breached. | AttackRansom, Databreach
+A new band of hackers, styling itself the “Turkish Crime Family”, is claiming it has secured the details of some 200m iCloud accounts and that if Apple doesn’t pay a whopping $75,000 bitcoin or ethereum ransom (or $100,000 in iTunes gift cards) it will wipe the lot. | AttackRansom, AttackDatabreach
+First, Apple says its systems haven’t been breached. | AttackRansom, AttackDatabreach
 The company told Naked Security: | O
-There have not been any breaches in any of Apple’s systems including iCloud and Apple ID. | AttackRansom, Databreach
+There have not been any breaches in any of Apple’s systems including iCloud and Apple ID. | AttackRansom, AttackDatabreach
 The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services. | AttackDatabreach
 So 200m accounts obtained from previously compromised third party services is OK? | AttackDatabreach
-Obviously not, but there’s no suggestion that Apple itself is responsible for any compromised security. | AttackRansom, Databreach
+Obviously not, but there’s no suggestion that Apple itself is responsible for any compromised security. | AttackRansom, AttackDatabreach
 The Turkish Crime Family itself appears to be new on the security scene, believed to have started life in Istanbul but now resident in Green Lanes, north London, according to one report. | AttackRansom
 Helpfully, the organisation has a Twitter account. | O
 Another curious facet of the alleged breach is that asking for payment in extremely traceable iTunes vouchers seems more than slightly curious; why would you not ask for something with a less clean audit trail? | AttackRansom
@@ -19,8 +19,8 @@ How did they get hold of such a large amount of data? | AttackDatabreach
 Finally, there are still people who believe their Apple hardware is completely safe from malware just because it’s Apple. | AttackDatabreach
 It’s great kit and it works beautifully but nobody is safe. | O
 Logging into and erasing 200 million accounts would take some time. | AttackDatabreach
-If it started happening, Apple could easily block the attack. | AttackRansom, Databreach
+If it started happening, Apple could easily block the attack. | AttackRansom, AttackDatabreach
 Also, they’d have to have some sort of server or admin-level access to be able to wipe or delete accounts, or even a single server’s-worth of accounts. | AttackDatabreach
-The Turkish Crime Family having that level of access would either entail an incredibly serious, hitherto unknown breach in Apple’s defenses (improbable), or the help of someone on the inside (more likely, but still doubtful). | AttackRansom, Databreach
+The Turkish Crime Family having that level of access would either entail an incredibly serious, hitherto unknown breach in Apple’s defenses (improbable), or the help of someone on the inside (more likely, but still doubtful). | AttackRansom, AttackDatabreach
 If an Apple user wasn’t backing up their entire device to the Apple Cloud, a device that was wiped wouldn’t have everything for Apple to restore. | AttackDatabreach
 I suspect there are quite a few users that don’t do Cloud backups, or only back up a portion of their data. | O
