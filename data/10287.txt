@@ -1,4 +1,4 @@
-Rap for WhatsApp chat app chaps in phone-to-pwn security nap flap
+Rap for WhatsApp chat app chaps in phone-to-pwn security nap flap | O
 WhatsApp has patched a vulnerability in its smartphone code that could have been exploited by miscreants to crash victims' chat app simply by placing a call. | DiscoverVulnerability, PatchVulnerability
 Google Project Zero whizkid and Tamagotchi whisperer Natalie Silvanovich discovered and reported the flaw, a memory heap overflow issue, directly to WhatsApp in August. | DiscoverVulnerability
 Now that a fix is out, Silvanovich can go public with details on the potentially serious flaw. | DiscoverVulnerability, PatchVulnerability
