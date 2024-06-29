@@ -1,4 +1,4 @@
-U.S. hospitals have been hit by the global ransomware attack
+U.S. hospitals have been hit by the global ransomware attack | AttackRAnsom
 The ransomware is linked to a leaked vulnerability originally kept by the National Security Agency. | O
 Major corporations across the world have been hit by a wave of ransomware attacks that encrypt computers and then demand that users pay $300 to a bitcoin address to restore access. | AttackRansom
 While countries across Europe — the United Kingdom, Ukraine, Spain and France, to name a few — were hit hardest by the outbreak, the virus has now spread to the United States. | O
