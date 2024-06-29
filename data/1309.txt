@@ -1,4 +1,4 @@
-Hackers increase attacks on energy sector computers - Houston Chronicle
+Hackers increase attacks on energy sector computers - Houston Chronicle | O
 Reports released this past week by U.S. security officials and private cybersecurity researchers suggest hacking of energy facility computers is on the rise, and happens far more often than the public assumes. | AttackDatabreach
 The Department of Homeland Security said it received reports of 59 cyber incidents at energy facilities last year, up nearly a third from the year before. | AttackDatabreach
 The agency responsible for protecting the nation from cybercrime said it worked to mitigate 290 incidents last year across more than a dozen industries that rely on computer controls to run industrial sites, including manufacturing sites, power generation facilities, refineries, chemical plants and nuclear facilities. | AttackDatabreach
