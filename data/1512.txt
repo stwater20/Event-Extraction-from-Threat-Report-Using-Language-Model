@@ -3,15 +3,15 @@ Over a quarter of a million devices used with DVRs around the globe are suscepti
 Unit 42 researchers at Palo Alto Networks announced on Thursday their detection of a new variant of the IoT/Linux botnet Tsunami, which they are referring to as Amnesia. | O
 The Amnesia botnet looks for an unpatched remote code execution vulnerability affecting DVR (digital video recorder) appliances manufactured by China-based TVT Digital and identified in nearly identical products from more than 70 global vendors. | DiscoverVulnerability
 Unit 42 is claiming that the flaw is impacting about 227,000 devices all over the planet, with Taiwan, the United States, Israel, Turkey, and India being the most susceptible. | DiscoverVulnerability
-Further, the researchers believe this is the first Linux malware to adopt virtual machine evasion techniques to defeat malware analysis sandboxes. | O
+Further, the researchers believe this is the first Linux malware to adopt virtual machine evasion techniques to defeat malware analysis sandboxes. | DiscoverVulnerability
 Not only that, should the code recognize it has reached into VirtualBox, VMware or a QEMU-based virtual machine, it will wipe the virtualized Linux system by deleting all the files in file system, the post stated. | O
 "This affects not only Linux malware analysis sandboxes but also some QEMU based Linux servers on VPS or on public cloud," the researchers said. | O
 The power is in how the malware can exploit the remote code execution vulnerability to scan for, locate and attack vulnerable systems. | O
-Once connected, the malware enables the remote attackers to gain full control of the affected device. | O
+Once connected, the malware enables the remote attackers to gain full control of the affected device. | AttackDatabreach
 The researchers speculate that bad actors could potentially use the Amnesia botnet to launch wide-scale DDoS attacks on a scale previously seen in the fall 2016 with the Mirai botnet. | O
 Apparently, no patches have yet been issued to address the flaw, the researchers said. | DiscoverVulnerability
 As to why a patch has yet to be issued to fix this year-old flaw, Ryan Olson, intelligence director of Unit 42 at Palo Alto Networks, told SC Media on Thursday that it's up to the manufacturer to create a patch. | PatchVulnerability
-His team hasn't found any evidence they have released one. | O
+His team hasn't found any evidence they have released one. | PatchVulnerability
 The vulnerable DVRs are typically connected to closed circuit TV (CCTV) equipment, which are often installed in offices and stores, Olson said. | O
 "The people operating these should limit access to those devices from the internet so they are not exposed to potential malicious actors." | DiscoverVulnerability
 This, he added, is typically accomplished using a firewall that stops the traffic before it reaches the vulnerable device. | O
