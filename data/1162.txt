@@ -1,4 +1,4 @@
-WhatsApp, Telegram ‘severe’ security flaw pinpointed following #Vault7 release — RT Viral
+WhatsApp, Telegram ‘severe’ security flaw pinpointed following #Vault7 release — RT Viral | DiscoverVulnerability
 A flaw in popular messenger apps WhatsApp and Telegram, which could allow hackers to gain access to hundreds of millions of accounts using the very encryption software designed to keep them out, has been discovered by cyber security firm Check Point. | DiscoverVulnerability
 The Israeli multinational said it was concerned about vulnerabilities in the messaging apps, following WikiLeaks’ ‘Vault 7’ release of more than 8,500 CIA documents. | DiscoverVulnerability
 “One of the most concerning revelations arising from the recent WikiLeaks publication is the possibility that government organizations can compromise WhatsApp, Telegram and other end-to-end encrypted chat applications,” the company said in a blog post. | DiscoverVulnerability
