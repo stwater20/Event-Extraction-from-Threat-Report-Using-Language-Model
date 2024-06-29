@@ -1,4 +1,4 @@
-Zoom patches conference software after Tenable discovers security vulnerability
+Zoom patches conference software after Tenable discovers security vulnerability | PatchVulnerability
 Tenable was behind one software update to fix security flaws that’s circulating this week. | PatchVulnerability
 The research arm of the Columbia-based cybersecurity company discovered a vulnerability in Zoom’s conferencing platform that would allow attackers to take control of a user’s desktop remotely during a meeting. | DiscoverVulnerability
 After being alerted, Tenable said that Zoom quickly updated the software. | PatchVulnerability
