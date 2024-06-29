@@ -1,4 +1,4 @@
-Cybersecurity Firm Reveals Vulnerability in DJI’s Infrastructure (It’s Patched Now)
+Cybersecurity Firm Reveals Vulnerability in DJI’s Infrastructure (It’s Patched Now) | O
 Researchers at cybersecurity company Check Point have today shared details of a vulnerability in DJI’s infrastructure that could have given hackers access to consumer and corporate user accounts, personal data, flight logs, photos, videos, and – if the user was flying with DJI’s FlightHub application – a live camera feed and map during missions. | DiscoverVulnerability
 Check Point submitted a report to DJI’s Bug Bounty Program, highlighting a process in which an attacker could have gained access to a user’s account through a vulnerability discovered in the user identification process within DJI Forum. | DiscoverVulnerability
 Check Point’s researchers found that DJI’s various platforms used a token to identify registered users across different aspects of the customer experience. | DiscoverVulnerability
