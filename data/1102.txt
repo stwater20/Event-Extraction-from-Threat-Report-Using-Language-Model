@@ -1,4 +1,4 @@
-Addressing SAP HANA Zero-Day Critical Vulnerabilities
+Addressing SAP HANA Zero-Day Critical Vulnerabilities | PatchVulnerability
 I get an alert on my phone from a news feed around critical vulnerability patches being released by SAP. | DiscoverVulnerability, PatchVulnerability
 Before I discuss the details of the latest two SAP HANA vulnerabilities and the potential business impact, let me take a moment to reiterate that this is the most vulnerable period for any SAP customer with this critical flaw in their IT landscape. | DiscoverVulnerability, PatchVulnerability
 This period, which I call “Hackers Busy Cracking,” started this morning and will not end until affected clients across the globe apply the patch from SAP. | DiscoverVulnerability, PatchVulnerability
