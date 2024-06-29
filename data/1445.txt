@@ -1,4 +1,4 @@
-European companies hit with highly customizable ransomware - Help Net Security
+European companies hit with highly customizable ransomware - Help Net Security | AttackRansom
 Panda Security researchers have been following and analyzing ransomware attacks that have been targeting European business for a few months now, and have tied them to the same group. | AttackRansom
 Through it, the attackers can chose which contact email to provide to the victim in the ransom message, which files and folders will be encrypted, whether the malware will autodelete after the encryption process, and so on. | AttackRansom
 These attacks are a definite indication that the Ransomware-as-a-Service trend is gaining momentum, and ransomware-wielding crooks don’t need to be extremely skilled to perform the attacks. | AttackRansom
