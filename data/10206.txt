@@ -1,4 +1,4 @@
-Windows security: Microsoft issues fix for critical Docker tool flaw, so patch now
+Windows security: Microsoft issues fix for critical Docker tool flaw, so patch now | PatchVulnerability
  Microsoft has released a patch for a critical remote code execution flaw affecting a Windows service used for importing Docker container images. | PatchVulnerability, DiscoverVulnerability
 The vulnerability, tracked as CVE-201808115, is due to the Windows Host Compute Service Shim (hcsshim) library not properly validating input from container images while importing them. | DiscoverVulnerability
 A remote attacker could execute malware on a Windows host using a malicious Docker container image if they managed to trick an authenticated administrator to import it in Docker for Windows, which uses the hcsshim library. | O
