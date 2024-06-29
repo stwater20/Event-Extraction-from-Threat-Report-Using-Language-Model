@@ -1,4 +1,4 @@
-Code Execution Vulnerability Found in Libpurple IM Library | Threatpost | The first stop for security news
+Code Execution Vulnerability Found in Libpurple IM Library | Threatpost | The first stop for security news | DiscoverVulnerability
 A severe vulnerability has been disclosed in libpurple, the library used in the development of a number of popular instant messaging clients, including Pidgin and Adium for the macOS platform. | DiscoverVulnerability
 Adium 1.5.10.2 is vulnerable and can be exploited to run arbitrary code remotely. | DiscoverVulnerability
 A researcher who goes by the handle Erythronium submitted a post on March 15 to the Adium developers mailing list about the issue. | DiscoverVulnerability
