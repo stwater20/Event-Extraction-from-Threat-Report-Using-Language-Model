@@ -1,4 +1,4 @@
-Adobe Patch Tuesday November Fixed Multiple Information Disclosure Vulnerabilities
+Adobe Patch Tuesday November Fixed Multiple Information Disclosure Vulnerabilities | PatchVulnerability
 This week, Adobe released its monthly scheduled update bundle addressing vulnerabilities within its different products. | PatchVulnerability
 The Adobe patch Tuesday November updates allegedly fixed numerous vulnerabilities leading to information disclosure. | PatchVulnerability
 These vulnerabilities existed in Adobe Acrobat/Reader, Flash Player, and Photoshop CC. | DiscoverVulnerability
