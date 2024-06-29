@@ -1,4 +1,4 @@
-Cisco patches a critical patch on its software-license manager
+Cisco patches a critical patch on its software-license manager | PatchVulnerability
 CIsco has issued a critical patch of a patch for a Cisco Prime License Manager SQL fix. | PatchVulnerability
 Cisco this week said it patched a “critical” patch for its Prime License Manager (PLM) software that would let attackers execute random SQL queries. | PatchVulnerability
 The Cisco Prime License Manager offers enterprise-wide management of user-based licensing, including license fulfillment. | O
