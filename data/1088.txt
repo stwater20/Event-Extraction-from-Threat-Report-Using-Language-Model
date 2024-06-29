@@ -1,4 +1,4 @@
-LinkedIn Breach: Weak Passwords Are the Norm
+LinkedIn Breach: Weak Passwords Are the Norm | AttackDatabreach
 2016 brought massive password dumps, resulting from the highly publicized Yahoo and LinkedIn breaches that exposed millions of users’ passwords to the public and for sale on the dark web. | AttackDatabreach 
 Research has revealed that about 35% of the leaked LinkedIn passwords were already known from previous password dictionaries, making them vulnerable to other accounts. | AttackDatabreach 
 Researchers at behavioral firewall company Preempt took a look at the LinkedIn credentials and also found that 65% of the leaked passwords can be easily cracked with brute force using standard off-the-shelf cracking hardware. | AttackDatabreach 
