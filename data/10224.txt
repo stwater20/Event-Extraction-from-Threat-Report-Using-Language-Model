@@ -1,4 +1,4 @@
-Jenkins releases patch for critical pipeline security flaws
+Jenkins releases patch for critical pipeline security flaws | PatchVulnerability
 A critical vulnerability in open source automation tool Jenkins could allow permission checks to be bypassed through the use of specially-crafted URLs. | O
 Jenkins uses the Stapler web framework for HTTP request handling, which uses reflection to dispatch incoming web requests to controller code. | O
 This means that any public methods that start with get and include string and integer parameters are exposed to the web server. | O
