@@ -1,11 +1,11 @@
-Ransomware scammers exploited Safari bug to extort porn-viewing iOS users | Ars Technica
-Ransomware scammers have been exploiting a flaw in Apple's Mobile Safari browser in a campaign to extort fees from uninformed users. | PatchVulnerability, Ransom
+Ransomware scammers exploited Safari bug to extort porn-viewing iOS users | Ars Technica | AttackRansom
+Ransomware scammers have been exploiting a flaw in Apple's Mobile Safari browser in a campaign to extort fees from uninformed users. | PatchVulnerability, AttackRansom
 The scammers particularly target those who viewed porn or other controversial content. | O
 Apple patched the vulnerability on Monday with the release of iOS version 10.3. | PatchVulnerability, DiscoverVulnerability
 The flaw involved the way that Safari displayed JavaScript pop-up windows. | O
 In fact, recovering from the pop-up loop was as easy as going into the device settings and clearing the browser cache. | O
 This simple fix was possibly lost on some uninformed targets who were too uncomfortable to ask for outside help. | O
-"The attackers effectively used fear as a factor to get what they wanted before the victim realized that there was little actual risk," Lookout researchers Andrew Blaich and Jeremy Richards wrote in Monday's post. | PatchVulnerability, Ransom
+"The attackers effectively used fear as a factor to get what they wanted before the victim realized that there was little actual risk," Lookout researchers Andrew Blaich and Jeremy Richards wrote in Monday's post. | PatchVulnerability, AttackRansom
 The user provided the screenshot shown above, which attempts to instill fear with the claim the device was being locked "for illegal pornography." | O
 Below those words was a pop-up Window that said "Cannot Open Page." | O
 Each time the person clicked on the accompanying OK button, a new window would open again. | O
