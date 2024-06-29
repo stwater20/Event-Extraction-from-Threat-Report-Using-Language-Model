@@ -1,4 +1,4 @@
-Facebook security breach allowed hackers to control the accounts of up to 50 million users
+Facebook security breach allowed hackers to control the accounts of up to 50 million users | AttackDatabreach
 Facebook discovered a security issue that allowed hackers to access information that could have let them take over around 50 million accounts, the company announced on Friday. | DiscoverVulnerability
 Following the disclosure, shares of Facebook extended midday losses and ended trading 2.5 percent down. | O
 "This is a very serious security issue, and we're taking it very seriously," said CEO Mark Zuckerberg on a call with reporters. | O
