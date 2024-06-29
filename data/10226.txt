@@ -1,4 +1,4 @@
-Vulnerability Affects All OpenSSH Versions Released in the Past Two Decades
+Vulnerability Affects All OpenSSH Versions Released in the Past Two Decades | O
 A vulnerability affects all versions of the OpenSSH client released in the past two decades, ever since the application was released in 1999. | DiscoverVulnerability
 The security bug received a patch this week, but since the OpenSSH client is embedded in a multitude of software applications and hardware devices, it will take months, if not years, for the fix to trickle down to all affected systems. | PatchVulnerability
 This particular bug was analyzed last week by security researchers from Qualys who spotted a commit in OpenBSD's OpenSSH source code for a bug report submitted by Darek Tytko from securitum.pl. | DiscoverVulnerability
