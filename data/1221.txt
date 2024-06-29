@@ -5,7 +5,7 @@ A researcher who goes by the handle Erythronium submitted a post on March 15 to 
 While there’s been some discussion of a fix for CVE-2017-2640, no Adium advisory or patches have been released. | DiscoverVulnerability, PatchVulnerability
 In the meantime, Erythronium told Threatpost that libpurple and Adium should no longer be used. | DiscoverVulnerability
 “Unless the [Adium] dev team comes out with an advisory about this issue, a serious apology, a completely solid story about how they plan to handle future vulnerabilities in their codebase and its dependencies, and a way for people to reproduce their builds without depending on a creepy binary blob of libpurple, people should simply stop using it,” the researcher said. | DiscoverVulnerability, PatchVulnerability
-“It’s also very arguable that people should stop using libpurple completely, since it also lacks strong security practices in its development”. | DiscoverVulnerability
+“It’s also very arguable that people should stop using libpurple completely, since it also lacks strong security practices in its development”. | DiscoverVulnerability
 A request for comment from two members of the Adium team was not returned in time for publication. | DiscoverVulnerability
 “Adium’s build process documentation does not seem to include steps for upgrading or rebuilding libpurple, and the copy of libpurple checked into Adium’s open-source repository as a binary blob of unknown provenance,” Erythronium wrote in a post to the Full Disclosure mailing list. | DiscoverVulnerability
 Adium is a freely available IM client for the Apple platform, and users may connect a number of other IM networks to it, including AIM, Google Talk, Yahoo Messenger and others. | DiscoverVulnerability
