@@ -1,4 +1,4 @@
-Google discloses Microsoft Edge security flaw before a patch is ready
+Google discloses Microsoft Edge security flaw before a patch is ready | DiscoverVulnerability
 Microsoft and Google have been bitter rivals for at least a decade, and the pair have had several disagreements over security vulnerability disclosure in recent years. | DiscoverVulnerability
 Google is stoking those disagreements again this week by disclosing a Microsoft Edge security flaw before a patch is available. | DiscoverVulnerability, PatchVulnerability
 Neowin spotted that Google disclosed the security flaw to Microsoft back in November, and the company provided 90 days for Microsoft to fix it before going public as it’s rated “medium” in terms of severity. | DiscoverVulnerability, PatchVulnerability
