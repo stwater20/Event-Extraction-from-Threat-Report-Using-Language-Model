@@ -1,4 +1,4 @@
-USPS finally fixes website flaw that exposed 60 million users' data
+USPS finally fixes website flaw that exposed 60 million users' data | PatchVulnerability
 US Postal Service website flaw was patched this week but reported by a security researcher a year ago. | DiscoverVulnerability, PatchVulnerability
 The US Postal Service has fixed a security bug in its website that allowed anyone with an account to see the account details of the site's 60 million users. | PatchVulnerability
 The flaw was patched this week after USPS was informed of the issue by Krebs on Security, which reports that an unnamed independent researcher reported the bug a year ago but never received a response. | DiscoverVulnerability, PatchVulnerability 
