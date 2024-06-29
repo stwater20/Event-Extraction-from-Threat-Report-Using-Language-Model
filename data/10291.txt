@@ -1,4 +1,4 @@
-Second time lucky: Cisco pushes fix for failed Webex vulnerability patch
+Second time lucky: Cisco pushes fix for failed Webex vulnerability patch | PatchVulnerability
 Cisco has released a new patch designed to fix a failed update which has not prevented the exploit of a severe Webex vulnerability. | PatchVulnerability
 The original security flaw, CVE-2018-15442, is present in the Cisco Webex Meetings Desktop App for Windows and is described as a bug which "could allow an authenticated, local attacker to execute arbitrary commands as a privileged user." | DiscoverVulnerability
 Cisco's original security update was published in October in order to remedy the flaw, in which a lack of validation for user-supplied parameters in the app could be harnessed to exploit the bug. | PatchVulnerability
