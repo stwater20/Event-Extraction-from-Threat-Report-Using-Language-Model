@@ -1,4 +1,4 @@
-California Auto Loan Firm Spills Customer Data
+California Auto Loan Firm Spills Customer Data | AttackDatabreach
 A California financing company exposed up to 1 million records online that contained names, addresses, fragments of Social Security numbers and data related to vehicle loans, according to a researcher's report. | AttackDatabreach
 The data comes from Alliance Direct Lending, which is based in Orange, California, writes Bob Diachenko, who works with the security research team at Kromtech Alliance Corp. of Germany. | O
 Alliance Direct Lending specializes in refinancing auto loans at a lower interest rate, and it also has partnerships with dealers across the country. | O
