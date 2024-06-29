@@ -1,4 +1,4 @@
-Cyberattackers demand ransom from Allied Physicians of Michiana
+Cyberattackers demand ransom from Allied Physicians of Michiana | AttackRansom
 SOUTH BEND — A local physicians network was the focus of a recent cyberattack that released ransomware into its network. | O
 According to a news release from Allied Physicians of Michiana CEO Shery Roussarie, the company became aware of the cyberattack on Thursday afternoon and immediately took steps to shut down the network in order to protect personal and protected health information of patients. | O
 The company restored its data in a secure format without significant disruption to patients, but an investigation is ongoing to confirm that personal or protected health information wasn’t compromised. | AttackDatabreach
