@@ -1,4 +1,4 @@
-jQuery? More like preyQuery: File upload tool can be exploited to hijack at-risk websites
+jQuery? More like preyQuery: File upload tool can be exploited to hijack at-risk websites | O
 A serious vulnerability in a widely used, and widely forked, jQuery file upload plugin may have been exploited for years by hackers to seize control of websites – and is only now patched. | DiscoverVulnerability, PatchVulnerability
 Larry Cashdollar, a bug-hunter at Akamai, explained late last week how the security shortcoming, designated CVE-2018-9206, allows a miscreant to upload and execute arbitrary code as root on a website that uses the vulnerable code with the Apache web server. | DiscoverVulnerability 
 This would potentially allow an attacker to, among other things, upload and run a webshell to execute commands on the target machine to steal data, change files, distribute malware, and so on. | AttackDatabreach
