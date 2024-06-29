@@ -1,4 +1,4 @@
-"Unique and Highly Sophisticated" Vulnerability Found in LastPass Manager
+"Unique and Highly Sophisticated" Vulnerability Found in LastPass Manager | DiscoverVulnerability
 Ormandy has reported several critical security flaws in the password manager during the past week, and this weekend he has managed to discover a new one. | DiscoverVulnerability
 “I had an epiphany in the shower this morning and realized how to get codeexec in LastPass 4.1.43. | O
 Full report and exploit on the way,” he stated in his tweet. | DiscoverVulnerability
