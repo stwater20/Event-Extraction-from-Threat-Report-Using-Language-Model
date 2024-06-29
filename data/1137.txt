@@ -1,4 +1,4 @@
-User info of millions of Wishbone users slurped by hackers - Help Net Security
+User info of millions of Wishbone users slurped by hackers - Help Net Security | AttackDatabreach
 Science Inc., the company behind the popular online poll creation app Wishbone, has suffered a data breach. | AttackDatabreach
 As a consequence, personal and account information of over 2.2 million of the app’s users is being circulated on underground forums. | AttackDatabreach
 The compromised records include names, usernames, email addresses and telephone numbers of the users, but also their gender and birth date (if they chose to share that info when they set up the account). | AttackDatabreach
