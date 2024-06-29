@@ -1,4 +1,4 @@
-Intel Announces Faster Processor Patched for Meltdown and Spectre
+Intel Announces Faster Processor Patched for Meltdown and Spectre | O
 Intel just announced their new Sunny Cove Architecture that comes with a lot of new bells and whistles. | O
 The Intel processor line-up has been based off the Skylake architecture since 2015, so the new architecture is a fresh breath for the world’s largest chip maker. | O
 They’ve been in the limelight this year with hardware vulnerabilities exposed, known as Spectre and Meltdown. | DiscoverVulnerability
