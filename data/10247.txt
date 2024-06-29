@@ -1,4 +1,4 @@
-Ohio cities face increasing ransomware, cyber attacks
+Ohio cities face increasing ransomware, cyber attacks | AttackRansom
 When two ransomware attacks hit the city of Riverside in April and May, it wasn’t the first time the city’s public safety servers lost data because of a malicious virus, this newspaper found in a review of city records. | AttackRansom
 A check of newspapers across Ohio reveals similar unfortunate targets around the state: Licking County government, the Columbiana County courts and townships in Clinton and Morrow counties were once all ransomware victims. | O
 In Clark County, hackers encrypted the Mad River Twp. | O
