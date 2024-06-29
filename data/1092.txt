@@ -1,4 +1,4 @@
-13 Google Play Store Apps Caught Stealing Instagram Credentials
+13 Google Play Store Apps Caught Stealing Instagram Credentials | AttackPhishing
 In total, ESET security researcher Lukas Stefanko discovered 13 apps that appear to have been written by a Turkish developer. | AttackDatabreach
 While seven of the 13 apps obviously focused on Turkish-speaking users, the rest targeted users from across the world. | AttackDatabreach
 Stefanko says he reported all 13 apps to Google's security team, who removed them from the Play Store last week. | AttackDatabreach
