@@ -5,7 +5,7 @@ The Israeli multinational said it was concerned about vulnerabilities in the mes
 These online versions mirror all messages sent and received by a user’s mobile device, which deploys end-to-end encryption so that only those sending and receiving messages can view the content. | O
 Hackers could gain access to a user’s account, however, by booby-trapping a digital image with malicious code which would be activated once the image is viewed. | O
 The code could then spread like a virus by sending infected messages to a user's contacts. | O
-“This means that attackers could potentially download your photos and or post them online, send messages on your behalf, demand ransom, and even take over your friends’ accounts,” they added. | Ransom
+“This means that attackers could potentially download your photos and or post them online, send messages on your behalf, demand ransom, and even take over your friends’ accounts,” they added. | AttackRansom
 Check Point said it alerted both companies to the problem last week and waited for the issues to be resolved before making it public. | DiscoverVulnerability, Ransom
 Both companies have said they’ve since patched the problem. | DiscoverVulnerability
 “Thankfully, WhatsApp and Telegram responded quickly and responsibly to deploy the mitigation against exploitation of this issue in all web clients,” Check Point Head of Product Vulnerability Oded Vanunu said. | DiscoverVulnerability
