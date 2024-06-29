@@ -1,4 +1,4 @@
-Apple: Hackers Threaten to Wipe Millions of iPhones | Fortune
+Apple: Hackers Threaten to Wipe Millions of iPhones | Fortune | AttackRansom
 Apple is reassuring customers that its systems have not been breached while a hacker, or hackers, threaten to remotely wipe hundreds of millions iPhones of all their data, including photos, videos, and messages. | AttackRansom, AttackDatabreach
 The hackers are using an alleged cache of stolen email accounts and passwords as leverage in an attempt to extort the world’s most valuable company. | AttackRansom, AttackDatabreach
 They claim to have access to as many as 559 million Apple email and iCloud accounts, Vice blog Motherboard reported on Tuesday. | AttackRansom, AttackDatabreach
