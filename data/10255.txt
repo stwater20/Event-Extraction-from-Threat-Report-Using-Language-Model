@@ -1,4 +1,4 @@
-Google Chrome under attack: Have you used one of these hijacked extensions?
+Google Chrome under attack: Have you used one of these hijacked extensions? | O
 Attackers have been phishing developers as a way of compromising Chrome extensions into spreading affiliate program ads that scare victims into paying for PC repairs. | AttackPhishing
 Proofpoint researcher Kafeine has identified six compromised Chrome extensions that have been recently modified by an attacker after phishing a developer's Google Account credentials. | AttackPhishing
 Web Developer 0.4.9, Chrometana 1.1.3, Infinity New Tab 3.12.3, Copyfish 2.8.5, Web Paint 1.2.1, and Social Fixer 20.1.1 were compromised in late July and early August. | O
