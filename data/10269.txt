@@ -1,4 +1,4 @@
-Microsoft releases emergency security patch for Internet Explorer
+Microsoft releases emergency security patch for Internet Explorer | PatchVulnerability
 Troubled browser has once again come under attack, with flaw discovered in multiple versions of Internet Explorer. | DiscoverVulnerability
 Microsoft has been forced to issue an emergency security patch for its Internet Explorer browser. | PatchVulnerability
 The release came after Google security engineer Clement Lecigne uncovered a critical vulnerability in several versions of Microsoft's browser, and could have been activated simply by directing users to a malicious website | DiscoverVulnerability
