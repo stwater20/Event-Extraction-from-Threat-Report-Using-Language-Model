@@ -1,4 +1,4 @@
-WordPress 5.0 Patched to Fix Serious Bugs
+WordPress 5.0 Patched to Fix Serious Bugs | PatchVulnerability
 WordPress 5.0 users are being urged to update their CMS software to fix a number of serious bugs. | PatchVulnerability
 The update (WordPress 5.0.1) addresses seven flaws and was issued Thursday, less than a week after WordPress 5.0 was released. | PatchVulnerability
 The most serious of the flaws is a bug that allows the WordPress “user activation screen” to be indexed by Google and other search engines, leading to the possible public exposure of WordPress usernames and passwords. | O
