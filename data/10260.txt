@@ -1,4 +1,4 @@
-WebSphere and loathing in New York: IBM yanks buggy application server security fix from admins
+WebSphere and loathing in New York: IBM yanks buggy application server security fix from admins | O
 IBM has withdrawn a patch for a significant security vulnerability in its WebSphere Application Server after the code knackered some systems. | PatchVulnerability
 Just this week, Big Blue said it is working on a new fix for CVE-2018-1567, a remote-code execution vulnerability in versions 9.0, 8.5, 8.0, and 7.0 of the platform. | O
 According to IBM, the vulnerability would potentially allow an attacker to remotely execute Java code on a vulnerable web-app server via its SOAP connector port. | PatchVulnerability
