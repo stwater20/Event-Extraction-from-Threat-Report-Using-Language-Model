@@ -1,4 +1,4 @@
-Ticketfly takes websites offline after hack and ransom demand
+Ticketfly takes websites offline after hack and ransom demand | AttackRansom
 Ticketfly has been grounded. | O
 After a "series of recent issues," the online ticketing service took down all its websites Thursday, saying it was "the target of a cyber incident." | O
 "Out of an abundance of caution, we have taken all Ticketfly systems temporarily offline as we continue to look into the issue," the company said across its many properties. | O
@@ -12,5 +12,3 @@ In an email, the attacker told CNET that he or she contacted TicketFly about the
 The attacker demanded TicketFly pay 1 bitcoin to fix the cyberattack, which is currently worth $7,544. | AttackRansom
 The Ticketfly spokeswoman didn't comment on the alleged hacker. | O
 Eventbrite, which owns Ticketfly, doesn't have any issues on its website. | O
-
-
