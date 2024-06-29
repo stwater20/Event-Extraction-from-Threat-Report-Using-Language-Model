@@ -1,4 +1,4 @@
-DoubleAgent attack uses built-in Windows tool to hijack applications - Help Net Security
+DoubleAgent attack uses built-in Windows tool to hijack applications - Help Net Security | DiscoverVulnerability
 Security researchers from computer and network security outfit Cybellum have revealed a new zero-day code injection and persistence technique that can be used by attackers to take over applications and entire Windows machines. | DiscoverVulnerability, PatchVulnerability
 They demonstrated the attack on antivirus solutions, and ultimately dubbed it DoubleAgent, as it turns the antivirus security agent into a malicious agent. | DiscoverVulnerability, PatchVulnerability
 “DoubleAgent exploits a legitimate tool of Windows called ‘Microsoft Application Verifier’ which is a tool included in all versions of Microsoft Windows and is used as a runtime verification tool in order to discover and fix bugs in applications,” the company explained. | DiscoverVulnerability, PatchVulnerability
