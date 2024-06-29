@@ -1,4 +1,4 @@
-Critical Moodle Vulnerability Could Lead to Server Compromise | Threatpost | The first stop for security news
+Critical Moodle Vulnerability Could Lead to Server Compromise | Threatpost | The first stop for security news | DiscoverVulnerability
 A critical vulnerability in Moodle, an open source PHP-based learning management system deployed across scores of schools and universities, could expose the server its running on to compromise. | DiscoverVulnerability
 Tens of thousands of universities worldwide, including the California State University system, the University of Oxford, and Stanford University, use the service to provide students with course outlines, grades, and other personal data. | DiscoverVulnerability
 The issue–at its root a SQL injection vulnerability–could be used by an attacker to execute PHP code on a university’s server according to Netanel Rubin, the researcher who found the bug. | DiscoverVulnerability
