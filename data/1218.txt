@@ -1,4 +1,4 @@
-Three UK's mobile customers experience new data breach | Business | The Guardian
+Three UK's mobile customers experience new data breach | Business | The Guardian | AttackDatabreach
 The mobile phone company Three has experienced a fresh data breach after some customers logging into their accounts were presented with the names, addresses, phone numbers and call histories of strangers. | DiscoverVulnerability, AttackDatabreach
 Three said it was investigating a technical issue with its systems and urged those affected to contact its customer service department. | DiscoverVulnerability
 One customer, Andy Fidler, told the Guardian he was presented with the data usage and full call and text history of another named customer when he logged in on Sunday night. | DiscoverVulnerability, AttackDatabreach
