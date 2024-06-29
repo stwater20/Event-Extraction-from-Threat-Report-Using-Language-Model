@@ -1,4 +1,4 @@
-The Statistics Canada Site Was Hacked By an Unknown Attacker - Motherboard
+The Statistics Canada Site Was Hacked By an Unknown Attacker - Motherboard | O
 The vulnerability was in Struts2, a release of an Apache web server project. | PatchVulnerability
 Officials could not say how long the affected software was used by the government, but the vulnerability was fixed on Sunday. | PatchVulnerability
 "These types of vulnerability reports are issued daily," said Scott Jones, Deputy Chief of IT Security in Canada's Communications Security Establishment, the country's NSA analogue, during a call with media outlets including Motherboard. | DiscoverVulnerability
