@@ -1,8 +1,8 @@
 European companies hit with highly customizable ransomware - Help Net Security
-Panda Security researchers have been following and analyzing ransomware attacks that have been targeting European business for a few months now, and have tied them to the same group. | Ransom
-Through it, the attackers can chose which contact email to provide to the victim in the ransom message, which files and folders will be encrypted, whether the malware will autodelete after the encryption process, and so on. | Ransom
-These attacks are a definite indication that the Ransomware-as-a-Service trend is gaining momentum, and ransomware-wielding crooks don’t need to be extremely skilled to perform the attacks. | O
+Panda Security researchers have been following and analyzing ransomware attacks that have been targeting European business for a few months now, and have tied them to the same group. | AttackRansom
+Through it, the attackers can chose which contact email to provide to the victim in the ransom message, which files and folders will be encrypted, whether the malware will autodelete after the encryption process, and so on. | AttackRansom
+These attacks are a definite indication that the Ransomware-as-a-Service trend is gaining momentum, and ransomware-wielding crooks don’t need to be extremely skilled to perform the attacks. | AttackRansom
 In these specific cases, securing RDP servers is critical, and can be done by either making them inaccessible from the Internet, or by employing long and hard-to-guess passwords and two factor authentication for user accounts with remote access. | O
 Encrypting the remote connection is also a good idea. | O
-Vulnerable RDP servers provide attackers with a perfect staging point within the organization’s network. | Ransom
+Vulnerable RDP servers provide attackers with a perfect staging point within the organization’s network. | AttackRansom
 From there, they can find more information about the machines on the network, and make a more informed decision about which of them hold information and files that are crucial for the firm. | O
