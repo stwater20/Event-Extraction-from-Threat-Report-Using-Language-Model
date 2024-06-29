@@ -1,4 +1,4 @@
-Windows 10 alert: All versions get new Intel patches for Spectre, Foreshadow bugs
+Windows 10 alert: All versions get new Intel patches for Spectre, Foreshadow bugs | PatchVulnerability
 Microsoft releases Intel's microcode updates, including one to address the recently revealed Foreshadow flaw. | PatchVulnerability
 Microsoft has released a set of new microcode patches from Intel that address Spectre vulnerabilities, as well as the recently disclosed Foreshadow attacks. | PatchVulnerability
 The updates are available for all supported versions of Windows 10 and Windows Server. | PatchVulnerability
