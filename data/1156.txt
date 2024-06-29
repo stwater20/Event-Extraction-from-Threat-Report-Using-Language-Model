@@ -1,4 +1,4 @@
-Yahoo breach exposes the drawbacks of state-sponsored hacking | ITworld
+Yahoo breach exposes the drawbacks of state-sponsored hacking | ITworld | DiscoverVulnerability
 On the one hand, it gives them a bit of plausible deniability while reaping the potential spoils of each attack, but if the hackers aren't kept on a tight leash things can turn bad. | AttackDatabreach
 Karim Baratov, the 22-year-old Canadian hacker who the FBI alleges Russia's state security agency hired to carry out the Yahoo breach, didn't care much for a low profile. | AttackPhishing, Databreach
 His Facebook and Instagram posts boasted of the million-dollar house he bought in a Toronto suburb and there were numerous pictures of him with expensive sports cars -- the latest an Aston Martin DB9 with the license plate "MR KARIM." | O
