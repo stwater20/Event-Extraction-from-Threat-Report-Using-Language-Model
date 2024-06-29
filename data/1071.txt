@@ -1,4 +1,4 @@
-US military leak exposes 'holy grail' of security clearance files | ZDNet
+US military leak exposes 'holy grail' of security clearance files | ZDNet | AttackDatabreach
 An unsecured backup drive has exposed thousands of US Air Force documents, including highly sensitive personnel files on senior and high-ranking officers. | AttackDatabreach
 Security researchers found that the gigabytes of files were accessible to anyone because the internet-connected backup drive was not password protected. | AttackDatabreach
 The files, reviewed by ZDNet, contained a range of personal information, such as names and addresses, ranks, and Social Security numbers of more than 4,000 officers. | AttackDatabreach
