@@ -1,4 +1,4 @@
-Oracle patches 301 vulnerabilities, including 46 with a 9.8+ severity rating
+Oracle patches 301 vulnerabilities, including 46 with a 9.8+ severity rating | PatchVulnerability
 Yesterday, Oracle released its quarterly critical patch update (CPU) for Q3 2018, the October edition, during which the company fixed 301 vulnerabilities. | PatchVulnerability
 Of the 301 flaws, 45 had a severity rating of 9.8 (on a scale of 10) and one even received the maximum 10 rating. | O
 Vulnerabilities that receive this severity ratings this high can be exploited remotely, with no authentication, and the exploit chain is accessible even to low-skilled attackers, even to those with no in-depth technical knowledge. | DiscoverVulnerability
