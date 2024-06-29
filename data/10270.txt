@@ -1,4 +1,4 @@
-Microsoft issues emergency patch to fix serious Internet Explorer zero-day vulnerability
+Microsoft issues emergency patch to fix serious Internet Explorer zero-day vulnerability | PatchVulnerability
 Microsoft has issued an emergency, out-of-band patch for an Internet Explorer zero-day that was being actively exploited in targeted attacks. | DiscoverVulnerability, PatchVulnerability
 The company says that it learned about the vulnerability through a report from Google. | O
 CVE-2018-8653 affects a range of versions of Internet Explorer from 9 to 11, across Windows 7 to 10 and Windows Server. | DiscoverVulnerability
