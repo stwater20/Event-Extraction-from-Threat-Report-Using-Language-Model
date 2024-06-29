@@ -1,4 +1,4 @@
-Google: Apple, your sneaky iPhone patching is endangering users
+Google: Apple, your sneaky iPhone patching is endangering users | O
 A Google Project Zero researcher has published a macOS exploit to demonstrate that Apple is exposing its users to security risks by patching serious flaws in iOS but not revealing the fact until it fixes the same bugs in macOS a week later. | PatchVulnerability
 This happened during Apple's update for critical flaws in iOS 12, tvOS 12 and Safari 12 on September 17. | PatchVulnerability
 A Wayback Machine snapshot of the original advisory doesn't mention any of the bugs that Project Zero researcher Ivan Fratric had reported to Apple, and which were actually fixed. | DiscoverVulnerability, PatchVulnerability
