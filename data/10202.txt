@@ -1,4 +1,4 @@
-Adobe Flash Player Critical Vulnerability Hits Windows Users, Fix Issued
+Adobe Flash Player Critical Vulnerability Hits Windows Users, Fix Issued | PatchVulnerability
 Adobe has released a priority update to plug a critical security flaw in its popular Flash Player on Windows. | PatchVulnerability
 As per an official announcement by the company, the latest patch will address issues in Adobe Flash Player 29.0.0.171 and other earlier versions. | PatchVulnerability
 The vulnerabilities, according to Adobe, are being used by hackers to embed malicious content distributed via email. | O
