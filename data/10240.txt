@@ -1,4 +1,4 @@
-Fraud risk: 'Got an email from Amazon or Paypal? Delete it'
+Fraud risk: 'Got an email from Amazon or Paypal? Delete it' | AttackPhishing
 Consumers are being left vulnerable to increasingly sophisticated cybercriminals because major companies are not taking measures to protect them from plagues of fake emails, a leading cyber-crime expert has claimed. | O
 Billions of “phishing” emails purporting to be from companies we trust such as Apple and Amazon, or banks, charities and even government departments, are reaching consumers’ inboxes. | AttackPhishing
 Their intention is to trick recipients into visiting a website – specially created to mirror a legitimate business’s site – and entering personal details such as email addresses and passwords. | AttackPhishing
