@@ -2,10 +2,10 @@ Self-Deleting Malware Makes ATMs Spit out Cash
 These ATM heists are the work of a group of hackers that's been active for years. | O
 Most recently, starting 2016, this group has switched to using legitimate Windows apps and fileless malware to hack into government agencies and banks in at least 40 countries. | O
 Because those attacks used stealthy techniques that left a minimal footprint on infected servers, investigators weren't able to detect what the crooks were after. | O
-Nevertheless, they suspected the hackers stole data from infected systems, albeit they didn't know what data. | Databreach
+Nevertheless, they suspected the hackers stole data from infected systems, albeit they didn't know what data. | AttackDatabreach
 More clues about these attacks came to light only recently. | O
-Security researchers from Kaspersky Lab, the ones who identified the initial attacks this February, believe they uncovered the purpose of some of the bank hacks. | O
-Presenting at the Security Analyst Summit (SAS) held these days in St. Maarten, Kaspersky Lab researchers said crooks broke into the networks of various banks using various exploits, where they used legitimate Windows tools and PowerShell malware to escalate their access to nearby systems. | O
+Security researchers from Kaspersky Lab, the ones who identified the initial attacks this February, believe they uncovered the purpose of some of the bank hacks. | AttackDatabreach
+Presenting at the Security Analyst Summit (SAS) held these days in St. Maarten, Kaspersky Lab researchers said crooks broke into the networks of various banks using various exploits, where they used legitimate Windows tools and PowerShell malware to escalate their access to nearby systems. | AttackDatabreach
 Their target was the system that managed the bank's ATM network. | O
 Hackers used this system's remote management feature to connect to the ATMs via RDP. | O
 They then transferred and installed a new breed of ATM malware on these machines, which Kaspersky Lab experts called ATMitch. | O
