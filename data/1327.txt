@@ -1,4 +1,4 @@
-LastPass Races to Fix Yet Another Serious Flaw
+LastPass Races to Fix Yet Another Serious Flaw | PatchVulnerability
 LastPass engineers have Google researcher Tavis Ormandy to thank yet again for another busy few days after the British white hat found a second critical bug in the password manager. | DiscoverVulnerability
 Ormandy tweeted over the weekend that he began ‘working’ on the research in an unusual location: | DiscoverVulnerability
 “Ah-ha, I had an epiphany in the shower this morning and realized how to get codeexec in LastPass 4.1.43. Full report and exploit on the way.” | DiscoverVulnerability
