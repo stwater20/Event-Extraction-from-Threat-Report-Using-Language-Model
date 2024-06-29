@@ -2,8 +2,8 @@ Shadow Brokers leak NSA-linked Microsoft hacking tools - CyberScoop
 https://www.cyberscoop.com/shadow-brokers-leak-nsa-linked-microsoft-hacking-tools/ 
 2017_01_13 
 
-The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday. | Databreach
-The code dump, accompanied by a farewell message written in broken English by the enigmatic group the Shadow Brokers, confirms claims implicit in an earlier post Sunday. | Databreach
+The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday. | AttackDatabreach
+The code dump, accompanied by a farewell message written in broken English by the enigmatic group the Shadow Brokers, confirms claims implicit in an earlier post Sunday. | AttackDatabreach
 While the prior message showed filenames, directories and screenshots — implying the existence of these capabilities — along with an associated price tag, today’s download provides functional code. | O 
 Of the 61 files provided in total in the newly released set, only one had ever been catalogued by anti-virus databases, based on a VirusTotal scan conducted earlier Thursday morning. | O 
 The files contain user mode and kernel mode modules. | O 
@@ -19,11 +19,11 @@ The exploits can be understood as highly advanced hacking tools that were likely
 They would help you get very granular control of computers and servers running in an enterprise environment, an entire organization,” Zeberlein told CyberScoop. | O 
 “Really, these tools provide incredible capability”. | O 
 “There’s no doubt that this is Equation Group’s stuff based on old reporting,” said Zeberlein. | O 
-A meticulous analysis associated with Sunday’s blog post suggests that the leaked information likely came from an insider, rather than a hacker with access to a compromised attack server, based on file configurations, CyberScoop first reported. | Databreach
+A meticulous analysis associated with Sunday’s blog post suggests that the leaked information likely came from an insider, rather than a hacker with access to a compromised attack server, based on file configurations, CyberScoop first reported. | AttackDatabreach
 “Attackers and defenders around the globe will be reverse engineering these to repurpose [attacks] and create defenses,” Williams said. | O 
 “This data, it’s a big deal … because it includes information related to client and server components, which will basically help [intelligence analysts] trace old breaches back to the Equation Group,” a former U.S. intelligence official told CyberScoop on the condition of anonymity. | O 
 The Shadow Brokers first emerged on social media in August by similarly dumping operational code for a cohort of old firewall exploits that targeted vulnerabilities in Cisco, Fortinet and Juniper Networks products. | DiscoverVulnerability
 Because the source code for these firewall exploits was provided in a public forum, random hackers began using the tools themselves. | O 
-“While we cannot surmise the attacker’s [Shadow Brokers] identity or motivation nor where or how this pilfered trove came to be, we can state that several hundred tools from the leak share a strong connection with our previous findings from the Equation Group,” Kaspersky Lab researchers, many of whom originally helped identify Equation Group’s existence in 2015, wrote in a company blog post in August. | Databreach
+“While we cannot surmise the attacker’s [Shadow Brokers] identity or motivation nor where or how this pilfered trove came to be, we can state that several hundred tools from the leak share a strong connection with our previous findings from the Equation Group,” Kaspersky Lab researchers, many of whom originally helped identify Equation Group’s existence in 2015, wrote in a company blog post in August. | AttackDatabreach
 The Equation Group is believed to have ties to the NSA. | O 
 

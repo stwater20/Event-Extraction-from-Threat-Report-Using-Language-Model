@@ -7,14 +7,14 @@ Highlighting Russian "malicious cyber activity" the IC's analysis reported on th
 The hackers go by many names: Fancy Bear, Pawn Storm, Sofacy, Sednit, Tsar Team and more. | O 
 The group – after targeting the Democratic National Committee (DNC), the World Anti-Doping Agency (Wada) and the German government – is the focus of a new report from US-based cybersecurity firm FireEye, discussing the key hacking techniques it uses. | O 
 "We have observed APT28 rely on four key tactics when attempting to compromise intended targets," the report states. | O 
-These include the use of spearphishing to deploy exploit kits, the spreading of malware, compromising web-facing servers and creating fake internet addresses. | Phishing
+These include the use of spearphishing to deploy exploit kits, the spreading of malware, compromising web-facing servers and creating fake internet addresses. | AttackPhishing
 Some of the tactics are straightforward, but work. | O 
-In one hypothetical case, a hacker would craft an exploit document with "enticing lure content" and send it to a carefully chosen victim. | Phishing
+In one hypothetical case, a hacker would craft an exploit document with "enticing lure content" and send it to a carefully chosen victim. | AttackPhishing
 Once the document is opened, malware is automatically installed by exploiting a vulnerability in computer software. | O 
 According to FireEye, APT28 has exploited a number of known security flaws in the past including previously undiscovered "zero day" vulnerabilities in Adobe Flash Player, Java, and Windows. | DiscoverVulnerability
-The hackers then contact targets saying they need to reset passwords, lead the victim to a malicious login page and hijack passwords. | Phishing
+The hackers then contact targets saying they need to reset passwords, lead the victim to a malicious login page and hijack passwords. | AttackPhishing
 "APT28 employs a suite of malware with features indicative of the group's plans for continued operations, as well as the group's access to resources and skilled developers," the report states. | O 
-After information is stolen, FireEye explains, the hacking group will often leak it to "further political narratives". | Databreach
+After information is stolen, FireEye explains, the hacking group will often leak it to "further political narratives". | AttackDatabreach
 These reportedly include the conflict in Syria, Nato, the European Union refugee crisis and the 2016 Olympics and Paralympics athlete doping scandal. | O 
 In agreement with the US government, the security firm believes the hacking group conducts its operations "in support of Russian strategic interests" and is made up of a "sophisticated and prolific set of developers and operators". | O 
 This is denied by Russian president, Vladimir Putin. | O 
@@ -26,6 +26,6 @@ The firms, while less open to attributing with utmost certainty, continue to lin
 "The malware and the tactics we can speak with expertise on. | O 
 What we cannot answer is what the intent of those actors were and at whose direction they were acting, as we do not have direct intelligence on those subjects nor are we in a position to get them." | O 
 Tom Finney, a counter threat researcher from SecureWorks, said: "We've been able to link this activity to Russia because of the wider targeting seen in this campaign. | O 
-"The majority of the activity appears to focus on Russia's military involvement in eastern Ukraine; for example, the email address targeted by the most phishing attempts (nine) was linked to a spokesperson for the Ukrainian prime minister. | Phishing
+"The majority of the activity appears to focus on Russia's military involvement in eastern Ukraine; for example, the email address targeted by the most phishing attempts (nine) was linked to a spokesperson for the Ukrainian prime minister. | AttackPhishing
 "Other targets included individuals in political, military, and diplomatic positions in former Soviet states, as well as journalists, human rights organisations and regional advocacy groups in Russia." | O 
 

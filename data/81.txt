@@ -7,9 +7,9 @@ Market trends and business perspectives | O
 January 5, 2017 by Mark Allinson | O
     A globally co-ordinated cyber attack has hit 500 industrial companies in 50 countries in the past few months, according to security company Kaspersky. | O
 The worst affected were companies in the smelting, electric power generation and transmission, construction, and engineering industries. | O
-The attacks take the form of emails purportedly from famous companies – such as DHL and Saudi Aramco – and most were sent from “legitimate email addresses belonging to valid organizations”, says Kaspersky. | Phishing
+The attacks take the form of emails purportedly from famous companies – such as DHL and Saudi Aramco – and most were sent from “legitimate email addresses belonging to valid organizations”, says Kaspersky. | AttackPhishing
 However, Kaspersky says its analysis of the emails compared to known malware shows that “no new code was written specifically for this attack”. | O
-Kaspersky says the hackers could have accessed and read previous communications between the target and their partners. | Databreach
-They may then have used this information to craft email communications which appear to be legitimate, so that the victim didn’t recognize the malicious aspect of the email. | Phishing
-If the email is opened, it can steal the user’s authentication credentials, which are send to a remote server. | Databreach
+Kaspersky says the hackers could have accessed and read previous communications between the target and their partners. | AttackDatabreach
+They may then have used this information to craft email communications which appear to be legitimate, so that the victim didn’t recognize the malicious aspect of the email. | AttackPhishing
+If the email is opened, it can steal the user’s authentication credentials, which are send to a remote server. | AttackDatabreach
 

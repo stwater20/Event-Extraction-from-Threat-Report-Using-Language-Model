@@ -22,13 +22,13 @@ They blamed the attacks on a pro-Russia group called CyberBerkut. | O
 Hudson analyst Thoburn, who was working as an election observer in Ukraine at the time, said the Ukrainians were able to get around it by deleting their entire system and restoring it from a backup that was not contaminated. | O 
 Ukrainian officials have also accused Russia of being behind a power grid attack in December 2015 that cut power to 80,000 in western Ukraine. | O 
 In overt actions against Ukraine, Russia seized the province of Crimea in 2014 and helped armed separatists launch a rebellion in eastern Ukraine. | O 
-German intelligence in 2015 accused Russia of hacking at least 15 computers belonging to members of Germany’s lower house of parliament, the Bundestag, and stealing data. | Databreach
-Germany’s Federal Office for the Protection of the Constitution (BfV) said the attack was conducted by a group called Sofacy, which “is being steered by the Russian state." | Databreach
+German intelligence in 2015 accused Russia of hacking at least 15 computers belonging to members of Germany’s lower house of parliament, the Bundestag, and stealing data. | AttackDatabreach
+Germany’s Federal Office for the Protection of the Constitution (BfV) said the attack was conducted by a group called Sofacy, which “is being steered by the Russian state." | AttackDatabreach
 BfV chief Hans-Georg Maassen told Reuters in November that Moscow has tried to manipulate the media and public opinion through various means, including planting false stories. | O 
 One in 2015 by Russian media was about a German-Russian girl kidnapped and raped by migrants in Berlin. | O 
 German Chancellor Angela Merkel said she could not rule out Russian interference in Germany's 2017 federal election through Internet attacks and disinformation campaigns. | O 
 The country's Central Election Commission had been hacked during a referendum and local elections in 2015 that was almost certainly linked to Russia and a group that had hacked NATO headquarters in Brussels in 2013, then-President Rosen Plevneliev told the BBC in November. | O 
-"The same organization that has attacked the (German Parliament) — stealing all the emails of German members of Parliament — the same institution that has attacked NATO headquarters, and that is the same even that has tried to influence American elections lately and so in a very high probability you could point east from us” (to Moscow), Plevneliev said. | Databreach
+"The same organization that has attacked the (German Parliament) — stealing all the emails of German members of Parliament — the same institution that has attacked NATO headquarters, and that is the same even that has tried to influence American elections lately and so in a very high probability you could point east from us” (to Moscow), Plevneliev said. | AttackDatabreach
 A pro-Russian political novice was elected in November to replace Plevneliev. | O 
 The Vienna-based Organization for Security and Cooperation in Europe, whose tasks include monitoring elections across Europe and the conflict in eastern Ukraine, was attacked in “a major information security incident” in November, spokeswoman Mersiha Causevic Podzic said. | O 
 The incident “compromised the confidentiality” of the organization’s IT networks, Podzic said. | O 
@@ -39,9 +39,9 @@ The attack involved posting of Islamic State propaganda, but appeared to use th
 “APT28 focuses on collecting intelligence that would be most useful to a government,” FireEye said. | O 
 “Specifically, since at least 2007, APT28 has been targeting privileged information related to governments, militaries and security organizations that would likely benefit the Russian government”. | O 
 The security chief of France's ruling Socialist Party recently warned that the country's presidential election this spring is at risk of being hacked. | O 
-Hackers in 2014 attacked the Warsaw Stock Exchange and at least 36 other Polish sites, stealing data and posting graphic images from the Holocaust. | Databreach
+Hackers in 2014 attacked the Warsaw Stock Exchange and at least 36 other Polish sites, stealing data and posting graphic images from the Holocaust. | AttackDatabreach
 The group that claimed responsibility, CyberBerkut, is the same Russian-linked group that attacked Ukrainian sites. | O 
-The group, posing as Islamic radicals, stole data and released dozens of client log-in data, causing mayhem for the exchange, according to Bloomberg News. | Databreach
+The group, posing as Islamic radicals, stole data and released dozens of client log-in data, causing mayhem for the exchange, according to Bloomberg News. | AttackDatabreach
 Dan Wallach, a computer scientist at Rice University who testified about election computer security on Capitol Hill in September, said definitive proof of who conducted an attack would reveal methods and sources who would be lost or killed if exposed. | O 
 “You’re never going to have definitive attribution,” Wallach said in an interview. | O 
 “The proof is some crazy top secret thing and not for public dissemination”. | O 

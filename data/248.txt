@@ -13,10 +13,10 @@ This malware has been around for years, and recently, it started distributing a 
 In January 2016, Kovter downloaded and installed a proxy client on infected PCs, transforming infected hosts into proxy servers for the ProxyGate web proxy service. | O
 This allowed the Kovter gang to make a side profit by routing web traffic through infected PCs, while also earning money from its main activity: click-fraud. | O
 In the same month, Kovter also started distributing a version of the Nemucod ransomware, for which Fabian Wosar of Emsisoft had successfully created a decrypter. | O
-Disheartened by Wosar's success, the group behind Kovter switched to several ransomware variants in the following months, and eventually settled on renting and distributing Locky starting with October, as part of an affiliate scheme, splitting the ransom payments with the Locky crew. | Ransom
+Disheartened by Wosar's success, the group behind Kovter switched to several ransomware variants in the following months, and eventually settled on renting and distributing Locky starting with October, as part of an affiliate scheme, splitting the ransom payments with the Locky crew. | AttackRansom
 Researchers looking at Locky infections can easily track Locky infections distributed by the Kovter group by the affiliate IDs 23 and 24, found in Locky's configuration file, present on every infected system. | O
 PhishMe researchers have recently published a blog post detailing the Kovter spam emails that has been distributing Locky ransomware in the past weeks. | O
 At the moment, these spam emails are the only source of Locky infections. | O
-Previously, most of the spam emails distributing Locky came from the spam sent out via Necurs, a botnet of PCs infected with the Necurs bootkit. | Phishing
+Previously, most of the spam emails distributing Locky came from the spam sent out via Necurs, a botnet of PCs infected with the Necurs bootkit. | AttackPhishing
 The Necurs botnet is the same botnet responsible for the distribution of the Dridex banking trojan, one of the most advanced banking trojans known today. | O
 

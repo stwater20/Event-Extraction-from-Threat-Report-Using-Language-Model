@@ -5,8 +5,8 @@ http://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data
 This is part of an ongoing Motherboard series on the proliferation of phone cracking technology, the people behind it, and who is buying it. | O 
 Motherboard has obtained 900 GB of data related to Cellebrite, one of the most popular companies in the mobile phone hacking industry. | O 
 The cache includes customer information, databases, and a vast amount of technical data regarding Cellebrite's products. | O 
-The breach is the latest chapter in a growing trend of hackers taking matters into their own hands, and stealing information from companies that specialize in surveillance or hacking technologies. | Databreach
-Cellebrite is an Israeli company whose main product, a typically laptop-sized device called the Universal Forensic Extraction Device (UFED), can rip data from thousands of different models of mobile phones. | Databreach
+The breach is the latest chapter in a growing trend of hackers taking matters into their own hands, and stealing information from companies that specialize in surveillance or hacking technologies. | AttackDatabreach
+Cellebrite is an Israeli company whose main product, a typically laptop-sized device called the Universal Forensic Extraction Device (UFED), can rip data from thousands of different models of mobile phones. | AttackDatabreach
 That data can include SMS messages, emails, call logs, and much more, as long as the UFED user is in physical possession of the phone. | O 
 Cellebrite is popular with US federal and state law enforcement, and, according to the hacked data, possibly also with authoritarian regimes such as Russia, the United Arab Emirates, and Turkey. | O 
 The cache includes alleged usernames and passwords for logging into Cellebrite databases connected to the company's my.cellebrite domain. | O 
@@ -14,8 +14,8 @@ This section of the site is used by customers to, among other things, access new
 In the majority of cases, this was not possible because the email address was already in use. | O 
 A customer included in the data confirmed some of their details. | O 
 The dump also contains what appears to be evidence files from seized mobile phones, and logs from Cellebrite devices. | O 
-According to the hacker, and judging by timestamps on some of the files, some of the data may have been pulled from Cellebrite servers last year. | Databreach
-"Cellebrite recently experienced unauthorized access to an external web server," the company said in a statement on Thursday after Motherboard informed it of the breach. | Databreach
+According to the hacker, and judging by timestamps on some of the files, some of the data may have been pulled from Cellebrite servers last year. | AttackDatabreach
+"Cellebrite recently experienced unauthorized access to an external web server," the company said in a statement on Thursday after Motherboard informed it of the breach. | AttackDatabreach
 "The company is conducting an investigation to determine the extent of the breach. | O 
 The impacted server included a legacy database backup of my.Cellebrite, the company's end user license management system. | O 
 The company had previously migrated to a new user accounts system. | O 
@@ -25,7 +25,7 @@ Access to Cellebrite's systems has been traded among a select few in IRC chat ro
 "To be honest, had it not been for the recent stance taken by Western governments no one would have known but us," the hacker told Motherboard. | O 
 The hacker expressed disdain for recent changes in surveillance legislation. | O 
 In 2014 a hacker calling themselves "PhineasFisher" publicly released 40GB of data from surveillance company Gamma International. | O 
-Gamma makes intrusion software that can remotely switch on a target's webcam, siphon off their emails, and much more. | Databreach
-The following year, PhineasFisher targeted Italian company Hacking Team, and published a trove of emails and other internal documents from the company. | Databreach
-Although the terms of this Cellebrite breach are somewhat different—the hacker has not dumped the files online for anyone to download—similarities seem to remain, especially in the hacker's vigilante motivation. | Databreach
+Gamma makes intrusion software that can remotely switch on a target's webcam, siphon off their emails, and much more. | AttackDatabreach
+The following year, PhineasFisher targeted Italian company Hacking Team, and published a trove of emails and other internal documents from the company. | AttackDatabreach
+Although the terms of this Cellebrite breach are somewhat different—the hacker has not dumped the files online for anyone to download—similarities seem to remain, especially in the hacker's vigilante motivation. | AttackDatabreach
 

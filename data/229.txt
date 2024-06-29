@@ -6,7 +6,7 @@ The largest NHS trust in England has been hit by a cyber-attack that could affec
 Barts health trust, which runs five hospitals in east London – the Royal London, St Bartholomew’s, Whipps Cross, Mile End and Newham – has sent a message to staff urging them not to open email attachments from unknown senders. | O
 “We are urgently investigating this matter and have taken a number of drives offline as a precautionary measure, a Barts spokeswoman said. | O
 “We have tried and tested contingency plans in place and are making every effort to ensure that patient care will not be affected”. | O
-It was reported earlier on Friday that the trust had been targeted with ransomware, which is normally delivered via emails that trick the recipient into opening attachments and releasing malware on to their system. | Phishing
+It was reported earlier on Friday that the trust had been targeted with ransomware, which is normally delivered via emails that trick the recipient into opening attachments and releasing malware on to their system. | AttackPhishing
 But the spokeswoman ruled out such an attack on Friday night. | O
 The trust has not said how much of its system has been affected by the attack or whether patient data has been compromised but it said it believed that most of the affected system was housing corporate data. | O
 The trust’s filing system between departments has been turned off while the investigation takes place. | O
@@ -19,8 +19,8 @@ NHS Digital said it was aware that Barts had been infected by a “virus which h
 A spokesperson said: “This issue highlights the fact that there are threats to data security within the health and care sector, as with any other sector. | O
 We remain committed to supporting the protection of data with the highest possible security standards, high levels of security expertise from the centre and appropriate training and awareness of the risks for all staff”. | O
 She declined to answer questions about whether other NHS trusts had been affected, how much data may have been affected and who may be behind the attack. | O
-In October, the Northern Lincolnshire and Goole foundation trust was hit by an attack in which malware was used to encrypt files and demand a ransom in order to restore access. | Ransom
-The trust did not pay the ransom but was forced to cancel patient appointments as its systems were shut down to remove the virus. | Ransom
+In October, the Northern Lincolnshire and Goole foundation trust was hit by an attack in which malware was used to encrypt files and demand a ransom in order to restore access. | AttackRansom
+The trust did not pay the ransom but was forced to cancel patient appointments as its systems were shut down to remove the virus. | AttackRansom
 John Bambenek, a threat intelligence manager at the firm Fidelis Cybersecurity, said: “The trouble is that local authorities and governments aren’t very prepared and they have extremely valuable information that simply can’t be lost, so they’re a tempting target for cybercriminals. | O
 “Cyber defence is essential, but it’s no longer enough; organisations of all sizes need to invest in detecting threats as well. | O
 Only then will cyber criminals be caught early enough to expel them from the network before serious damage is done”. | O

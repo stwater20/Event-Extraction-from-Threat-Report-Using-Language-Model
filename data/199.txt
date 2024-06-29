@@ -6,9 +6,9 @@ Amazon buyers are being targeted by clever scammers that either set up independe
 In an example offered by Comparitech’s Lee Munson, the item in question is a big LCD TV that is usually sold at around £2,300, but the scammer offers it at almost half the price for a “used – like new” item. | O 
 But when the potential victim tries to buy it, Amazon throws up an error, saying that there was a problem with the item in the order. | O 
 A determined buyer will try to contact the seller through Amazon’s in-house messaging system, but the seller will push to move the conversation off it by offering a contact email address. | O 
-Munson’s email exchange with the scammer shows that the latter insists that by contacting them directly the problem has been solved, and that an order confirmation will be sent to the buyers’ email address. | Phishing
-The order confirmation looks like it came from Amazon (it appears to come from the auto-confirm@amazon-payments-support.co.uk email address), but was in fact sent by the scammer. | Phishing
-The order instructs the user to pay via direct bank transfer, to a private bank account – seemingly through Amazon Payments, but actually not. | Phishing
+Munson’s email exchange with the scammer shows that the latter insists that by contacting them directly the problem has been solved, and that an order confirmation will be sent to the buyers’ email address. | AttackPhishing
+The order confirmation looks like it came from Amazon (it appears to come from the auto-confirm@amazon-payments-support.co.uk email address), but was in fact sent by the scammer. | AttackPhishing
+The order instructs the user to pay via direct bank transfer, to a private bank account – seemingly through Amazon Payments, but actually not. | AttackPhishing
 Once the victims make the payment in the way they have been instructed, it’s game over. | O 
 They have parted with their money, and Amazon won’t refund them as the payment hasn’t been effected through their payment system. | O 
 “Payment within the Amazon.co.uk site is the only authorised and recognised form of payment for items sold by Sellers on Amazon.co.uk. | O 

@@ -8,4 +8,4 @@ GhostAdmin allows cybercriminals to take control of a computer using an Internet
 Once this is accomplished GhostAdmin accesses the IRC channel and begins to issue commands to its botnet army of infected computers. | O
 The researchers were able to access one GhostAdmin user named Jarad who managed to infect his own computer with the malware helping MalwareHunterTeam gain access to the FTP server being used. | O
 Here they found screenshots of Jarad's computer and data from an internet cafew and an unnamed lottery company. | O
-The data stolen includes names, dates of births, phone numbers, emails, addresses, employer information. | Databreach
+The data stolen includes names, dates of births, phone numbers, emails, addresses, employer information. | AttackDatabreach

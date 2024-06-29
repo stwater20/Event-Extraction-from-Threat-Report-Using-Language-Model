@@ -10,10 +10,10 @@ Kansas-based software developer Darren Cauthon reported on Twitter on Dec. 25 th
 The picture shared by Cauthon showed the TV screen with an FBI-themed ransom message. | O
 On Android the majority of ransomware applications are so-called screen lockers. | O
 They work by displaying persistent messages on the phone's screen and preventing users from performing any other actions on their devices. | O
-The messages usually impersonate some law enforcement authority and ask victims to pay fictitious fines to regain control. | Ransom
+The messages usually impersonate some law enforcement authority and ask victims to pay fictitious fines to regain control. | AttackRansom
 Cauthon, who was the previous owner of the three-year-old TV, tried to help the new owner restore the device to its default factory settings, but didn't succeed even after receiving many suggestions and advice from other Twitter users. | O
 According to the software developer, when he first contacted LG's tech support, he was told that a technician would have to come over and take a look for a fee of around $340. | O
-The ransom amount itself was $500 although even paying that would have been difficult because there was no way to click on the payment section to find the instructions on how to do so. | Ransom
+The ransom amount itself was $500 although even paying that would have been difficult because there was no way to click on the payment section to find the instructions on how to do so. | AttackRansom
 The only thing that worked was just moving a mouse-like pointer on a portion of the TV screen via an accompanying smart remote. | O
 Eventually LG provided Cauthon with a solution that involved pressing and releasing two physical buttons on the TV in a particular order. | O
 This booted the TV, which runs the now defunct Android-based Google TV platform, into a recovery mode. | O

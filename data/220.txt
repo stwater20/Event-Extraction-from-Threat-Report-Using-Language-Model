@@ -2,13 +2,13 @@ New Gmail phishing technique fools even tech-savvy users - Help Net Security
 https://www.helpnetsecurity.com/2017/01/16/new-gmail-phishing-attack-fools-even-tech-savvy-users/ 
 2017_01_17 
 
-An effective new phishing attack is hitting Gmail users and tricking many into inputing their credentials into a fake login page. | Phishing
-The phishers start by compromising a Gmail account, then they rifle through the emails the user has recently received. | Phishing
+An effective new phishing attack is hitting Gmail users and tricking many into inputing their credentials into a fake login page. | AttackPhishing
+The phishers start by compromising a Gmail account, then they rifle through the emails the user has recently received. | AttackPhishing
 After finding one with an attachment, they create an image (screenshot) of it and include it in a reply to the sender. | O
 They use the same or similar subject line for the email, to invoke recognition and automatic trust. | O
 “You click on the image, expecting Gmail to give you a preview of the attachment. | O
 Instead, a new tab opens up and you are prompted by Gmail to sign in again,” WordFence CEO Mark Maunder warns. | O
-The phishing page is a good copy of Gmail’s login page, and its URL contains the accounts.google.com subdomain, which is enough to fool many into believing that they are on a legitimate Google page. | Phishing
-“This phishing technique uses something called a ‘data URI’ to include a complete file in the browser location bar. | Phishing
+The phishing page is a good copy of Gmail’s login page, and its URL contains the accounts.google.com subdomain, which is enough to fool many into believing that they are on a legitimate Google page. | AttackPhishing
+“This phishing technique uses something called a ‘data URI’ to include a complete file in the browser location bar. | AttackPhishing
 When you glance up at the browser location bar and see ‘data:text/html…..’ that is actually a very long string of text,” Maunder explained. | O
 

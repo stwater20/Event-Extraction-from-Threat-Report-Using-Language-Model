@@ -2,7 +2,7 @@ Hello Kitty database leaked to the web, 3.3 million fans affected | CSO Online
 http://www.csoonline.com/article/3155528/security/hello-kitty-database-leaked-to-the-web-3-3-million-fans-affected.html 
 2017_01_10 
 
-In a statement, Sanrio said they didn’t believe any data was stolen. | Databreach
+In a statement, Sanrio said they didn’t believe any data was stolen. | AttackDatabreach
 Now, over a year later, the database has surfaced online. | O 
 Its resurrection places 3.3 million Hello Kitty fans in the hot seat. | O 
 On December 19, 2015, Salted Hash broke the news that a MongoDB installation for Sanrio, the company behind Hello Kitty, was exposed to the public. | O 
@@ -12,8 +12,8 @@ At the time, Sanrio speculated the exposure was due to maintenance conducted sev
 The database contained just over 3.3 million records from sanriotown.com, including 186,261 records assigned to people under the age of 18. | O 
 Three days after the story broke, on December 22, 2015, Sanrio said they investigated the problem and fixed it. | O 
 “In addition, new security measures have been applied on the server(s); and we are conducting an internal investigation and security review into this incident. | O 
-To the Company’s current knowledge, no data was stolen or exposed,” the statement concluded. | Databreach
-Unfortunately, someone did copy the database before the configuration error was fixed. | Databreach
+To the Company’s current knowledge, no data was stolen or exposed,” the statement concluded. | AttackDatabreach
+Unfortunately, someone did copy the database before the configuration error was fixed. | AttackDatabreach
 On Sunday, Salted Hash learned that the Sanrio database was added to the LeakedSource index. | O 
 Examining the LeakedSource records and comparing the field names to the screenshots shared by Vickery in 2015, the data is a match. | O 
 For example, both sets of data use the “_createdFrom” field, as well as “dateOfBirth”, “gender”, “firstName”, “lastName”, etc. | O 
@@ -29,19 +29,19 @@ Salted Hash has reached out to Sanrio for comment. | O
 Anyone with concerns about the information exposed can checkout Consumer.gov for advice on recovering from identity theft. | O 
 In it, they briefly recap the events from 2015, including their previous alert. | O 
 The statement goes on to dismiss the latest news, despite sample records matching the previously exposed database. | O 
-"Recently, reports have surfaced claiming that the 2015 data breach was not corrected. | Databreach
+"Recently, reports have surfaced claiming that the 2015 data breach was not corrected. | AttackDatabreach
 At this time, there is no evidence to support this claim. | O 
-The original data breach from SanrioTown.com users in 2015 did not include credit card information or other payment information. | Databreach,data breach
+The original data breach from SanrioTown.com users in 2015 did not include credit card information or other payment information. | AttackDatabreach,data breach
 Users’ passwords are encrypted with the cryptographic hash function SHA-1. | O 
 "SanrioTown and Sanrio Digital notified users about the incident, advising them to change their passwords. | O 
-It should be noted that this current Sanrio database currently circulating online doesn't have any financial data, and there have been no claims otherwise. | Databreach
-Salted Hash has asked additional questions surrounding the sample data shared with Sanrio. | Databreach
-After reviewing the sample data sets shared by Salted Hash, Sanrio has confirmed that the data indexed by LeakedSource "looks real" and likely originated from the exposed database in 2015. | Databreach
+It should be noted that this current Sanrio database currently circulating online doesn't have any financial data, and there have been no claims otherwise. | AttackDatabreach
+Salted Hash has asked additional questions surrounding the sample data shared with Sanrio. | AttackDatabreach
+After reviewing the sample data sets shared by Salted Hash, Sanrio has confirmed that the data indexed by LeakedSource "looks real" and likely originated from the exposed database in 2015. | AttackDatabreach
 However, the company stopped short of confirming that LeakedSource's records and the records exposed two years ago are one in the same. | O 
-“Sanrio Digital recently received evidence that a 2015 data breach of the SanrioTown web site involved some user data theft,” the company said in a statement. | Databreach
-“At the time, we had no evidence of data theft, however we have now learned from reporter Steve Ragan of CSO Online that personal information of SanrioTown.com users was stolen during the 2015 data breach. | Databreach
-According to Mr. Ragan, a database containing information of 3,345,168 SanrioTown users has been circulating since the time of the incident. | Databreach
+“Sanrio Digital recently received evidence that a 2015 data breach of the SanrioTown web site involved some user data theft,” the company said in a statement. | AttackDatabreach
+“At the time, we had no evidence of data theft, however we have now learned from reporter Steve Ragan of CSO Online that personal information of SanrioTown.com users was stolen during the 2015 data breach. | AttackDatabreach
+According to Mr. Ragan, a database containing information of 3,345,168 SanrioTown users has been circulating since the time of the incident. | AttackDatabreach
 “He received the sample records from LeakedSource containing information of 30 SanrioTown users. | O 
 We have verified that these sample records appear to be real. | O 
-We cannot, however, relate the source of such sample records to the 2015 data breach and we are unable to verify whether the database of LeakedSource contains information of 3,345,168 SanrioTown users stolen during the 2015 SanrioTown data breach”. | Databreach
+We cannot, however, relate the source of such sample records to the 2015 data breach and we are unable to verify whether the database of LeakedSource contains information of 3,345,168 SanrioTown users stolen during the 2015 SanrioTown data breach”. | AttackDatabreach
 

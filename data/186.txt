@@ -2,10 +2,10 @@ Suspected NSA tool hackers dump more cyberweapons in farewell | CSO Online
 http://www.csoonline.com/article/3157454/security/suspected-nsa-tool-hackers-dump-more-cyberweapons-in-farewell.html 
 2017_01_13 
 
-On Thursday, the Shadow Brokers dumped them online after an attempt to sell these and other supposedly Windows and Unix hacking tools for bitcoin. | Databreach
-The Shadow Brokers made news back in August when they dumped hacking tools for routers and firewall products that they claimed came from the Equation Group, a top cyberespionage team that some suspect works for the NSA. | Databreach
+On Thursday, the Shadow Brokers dumped them online after an attempt to sell these and other supposedly Windows and Unix hacking tools for bitcoin. | AttackDatabreach
+The Shadow Brokers made news back in August when they dumped hacking tools for routers and firewall products that they claimed came from the Equation Group, a top cyberespionage team that some suspect works for the NSA. | AttackDatabreach
 Those tools contained several previously unknown and valuable exploits, lending credibility to the hacking group's claims, according to security researchers. | O 
-The Shadow Brokers' latest dump includes 61 files, many of which have never been seen by security firms before, said Jake Williams, founder of Rendition InfoSec, a security provider. | Databreach
+The Shadow Brokers' latest dump includes 61 files, many of which have never been seen by security firms before, said Jake Williams, founder of Rendition InfoSec, a security provider. | AttackDatabreach
 He’s been examining the tools, and said it’ll take time to verify their capabilities. | O 
 His initial view is that they’re designed for detection evasion. | O 
 For instance, one of the tools is built to edit Windows event logs. | O 
@@ -20,7 +20,7 @@ This latest dump was a message to the U.S, he said. | O
 In recent weeks, U.S. intelligence agencies have been claiming the Kremlin tried to influence the U.S. election. | O 
 Based on those findings, President Barack Obama has already ordered sanctions against Russia and vowed covert action. | O 
 “If they are Russian, this is a shot across the bow,” Williams said. | O 
-It’s unclear how the Shadow Brokers managed to steal the hacking tools. | Databreach
+It’s unclear how the Shadow Brokers managed to steal the hacking tools. | AttackDatabreach
 The group has said their arsenal of supposed Linux and Windows-based hacking tools is still up for sale at 10,000 bitcoins. | O 
 On Thursday, Microsoft said it's investigating this latest batch of hacking tools that have been released. | O 
 

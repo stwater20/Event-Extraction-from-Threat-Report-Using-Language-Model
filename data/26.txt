@@ -8,10 +8,10 @@ Super Mario Run for iOS Released | O
 Nintendo's first official Mario game on mobile was first launched for all iOS devices before Christmas, which has already been downloaded by millions of users and has reached the top 10, despite its $9.99 price tag. | O
 However, the game is yet to be launched for Android users, and this gap is getting used well by cyber criminals, as reported by The Express. | O
 Warnings on Fake Super Mario Android Apps | O
-Recent warnings have been given by security experts for Android users that they should be aware of the apps that falsely claim to be the Super Mario Run for their device. | Phishing
+Recent warnings have been given by security experts for Android users that they should be aware of the apps that falsely claim to be the Super Mario Run for their device. | AttackPhishing
 However, such fake downloads end up uncovering an actual mountain of malware instead of the game. | O
-Trend Micro Findings on Malicious Apps | Phishing
-Security Firm Trend Micro's Researchers have recently found an increasing count of fake Super Mario Run Android apps that claim as the trending game Super Mario Run or other content related to it. | Phishing
+Trend Micro Findings on Malicious Apps | AttackPhishing
+Security Firm Trend Micro's Researchers have recently found an increasing count of fake Super Mario Run Android apps that claim as the trending game Super Mario Run or other content related to it. | AttackPhishing
 Also, some of the apps even made users install unwanted apps in user's device. | O
 For example one of the apps had an emulated version of the original Super Mario Bros game. | O
 However, it was filled with pop-ups and banner apps when the user tried downloading the app, said Trend Micro. | O

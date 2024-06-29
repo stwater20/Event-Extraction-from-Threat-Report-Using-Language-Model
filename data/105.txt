@@ -4,5 +4,5 @@ https://www.hackread.com/brazils-largest-online-magazine-uol-folha-hacked/
 
 Grupo Folha is the third largest Brazilian media conglomerate whilst Universo Online (UOL) is a web content, products and services Brazilian firm. | O
 However, it is still unclear who was behind the whole scheme. | O
-The deface message itself was asking users to click on a cat to read group’s background but upon clicking, they were redirected to RedTube. | Phishing
+The deface message itself was asking users to click on a cat to read group’s background but upon clicking, they were redirected to RedTube. | AttackPhishing
 

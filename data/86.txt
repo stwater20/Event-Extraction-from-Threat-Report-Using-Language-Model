@@ -6,11 +6,11 @@ KillDisk was one of the components associated with the Black Energy malware that
 A month before that, it was used against a major news agency in Ukraine. | O
 Since then, KillDisk has been used in other attacks, most recently against several targets from the shipping sector, according to security researchers from antivirus vendor ESET. | O
 However, the latest versions have evolved and now act like ransomware. | O
-Instead of wiping the data from the disk, the malware encrypts it and displays a message asking for 222 bitcoins to restore them. | Ransom
-That's the equivalent of $216,000, an unusually large sum of money for a ransomware attack. | Ransom
-What's even more interesting is that there's also a Linux variant of KillDisk that can infect both desktop and server systems, the ESET researchers said Thursday in blog post. | Ransom
+Instead of wiping the data from the disk, the malware encrypts it and displays a message asking for 222 bitcoins to restore them. | AttackRansom
+That's the equivalent of $216,000, an unusually large sum of money for a ransomware attack. | AttackRansom
+What's even more interesting is that there's also a Linux variant of KillDisk that can infect both desktop and server systems, the ESET researchers said Thursday in blog post. | AttackRansom
 The encryption routine and algorithms are different between the Windows and the Linux versions, and on Linux, there's another catch: The encryption keys are neither saved locally nor sent to a command-and-control server, and the attackers can't actually get to them. | O
-"The cyber criminals behind this KillDisk variant cannot supply their victims with the decryption keys to recover their files, despite those victims paying the extremely large sum demanded by this ransomware," the ESET researchers said. | Ransom
+"The cyber criminals behind this KillDisk variant cannot supply their victims with the decryption keys to recover their files, despite those victims paying the extremely large sum demanded by this ransomware," the ESET researchers said. | AttackRansom
 The good news is that there's a weakness in the encryption mechanism for the Linux version that makes it possible -- though difficult -- for the victim to recover the files. | O
 It's not clear why the KillDisk creators have added this encryption feature. | O
 It could be that they're achieving the same goal as in the past -- destruction of data -- but with the ransomware tactic there's also a small chance that they'll walk away with a large sum of money. | O

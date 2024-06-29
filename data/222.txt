@@ -7,7 +7,7 @@ The issue affected only one Cerber server, not all, and was most likely due to a
 The server wasn't a command and control server, but a mere staging server from where the victims' computers would connect and download the actual ransomware, which would later run and infect their PCs. | O
 An error in one of the server files (hxxp://truthforeyoue.top/search.php) displayed page source code, instead of executing it. | O
 This information found its way to Avast security researcher Jaromir Horejsi, who together with the Avast team leveraged this error to get control over the server. | O
-For a period of three hours, the Avast teams explains, they collected information from server logs. | Databreach
+For a period of three hours, the Avast teams explains, they collected information from server logs. | AttackDatabreach
 The Avast team observed over 700 users download Cerber installers, which ran on their PCs. | O
 Extrapolating this number to a whole day, just one typical Cerber ransomware staging server would be able to deliver payloads to around 8,400 users during a spam run peak or malvertising campaigns. | O
 

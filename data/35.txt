@@ -16,8 +16,8 @@ This doesn’t mean that the Russian government may not choose to use it. | O
 In fact, Sean Townsend believes that the Russian security services DO use it but he also knows that they aren’t the only ones. | O
 The first iteration of the POPR-D30 Android app designed by Ukrainian military officer Jaroslav Sherstuk (and the only iteration allegedly impacted by this malware) was a simple ballistics program that calculated corrections for humidity, atmospheric pressure, and other environmental factors that determine accuracy of the D-30 Howitzer. | O
 The Android APK malware doesn’t use GPS nor does it ask for GPS location information from the infected phone or tablet. | O
-That’s a surprising design flaw for custom-made malware whose alleged objective was to collect and transmit location data on Ukrainian artillery to the GRU. | Databreach
-It does collect base station information but that isn’t nearly sufficient for targeting purposes. | Databreach
+That’s a surprising design flaw for custom-made malware whose alleged objective was to collect and transmit location data on Ukrainian artillery to the GRU. | AttackDatabreach
+It does collect base station information but that isn’t nearly sufficient for targeting purposes. | AttackDatabreach
 In rural areas, one base station could have a range of up to 30 kilometers (18.6 miles). | O
 Crowdstrike’s estimate of 80% losses of the D-30 Howitzers came from one source — an article written by pro-Russian blogger Boris Rozhin, a resident of Crimea who writes for a blog called The Saker which he calls “the voice of totalitarian propaganda | O
 Bloomberg journalist Leonid Bershidsky pointed out that the estimates “appear to be based on an assumption that changes in military balance reports, themselves far from perfect, can be interpreted as losses. | O
@@ -33,7 +33,7 @@ There is no evidence that any of those users had their apps compromised by malwa
 In fact, Crowdstrike hasn’t provided any evidence that the malware-infected Android app was used by even a single Ukrainian soldier. | O
 Sherstuk himself stopped supporting the first version in 2015 [10] so how could Crowdstrike even begin to justify its claims as to the malware’s effectiveness? | O
 Part of the evidence supporting Russian government involvement in the DNC and related hacks (including the German Bundestag and France’s TV5 Monde) stemmed from the assumption that X-Agent malware was exclusively developed and used by Fancy Bear. | O
-We now know that’s false, and that the source code has been obtained by others outside of Russia. | Databreach
+We now know that’s false, and that the source code has been obtained by others outside of Russia. | AttackDatabreach
 The GRU, according to Crowdstrike, developed a variant of X-Agent to infect an Android mobile app in order to geolocate and destroy Ukraine’s D-30 howitzers. | O
 To do this, they chose an artillery app which had no way to send or receive data, and wrote malware for it that didn’t ask for GPS position information? | O
 Crowdstrike never contacted the app’s developer to inform him about their findings. | O

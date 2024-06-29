@@ -9,10 +9,10 @@ The executable downloaded logs delivered by exploit kits were analyzed through a
 Landing page deobfuscated by Arctos Ateles engine. | O
 Source: Arctos Threat Research Co. | O
 Bala claims the attackers run automated bots that look for vulnerable sites and then tamper with them by adding additional content that delivers malware to visitors' computers. | O
-Experts say hackers using Cerber ransomware usually demand $1,000 in bitcoin from infected users. | Ransom
+Experts say hackers using Cerber ransomware usually demand $1,000 in bitcoin from infected users. | AttackRansom
 Cerber ransomware and its encryption components are updated daily on the site, he adds. | O
 First appearing in March 2016, Cerber often contains an audio file with a ransom message. | O
-The ransomware largely spreads via spear-phishing campaigns, security experts say. | Phishing
+The ransomware largely spreads via spear-phishing campaigns, security experts say. | AttackPhishing
 Arctos suspects the HPCL attackers' bot might have exploited vulnerabilities in an old Apache web-server or any additional services/plug-ins running in the server, Bala says. | DiscoverVulnerability
 He recommends that HPCL's webserver infrastructure perimeter be protected around the clock by advanced security monitoring solutions to detect such compromises. | O
 In the meantime, it's time CERT-In made a recommendation to HPCL and others on how to avoid infections. | O

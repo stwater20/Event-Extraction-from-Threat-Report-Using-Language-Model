@@ -3,19 +3,19 @@ https://www.scmagazine.com/hackers-are-having-a-field-day-with-stolen-credential
 2017_01_09 
 
 Hackers made hay of the sorry state of credential security in 2016.
-They stole millions of username and password combinations from online services of all shapes and sizes. | Databreach
+They stole millions of username and password combinations from online services of all shapes and sizes. | AttackDatabreach
 Blogs and discussion forums were hit particularly hard. | O
 Exploiting credentials is an old attack vector that still works wonders for hackers. | O
-In its 2016 Data Breach Investigations Report (DBIR), Verizon added a section about credentials, revealing that 63% of data breaches involved weak, default or stolen passwords. | Databreach
+In its 2016 Data Breach Investigations Report (DBIR), Verizon added a section about credentials, revealing that 63% of data breaches involved weak, default or stolen passwords. | AttackDatabreach
 “This statistic drives our recommendation that this is a bar worth raising,” reads the report. | O
-Why is it so easy for cybercriminals to plunder login credentials? | Databreach
-End users, despite constant warnings, continue re-using passwords, allowing hackers to conveniently break into multiple accounts after stealing someone's credentials once. | Databreach
+Why is it so easy for cybercriminals to plunder login credentials? | AttackDatabreach
+End users, despite constant warnings, continue re-using passwords, allowing hackers to conveniently break into multiple accounts after stealing someone's credentials once. | AttackDatabreach
 It's like having one key for your bike lock, front door, office building, car and bank box. | O
-Meanwhile, more software vendors should provide advanced hashing, salting and other scrambling technologies for protecting credential information in case it's stolen. | Databreach
+Meanwhile, more software vendors should provide advanced hashing, salting and other scrambling technologies for protecting credential information in case it's stolen. | AttackDatabreach
 For example, attackers hacked Clash of Kings' forum after exploiting a known vulnerability in an outdated version of the vBulletin software. | O
-The thieves stole personal information from 1.6 million user accounts, including scrambled passwords. | Databreach
-In one case, an attacker used misplaced install files to gain admin privileges. | Databreach
-In another case, hackers stole one moderator's credentials and used the account to post a malicious message in the forum.  | Databreach
+The thieves stole personal information from 1.6 million user accounts, including scrambled passwords. | AttackDatabreach
+In one case, an attacker used misplaced install files to gain admin privileges. | AttackDatabreach
+In another case, hackers stole one moderator's credentials and used the account to post a malicious message in the forum.  | AttackDatabreach
 After viewing the message, the forum's administrator had his account compromised, leading to a massive breach. | O
 Notable vulnerabilities exploited in recent years include CVE-2016-6483, CVE-2016-6195, CVE-2016-6635, CVE-2015-1431, CVE-2015-7808, CVE-2014-9574 and CVE-2013-6129. | DiscoverVulnerability
 

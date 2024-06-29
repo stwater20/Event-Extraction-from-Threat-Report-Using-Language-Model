@@ -1,16 +1,16 @@
 http://www.infosecurity-magazine.com/news/fraudsters-pose-as-doe-spread/ 
 2017_01_06 
 
-UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware. | Phishing
-An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”. | Phishing
-The resulting email contains a .zip attachment loaded with ransomware that will apparently demand up to £8000 to recover the files. | Ransom
-Action Fraud claimed similar cases have been noted where the fraudsters pretend to be calling from the Department for Work and Pensions, or even telecom providers. | Phishing
-The newly reported incidents represent an escalation in tactics designed to get ransomware on the networks of targets presumably selected because they may be relatively poorly secured, and be willing to pay a high penalty to gain access back to their data. | Ransom,Phishing
+UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware. | AttackPhishing
+An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”. | AttackPhishing
+The resulting email contains a .zip attachment loaded with ransomware that will apparently demand up to £8000 to recover the files. | AttackRansom
+Action Fraud claimed similar cases have been noted where the fraudsters pretend to be calling from the Department for Work and Pensions, or even telecom providers. | AttackPhishing
+The newly reported incidents represent an escalation in tactics designed to get ransomware on the networks of targets presumably selected because they may be relatively poorly secured, and be willing to pay a high penalty to gain access back to their data. | AttackRansom,Phishing
 “Once again, hackers have preyed on the weakest link in security – the end-user – but this is not where the fault lies. | O
 It’s unfair to expect busy teachers to be able to tell the difference between an email from the Department of Education and these sophisticated mimics,” argued Fraser Kyne, EMEA CTO at Bromium. | O
 “Hackers are clever and convincing con artists, yet the industry continues to try and convince us that they can be defeated through detection tools and user education. | O
 As we can see from the rise in such attacks, this approach is neither realistic nor effective”. | O
-In related news, new tactics designed to deliver the Petya variant GoldenEye have been discovered using fake job application emails. | Phishing
-The new campaign is designed to target HR staff, with the ransomware hidden in a malicious attachment masquerading as a CV, according to Check Point. | Phishing
-The emails also contain a harmless PDF as covering letter in order to lull the recipient into a false sense of security, the vendor claimed. | Phishing
+In related news, new tactics designed to deliver the Petya variant GoldenEye have been discovered using fake job application emails. | AttackPhishing
+The new campaign is designed to target HR staff, with the ransomware hidden in a malicious attachment masquerading as a CV, according to Check Point. | AttackPhishing
+The emails also contain a harmless PDF as covering letter in order to lull the recipient into a false sense of security, the vendor claimed. | AttackPhishing
 
