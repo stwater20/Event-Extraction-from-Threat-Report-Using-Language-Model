@@ -1,4 +1,4 @@
-Oracle Fixes 301 Flaws in October Critical Patch Update
+Oracle Fixes 301 Flaws in October Critical Patch Update | PatchVulnerability
 Oracle has released a critical patch update addressing more than 300 vulnerabilities across several of its products – including one flaw with a CVSS 3.0 score of 10 that could allow the takeover of the company’s software package, Oracle GoldenGate. | PatchVulnerability
 Of the 301 security flaws that were fixed in this month’s Oracle patch, 45 had a severity rating of 9.8 on the CVSS scale. | PatchVulnerability
 “Due to the threat posed by a successful attack, Oracle strongly recommends that customers apply Critical Patch Update fixes as soon as possible,” the company said in its Tuesday advisory. | PatchVulnerability
