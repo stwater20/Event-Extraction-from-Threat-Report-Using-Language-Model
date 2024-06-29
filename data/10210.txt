@@ -1,4 +1,4 @@
-Thought Patch Tuesday was a load? You gotta check out this Oracle mega-advisory, then
+Thought Patch Tuesday was a load? You gotta check out this Oracle mega-advisory, then | O
 Oracle has released a wide-ranging security update to address more than 300 CVE-listed vulnerabilities in its various enterprise products. | PatchVulnerability
 The October release covers the gamut of Oracle's offerings, including its flagship Database, E-Business Suite, and Fusion Middleware packages. | O
 For Database, the update addresses a total of three flaws. | PatchVulnerability
