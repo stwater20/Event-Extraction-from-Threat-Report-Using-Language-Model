@@ -1,4 +1,4 @@
-Oracle fixes Solaris vulnerability that could allow kernel level privilege escalation
+Oracle fixes Solaris vulnerability that could allow kernel level privilege escalation | PatchVulnerability
 A vulnerability in some versions of the Oracle Solaris enterprise OS could allow attackers to edit code in the memory and exploit it to gain full root control over a machine. | DiscoverVulnerability
 The privilege escalation vulnerability -- now patched -- is present in current versions of Oracle Solaris 10 and 11 running Sun StorageTek Availability Suite (AVS) for the filesystem and could be used to access to a low-level user or service account and, from there, gain complete root access to the system. | DiscoverVulnerability, PatchVulnerability
 The memory corruption bug has been uncovered and detailed by researchers at Trustwave -- and its origins go all the way back to 2007. | DiscoverVulnerability
