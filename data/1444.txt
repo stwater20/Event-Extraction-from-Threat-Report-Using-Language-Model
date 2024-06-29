@@ -1,4 +1,4 @@
-Audit Finds Over a Dozen NTP Vulnerabilities | SecurityWeek.Com
+Audit Finds Over a Dozen NTP Vulnerabilities | SecurityWeek.Com | DiscoverVulnerability
 Researchers at Germany-based security firm Cure53 have conducted a 32-day audit of the Network Time Protocol (NTP) and the NTPsec project and discovered more than a dozen vulnerabilities. | DiscoverVulnerability
 Experts identified a total of 16 security-related issues, including 8 weaknesses that only affect NTP and two that only impact NTPsec, which is meant to be a secure, hardened and improved implementation of NTP. | DiscoverVulnerability
 Cure53 has published separate reports focusing on the NTP and NTPsec problems. | DiscoverVulnerability
