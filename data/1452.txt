@@ -1,4 +1,4 @@
-Notorious iOS spyware has an Android sibling | ITworld
+Notorious iOS spyware has an Android sibling | ITworld | O
 Called Chrysaor, the Android variant can steal data from messaging apps, snoop over a phone’s camera or microphone, and even erase itself. | AttackDatabreach
 On Monday, Google and security firm Lookout disclosed the Android spyware, which they suspect comes from NSO Group, an Israeli security firm known to develop smartphone surveillance products. | AttackDatabreach
 Fortunately, the spyware never hit the mainstream. | AttackDatabreach
