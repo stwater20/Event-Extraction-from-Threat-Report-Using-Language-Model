@@ -1,4 +1,4 @@
-EdgeWave Discovered New Spam Technique Exploiting Ubiquitous URL Shorteners
+EdgeWave Discovered New Spam Technique Exploiting Ubiquitous URL Shorteners | AttackPhishing
 EdgeWave, Inc.®, a leading provider in cybersecurity and compliance, today revealed a new, malicious exploit embedded in popular URL shorteners, which are being mistaken as legitimate URLs. | DiscoverVulnerability
 URL shorteners may be susceptible to this new exploit when a change is allowed to the long URL after the shortened URL is created. | AttackPhishing, DiscoverVulnerability
 The malicious parties fabricate an email that appears to be a legitimate marketing email which includes the shortened URL --- passing by any in-transit virus scanning and potentially other spam checking tools. | AttackPhishing
