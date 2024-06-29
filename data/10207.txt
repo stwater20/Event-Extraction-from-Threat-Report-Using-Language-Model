@@ -1,4 +1,4 @@
-Foxit patches 118 vulnerabilities in popular PDF reader
+Foxit patches 118 vulnerabilities in popular PDF reader | PatchVulnerability
 Foxit has patched more than 118 vulnerabilities in its PDF reader, some of which could be exploited to enable full remote code execution. | PatchVulnerability, DiscoverVulnerability
 Patches were released last week for Foxit Reader 9.3 and Foxit PhantomPDF 9.3 to address a huge number of issues in the programs. | PatchVulnerability
 This security bulletin released by Foxit provides details on the extensive list of vulnerabilities, which were discovered via internal research, end user reports, and reports from research teams. | DiscoverVulnerability
