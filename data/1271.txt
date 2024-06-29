@@ -1,4 +1,4 @@
-Leaked iCloud credentials obtained from third parties, Apple says | CSO Online
+Leaked iCloud credentials obtained from third parties, Apple says | CSO Online | AttackDatabreach
 "There have not been any breaches in any of Apple's systems including iCloud and Apple ID," an Apple representative said in an emailed statement. | AttackDatabreach
 "The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services." | AttackDatabreach
 A group calling itself the Turkish Crime Family claims to have login credentials for more than 750 million icloud.com, me.com and mac.com email addresses, and the group says more than 250 million of those credentials provide access to iCloud accounts that don't have two-factor authentication turned on. | AttackDatabreach, AttackRansom
