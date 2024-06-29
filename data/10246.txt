@@ -1,4 +1,4 @@
-Cyber attack on CDOT computers estimated to cost up to $1.5 million so far
+Cyber attack on CDOT computers estimated to cost up to $1.5 million so far | O
 Six weeks after ransomware forced Colorado Department of Transportation’s back-end operations offline, the agency is back to 80 percent functionality — at an estimated cost of up to $1.5 million, according to the state. | O
 Colorado officials said they never caved to the attacker’s demands to pay bitcoin in order to recover encrypted computer files. | AttackRansom
 But clearing each computer took time and additional resources — including the Colorado National Guard — to investigate, contain and recover. | O
