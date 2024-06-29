@@ -1,4 +1,4 @@
-Doxed by Microsoft’s Docs.com: Users unwittingly shared sensitive docs publicly | Ars Technica
+Doxed by Microsoft’s Docs.com: Users unwittingly shared sensitive docs publicly | Ars Technica | AttackDatabreach
 On March 25, security researcher Kevin Beaumont discovered something very unfortunate on Docs.com, Microsoft's free document-sharing site tied to the company's Office 365 service: its homepage had a search bar. | PatchVulnerability, DiscoverVulnerability
 That in itself would not have been a problem if Office 2016 and Office 365 users were aware that the documents they were posting were being shared publicly. | PatchVulnerability, DiscoverVulnerability
 As described in a Microsoft support document, "with Docs.com, you can create an online portfolio of your expertise, discover, download, or bookmark works from other authors, and build your brand with built-in SEO, analytics, and email and social sharing." | PatchVulnerability, DiscoverVulnerability
