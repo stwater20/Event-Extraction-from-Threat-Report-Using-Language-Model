@@ -1,4 +1,4 @@
-Cyber criminals targeting healthcare orgs' FTP servers - Help Net Security
+Cyber criminals targeting healthcare orgs' FTP servers - Help Net Security | O
 FBI’s Cyber Division has sent out another notification to healthcare organizations, alerting them to the danger of cyber criminals using their FTP servers for various malicious purposes. | AttackDatabreach
 “The FBI is aware of criminal actors who are actively targeting File Transfer Protocol (FTP) servers operating in ‘anonymous’ mode and associated with medical and dental facilities to access protected health information (PHI) and personally identifiable information (PII) in order to intimidate, harass, and blackmail business owners,” says the notification. | AttackDatabreach
 “anonymous” or “ftp”) and no password, the FBI explained. | O
