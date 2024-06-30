@@ -1,4 +1,4 @@
-Bank accounts raided after crooks exploit huge flaw in mobile networks – Naked Security
+Bank accounts raided after crooks exploit huge flaw in mobile networks – Naked Security | O
 When you’re as ginormous a target as the global telecommunications industry, and you’re sitting on a flaw as big as the one affecting its SS7 protocol, best not rely on “security through obscurity”. | DiscoverVulnerability
 You and your customers could get badly bitten – and so they have. | O
 The Signalling System No. 7 (SS7) telephony signaling protocol used to establish interoperability across some 800+ service providers worldwide, is deeply vulnerable to interception by hackers, criminals, and corrupt insiders. | DiscoverVulnerability
