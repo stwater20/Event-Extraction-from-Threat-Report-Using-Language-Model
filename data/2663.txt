@@ -1,4 +1,4 @@
-Palo Alto Networks Unit 42 Vulnerability Research May 2017 Disclosures - Palo Alto Networks Blog
+Palo Alto Networks Unit 42 Vulnerability Research May 2017 Disclosures - Palo Alto Networks Blog | O
 As part of Unit 42’s ongoing threat research, we can now disclose that Palo Alto Networks Unit 42 researchers have discovered two code execution vulnerabilities affecting Microsoft Office that were addressed in Microsoft’s May 2017 monthly security update release: | DiscoverVulnerability, PatchVulnerability
 For current customers with a Threat Prevention subscription, Palo Alto Networks has also released IPS signatures providing proactive protection from these vulnerabilities. | PatchVulnerability
 Traps, Palo Alto Networks advanced endpoint solution, can block memory corruption based exploits of this nature. | O
