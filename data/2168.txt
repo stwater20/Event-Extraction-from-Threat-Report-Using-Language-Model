@@ -1,4 +1,4 @@
-Irish public warned as cyber scammers target Tesco and Bank of Ireland customers
+Irish public warned as cyber scammers target Tesco and Bank of Ireland customers | O
 THE Irish public are being warned by an antivirus protection company as cyber scammers are targeting Tesco and Bank of Ireland customers. | O
 ESET Ireland have looked at recent cyber threats arriving by mail in recent weeks, and they are advising caution as one link could see your money stolen. | O
 The cyber security company say that for the people sending these malicious emails, it’s a numbers game that they are playing. | AttackPhishing
@@ -8,13 +8,13 @@ The past weeks were no exception." | O
 One such email that was sent out this week was targeted at Tesco Bank customers - the elaborate letter pretended to have come from the Tesco Bank credit card team. | AttackPhishing
 It reads: “We’ve been trying to contact you about your account, but we've been unable to reach you. | O
 Your account has been restricted. | O
-To continue using our online services and have your account restored, just to keep you safe, kindly confirm your identity and remove your account limitations with the reference link below.”| O
+To continue using our online services and have your account restored, just to keep you safe, kindly confirm your identity and remove your account limitations with the reference link below.” | O
 They would then proceed to kindly steal your log in details and try to log into your account to take your money. | AttackDatabreach
 Bank of Ireland customers are also being targeted and ESET say that the Irish bank is "always a popular name to abuse". | O
 The company have detected two phishing variations which have recently targeted members of the banking institution. | AttackPhishing
 One convincing looking email claims: “In order to protect your funds and information, Bank of Ireland has set up a new enhanced security system, which will eliminate fraud and totally protect you. | O
 The new system is called Boi Secure Link. | O
-Click the Boi Secure Link below to enjoy the new security features.”| O
+Click the Boi Secure Link below to enjoy the new security features.” | O
 Of course, clicking on that link does everything but protect you, but instead attempts pretty much the same as the Tesco one. | O
 The second one was even simpler, but unfortunately, not less effective. | O
 It said: “My Inbox (1) ~ Your message is available to view on 365 online. | O
