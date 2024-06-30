@@ -1,4 +1,4 @@
-GameStop Online Shoppers Officially Warned of Breach | Threatpost | The first stop for security news
+GameStop Online Shoppers Officially Warned of Breach | Threatpost | The first stop for security news | O
 GameStop customers received breach notification warnings this week, cautioning them that their personal and financial information could have been compromised nine months ago. | AttackDatabreach
 According to postal letters sent to customers, GameStop said an undisclosed number of online customers had their credit card or bankcard data stolen, including the card numbers, expiration dates, names, addresses and the three-digit card verification values (CVV2). | AttackDatabreach
 The breach occurred between Aug 10, 2016 to Feb 9, 2017, according to GameStop. | AttackDatabreach
