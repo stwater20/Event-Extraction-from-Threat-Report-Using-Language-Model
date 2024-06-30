@@ -1,4 +1,4 @@
-Google Shuts Down Docs Phishing Spree | Threatpost | The first stop for security news
+Google Shuts Down Docs Phishing Spree | Threatpost | The first stop for security news | O
 Google said it has disabled offending accounts involved in a widespread spree of phishing emails today impersonating Google Docs. | AttackPhishing
 The emails, at the outset, targeted journalists primarily and attempted to trick victims into granting the malicious application permission to access the user’s Google account. | AttackPhishing
 It’s unknown how many accounts were compromised, or whether other applications are also involved. | AttackDatabreach
