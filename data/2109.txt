@@ -1,4 +1,4 @@
-iPhone Phishing Scam Crosses Over Physical Crime - TrendLabs Security Intelligence Blog
+iPhone Phishing Scam Crosses Over Physical Crime - TrendLabs Security Intelligence Blog | AttackPhishing
 Last late April a friend of mine had his iPhone stolen in the streets—an unfortunately familiar occurrence in big, metropolitan areas in countries like Brazil. | O 
 He managed to buy a new one, but kept the same number for convenience. | O
 Nothing appeared to be out of the ordinary at first—until he realized the thief changed his Facebook password. | O
@@ -30,7 +30,8 @@ Organizations understand that the risks of attacks are just as significant if th
 Indeed, today’s increasingly intricate—and in a lot of cases, brazen—attacks, whether physical or in cyberspace, call for being more proactive. | O
 Being aware of red flags in phishing scams, securing the privacy of mobile apps, and adopting best practices for BYOD devices, are just some of them. | AttackPhishing	
 These are complemented by physically securing mobile devices—from password-protecting important documents to employing biometrics or strong PINs to prevent unauthorized access to the device’s apps. | O
-Users can also benefit from multilayered mobile security solutions such as Trend Micro™ Mobile Security for Apple devices (available on the App Store) that can monitor and block phishing attacks and other malicious URLs. For organizations, especially those that use BYOD devices, Trend Micro™ Mobile Security for Enterprise provides device, compliance and application management, data protection, and configuration provisioning, as well as protect devices from attacks that leverage vulnerabilities, preventing unauthorized access to apps, as well as detecting and blocking malware and fraudulent websites. | AttackPhishing
+Users can also benefit from multilayered mobile security solutions such as Trend Micro™ Mobile Security for Apple devices (available on the App Store) that can monitor and block phishing attacks and other malicious URLs. 
+For organizations, especially those that use BYOD devices, Trend Micro™ Mobile Security for Enterprise provides device, compliance and application management, data protection, and configuration provisioning, as well as protect devices from attacks that leverage vulnerabilities, preventing unauthorized access to apps, as well as detecting and blocking malware and fraudulent websites. | AttackPhishing
 With help from our colleagues from PhishLabs, we were able to take down the phishing pages that were still online. | O
 We also disclosed to Apple our findings related to this threat. | O
 The domains we uncovered related to this scam are in this appendix. | O
