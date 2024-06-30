@@ -1,4 +1,4 @@
-Google Docs Phishing Attack Abuses Legitimate ...
+Google Docs Phishing Attack Abuses Legitimate ... | AttackPhishing
 Google users today were hit with an extremely convincing phishing spree launched by attackers who manipulated Google Docs' legitimate third-party sharing mechanism. | AttackPhishing
 Targets received messages with the subject like "[Sender] has shared a document on Google Docs with you" often from senders they knew. | AttackPhishing
 The messages contained links, which led to a page that clearly requested access to the user's Gmail account. | AttackPhishing
