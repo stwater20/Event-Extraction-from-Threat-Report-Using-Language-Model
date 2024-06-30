@@ -1,4 +1,4 @@
-Boatload of Security Flaws Make Fosscam IP Cameras Absolutely Useless
+Boatload of Security Flaws Make Fosscam IP Cameras Absolutely Useless | DiscoverVulnerability
 IP cameras manufactured by Chinese vendor Fosscam are riddled with security flaws that allow an attacker to take over the device and penetrate your network. | DiscoverVulnerability
 The issues came to light yesterday when Finnish cyber-security firm F-Secure published its findings after Fosscam failed to answer bug reports and patch its firmware. | DiscoverVulnerability, PatchVulnerability
 Below is a list of 18 vulnerabilities researchers discovered in Fosscam IP cameras: | DiscoverVulnerability
