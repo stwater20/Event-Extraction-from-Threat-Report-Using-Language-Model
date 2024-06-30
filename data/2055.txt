@@ -1,4 +1,4 @@
-Concern mounts at Indian ID scheme as portals ‘leak’ 100m people’s details – Naked Security
+Concern mounts at Indian ID scheme as portals ‘leak’ 100m people’s details – Naked Security | AttackDatabreach
 The details of more than 100m Indians’ Aadhaar ID cards have leaked from four government portals, according to a report from the Centre for Internet and Society (CIS). | AttackDatabreach
 Based on the numbers available on the websites looked at, [the] estimated number of Aadhaar numbers leaked through these four portals could be around 130-135 million If you’re not familiar with the Aadhaar numbers, we’ve previously reported on the history of and concerns surrounding this biometric ID card. | AttackDatabreach 
 Now a fundamental part of Indian society, anyone that has not signed up faces being denied access to many government and private-sector services and schemes. | O
