@@ -1,4 +1,4 @@
-SLocker: Android ransomware threat returns in undetectable form | Computing
+SLocker: Android ransomware threat returns in undetectable form | Computing | AttackRansom
 A ransomware threat called SLocker, which accounted for one-fifth of Android malware attacks in 2015, is back with avengeance, according to security firm Wandera. | O
 SLocker encrypts images, documents and videos on Android devices and demands a ransom to decrypt the files. | AttackRansom
 Once the malware is executed, it runs in the background of a user's device without their knowledge or consent. | O
@@ -13,4 +13,3 @@ It said that these strains were targeting businesses' mobile fleets through easi
 According to Wandera, the variants have been redesigned and repackaged to avoid all known detection techniques. | O
 "They utilise a wide variety of disguises including altered icons, package names, resources and executable files in order to evade signature-based detection," the company said. | O
 Third-party app stores and unknown vendors should be avoided by Android users, while corporate administrators should be wary of SLocker returning and put in place security measures to monitor devices accordingly. | O
-
