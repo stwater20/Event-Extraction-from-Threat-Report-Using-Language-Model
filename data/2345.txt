@@ -1,4 +1,4 @@
-Second massive WannaCry-like cyber attack identified | Euronews
+Second massive WannaCry-like cyber attack identified | Euronews | AttackRansom
 Cyber security experts reveal they have found a second massive computer virus which has affected hundreds of thousands of computers world-wide, like the WannaCry cyber attack last week, has affected hundreds of thousands of computers world-wide and may have North Korean origins. | AttackRansom
 This second global hack exploits the same Microsoft vulnerabilities as the WannaCry attack and it is estimated to have infected more than 200,000 computers. | AttackRansom
 The full scale of this attack, however, is still being determined due to the fact the attack is on-going. | O
@@ -17,4 +17,3 @@ Kapersky Lab, a cyber security firm, said a segment of the Lazarus group had ins
 Proofpoint executive Ryan Kalember, speaking to Reuters, said he believes these two attacks are “more than coincidence”. | O
 “It’s a really strong overlap”, he told Reuters. | O
 “It’s not like you see Monero miners all over the world.” | O
-
