@@ -1,4 +1,4 @@
-'Witcher' Developer Says Hackers Have Compromised Its Next Big Game - Motherboard
+'Witcher' Developer Says Hackers Have Compromised Its Next Big Game - Motherboard | O
 CD Projekt Red, the Polish developer best known for its work on  The Witcher series, released a short statement on its twitter feed today claiming that early work from its next title,  Cyberpunk 2077, has been compromised. | O
 The statement suggests that the individual or individuals in question are holding the developer ransom for an undisclosed figure, threatening to release the early game files out into the public if their demands are not met. | AttackRansom
 CD Projekt Red has made it clear that it will not meet the hacker(s) demands, and that "the appropriate legal authorities will be informed about the situation". | AttackRansom
@@ -13,4 +13,3 @@ Back in 2003, Axel Gembe managed to hack Valve's network, and got his hands on t
 Though in that instance, Axel claimed to have been a genuine fan and said that Valve was his "favourite developer"—he even emailed Valve's co-founder Gabe Newell to apologize and hoped he could get a job out of it (spoiler: he didn't). | O
 There was also George "Geohot" Hotz, the man who hacked the PlayStation 3—and was subsequently sued by Sony for it. | O
 No doubt everyone will be keeping an eye on Reddit and NeoGAF over the following days. | O
-
