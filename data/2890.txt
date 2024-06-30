@@ -1,4 +1,4 @@
-Cyber extortionists target North American companies - Help Net Security
+Cyber extortionists target North American companies - Help Net Security | AttackRansom
 A group of financially motivated hackers is targeting networks and systems of North American companies, threatening to leak the stolen information and cripple the company by disrupting their networks if they don’t pay a hefty ransom. | AttackRansom
 The group, dubbed FIN10 by FireEye researchers, first gets access to the target companies’ systems through spear-phishing (and possibly other means), then uses publicly available software, scripts and techniques to gain a foothold into victims’ networks. | AttackPhishing
 They use Meterpreter or the SplinterRAT to establish the initial foothold within victim environments (and later a permanent backdoor), then custom PowerShell-based utilities, the pen-testing tool PowerShell Empire, and scheduled tasks to achieve persistence. | O
