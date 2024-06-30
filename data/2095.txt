@@ -1,4 +1,4 @@
-Google Docs phishing attack underscores OAuth security risks | ITworld
+Google Docs phishing attack underscores OAuth security risks | ITworld | AttackPhishing
 Google has stopped Wednesday’s clever email phishing scheme, but the attack may very well make a comeback. | AttackPhishing
 One security researcher has already managed to replicate it, even as Google is trying to protect users from such attacks. | O
 “It looks exactly like the original spoof,” said Matt Austin, director of security research at Contrast Security. | AttackPhishing
@@ -31,4 +31,3 @@ It's tempting to install apps and assume they're safe. | AttackPhishing
 But users and businesses need to be careful when linking accounts to third-party apps, which might be asking for more access than they need, Cloudlock's Kaya said. | O
 "Hackers have a headstart exploiting this attack," she said. | O
 "All companies need to be thinking about this." | O
-
