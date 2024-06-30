@@ -1,4 +1,4 @@
-SLocker Ransomware Variants Surge
+SLocker Ransomware Variants Surge | AttackRansom
 New variants of an Android ransomware family have surged over the past six months to some 600 unique versions. | O
 That's a dramatic jump from the 100 variants created between October to the start of December, says Michael Covington, vice president of product strategy for Wandera, which published new data on the ransomware today. | O
 The new strains of the mobile ransomware use a range of disguises to avoid detection. | O
