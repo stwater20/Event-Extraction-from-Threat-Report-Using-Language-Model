@@ -1,4 +1,4 @@
-French candidate Macron claims massive hack as emails leaked | Reuters
+French candidate Macron claims massive hack as emails leaked | Reuters | AttackDatabreach
 Leading French presidential candidate Emmanuel Macron’s campaign said on Friday it had been the target of a “massive” computer hack that dumped its campaign emails online 1-1/2 days before voters choose between the centrist and his far-right rival, Marine Le Pen. | AttackDatabreach
 Macron, who is seen as the frontrunner in an election billed as the most important in France in decades, extended his lead over Le Pen in polls on Friday. | O
 As much as 9 gigabytes of data were posted on a profile called EMLEAKS to Pastebin, a site that allows anonymous document sharing. | O
@@ -20,5 +20,4 @@ En Marche said the documents only showed the normal functioning of a presidentia
 Ben Nimmo, a UK-based security researcher with the Digital Forensic Research Lab of the Atlantic Council think tank, said initial analysis indicated that a group of U.S. far-right online activists were behind early efforts to spread the documents via social media. | O
 They were later picked up and promoted by core social media supporters of Le Pen in France, Nimmo said. | O
 The leaks emerged on 4chan, a discussion forum popular with far right activists in the United States. | O
-An anonymous poster provided links to the documents on Pastebin, saying, “This was passed on to me today so now I am giving it to you, the people.”| O
-
+An anonymous poster provided links to the documents on Pastebin, saying, “This was passed on to me today so now I am giving it to you, the people.” | O
