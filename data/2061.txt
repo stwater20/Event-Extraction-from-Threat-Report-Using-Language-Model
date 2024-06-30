@@ -1,4 +1,4 @@
-OAUTH phishing against Google Docs ? beware! - SANS Internet Storm Center 
+OAUTH phishing against Google Docs ? beware! - SANS Internet Storm Center | AttackPhishing
 We got several reports (thanks to Seren Thompson, Tahir Khan and Harry Vann) about OAUTH phishing attacks against Google users. | AttackPhishing
 The phishing attack arrives, of course, as an e-mail where it appears that a user (potentially even one on your contact list, so it looks very legitimate) has shared a document. | AttackPhishing
 
