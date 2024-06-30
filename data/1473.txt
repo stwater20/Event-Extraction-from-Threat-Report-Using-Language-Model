@@ -1,4 +1,4 @@
-Samsung Tizen TVs Reportedly Ship With Zero Day Security Flaws | Fortune
+Samsung Tizen TVs Reportedly Ship With Zero Day Security Flaws | Fortune | DiscoverVulnerability
 Samsung’s televisions and wearables reportedly have serious vulnerabilities that could allow malicious hackers to remotely take control of them. | DiscoverVulnerability
 Security researchers in Israel have uncovered 40 previously undiscovered vulnerabilities in the operating system running in Samsung’s line of smart televisions, smartwatches, and even mobile phones, which could give hackers easy access to the devices, Motherboard is reporting after discussing the findings with the researchers. | DiscoverVulnerability
 Tens of millions of electronics could be at risk, security researcher Amihai Neiderman told Motherboard. | O
