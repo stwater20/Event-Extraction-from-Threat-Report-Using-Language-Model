@@ -1,4 +1,4 @@
-'Serious' hack attacks from China targeting UK firms - BBC News
+'Serious' hack attacks from China targeting UK firms - BBC News | O
 The gang behind the attacks has compromised technology service firms and plans to use them as a proxy for attacks, security firms have said. | AttackDatabreach
 The group, dubbed APT10, is using custom-made malware and spear phishing to gain access to target companies. | AttackPhishing
 The National Cyber Security Centre and cyber units at PwC and BAE Systems collaborated to identify the group. | O
