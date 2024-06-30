@@ -1,4 +1,4 @@
-Sabre hires Mandiant to probe breach in hotel reservation system | Reuters
+Sabre hires Mandiant to probe breach in hotel reservation system | Reuters | O
 (Reuters) - Sabre Corp said on Tuesday there had been a breach in its hospitality unit’s hotel reservation system and had hired FireEye Inc’s Mandiant forensics division to probe the incident. | O
 "The unauthorized access has been shut off and there is no evidence of continued unauthorized activity," Sabre said in a statement. | O
 The company, which offers hotel and airline booking services, said it had informed law enforcement about the breach in its SynXis Central Reservations. | O
