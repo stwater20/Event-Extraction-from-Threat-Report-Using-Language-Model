@@ -1,4 +1,4 @@
-OneLogin suffers breach—customer data said to be exposed, decrypted | Ars Technica
+OneLogin suffers breach—customer data said to be exposed, decrypted | Ars Technica | AttackDatabreach
 OneLogin has revealed more about the attack on its systems, confirming that a "threat actor" had accessed database tables including "information about users, apps, and various types of keys." | AttackDatabreach
 It warned once again that the malefactor, who was able to rifle through OneLogin's infrastructure for seven hours, may have been able to decrypt customer data. | O
 The company said: | O
