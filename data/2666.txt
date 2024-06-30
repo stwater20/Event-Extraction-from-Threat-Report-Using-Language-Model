@@ -1,4 +1,4 @@
-Kmart Point of Sale Hacked with 'Undetectable' Malware
+Kmart Point of Sale Hacked with 'Undetectable' Malware | O
 Kmart has suffered another credit card breach, its second in three years. | AttackDatabreach
 This time though, its chip-and-PIN card readers significantly contained the fallout. | O
 Kmart is not saying how many of its 750 stores in the US were affected by the point-of-sale (PoS) malware, but it stressed that no personal data, including names, addresses, Social Security Numbers or email addresses, was stolen. | AttackDatabreach
