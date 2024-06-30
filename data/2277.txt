@@ -1,4 +1,4 @@
-Symantec successfully blocks more than 21 million 'WannaCrypt' ransomware attempts
+Symantec successfully blocks more than 21 million 'WannaCrypt' ransomware attempts | O
 The 'WannaCrypt' ransomware has been a worldwide dilemma, impacting many countries. | O
 Luckily, the malware only impacts older versions of Microsoft's operating system -- Windows 10 is not vulnerable. | O
 Also immune to WannaCrypt is macOS and Linux distributions. | O
@@ -15,4 +15,3 @@ And, our Global Intelligence Network automatically shares WannaCry intelligence 
 While Symantec's announcement highlights the importance of security software for both home and business users, it shouldn't distract from the fact that it is also imperative to apply operating system updates in a timely matter. | O
 Also important is using supported software. | O
 Yes, Microsoft patched the unsupported Windows XP, but that OS should really not even be in use anymore. | PatchVulnerability
-
