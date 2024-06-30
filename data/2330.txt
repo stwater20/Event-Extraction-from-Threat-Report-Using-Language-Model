@@ -1,4 +1,4 @@
-1.9 million Bell Canada customer account details stolen, leaked - Help Net Security
+1.9 million Bell Canada customer account details stolen, leaked - Help Net Security | AttackDatabreach
 Anonymous hackers have stolen and leaked 1.9 million email addresses and some 1,700 names and active phone numbers of Bell Canada customers. | AttackDatabreach
 The company has not shared where the stolen information was stored and how they attackers managed to access it, because the Royal Canadian Mounted Police cyber crime unit’s investigation into the matter is still ongoing. | AttackDatabreach
 But, according to a brief statement, the affected systems have been secured, the Office of the Privacy Commissioner of Canada informed, and affected users notified directly (either via email or phone). | O
