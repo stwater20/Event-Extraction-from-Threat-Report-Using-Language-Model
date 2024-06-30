@@ -1,4 +1,4 @@
-Developers Again Blamed for Cloud Back-End Security Vulnerabilities -- ADTmag
+Developers Again Blamed for Cloud Back-End Security Vulnerabilities -- ADTmag | O
 Developers are once again being blamed for cloud back-end security vulnerabilities, this time in a new report from Appthority. | DiscoverVulnerability
 The company published investigation results that found nearly 43 TB of enterprise data was exposed on cloud back-ends, including personally identifiable information (PII). | AttackDatabreach
 This comes just shortly after a similar report from a different security company. | O
@@ -25,4 +25,3 @@ Key findings of the report as listed by the company include: | O
 The company said its Mobile Threat Team identified the HospitalGown vulnerabilities with a combination of its dynamic app analysis tool and a new back-end scanning method, looking at the network traffic on more than 1 million enterprise mobile apps, both iOS and Android. | DiscoverVulnerability
 As with the misconfiguration problems identified in the RedLock report, Appthority emphasized that all cases of HospitalGown vulnerabilities were caused by human errors, not malicious intent or inherent infrastructure problems. | DiscoverVulnerability
 That human error was especially prevalent in two app implementations investigated by Appthority: Pulse Workspace (for accessing enterprise network and Web applications) and Jacto apps (from an agricultural machinery company). | O
-
