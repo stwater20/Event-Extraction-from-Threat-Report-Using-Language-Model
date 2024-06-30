@@ -1,4 +1,4 @@
-WannaCry: here’s what we know now about the outbreak – Naked Security
+WannaCry: here’s what we know now about the outbreak – Naked Security | AttackRansom
 There’s no question that Friday’s WannaCry ransomware attack, which spread like wildfire, was bad. | AttackRansom
 Its ability to spread like a worm by exploiting a Microsoft vulnerability was certainly new ground for a ransomware campaign. | O
 But along the way, there’s been a lot of fear and hype. | O
