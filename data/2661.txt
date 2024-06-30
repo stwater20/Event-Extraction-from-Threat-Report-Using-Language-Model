@@ -1,4 +1,4 @@
-Insecure Backend Databases Blamed for Leaking 43TB of App Data | Threatpost | The first stop for security news
+Insecure Backend Databases Blamed for Leaking 43TB of App Data | Threatpost | The first stop for security news | AttackDatabreach
 Insecure backend databases and mobile apps are making for a dangerous combination, exposing an estimated 280 million records that include a treasure-trove of private user data. | AttackDatabreach
 According to a report by Appthority, more than 1,000 apps it looked at on mobile devices leaked personally identifiable information that included passwords, location, VPN PINs, emails and phone numbers. | AttackDatabreach
 Appthority Mobile Threat Team called the vulnerability HospitalGown and said the culprit behind the threat are misconfigured backend storage platforms including Elasticsearch, Redis, MongoDB and MySQL. | DiscoverVulnerability
