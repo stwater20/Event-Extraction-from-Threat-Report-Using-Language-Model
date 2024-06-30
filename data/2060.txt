@@ -1,5 +1,4 @@
-All your Googles are belong to us: Look out for the Google Docs phishing worm | Ars Technica
-
+All your Googles are belong to us: Look out for the Google Docs phishing worm | Ars Technica | AttackPhishing
 A widely reported e-mail purporting to be a request to share a Google Docs document is actually a well-disguised phishing attack. | AttackPhishing
 It directs the user to a lookalike site and grants the site access to the target's Google credentials. | AttackPhishing
 If the victim clicks on the prompt to give the site permission to use Google credentials, the phish then harvests all the contacts in the victim's Gmail address book and adds them to its list of targets. | AttackPhishing, AttackDatabreach
