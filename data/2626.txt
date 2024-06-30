@@ -1,4 +1,4 @@
-OneLogin: Breach Exposed Ability to Decrypt Data —  Krebs on Security
+OneLogin: Breach Exposed Ability to Decrypt Data —  Krebs on Security | AttackDatabreach
 OneLogin, an online service that lets users manage logins to sites and apps from a single platform, says it has suffered a security breach in which customer data was compromised, including the ability to decrypt encrypted data. | AttackDatabreach
 Headquartered in San Francisco, OneLogin provides single sign-on and identity management for cloud-base applications. | O
 OneLogin counts among its customers some 2,000 companies in 44 countries, over 300 app vendors and more than 70 software-as-a-service providers. | O
