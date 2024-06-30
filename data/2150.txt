@@ -1,4 +1,4 @@
-Malware framework using legitimate utilities lobbed at government agencies - Help Net Security
+Malware framework using legitimate utilities lobbed at government agencies - Help Net Security | O
 Bitdefender researchers have unearthed a previously unknown malware framework that, unlike those used by most APTs, contains many legitimate utilities. | O
 Dubbed Netrepser, the framework is used to find and exfiltrate all kinds of information from compromised Windows systems. | AttackPhishing
 The researchers believe that it is wielded by a dedicated cyber espionage group, as the victims are mostly computer systems of government agencies. | O
@@ -10,5 +10,5 @@ It uses, among other things: | O
 All of these tools are packed with a custom file-packing algorithm that seems unique to this group, but that doesn’t tell us who are these hackers. | O
 “Even though the Netrepser malware uses free tools and utilities to carry various jobs to completion, the technical complexity of the attack, as well as the targets attacked, suggest that Netrepser is more than a commercial-grade tool,” the researchers noted. | O
 “Because of the nature of these attacks, attribution is impossible unless we dig into the realm of speculation. | O
-Our technical analysis however, has revealed that some documents and file paths this campaign is using are written in Cyrillic.”| O
+Our technical analysis however, has revealed that some documents and file paths this campaign is using are written in Cyrillic.” | O
 Technical details and indicators of compromise tied to this campaign can be found here. | O
