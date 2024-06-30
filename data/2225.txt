@@ -1,4 +1,4 @@
-Up to 40 percent of Android devices at risk of screen hijack exploit - Security - CRN Australia
+Up to 40 percent of Android devices at risk of screen hijack exploit - Security - CRN Australia | O
 An exploit in the Android operating system means almost 40 percent of users are vulnerable to screen-hijacking apps, but it is unlikely to be fixed until winter. | DiscoverVulnerability, PatchVulnerability
 The bug, which was first spotted by researchers at Check Point, is caused by a development oversight in Android permissions, which in the past required users to manually grant downloaded applications the ability to display content on top of other app panes. | DiscoverVulnerability
 However following complaints from users who found it difficult to manually whitelist each app, the Android 6.0.1 'Marshmallow' update made this process automatic, which was good news for legitimate apps like WhatsApp and Facebook Messenger. | O
