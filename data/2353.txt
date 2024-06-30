@@ -1,4 +1,4 @@
-NSA warned Microsoft about vulnerability connected to ‘Wanna Cry’: report | TheHill
+NSA warned Microsoft about vulnerability connected to ‘Wanna Cry’: report | TheHill | O
 The National Security Agency warned Microsoft about a vulnerability in Windows after a hacker group began to leak hacking tools used by the agency online, the Washington Post reported late Tuesday. | DiscoverVulnerability
 The vulnerability has been the center of attention in recent days, following the outbreak of the global “Wanna Cry” ransomware attack that crippled Britain’s hospital system and has spread to at least 150 countries. | AttackRansom
 The ransomware is widely believed to be based on an alleged NSA hacking tool leaked by the group Shadow Brokers earlier this year. | O
@@ -11,4 +11,3 @@ The events have renewed debate over the secretive process by which the federal g
 Microsoft president and chief legal officer Brad Smith said Sunday that the ransomware attack should serve as a “wake-up call” to governments not to hoard vulnerabilities. | AttackRansom
 On Wednesday, a bipartisan group of lawmakers introduced legislation that would codify what is known as the vulnerabilities equities process into law, bringing more transparency and oversight to it. | O
 View the discussion thread. | O
-
