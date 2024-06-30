@@ -1,4 +1,4 @@
-45% of large British businesses sustained a successful ransomware attack - Help Net Security
+45% of large British businesses sustained a successful ransomware attack - Help Net Security | AttackRansom
 Over a third of British businesses (36 percent) are not very confident that efforts to completely eradicate a recent ransomware attack from work systems have been successful. | AttackRansom
 The research, carried out by One Poll, quizzed 500 IT decision makers in companies with 250 or more employees across the UK to uncover the extent to which large British organisations are prepared for the threat of ransomware. | O
 The research also considered the proportion of businesses which have been targeted with a successful ransomware attack and the current impact of these attacks on corporate devices. | AttackRansom
