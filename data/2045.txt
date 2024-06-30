@@ -1,4 +1,4 @@
-Researchers Find 300+ Fake UK Banking Sites 
+Researchers Find 300+ Fake UK Banking Sites | DiscoverVulnerability
 Researchers have discovered over 300 cybersquatting domains masquerading as real UK banking sites, many of which are designed to trick customers into handing over personal details. | AttackPhishing
 DomainTools used its PhishEye tool to search for domains registered by individuals to mimic those of Barclays, HSBC, Natwest, Lloyd’s and Standard Chartered. | AttackPhishing
 It found a whopping 324 registered domains abusing the trademarks of these lenders, including lloydstbs[.]com, standardchartered-bank[.]com and barclaysbank-plc[.]co.uk. | O
