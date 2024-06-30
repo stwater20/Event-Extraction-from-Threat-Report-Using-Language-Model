@@ -1,4 +1,4 @@
-The Google-phish-that-was-also-a-worm – what happened and what to do – Naked Security
+The Google-phish-that-was-also-a-worm – what happened and what to do – Naked Security | AttackPhishing
 Yesterday we wrote about a “Google Docs” phishing campaign that aimed to trick you into authorising a malicious third-party Gmail app so that it could take over your email account and your contact list for its own ends. | AttackPhishing
 One of those ends seems to have been to spam out another wave of those same fraudulent emails to your friends and colleagues, in the hope of getting them to authorise the imposter app, and thus to send out another wave of emails, and another, and so on. | AttackPhishing
 Technically, that made it more than just a “phish”, which we’ll define very loosely here as an email that aims to trick, coerce or cajole you into performing an authentication task, or giving away personal data, that you later wish you hadn’t. | AttackPhishing
