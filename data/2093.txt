@@ -1,4 +1,4 @@
-1 Million Gmail Users Impacted by Google Docs Phishing Attack | Threatpost | The first stop for security news
+1 Million Gmail Users Impacted by Google Docs Phishing Attack | Threatpost | The first stop for security news | AttackPhishing
 Researchers said good social engineering and users’ trust in the convenience afforded by the OAUTH mechanism guaranteed Wednesday’s Google Docs phishing attacks would spread quickly. | AttackPhishing
 Google said that up to 1 million Gmail users were victimized by yesterday’s Google Docs phishing scam that spread quickly for a short period of time. | AttackPhishing
 In a statement, Google said that fewer than 0.1 percent of Gmail users were affected; as of last February, Google said it had one billion active Gmail users. | O
