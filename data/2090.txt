@@ -1,4 +1,4 @@
-Some Twitter Dude Is Trying to Take Credit for the Google Docs Phishing Attack
+Some Twitter Dude Is Trying to Take Credit for the Google Docs Phishing Attack | AttackPhishing
 A Twitter user by the name @EugenePupov is trying to take credit for the massive phishing attack that hit Gmail users last night, and which attempted to trick users into granting permission for a fake Google Docs app to access their Gmail inbox details. | AttackPhishing
 While Google intervened and stopped the self-spreading attack about an hour after it started — which is a pretty good response time — questions still linger about who was behind it. | O
 If there's one thing we know for sure, is that the fake Google Docs app was registered using the email eugene.pupov@gmail.com. | O
