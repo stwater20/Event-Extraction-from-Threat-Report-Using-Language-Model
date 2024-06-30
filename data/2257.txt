@@ -1,10 +1,10 @@
-WannaCry could spark lawsuits, but Microsoft not to blame - Software - Security - CRN Australia
+WannaCry could spark lawsuits, but Microsoft not to blame - Software - Security - CRN Australia | AttackRansom
 Businesses that failed to update Windows-based computer systems that were hit by a massive cyber attack over the weekend could be sued over their lax cyber security, but Microsoft itself enjoys strong protection from lawsuits, legal experts said. | O
 The WannaCry worm has affected more than 200,000 Windows computers around the world since Friday, disrupting car factories, global shipper FedEx Corp and Britain's National Health Service, among others. | AttackRansom
 The hacking tool spreads silently between computers, shutting them down by encrypting data and then demanding a ransom of US$300 to unlock them. | AttackRansom	
 According to Microsoft, computers affected by the ransomware did not have security patches for various Windows versions installed or were running Windows XP, which the company no longer supports. | O
 "Using outdated versions of Windows that are no longer supported raises a lot of questions," said Christopher Dore, a lawyer specializing in digital privacy law at Edelson PC. | O
-"It would arguably be knowingly negligent to let those systems stay in place.”| O
+"It would arguably be knowingly negligent to let those systems stay in place.” | O
 Businesses could face legal claims if they failed to deliver services because of the attack, said Edward McAndrew, a data privacy lawyer at Ballard Spahr. | O
 "There is this stream of liability that flows from the ransomware attack," he said  "That's liability to individuals, consumers and patients," | AttackRansom
 WannaCry exploits a vulnerability in older versions of Windows, including Windows 7 and Windows XP. | DiscoverVulnerability
