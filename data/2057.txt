@@ -1,4 +1,4 @@
-Someone Hit the Internet with a Massive Google Doc Phishing Attack - Motherboard
+Someone Hit the Internet with a Massive Google Doc Phishing Attack - Motherboard | AttackPhishing
 A massive phishing campaign targeting Google accounts ripped through the internet on Wednesday afternoon. | AttackPhishing
 Several people online across a range of industries said they received emails containing what looked like a link to a Google Doc that appeared to come from someone they know. | AttackPhishing
 These, however, were malicious emails designed to hijack their accounts. | AttackPhishing
