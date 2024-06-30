@@ -1,4 +1,4 @@
-Unpatched WordPress Password Reset Vulnerability Lingers | Threatpost | The first stop for security news
+Unpatched WordPress Password Reset Vulnerability Lingers | Threatpost | The first stop for security news | O
 A zero-day vulnerability exists in WordPress Core that in some instances could allow an attacker to reset a user’s password and gain access to their account. | DiscoverVulnerability
 Researcher Dawid Golunski of Legal Hackers disclosed the vulnerability on Wednesday via his new ExploitBox service. | DiscoverVulnerability
 All versions of WordPress, including the latest, 4.7.4, are vulnerable, the researcher said. | DiscoverVulnerability
