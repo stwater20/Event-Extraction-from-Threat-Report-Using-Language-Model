@@ -1,4 +1,4 @@
-Erebus Ransomware Targets Linux Servers
+Erebus Ransomware Targets Linux Servers | AttackRansom
 The IT security researchers at Trend Micro recently discovered malware that has the potential to infect Linux-based servers. | O
 The malware, called Erebus, has been responsible for hijacking 153 Linux-based networks of a South Korean web-hosting company called NAYANA. | O
 Erebus is a ransomware capable of infecting Linux operating systems. | O
