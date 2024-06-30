@@ -1,4 +1,4 @@
-Kmart Credit Card Data Breach: Malware Hits Stores For Second Time In 3 Years
+Kmart Credit Card Data Breach: Malware Hits Stores For Second Time In 3 Years | AttackDatabreach
 Cyber attacks are becoming commonplace in 2017 and the most recent one might be a credit card breach which hit the popular retail chain Kmart, reported first on May 16, but only confirmed by parent company Sears Holding on Wednesday. | AttackDatabreach
 "Our Kmart store payment data systems were infected with a form of malicious code that was undetectable by current anti-virus systems and application controls. | O
 Once aware of the new malicious code, we quickly removed it and contained the event. | O
