@@ -1,10 +1,10 @@
-Surprise! Extortionists have no qualms about claiming they ‘hacked’ your business – HOTforSecurity
+Surprise! Extortionists have no qualms about claiming they ‘hacked’ your business – HOTforSecurity | O
 No one likes to have their company hacked. | O
 No one is going to be happy if hackers manage to break into systems and steal away their intellectual property. | AttackDatabreach
 In the case of companies like Disney, having a $230 million blockbuster like the latest Pirates of the Caribbean movie stolen could prove to be very costly if hackers follow through with their threats to seed their pirated copy of the film on torrent sites, disrupting its official release. | AttackDatabreach
 But imagine how much more galling it would be to give in to the hackers’ blackmail threats and pay a ransom for the movie not to be leaked online, only to discover later that the extortionists never had a copy of the film in the first place? | AttackRansom
 Earlier this month it was widely reported that Walt Disney’s CEO Bob Iger had been contacted by hackers who were threatening to release one of the studio’s movies onto the internet unless a ransom was paid. | AttackRansom
-Iger didn’t say what movie the hackers claimed to have stolen, but it was widely thought to be the soon to be released “Pirates of the Caribbean: Dead Men Tell No Tales.”| AttackDatabreach
+Iger didn’t say what movie the hackers claimed to have stolen, but it was widely thought to be the soon to be released “Pirates of the Caribbean: Dead Men Tell No Tales.” | AttackDatabreach
 That theory of the hacked movie’s identity certainly gained more momentum when it was reported that torrents had been spotted on Pirate Bay claiming to be the blockbuster starring Johnny Depp, Javier Bardem and Geoffrey Rush. | O
 
 However, none of those downloadable torrents were confirmed to contain the “Pirates of the Caribbean” movie. | O
