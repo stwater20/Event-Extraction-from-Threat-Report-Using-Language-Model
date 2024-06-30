@@ -1,4 +1,4 @@
-Everything you need to know about Intel's scary security flaw
+Everything you need to know about Intel's scary security flaw | O
 Last week, Intel revealed that a serious security flaw in some of its chips left potentially thousands of devices vulnerable to attackers. | DiscoverVulnerability
 Then, security researchers revealed the problem was way worse than anyone initially thought as the vulnerability could allow attackers to remotely "hijack" affected machines. | DiscoverVulnerability 
 It's still not clear just how many devices are impacted as Intel has't said, but some in the industry have put the number as high as 8,000. | DiscoverVulnerability
