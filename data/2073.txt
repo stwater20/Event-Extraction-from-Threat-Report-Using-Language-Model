@@ -1,4 +1,4 @@
-WordPress admins, take note: RCE and password reset vulnerabilities revealed - Help Net Security
+WordPress admins, take note: RCE and password reset vulnerabilities revealed - Help Net Security | DiscoverVulnerability
 Independent security researcher Dawid Golunski has released a proof-of-concept exploit code for an unauthenticated remote code execution vulnerability in WordPress 4.6 (CVE-2016-10033), and information about an unauthorized password reset zero-day vulnerability (CVE-2017-8295) in the latest version of the popular CMS. | DiscoverVulnerability
 The vulnerability exists in the PHPMailer library, and can be exploited by unauthenticated remote attackers to gain access to and compromise an target application server on which a vulnerable WordPress Core version is installed (in its default configuration). | DiscoverVulnerability
 “No plugins or non-standard settings are required to exploit the vulnerability,” Golunski noted. | DiscoverVulnerability
