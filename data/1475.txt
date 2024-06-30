@@ -1,4 +1,4 @@
-Survey Highlights Downtime as a Key Cost of Ransomware Attacks
+Survey Highlights Downtime as a Key Cost of Ransomware Attacks | AttackRansom
 Imperva, Inc (IMPV), committed to protecting business-critical data and applications in the cloud and on-premises, today announced the results of a survey of 170 security professionals taken at RSA 2017, the world’s largest security conference, exploring their experiences with ransomware. | O
 Thirty-two percent of respondents said their company had been infected with ransomware with 11 percent taking longer than a week to regain access to their systems after an attack. | AttackRansom
 According to CNN, in 2016, the FBI estimated that ransomware would be a $1 billion a year crime. | AttackRansom
