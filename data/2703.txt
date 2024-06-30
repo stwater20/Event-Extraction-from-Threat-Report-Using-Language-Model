@@ -1,4 +1,4 @@
-WannaCry Exploit Could Infect Windows 10
+WannaCry Exploit Could Infect Windows 10 | AttackRansom
 A flaw in unpatched versions of Window 10 could leave machines vulnerable to EternalBlue, the remote kernel exploit behind the recent WannaCry ransomware attack. | DiscoverVulnerability, AttackRansom
 WannaCry targeted a Server Message Block (SMB) critical vulnerability that Microsoft patched with MS17-010 on March 14, 2017. | PatchVulnerability
 While WannaCry damage was mostly limited to machines running Windows 7, a different version of EternalBlue could infect Windows 10. | AttackRansom
