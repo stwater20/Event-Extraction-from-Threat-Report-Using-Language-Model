@@ -1,4 +1,4 @@
-Google Was Warned About This Week’s Mass Phishing Email Attack Six Years Ago - Motherboard
+Google Was Warned About This Week’s Mass Phishing Email Attack Six Years Ago - Motherboard | AttackPhishing
  For almost six years, Google knew about the exact technique that someone used to trick around one million people into giving away access to their Google accounts to hackers on Wednesday. | AttackPhishing
 Even more worrisome: other hackers might have known about this technique as well. | O
 On October 4, 2011, a researcher speculated in a mailing list that hackers could trick users into giving them access to their accounts by simply posing as a trustworthy app. | AttackPhishing
