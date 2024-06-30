@@ -1,4 +1,4 @@
-Bitdefender: Recent WannaCry attack is only the first in a series of similar ones
+Bitdefender: Recent WannaCry attack is only the first in a series of similar ones | O
 The recent WannaCry ransomware attack, which spread to more than 100 countries, is only the beginning in a series of similar attacks, according to Cătălin Coșoi, head of the Bitdefender’s investigation team coordinating the relations of the company with institutions such as NATO, Europol, Interpol, or national response centers to cyber-security incidents, Agerpres reported. | AttackRansom
 Romanian group Bitdefender is a global technology security company which provides cyber security solutions to more than 500 million users across businesses and homes in more than 150 countries. | O
 “The WannaCry 1.0 and 2.0 versions, a type of fast-spreading ransomware that blocks the data of the users and then asks for a ransom, are only the beginning in a series of similar, ample attacks, making WannaCry one of the most significant IT threats of the next 12 months. | AttackRansom
@@ -15,4 +15,3 @@ The attack, which has been called “unprecedented” by Europol, has affected h
 Car-maker Dacia had to halt its local production activities because of the attack. | O
 WannaCry is a ransomware attack which exploits a vulnerability of the Microsoft Windows operating system. | AttackRansom
 Once installed on the infected computer, the virus encrypts the users’ files and demands payment in bitcoin to allow the victims to access their data. | AttackRansom
-
