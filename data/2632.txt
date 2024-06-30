@@ -1,4 +1,4 @@
-Sanctuary Dark Web Market Hacked by Cipher0007
+Sanctuary Dark Web Market Hacked by Cipher0007 | O
 A hacker that goes by the nickname of Cipher0007 has hacked the Sanctuary Dark Web marketplace. | O
 The hacker announced the breach a few hours ago and also posted proof of his intrusion. | O
 According to Cipher0007, the hack took place after he found an SQL injection flaw in the market's database. | DiscoverVulnerability
