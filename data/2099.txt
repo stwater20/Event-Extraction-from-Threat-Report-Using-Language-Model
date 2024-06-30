@@ -1,4 +1,4 @@
-Fatboy Ransomware-as-a-Service Emerges on Russian-Language Forum
+Fatboy Ransomware-as-a-Service Emerges on Russian-Language Forum | AttackRansom
 On March 24, 2017, a member of a top-tier Russian cyber criminal forum posted an advertisement for “Fatboy,” a new ransomware-as-a-service (RaaS) product. | O
 The advertiser, operating under the username “polnowz,” describes Fatboy as a partnership, offering support and guidance through Jabber. | O
 While the RaaS has not yet received any endorsements or feedback from the hacking community, on March 26, “ilcn,” a reputable member of the forum, offered to assist polnowz with translation in the product. | O
