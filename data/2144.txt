@@ -12,5 +12,5 @@ Assume the server has already been compromised,” SSH inventor Tatu Ylonen said
 “The exploit is trivial, a maximum of five lines of Python, and could be doable in a one-line shell command.” | O
 He said the flaw gives full control of affected machines, including the ability to read and modify everything. | O 
 “It can be used to install persistent malware – possibly in the firmware – and read and modify any data. | O
-Ylonen recommended that AMT be disabled today and that affected users “mobilize whomever you need.” More specifically, he said, “start from the most critical servers: Active Directory, certificate authorities, critical databases, code signing servers, firewalls, security servers, HSMs (if they have it enabled).” 
+Ylonen recommended that AMT be disabled today and that affected users “mobilize whomever you need.” More specifically, he said, “start from the most critical servers: Active Directory, certificate authorities, critical databases, code signing servers, firewalls, security servers, HSMs (if they have it enabled).”  | O
 Data center operators should “block ports 16992, 16993, 16994, 16995, 623, 664 in internal firewalls” if they can. | O
