@@ -1,4 +1,4 @@
-Critical Xen hypervisor flaw endangers virtualized environments | CSO Online
+Critical Xen hypervisor flaw endangers virtualized environments | CSO Online | DiscoverVulnerability
 This is a serious violation of the security barrier enforced by the hypervisor and poses a particular threat to multi-tenant data centers where the customers' virtualized servers share the same underlying hardware. | O
 The open-source Xen hypervisor is used by cloud computing providers and virtual private server hosting companies, as well as by security-oriented operating systems like Qubes OS. | O
 The new vulnerability affects Xen 4.8.x, 4.7.x, 4.6.x, 4.5.x, and 4.4.x and has existed in the Xen code base for over four years. | DiscoverVulnerability
