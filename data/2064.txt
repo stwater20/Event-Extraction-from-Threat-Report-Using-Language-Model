@@ -1,4 +1,4 @@
-It Took Google One Hour to Shut Down Massive Self-Replicating Phishing Campaign
+It Took Google One Hour to Shut Down Massive Self-Replicating Phishing Campaign | AttackPhishing
 A massive phishing campaign took place today, but Google's security staff was on hand and shut down the attacker's efforts within an hour after users first reported the problem on Reddit. | AttackPhishing
 According to multiple reports on Twitter, the attacks first hit journalists, businesses, and universities, but later spread to many other users as well. | AttackPhishing
 The attack itself was quite clever if we can say so ourselves. | O
