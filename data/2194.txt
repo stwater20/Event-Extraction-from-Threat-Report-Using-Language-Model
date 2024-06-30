@@ -31,4 +31,3 @@ And more recently, researchers discovered an attack called “DoubleAgent,” wh
 “This is the kind of vulnerability we’ve seen time and again.”| O
 There’s also no real solution; it’s not easy to weigh the protections versus the risks. | O
 The best you can hope for, really, is what Ormandy and Microsoft demonstrated during the last few days: That someone catches the mistakes before the bad guys do, and that the fixes come fast and easy. | O
-
