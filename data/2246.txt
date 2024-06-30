@@ -1,4 +1,4 @@
-'Targeted attack gone wrong': Was the WannaCry ransomware epidemic an accident?
+'Targeted attack gone wrong': Was the WannaCry ransomware epidemic an accident? | AttackRansom
 The ransomware attack targeting global hospitals, governments and telecoms using a leaked National Security Agency (NSA) exploit may be the result of a "targeted attack gone horribly wrong", according to a team of well-regarded security researchers. | AttackRansom
 Experts from Recorded Future, a threat intelligence company headquartered in the US, say analysis of the hackers' bitcoin addresses – set up to receive money from infected computers – indicates the attackers were unprepared for such a widespread incident. | O
 "A part of carefully planned large-scale ransomware attack requires a separate bitcoin address for each victim, guaranteeing the miscreant controlling the operation would later be able to identify the payment and decrypt the correct system," wrote security expert John Wetzel in a blog post. | AttackRansom
@@ -21,4 +21,3 @@ According to Kaspersky Lab's Costin Raiu, the malware was still in circulation, 
 This suggests the infection may be coming under control," Raiu said. | O
 Security experts, including MalwareTech and Matt Suiche, worked through the weekend (13-14 May) to locate so-called "kill-switches" that could curb the spread of the ransomware. | O
 At the same, law enforcement around the world launched investigations into the incident. | O
-
