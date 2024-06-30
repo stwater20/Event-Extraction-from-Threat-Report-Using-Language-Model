@@ -1,4 +1,4 @@
-FIN10: Anatomy of a Cyber Extortion Operation « FIN10: Anatomy of a Cyber Extortion Operation | FireEye Inc
+FIN10: Anatomy of a Cyber Extortion Operation « FIN10: Anatomy of a Cyber Extortion Operation | FireEye Inc | O
 FireEye has identified a set of financially motivated intrusion operations being carried out by a threat actor we have dubbed FIN10. | O
 FIN10 is known for compromising networks, stealing sensitive data, and directly engaging victim executives and board members in an attempt to extort them into paying between 100 and 500 bitcoins (valued at between $125,000 and $620,000 as of mid April 2017). | AttackDatabreach, AttackRansom
 For some victims that did not give into the demand, FIN10 escalated their operation and destroyed critical production systems and leaked stolen data to journalists in an attempt to increase visibility of the compromise and coerce victims into paying up. | AttackDatabreach, AttackRansom
