@@ -1,4 +1,4 @@
-Link seen between groups behind ransomware, RCBC cyber heist | Headlines, News, The Philippine Star | philstar.com
+Link seen between groups behind ransomware, RCBC cyber heist | Headlines, News, The Philippine Star | philstar.com | AttackRansom
 A cybersecurity firm said that the recent WannaCry ransomware attacks may be connected to the group that orchestrated one of the biggest cyberheists in history that involved a Philippine bank. | AttackRansom
 Kaspersky Lab, a cybersecurity and antivirus provider in Moscow, said in a statement that a security researcher at Google found an “artifact” on Twitter potentially linking the WannaCry ransomware attacks that hit organizations and individuals in several dozen countries and the Lazarus hacking group which was responsible for several devastating cyberattacks on government organizations, media firms and financial institutions in recent years. | AttackRansom
 “On Monday, May 15, a security researcher from Google posted an artifact on Twitter potentially pointing at a connection between the WannaCry ransomware attacks that recently hit thousands of organizations and private users around the world, and the malware attributed to the infamous Lazarus hacking group, responsible for a series of devastating attacks against government organizations, media and financial institutions,” Kaspersky said. | AttackRansom
@@ -14,4 +14,3 @@ Based on the analysis of Kaspersky researchers, it was confirmed that there was 
 Kaspersky however admitted that the similarities might be a false flag although another analysis of the February and WannaCry samples used in the recent operation showed that the code which could point at the Lazarus group was removed from the malware. | O
 Kasperksy said that this could be an attempt to cover the traces of the perpetrators of the WannaCry operations. | O
 “Although this similarity alone doesn't allow proof of a strong connection between the WannaCry ransomware and the Lazarus Group, it can potentially lead to new ones which would shed light on the WannaCry origin which to the moment remains a mystery,” Kaspersky said. | O
-
