@@ -1,4 +1,4 @@
-We Were Warned About Flaws in the Mobile Data Backbone for Years. Now 2FA Is Screwed. - Motherboard
+We Were Warned About Flaws in the Mobile Data Backbone for Years. Now 2FA Is Screwed. - Motherboard | O
  For years, researchers, hackers, and even some politicians have warned about stark vulnerabilities in a mobile data network called SS7. | DiscoverVulnerability
 These flaws allow attackers to listen to calls, intercept text messages, and pinpoint a device's location armed with just the target's phone number. | AttackDatabreach
 Taking advantage of these issues has typically been reserved for governments or surveillance contractors. | O
