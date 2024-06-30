@@ -1,4 +1,4 @@
-Hackers blackmail patients of cosmetic surgery clinic - Help Net Security
+Hackers blackmail patients of cosmetic surgery clinic - Help Net Security | O
 Hackers have been trying to blackmail patients of a Lithuanian plastic surgery clinic, by threatening to publish their nude “before and after” photos online. | AttackRansom
 The photos were stolen earlier this year, along with other sensitive data – passport scans, national insurance numbers, etc – from the servers of Grozio Chirurgija, which has clinics in Vilnius and Kaunas. | AttackDatabreach
 According to The Guardian, the stolen data was first offered for sale in March. | O
