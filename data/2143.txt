@@ -1,4 +1,4 @@
-The hijacking flaw that lurked in Intel chips is worse than anyone thought | Ars Technica
+The hijacking flaw that lurked in Intel chips is worse than anyone thought | Ars Technica | O
 A remote hijacking flaw that lurked in Intel chips for seven years was more severe than many people imagined, because it allowed hackers to remotely gain administrative control over huge fleets of computers without entering a password. | O
 This is according to technical analyses published Friday. | O
 Further ReadingIntel patches remote hijacking vulnerability that lurked in chips for 7 years. | PatchVulnerability
