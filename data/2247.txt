@@ -1,4 +1,4 @@
-Security Firms See Potential North Korea Link to Ransomware Attack
+Security Firms See Potential North Korea Link to Ransomware Attack | AttackRansom
 Cyber security researchers on Monday pointed to code in a "ransomware" attack that could indicate a link to North Korea. | AttackRansom
 Symantec and Kaspersky Lab each cited code that was previously used by a hacker collective known as the Lazarus Group, which was behind the high-profile 2014 hack of Sony that was also blamed on North Korea. | O
 But the security firms cautioned that it is too early to make any definitive conclusions, in part because the code could have been merely copied by someone else for use in the current event. | O
@@ -32,4 +32,3 @@ Computer security experts have assured individual computer users who have kept t
 They advised those whose networks have been effectively shut down by the ransomware attack not to make the payment demanded, the equivalent of $300, paid in the digital currency bitcoin. | AttackRansom
 However, the authors of the "WannaCry" ransomware attack told their victims the amount they must pay will double if they do not comply within three days of the original infection, by Monday in most cases. | AttackRansom
 The hackers warned that they will delete all files on infected systems if no payment is received within seven days. | AttackRansom
-
