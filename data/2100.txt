@@ -1,4 +1,4 @@
-WordPress Zero-Day Could Expose Password Reset Emails
+WordPress Zero-Day Could Expose Password Reset Emails | O
 Polish security expert Dawid Golunski has discovered a zero-day in the WordPress password reset mechanism that would allow an attacker to obtain the password reset link, under certain circumstances. | DiscoverVulnerability
 The researcher published his findings yesterday, after reporting the flaw to the WordPress security team last July. | DiscoverVulnerability
 After more than ten months and no progress, Golunski decided to go public and inform WordPress site owners of this issue so they could protect their sites by other means. | DiscoverVulnerability
