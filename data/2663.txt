@@ -4,4 +4,3 @@ For current customers with a Threat Prevention subscription, Palo Alto Networks 
 Traps, Palo Alto Networks advanced endpoint solution, can block memory corruption based exploits of this nature. | O
 Palo Alto Networks is a regular contributor to vulnerability research in Microsoft, Adobe, Apple, Google Android and other ecosystems. | O 
 By proactively identifying these vulnerabilities, developing protections for our customers, and sharing the information with the security community, we are removing weapons used by attackers to threaten users, and compromise enterprise, government, and service provider networks. | DiscoverVulnerability
-
