@@ -1,5 +1,6 @@
-A second UK university has been hit by a major ransomware attack this week, as new figures showed the country is the most frequently targeted by the malware in Europe. | Ransom
-The attack appears to have struck Northern Ireland’s Ulster University on the same day a ransomware outage affected University College London (UCL). | Ransom
+ Ulster University Also Suffered Ransomware Outage This Week 
+A second UK university has been hit by a major ransomware attack this week, as new figures showed the country is the most frequently targeted by the malware in Europe. | AttackRansom
+The attack appears to have struck Northern Ireland’s Ulster University on the same day a ransomware outage affected University College London (UCL). | AttackRansom
 Ulster Uni’s Information Services Division (ISD) revealed yesterday that its AV partner suspects a zero-day threat was the cause, also echoing the current thinking at UCL. | O
 Three departmental file shares have been affected and remained at “read only” access at the time of writing. | O
 Like its counterparts at UCL, Ulster University’s ISD appears to be following best practice regarding back-ups, which will help mitigate the impact of the attack. | O 
@@ -7,7 +8,7 @@ It explained: | O
 “ISD take backups of all our shared drives and this should protect most data even if it has been encrypted by the malware. | O  
 Once we are confident the infections have been contained, then we will restore the most recent back up of the file. | O  
 ISD can confirm that a backup of the shares was successfully taken at close of business on Tuesday 12th June. ” | O
-Fraser Kyne, EMEA CTO at Bromium, urged all UK university IT teams to be on high alert for possible attacks. | Ransom
+Fraser Kyne, EMEA CTO at Bromium, urged all UK university IT teams to be on high alert for possible attacks. | 
 “The initial reports are suggesting that the ransomware was able to get in at UCL through a zero-day exploit, which allowed it to bypass antivirus software,” he added. | O  
 “That really underscores the limitations of antivirus; in that it is only able to stop things that it knows are bad. | O  
 Given that most malware is only seen once in the wild before it evolves into something different, there’s very little that antivirus can offer in the way of protection. ” | O
