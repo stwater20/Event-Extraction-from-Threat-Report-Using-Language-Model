@@ -2,10 +2,10 @@
 Federal officials, Microsoft and Cisco are working with the city of Atlanta to resolve the attack, but Atlanta's mayor won't say if the city paid the $51,000 ransom. | AttackRansom
 As of Saturday, Atlanta officials and federal partners were still “working around the clock” to resolve the ransomware attack on city computers that occurred around 5 a.m. on Thursday, March 22, and encrypted some financial and person data. | AttackRansom
     As @Cityofatlanta officials & federal partners continue working around the clock to resolve issues related to the ransomware cyber attack launched against the City, solid waste & other DPW operations are not impacted. | AttackRansom
-    — ATLPublicWorks (@ATLPublicWorks) March 24, 2018. |
+    — ATLPublicWorks (@ATLPublicWorks) March 24, 2018. | O
 On Thursday, the official investigation included “the FBI, U.S. Department of Homeland Security, Cisco cybersecurity officials and Microsoft to determine what information has been accessed and how to resolve the situation.” | AttackDatabreach
 A city employee sent WXIA a screenshot of the ransom demand, which included a pay-per-computer option of $6,800 or an option to pay $51,000 to unlock the entire system. | AttackRansom
-CBS 46 reported that the ransom demand and instruction said:
+CBS 46 reported that the ransom demand and instruction said: | O
     Send 8 bitcoins for each computer or 6 bitcoins for all of the computers. (That's the equivalent of around $51,000.) | O
     After the 8 bitcoin is sent, leave a comment on their website with the provided host name. | O
     They’ll then reply to the comment with a decryption software. | O

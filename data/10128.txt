@@ -9,7 +9,7 @@ Costs related to data breaches can include the investigation, legal costs to def
 One of the largest hacks ever was disclosed this month, when credit reporting company Equifax Inc. revealed that sensitive data from 143 million consumers, including Social Security numbers and birth dates, was exposed. | AttackDatabreach
  A stock analyst from Stifel Financial Corp. | O
  estimated that the attack will cost Equifax about $300 million in direct expenses. | O
- Investors seem to think the incident will have a much greater impact on
+ Investors seem to think the incident will have a much greater impact on | O
 At a seminar in Garden City this month, Henry Prince, chief security officer at Shellproof Security in Greenvale, explained how in a ransomware attack — one of many types — cybercriminals can buy specialized tools such as those used to send phishing emails. | AttackPhishing
  The easy availability of that software means that hackers require “no programming experience,” Prince said. | O
 Phishing emails can be blocked by company email filters, firewalls and anti-virus software. | O
@@ -53,4 +53,4 @@ In 2014, Farmingdale-based supermarket chain Uncle Giuseppe’s Marketplace said
  Joseph Neglia, director of information technology at Uncle Giuseppe’s, said that after the data breach, which affected about 100 customers, the company began scheduling “monthly vulnerability scans” and upgraded its monitoring and security systems. | AttackDatabreach
 For businesses, Stony Brook’s Sion said, the cybersecurity threat is real and immediate. | O
 “I need one second with your machine to compromise it forever and ever,” he said. | O
- “It’s an uphill battle.” | 
+ “It’s an uphill battle.” | O

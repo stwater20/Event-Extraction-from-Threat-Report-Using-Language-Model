@@ -11,7 +11,7 @@ In a security advisory posted this week, Cisco says that the following software 
 According to Cisco, each operating system is vulnerable to at least one of the security flaws. | DiscoverVulnerability
 The vulnerabilities are due to the improper invalidation of Webex recording files. | O
  If a victim opens a crafted, malicious file in the Cisco Webex Player -- potentially sent over email as part of a spear phishing campaign -- the bugs are triggered, leading to exploit. | AttackPhishing
-TechRepublic: Cisco switch flaw led to attacks on critical infrastructure in several countries
+TechRepublic: Cisco switch flaw led to attacks on critical infrastructure in several countries | DiscoverVulnerability
 There are no workarounds to address these vulnerabilities. | PatchVulnerability
  However, Cisco has developed patches to automatically update vulnerable software. | PatchVulnerability
 It is recommended that users accept these updates as quickly as possible. | O

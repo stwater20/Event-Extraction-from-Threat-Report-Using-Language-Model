@@ -25,4 +25,4 @@ An eBay spokesperson confirmed this scam to FOX59, saying a hacker was involved.
  Unfortunately, scam artists will gain access to eBay member accounts through phishing emails in order to defraud other members. | AttackDatabreach
  Criminals often exploit well-known, trusted brand names like eBay to attract consumers and then lure them into fraudulent transactions. | AttackPhishing
  We always encourage all our shoppers to be cautious and vigilant when executing a transaction on eBay. | O
- Members can prevent account takeovers from occurring by having frequent virus and spyware scans done on their account, regularly updating their passwords, and confirming a message was sent by eBay by checking their “My Messages” within their eBay account." | 
+ Members can prevent account takeovers from occurring by having frequent virus and spyware scans done on their account, regularly updating their passwords, and confirming a message was sent by eBay by checking their “My Messages” within their eBay account." | AttackPhishing

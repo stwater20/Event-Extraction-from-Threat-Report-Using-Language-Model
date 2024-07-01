@@ -8,4 +8,5 @@ While many ransomware notes provide instructions on how to download and run the 
 However, one of the Tor gateways being used is altering bitcoin wallet addresses in the proxy, and redirecting the payment into other accounts, rather than those of the ransomware attacker. | AttackRansom
  Meanwhile, those behind Magniber ransomware appear to have moved to combat bitcoin address replacement by splitting the HTML source code of wallets into four parts, thus making it harder for proxies to find the address to change. | O
 While the sums of bitcoin stolen don't represent a spectacular haul, the interception attacks do create problems for ransomware distributors -- and their victims. | O 
-The victims are the ultimate losers in this scenario. | Not only are they paying hundreds or even thousands of dollars to in ransom demands, they're not even getting their files back in return because the man-in-the-middle attacks mean the ransomware distributors don't think they've been paid. | AttackRansom
+The victims are the ultimate losers in this scenario. | O
+Not only are they paying hundreds or even thousands of dollars to in ransom demands, they're not even getting their files back in return because the man-in-the-middle attacks mean the ransomware distributors don't think they've been paid. | AttackRansom

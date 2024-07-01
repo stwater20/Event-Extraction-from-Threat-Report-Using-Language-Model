@@ -13,7 +13,7 @@ Minutes later, victims received another email made to look like it was coming fr
 These second emails contained explicit subject lines. | O
 Because spear-phishing emails were aimed at work emails, most victims would have been inclined to unsubscribe from the incoming emails. | AttackPhishing
 This was the catch, as attackers doctored the unsubscribe link, leading victims to a fake Google login screen. | AttackPhishing
-Attackers used different tactics as the campaign progressed
+Attackers used different tactics as the campaign progressed | O
 The PornHub and RedTube phishes were not the only ones. | AttackPhishing
 Attackers also used other tactics. | O
 ⬭ Links to generic documents that asked users to enter credentials before viewing. | O

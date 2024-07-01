@@ -14,7 +14,7 @@ Ransomware attacks increased 6,000 percent in 2016 from 2015, according to a stu
  In that case, victims were told to make a payment in bitcoin to get their computers back. | AttackRansom
 Hackers often demand the ransom be paid in cryptocurrency because it allows them to remain anonymous, Herjavec says. | AttackRansom
  "I can take over your computer or personal information, hold it for ransom, give you instructions on how to create a virtual wallet, force you to pay me, and you have no way of finding out who I am," Herjavec explains. | AttackRansom
-That's because a bitcoin wallet is only identified by a number, and "payments are direct without a bank or credit card company acting as the middle man," Herjavec says. | 
+That's because a bitcoin wallet is only identified by a number, and "payments are direct without a bank or credit card company acting as the middle man," Herjavec says. | AttackRansom
  "There is no money trail, so it's very difficult to track back to an individual." | O
 With WannaCry, the hackers asked for $300 worth of bitcoin from victims, and if they waited over 72 hours to pay, the fine increased to $600. | AttackRansom
  If they waited a week, their information would be locked for good. | O

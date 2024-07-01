@@ -13,4 +13,5 @@ Hospital management told local press that restoring from backups was not a solut
  Hence, they decided paying the ransom was quicker. | AttackRansom
 By Monday, all systems were up and running, and the hospital released a short statement on its site admitting to the incident, but with very few other details. | O
 While the hospital has not confirmed the typical SamSam attack scenario, they did say the infection was not the case of an employee opening a malware-infected email. | O
-The FBI has long asked companies and individuals affected by ransomware to report any infections via the IC3 portal so the Bureau can get a better grasp of the threat and have the legal reasons to go after such groups. | An Indiana hospital paid a ransom of $55,000 to get rid of ransomware that had infected its systems and was hindering operations last week. | AttackRansom
+The FBI has long asked companies and individuals affected by ransomware to report any infections via the IC3 portal so the Bureau can get a better grasp of the threat and have the legal reasons to go after such groups. | AttackRansom
+An Indiana hospital paid a ransom of $55,000 to get rid of ransomware that had infected its systems and was hindering operations last week. | AttackRansom

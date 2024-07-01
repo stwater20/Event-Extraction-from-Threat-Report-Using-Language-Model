@@ -3,7 +3,7 @@ Cyber Monday is here! If you avoided the retail stores and skipped their Black F
 From clothing to travel to exclusive online-only deals, Cyber Monday still has tons to offer. | O 
 But just in time for the Cyber Monday shopping rush, watch out for sinister phishing scams that are making the rounds. | O
 With more online shoppers this time around - searching every nook and cranny of the web in search of the best Cyber Monday deals - crooks are again looking to dupe unsuspecting bargain hunters. | AttackPhishing
-Stop and Think, Did I order this?
+Stop and Think, Did I order this? | O
 One of the most effective tools for a cybercriminal is the phishing scam. | AttackPhishing
 This is when a scammer poses as a trustworthy entity and tries tricking you into clicking on a malicious link. | AttackPhishing
 Their ultimate goal, of course,  is to steal your sensitive information such as credit card details, usernames and passwords. | AttackDatabreach

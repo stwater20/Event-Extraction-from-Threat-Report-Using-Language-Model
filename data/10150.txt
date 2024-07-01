@@ -8,7 +8,7 @@ ME has become a repeated source of problems for Intel and its customers. | O
 The problem is that researchers have discovered numerous vulnerabilities in ME over the last few years; Positive Technologies revealed one in 2017 that allowed full takeover of ME via USB (it's since been fixed). | PatchVulnerability, DiscoverVulnerability
  Now, it's revealed another one that allows someone with physical access to a system to compromise ME and "manipulate the state of MFS and extract important secrets" with the ability to "add files, delete files and change their protection attributes." | DiscoverVulnerability
 Positive Technologies said the attack can be used to learn four keys MFS uses to secure data-- the Intel Integrity Key, Non-Intel Integrity Key, Intel Confidentiality Key and Non-Intel Confidentiality Key--that were supposed to be protected via a firmware update Intel released in 2017. | PatchVulnerability
- Positive Technologies explained how someone with physical access to the system could bypass that patch to compromise those keys in its blog post:
+ Positive Technologies explained how someone with physical access to the system could bypass that patch to compromise those keys in its blog post: | PatchVulnerability
 "Positive Technologies expert Dmitry Sklyarov discovered vulnerability CVE-2018-3655, described in advisory Intel-SA-00125. | DiscoverVulnerability
  He found that Non-Intel Keys are derived from two values: the SVN and the immutable non-Intel root secret, which is unique to each platform. | O
  By using an earlier vulnerability to enable the JTAG debugger, it was possible to obtain the latter value. | O

@@ -1,14 +1,14 @@
  Save the Children Foundation duped by hackers into paying out $1 million 
 Save the Children Foundation has revealed that the charity was targeted by fraudsters last year, leading to the loss of $1 million. | O
 Speaking to the Boston Globe, the US arm of the non-profit, which supports children worldwide, said that con artists managed to compromise an employee's email account in order to masquerade as the staff member in question. | AttackDatabreach
-Once access was gained to the account, the hackers behind the scam created a number of false invoices and related documents which described a need to purchase solar panels for health centers located in Pakistan. | AttackDatabreach, Phishing
+Once access was gained to the account, the hackers behind the scam created a number of false invoices and related documents which described a need to purchase solar panels for health centers located in Pakistan. | AttackDatabreach, AttackPhishing
 The Connecticut-based charity organization fell for the ruse, conducted in May 2017, and approved the transfer of close to $1 million to an entity in Japan which was used as a front to rake in the proceeds. | AttackPhishing
 By the time the foundation realized the invoice was false, it was too late and the money was gone. | O
 The publication says that Save the Children possessed insurance which covered close to all of the lost funds, and in the end, the charity only lost $112,000. | O
 "We have improved our security measures to help ensure this does not happen again," Stacy Brandom, the chief financial officer of Save the Children told the Globe. | O  
 "Fortunately, through insurance, we were ultimately reimbursed for most of the funds. " | O
 The scammers targeting the charity appeared to follow the rules of Business Email Compromise (BEC) attacks almost to the letter. | AttackPhishing 
-These campaigns have a number of steps, compromise a business email account via brute-force hacking or social engineering; pretend to be a legitimate staff member, and lure another individual to approve false invoices or fraudulent payments. | AttackPhishing, Databreach
+These campaigns have a number of steps, compromise a business email account via brute-force hacking or social engineering; pretend to be a legitimate staff member, and lure another individual to approve false invoices or fraudulent payments. | AttackPhishing, AttackDatabreach
 The FBI has previously warned that December 2016 and May 2018, there was a 136 percent increase in BEC scams, reported across 150 countries, Ill-gotten funds are often sent to entities in Asia and billions of dollars have been lost. | AttackPhishing
 In February, IBM said a single BEC scam originating in Nigeria led to the loss of millions of dollars belonging to Fortune 500 companies. | AttackPhishing
 These types of scams are incredibly common and it can be difficult to track down the fraudsters responsible, who may be located in any country in the world. | O 

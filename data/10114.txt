@@ -21,7 +21,7 @@ Hospital staff members worked with the FBI and a national IT security company ov
  Long said law enforcement has been acting in an “advisory capacity,” and declined to release details about the plan going forward, including whether the hospital is considering paying the ransom. | AttackRansom
 Long commended his staff, especially IT workers, who quickly identified the problem Thursday evening. | O
 “If I was going through this with anybody, this is the team I would want to go through this with because I know what the outcome is going to be,” he said. | O
-Leaders updated hospital employees, totaling about 1,200 people, throughout the day Friday and took steps to be accommodate both patients and staff, including offering free food in the hospital cafeteria all day, Long said. | 
+Leaders updated hospital employees, totaling about 1,200 people, throughout the day Friday and took steps to be accommodate both patients and staff, including offering free food in the hospital cafeteria all day, Long said. | O
 Long said if there is any suggestion private patient information has been compromised, hospital officials will reach out to those affected, though he doesn’t expect that to become an issue. | AttackDatabreach
 “We anticipate questions,” he said. | O
  “This is not a small deal.” | O

@@ -7,9 +7,9 @@ The SCALANCE S firewall is used to protect secure industrial networks from untru
 Siemens S602, S612, S623, S627-2M SCALANCE devices with software versions prior to V4.0.1.1 are impacted. | DiscoverVulnerability
 Researchers with Applied Risk, who discovered the flaw, said that vulnerability exists in the web server of the firewall software. | DiscoverVulnerability 
 An attacker can carry out the attack by crafting a malicious link and tricking an administrator – who is logged into the web server – to click that link. | AttackPhishing 
-Once an admin does so, the attacker can execute commands on the web server, on the administrator’s behalf. | 
+Once an admin does so, the attacker can execute commands on the web server, on the administrator’s behalf. | AttackDatabreach
 “The integrated web server allows a cross-site scripting attack if an administrator is misled into accessing a malicious link,” Applied Risk researcher Nelson Berg said in an analysis of the flaw. | DiscoverVulnerability 
-“Successful exploitation may lead to the ability to bypass critical security measures provided by the firewall. | ”
+“Successful exploitation may lead to the ability to bypass critical security measures provided by the firewall. ” | O
 Exploitation of this vulnerability could ultimately enable threat actors to bypass critical security functions provided by the firewall, potentially providing access to industrial networks and putting operations and production at risk. | O 
 The vulnerability, CVE-2018-16555, has a CVSS score which Applied Risk researcher calculates to be 8.2 (or high severity). | DiscoverVulnerability
 That said, researchers said a successful exploit is not completely seamless and takes some time and effort to carry out – for an attacker to exploit the flaw, user interaction is required and the administrator must be logged into the web interface. | DiscoverVulnerability

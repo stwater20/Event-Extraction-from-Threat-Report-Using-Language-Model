@@ -8,7 +8,7 @@ What we didn’t know back then was that security researchers at Tenable had res
 These bugs were serious – indeed, one of them allows a attacker to run any program of their choosing, just by making a web request to the router. | O
 This sort of hole is known, for rather obvious reasons, as an RCE, short for Remote Code Execution. | O
 Tenable’s bugs, however, were what’s known as “authenticated vulnerabilities”, meaning that you had to be logged in first in order to be able to exploit them. | O
-Security holes that require pre-authentication may seem harmless at first sight – after all, if you already have a username and password, or some other access token, that gives you access to a system…
+Security holes that require pre-authentication may seem harmless at first sight – after all, if you already have a username and password, or some other access token, that gives you access to a system… | DiscoverVulnerability
 …well, you’re already in, so it sounds as though breaking in again can be dismissed as an irrelevancy. | O
 The good news is that Mikrotik has already patched Tenable’s now-disclosed bugs, dubbed CVE-2018-1156, -1157, -1158 and -1159. | PatchVulnerability
 Make sure you have the latest Mikrotik firmware updates, which are: 6.40.9, 6.42.7 or 6.43, depending on whether you’re using the current, previous or pre-previous version. | O

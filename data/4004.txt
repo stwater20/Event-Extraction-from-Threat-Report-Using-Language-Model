@@ -6,8 +6,7 @@ How, exactly, the vulnerabilities were exploited and by whom is unknown. | Disco
 Both bugs were detailed in Apple documentation detailing security changes delivered with the iOS 12.1.4 package. | PatchVulnerability, DiscoverVulnerability 
 Logged with the identifier CVE-2019-7286, the Foundation flaw involves a memory corruption issue that could allow an app to gain elevated privileges in iPhone 5s and later, iPad Air and later, and iPod touch 6th generation. | DiscoverVulnerability 
 An anonymous researcher, Clement Lecigne of Google Threat Analysis Group, Ian Beer of Google Project Zero and Samuel Grob of Google Project Zero were credited with finding the flaw. | DiscoverVulnerability
-The second bug, identified as CVE-2019-7287, also involves a memory corruption, but instead of granting elevated privileges it allows an app to executive code with kernel privileges 
-on iPhone 5s and later, iPad Air and later, and iPod touch 6th generation. | DiscoverVulnerability 
+The second bug, identified as CVE-2019-7287, also involves a memory corruption, but instead of granting elevated privileges it allows an app to executive code with kernel privileges on iPhone 5s and later, iPad Air and later, and iPod touch 6th generation. | DiscoverVulnerability 
 The same researchers were credited with the find. | DiscoverVulnerability
 Apple released iOS 12.1.4 alongside a supplemental update to macOS Mojave to address the widely publicized FaceTime flaw that allowed interlopers to eavesdrop on Group FaceTime calls. | PatchVulnerability 
 The update also patched a Live Photos in FaceTime bug that was discovered after Apple conducted a "thorough security audit" of the service. | PatchVulnerability 

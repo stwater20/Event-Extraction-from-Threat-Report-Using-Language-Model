@@ -4,11 +4,11 @@ Customers reported receiving an email on Tuesday stating that the company had id
 Eurostar confirmed that credit card details and payment details were not compromised because the company does not store that information online. | AttackDatabreach 
 Eurostar has yet to confirm how many people have been affected by this data breach or whether any data has been taken. | AttackDatabreach 
 The company has reported the data breach to the Information Commissioner's Office. | AttackDatabreach
-"We have taken this action as a precaution because we identified what we believe to be an unauthorised automated attempt to access eurostar.com accounts using your email address and password," the company told customers. |  
+"We have taken this action as a precaution because we identified what we believe to be an unauthorised automated attempt to access eurostar.com accounts using your email address and password," the company told customers. | AttackPhishing 
 "We've since carried out an investigation which shows that your account was logged into between the 15 and 19 October. | AttackDatabreach 
 If you didn't log in during this period, there's a possibility your account was accessed by this unauthorised attempt." | O
 Customers were told to check their accounts for "anything unusual" and update login details on any other site where they use the same password. | O
 A Eurostar spokesman said: "This email was sent after we identified what we believe to be an unauthorised automated attempt to access customer accounts, so as a precaution, we asked all account holders to reset their password. |  
-We deliberately never store any payment details or bank card information, so there is no possibility of those being compromised." | Databreach
-An ICO spokesman said: “We’ve received data breach report from Eurostar and are making enquiries.” | Databreach
+We deliberately never store any payment details or bank card information, so there is no possibility of those being compromised." | AttackDatabreach
+An ICO spokesman said: “We’ve received data breach report from Eurostar and are making enquiries.” | AttackDatabreach
 Last week, British Airways revealed that almost 200,000 further passengers may have had their personal data stolen by hackers in the September attack in what experts described as one of the biggest breaches of consumer data the UK had ever seen. | AttackDatabreach 

@@ -7,7 +7,7 @@ To remove the ransomware, the culprit behind the strain has demanded either a ra
 Although nobody is sure how these mining rigs came to be infected, it has been suggested by some that tainted rig firmware may have been the culprit. | O  
 On the other hand, some also believe that the culprit has merely taken advantage of the vulnerability of mining equipment that is usually overclocked by mining pools to boost hash power and processing speeds. | O  
 Presently, Antminer S9 and T9 devices are the worst affected mining equipment. | O 
-As of now, there haven’t been any reports of the cryptohackers actually going ahead with the threat and destroying mining rigs, which would suggest this being an empty threat. |  
+As of now, there haven’t been any reports of the cryptohackers actually going ahead with the threat and destroying mining rigs, which would suggest this being an empty threat. | AttackRansom 
 That being said, the mere fact of infection has led to several financial losses accruing from many mining operations shutting down temporarily, mining equipment being reflashed or tainted firmware simply being replaced by a new one. | O 
 Bitmain, the company that manufactures much of the Antminer equipment, that has come under the attack of hAnt has for its part, came forward and cautioned users against visiting untrusted third-party sites and downloading anything outside of Bitmain. | O 
 Either way, the development is not good news and does nothing to alleviate concerns associated with the safety and security of cryptocurrency-related operations and services. | O 
