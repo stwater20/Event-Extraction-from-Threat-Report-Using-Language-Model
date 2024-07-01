@@ -1,6 +1,7 @@
+US restaurants targeted with fileless malware - Help Net Security
 Morphisec researchers have spotted another attack campaign using fileless malware that is believed to be mounted by the infamous FIN7 hacking group. | O 
-The goal of the campaign is to gain control of the target businesses’ systems, install a backdoor, and through it perform continual exfiltration of financial information. | Databreach
-“Like past attacks, the initial infection vector is a malicious Word document attached to a phishing email that is well-tailored to the targeted business and its day-to-day operations,” the researchers noted. | Phishing 
+The goal of the campaign is to gain control of the target businesses’ systems, install a backdoor, and through it perform continual exfiltration of financial information. | AttackDatabreach
+“Like past attacks, the initial infection vector is a malicious Word document attached to a phishing email that is well-tailored to the targeted business and its day-to-day operations,” the researchers noted. | AttackPhishing 
 “The Word document executes a fileless attack that uses DNS queries to deliver the next shellcode stage (Meterpreter). | O  
 However, in this new variant, all the DNS activity is initiated and executed solely from memory – unlike previous attacks which used PowerShell commands. ” | O
 The researchers attribute this one important change to the group’s efforts to stay one step ahead of the defenders, and they are succeeding: 
@@ -10,5 +11,5 @@ This prefix indicates it may be a DLL, and its deletion helps the attack to evad
 But it’s not, and it passes undetected. | O
 In-memory resident attacks and the use of fileless malware are on the rise, and FIN7 is one group that has been employing this approach regularly. | O  
 There can be no doubt other attackers will try to implement the same tactic. | O 
-FIN7 has previously been tied to a sophisticated spear-phishing campaign hitting US-based businesses with emails purportedly coming from the US Securities and Exchange Commission (SEC), and Morphisec researchers believe that the series of attacks leveraged against 140+ banks and other businesses earlier this year is also their work. | Phishing
+FIN7 has previously been tied to a sophisticated spear-phishing campaign hitting US-based businesses with emails purportedly coming from the US Securities and Exchange Commission (SEC), and Morphisec researchers believe that the series of attacks leveraged against 140+ banks and other businesses earlier this year is also their work. | AttackPhishing
 FIN7 is also associated with the infamous Carbanak gang, but whether they are one and the same it’s still impossible to say for sure. |  O

@@ -1,8 +1,9 @@
+ New hAnt strain attack holds mining rigs hostage in China; demands 10 BTC in ransom 
 
 In a development that will do little to address concerns associated with the security of the cryptocurrency market, a new strain of ransomware, hAnt, has infected hundreds of mining rigs in China. | O 
 The cryptovirus, which some people say first reared its head in August of last year, has primarily focused its attacks on mining farms in China, the country with the highest number of mining farms. | O
 The ransomware, in a note written in both English and Chinese, has threatened to turn off the mining unit’s fan and compromise its overheating protection and by extension, the safety and integrity of the mining unit. | O  
-To remove the ransomware, the culprit behind the strain has demanded either a ransom of 10 BTC to be paid or a malicious software that could potentially infect thousands be downloaded by the victim. | Ransom
+To remove the ransomware, the culprit behind the strain has demanded either a ransom of 10 BTC to be paid or a malicious software that could potentially infect thousands be downloaded by the victim. | AttackRansom
 Although nobody is sure how these mining rigs came to be infected, it has been suggested by some that tainted rig firmware may have been the culprit. | O  
 On the other hand, some also believe that the culprit has merely taken advantage of the vulnerability of mining equipment that is usually overclocked by mining pools to boost hash power and processing speeds. | O  
 Presently, Antminer S9 and T9 devices are the worst affected mining equipment. | O 
