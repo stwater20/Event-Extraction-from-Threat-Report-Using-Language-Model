@@ -1,19 +1,20 @@
+Australian Shipbuilder Hacked, Refuses to Pay Ransom
 Austal, which is based in Henderson, Western Australia, is one of the country's largest shipbuilders; it has built vessels for the U. S.  Navy. | O
 The company, which is listed on Australia's ASX stock exchange, announced the breach late Thursday. | O 
-The announcement came just a day after a security researcher in France posted screenshots on Twitter of the purported stolen data. | Databreach
+The announcement came just a day after a security researcher in France posted screenshots on Twitter of the purported stolen data. | AttackDatabreach
 Austal says the material is neither sensitive nor classified and that it has taken steps to secure its data systems. | O 
-"The data breach has had no impact on Austal's ongoing operations," the company says. | Databreach  
+"The data breach has had no impact on Austal's ongoing operations," the company says. | AttackDatabreach  
 Austal's business in the United States is unaffected by this issue, as the computer systems are not linked. | O 
 A spokesman for Austal contacted on Friday says he couldn't offer further information on the incident. | O 
-The breach exposed ship design drawings that are distributed to customers, fabrication subcontractors and suppliers, Austal says. | Databreach 
+The breach exposed ship design drawings that are distributed to customers, fabrication subcontractors and suppliers, Austal says. | AttackDatabreach 
 It also exposed "some staff email addresses and mobile phone numbers." | Databreach
 Those individuals have been informed as well as a "small number" of other stakeholders directly impacted by the breach, the company reports. | O
 Austal has contacted the Australian Cyber Security Center and the Australian Federal Police. | O 
 The Office of the Australian Information Commissioner, which enforces the country's data protection regulations "will be involved as required," Austal says. | O 
-Companies are increasingly being subjected to ransoms by hackers after their networks have been breached. | Ransom 
-Ransoms put companies in tough positions: risk public exposure of potentially embarrassing data, or risk paying a ransom and still face a chance the data could be released anyway. | Ransom
-Security experts and law enforcement generally advise against paying ransoms, even after incidents of file-encrypting malware. | Ransom 
+Companies are increasingly being subjected to ransoms by hackers after their networks have been breached. | AttackRansom 
+Ransoms put companies in tough positions: risk public exposure of potentially embarrassing data, or risk paying a ransom and still face a chance the data could be released anyway. | AttackRansom
+Security experts and law enforcement generally advise against paying ransoms, even after incidents of file-encrypting malware. | AttackRansom 
 But some companies have viewed the situation as either a cost of doing business or a shorter route to recovery. | O
-Late last month in the U. | S, the city of West Haven, Connecticut, paid $2,000 to unlock 23 servers that had been infected with ransomware (see: Connecticut City Pays Ransom After Crypto-Locking Attack). | Ransom
+Late last month in the U. | S, the city of West Haven, Connecticut, paid $2,000 to unlock 23 servers that had been infected with ransomware (see: Connecticut City Pays Ransom After Crypto-Locking Attack). | AttackRansom
 The city's attorney, Lee Tiernan, was quoted by the Associated Press as saying "research showed it was the best course of action." | O
 If the city didn't have a backup file, it may have had little choice. | O 

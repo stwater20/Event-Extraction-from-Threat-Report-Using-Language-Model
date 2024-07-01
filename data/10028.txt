@@ -1,5 +1,6 @@
+Ransomware shuts down Licking County government in Ohio
 The government of Licking County in the US has taken many of its computer and telephone systems offline as it tries to tackle a ransomware infection. | O
-Ransomware is a type of computer malware that scrambles data and demands a fee for it to be restored. | Ransom
+Ransomware is a type of computer malware that scrambles data and demands a fee for it to be restored. | AttackRansom
 Citizens have been told they must visit government offices to do tasks usually completed online or by phone. | O
 The county commissioner told local media that he was taking advice from cybersecurity experts and the FBI. | O
 Licking County, which is in Ohio, has about 170,000 residents. | O

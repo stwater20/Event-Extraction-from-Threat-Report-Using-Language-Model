@@ -1,12 +1,13 @@
-In recent news, millions of records containing personal information were made available to the public in a sizable data leak, providing potential scammers with plenty of information to utilize in their schemes. | Databreach 
+Alert: 33.7 Millions Records Released to Public Due to Leak of Massive Marketing Database
+In recent news, millions of records containing personal information were made available to the public in a sizable data leak, providing potential scammers with plenty of information to utilize in their schemes. | AttackDatabreach 
 These records were all part of a 53 GB database that was available for purchase from Dun & Bradstreet, a business service firm. | O
-The database contained information that could be of great use to hackers and marketers alike, as it outlined corporate data for businesses within the United States, providing professional details and contact information for members at every level of the businesses included. | 
+The database contained information that could be of great use to hackers and marketers alike, as it outlined corporate data for businesses within the United States, providing professional details and contact information for members at every level of the businesses included. | O
 Dun & Bradstreet released a statement via email in an attempt to remove the firm from any responsibility. | O 
-According to the firm, there was no evidence of a breach on their systems. | Databreach 
-The email also pointed out that the leaked data was sold to “thousands” of other companies, and that the leaked data seemed to be six months old. |  
+According to the firm, there was no evidence of a breach on their systems. | AttackDatabreach 
+The email also pointed out that the leaked data was sold to “thousands” of other companies, and that the leaked data seemed to be six months old. | O
 In essence, Dun & Bradstreet’s position was “not our fault.,” and that there was little cause for worry, as the list only contained “generally publicly available business contact data.” | O
 However, not everyone feels that the responsibility for this event can be passed off so easily, especially considering the nature of the data found on the database. | O
-Troy Hunt manages Have I Been Pwned, a data leak alert site that allows a user to reference one of their accounts to determine if their credentials have been compromised. | Databreach 
+Troy Hunt manages Have I Been Pwned, a data leak alert site that allows a user to reference one of their accounts to determine if their credentials have been compromised. | AttackDatabreach 
 He offered up his own take after reviewing the database for himself. | O 
 Hunt’s analysis revealed that the organizations with the most records in the database were: | O 
     The United States Department Of Defense: 101,013 | O
@@ -21,7 +22,7 @@ Hunt’s analysis revealed that the organizations with the most records in the d
     International Business Machines Corporation: 33,412 | O
 If this list alarms you, you have the right idea. | O 
 In his comments, Hunt brought up a few concerns that he had with the contents of the database out in public. | O
-First of all, this list is essentially a guidebook for someone running a phishing campaign. | Phishing
+First of all, this list is essentially a guidebook for someone running a phishing campaign. | AttackPhishing
 A resourceful scammer could easily use the information contained in this list (including names, titles, and contact information) to create a very convincing and effective campaign. | O 
 Furthermore, the most common records in the leaked database were those of government officials and employees. | O 
 Hunt went so far as to mention which personnel records could be found in the database for the Department of Defense: while “Soldier” was the most common, the list also included “Chemical Engineer” and “Intelligence Analyst” entries. | O

@@ -1,0 +1,10 @@
+City pays USD 2,000 in computer ransomware attack
+West Haven officials said Thursday they paid the money to anonymous attackers through the digital currency Bitcoin. | AttackRansom
+A Connecticut city has paid USD 2,000 to restore access to its computer system after a ransomware attack. | AttackRansom
+West Haven officials said Thursday they paid the money to anonymous attackers through the digital currency bitcoin to unlock 23 servers and restore access to city data. | AttackRansom
+The attack disabled servers early Tuesday morning, and city officials say it was contained by 5:30 PM Wednesday. | AttackRansom
+City attorney Lee Tiernan says officials initially didn't want to pay the ransom, but research showed it was the best course of action. | AttackRansom
+The city says there's no reason to believe data was compromised. | AttackDatabreach 
+Employee pay was not affected. | O
+The US Department of Homeland Security says the attack came from outside the US. | O
+An investigation is ongoing. | O
