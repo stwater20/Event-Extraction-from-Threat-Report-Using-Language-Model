@@ -1,0 +1,42 @@
+Beware! Flipkart catches ‘Flipkart’! How not to fall into traps of fake websites –Check warning
+Flipkart has recently posted a story to make people aware of fake Flipkart websites. | O
+The e-commerce giant on its blog 'Flipkart stories' said that people need to be beware of email, call, SMS, WhatsApp message or any social media message which claims to be offering unbelievable discounts and offers from Flipkart. | AttackPhishing
+Flipkart said: “Be warned that these messages are not sent by official Flipkart channels, but by fraudsters and scammers who intend to deceive you. | AttackPhishing
+If you are not careful, you may be at the receiving end of fraud. | O
+Fraudsters intend to make a fast buck by misappropriating the familiar and trustworthy name of Flipkart. | AttackPhishing
+You are advised not to trust these fraudulent individuals or agencies with your money, or your personal and financial information. | O
+Always check with authentic and original Flipkart sources first.” | O
+The content of the fake messages or calls sent by the fraudulent may include references to tempting deals, discounts and offers on Flipkart. | AttackPhishing
+The fake messages may closely resemble the Flipkart’s official logos, typefaces and brand colour while some may also contain the word ‘Flipkart’ in the URL. | AttackPhishing
+Then how can you catch them? | O
+1) Fake websites: The websites such as ‘flipkart.dhamaka-offers.com, flipkart-bigbillion-sale.com’ contain the name of the company in their URL. | O
+Such websites pretend to be associated with Flipkart by using similar-looking and similar-sounding names. | O
+However, they are not authorised by Flipkart. | AttackPhishing
+2) WhatsApp, Facebook Messenger and/or other social messaging platforms: Fraudsters may try to send the customers messages via social messaging platforms and many have also reported the same. | AttackPhishing
+These imposters will ask for your personal details or will be asked to share these fraudulent messages with friends and family members to win prizes. | AttackPhishing
+Apart from these customers might also be offered products at ‘unbelievable’ prices such as a 32 GB pen drive for Rs 25. | O 
+Customers will be asked to make payments via online wallets, bank transfer or other means to avail free gifts. | O
+To this, Flipkart has directed the customers to not reply to these messages or click any of the links the fake messages contain without verifying it with the company. | O
+“Flipkart has no connection with these fraudulent senders, and we have no control over any information that you share with them. | O
+Any details that you share with these fraudulent senders that impersonate Flipkart can compromise your personal and financial information. | O
+Payments once made to these accounts cannot be retrieved or reversed, and you may be cheated of your hard-earned money,” the e-commerce website said. | O
+3) Fake Calls or SMS to customers: Sometimes, customers may also receive calls from an unknown number. | O
+The may speak in any language such as English, Hindi among others. | O
+The person might lure customers by offering free gifts or by saying that your mobile number has been selected via a lucky draw, etc. | AttackPhishing
+To avail these gifts, the imposter will ask you for your personal details and access to bank account numbers among other things. | AttackPhishing
+They may also lure you to a website appearing very similar to Flipkart or send you a fake fabricated certificate. | AttackPhishing
+They may also claim to be Flipkart employees or partners and may display fake identifiation as proof. | AttackPhishing 
+“It is easy to fabricate such documents in order to make you believe that they are genuine. | O
+You may also be asked to transfer money to certain digital wallets to claim prizes or gifts. | O
+Note that these accounts are not managed by Flipkart, but by fraudsters who want to cheat you,” Flipkart said. | O
+4) Phishing (Fake Emails): Phishing is a fraudulent attempt to obtain sensitive information such as usernames, passwords, and credit card details for malicious reasons by disguising as a trustworthy entity in an electronic communication. | O
+Phishing emails are sent by fraudsters. | AttackPhishing
+The emails may ask you to visit malicious links through which your personal and/or financial information can be obtained and be used without your consent to carry out fraudulent transactions. | AttackPhishing
+You may lose money, personal and sensitive information and your systems — desktop computers, laptops or mobile phones — can get potentially compromised by malware/viruses upon opening or clicking on links in such emails. | O
+5) Online games/websites (discount coupons/gift vouchers/offers/online games): Online scams of this type reach out to customers, asking them to play games such as ‘spin the wheel,’ which promise free gifts, cash prizes, and other tempting bait. | O
+The players are often asked to share the game with their contacts to be able to avail the prize, which, of course, never materializes. | O
+6) From Marketplace Sellers: While you may have received an order placed on Flipkart, you may receive a pamphlet or inserts, asking you to make future purchases on some other online shopping site or portal to avail higher discounts. | O
+Similarly, sellers/callers posing as sellers may ask you to place an order directly with them and may ask for payment to be made directly. | O
+Often, they may ask you to cancel your Flipkart order. | O
+Once you agree to any such deal with these fraudulent sellers, Flipkart will not have any control over any information you might share with them. | O
+You are at risk of fraud if you accept such offers. | O

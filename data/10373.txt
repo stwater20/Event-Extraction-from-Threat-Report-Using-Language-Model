@@ -1,0 +1,19 @@
+Phishing scam targets iPhone users with fake calls to ‘Apple Care’
+Conmen are taking phishing scams to the next level, targeting Apple users with emails and calls to a fake Apple Care service. | AttackPhishing
+While emails are a fairly common way of luring victims, it’s not every day that you hear about calls being involved to dupe folks. | AttackPhishing
+Ars Technica reports that the attack begins with an email which is designed to look like an official iCloud account warning. | AttackPhishing
+It claims a sign-in attempt was blocked on their account since someone tried to use their password. | O
+There’s a “Check Activity” button which opens up a page on a compromised site for a men’s salon in South India. | O
+The webpage immediately redirects the victim to another site, followed by another redirection to a fake Apple Support page asking them to contact support since their iPhone has been locked due to illegal activity. | AttackPhishing
+If they fall for the bait, the site launches a “scanning” box which eventually gives way to a pop-up box prompting the victim to call a number. | AttackPhishing
+If the email is opened in an iPhone, the number can be called straightaway. | O
+iPads and Macs can’t do the same, so the system will ask if they want to open it in FaceTime. | O
+The publication actually dialed the number and got in touch with someone who described themselves as “Lance Roger from Apple Care.” | O
+It seems the elaborate scheme is targeting email addresses associated with iCloud. | O
+The end game is to trick iPhone users into enrolling in a rogue mobile device management service. | AttackPhishing
+This allows the attackers to push infected apps onto the victim’s device, all the while pretending this is a part of Apple’s security service. | AttackPhishing
+The phishing site is still live right now, but both Google and Apple have marked it as deceptive. | O
+Ars Technica has additionally passed on the technical details of the scam to an Apple security team member. | O
+The company told Engadget that it has resources on its support website to help people tell right from wrong. | O
+Everyday iOS users could still easily get fooled though. | O
+

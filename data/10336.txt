@@ -1,27 +1,27 @@
 Top 5 phishing scams and how to avoid them
-Phishing is one of the most devious scams for filching your personal information, but experts say it is possible to avoid them if you know what you're looking for. |  Phishing
-At its essence, phishing is the act of pretending to be someone or something you trust in order to trick you into entering sensitive data like your user name and password. | Phishing
+Phishing is one of the most devious scams for filching your personal information, but experts say it is possible to avoid them if you know what you're looking for. | AttackPhishing
+At its essence, phishing is the act of pretending to be someone or something you trust in order to trick you into entering sensitive data like your user name and password. | AttackPhishing
 The goal -- of course -- is to take your money. | O
-Some of the most common phishing scams are bogus emails purportedly from trustworthy institutions like the U.S.Internal Revenue Service or major banks. | Phishing
-The more sophisticated scams are crafted to look very much like a legitimate message from a site you do business with. | Phishing
-“Many popular phishing scams purport to be from shipping companies, e-commerce companies, social networking websites, financial institutions, tax-preparation companies and some of the world’s most notable companies,” said Norton by Symantec senior security response manager Satnam Narang via email. | Phishing
-One of the worst cases on record was an aircraft parts CEO who was tricked into handing over more than $55 million – which shows that phishing scams can dupe even smart people. | Phishing
-Fox News asked Symantec about the top phishing scams and how to avoid them. | Phishing
+Some of the most common phishing scams are bogus emails purportedly from trustworthy institutions like the U.S.Internal Revenue Service or major banks. | AttackPhishing
+The more sophisticated scams are crafted to look very much like a legitimate message from a site you do business with. | AttackPhishing
+“Many popular phishing scams purport to be from shipping companies, e-commerce companies, social networking websites, financial institutions, tax-preparation companies and some of the world’s most notable companies,” said Norton by Symantec senior security response manager Satnam Narang via email. | AttackPhishing
+One of the worst cases on record was an aircraft parts CEO who was tricked into handing over more than $55 million – which shows that phishing scams can dupe even smart people. | AttackPhishing
+Fox News asked Symantec about the top phishing scams and how to avoid them. | AttackPhishing
 1. Your account has been or will be locked, disabled or suspended. | O
-"Scare tactics are a common theme when it comes to phishing scams," said Narang. | Phishing
+"Scare tactics are a common theme when it comes to phishing scams," said Narang. | AttackPhishing
 "Claiming a users’ account has been or will be locked or disabled is a call to action to the user to entice them to provide their login credentials." | Phishing
 2. Irregular/fraudulent activity detected or your account requires a "security" update. | O
 "Extending off of #1, scammers will also claim irregular or fraudulent activity has been detected on your account or that your account has been subjected to a compulsory 'security update' and you need to login to enable this security update," Narang said. | O
 3. You’ve received a secure or important message. | O
-"This type of phishing scam is often associated with financial institutions, but we have also seen some claiming to be from a popular e-commerce website," said Narang. | Phishing
+"This type of phishing scam is often associated with financial institutions, but we have also seen some claiming to be from a popular e-commerce website," said Narang. | AttackPhishing
 "Because financial institutions don’t send customer details in emails, the premise is that users will be more inclined to click on a link or open an attachment if it claims to be a secure or important message." | Phishing
-4. Tax-themed phishing scams. | Phishing
-"Each year, tax-themed phishing scams crop up before tax-time in the U.S. and other countries," Narang added. | Phishing
+4. Tax-themed phishing scams. | AttackPhishing
+"Each year, tax-themed phishing scams crop up before tax-time in the U.S. and other countries," Narang added. | AttackPhishing
 "These tax-related themes can vary from updating your filing information, your eligibility to receive a tax refund or warnings that you owe money. | O
 One thing that’s for sure is that the IRS doesn’t communicate via email or text message, they still send snail mail." | O
-5. Attachment-based phishing with a variety of themes. | Phishing
-"Another trend we have observed in recent years is that scammers are using the lures mentioned above, but instead of providing a link to an external website, they are attaching an HTML page and asking users to open this 'secure page' that requests login credentials and financial information," according to Narang. | Phishing
+5. Attachment-based phishing with a variety of themes. | AttackPhishing
+"Another trend we have observed in recent years is that scammers are using the lures mentioned above, but instead of providing a link to an external website, they are attaching an HTML page and asking users to open this 'secure page' that requests login credentials and financial information," according to Narang. | AttackPhishing
 Avast, which also develop antivirus software and internet security services, offered advice on what to look for. | O
-Ransomware, which encrypts data (i.e., makes it inaccessible to the user), tries to tap into the same fears that phishing does. | Phishing
-The hope that the “attacked person will panic, and pay the ransom,” Jonathan Penn, Director of Strategy at Avast, told Fox News. | Phishing
+Ransomware, which encrypts data (i.e., makes it inaccessible to the user), tries to tap into the same fears that phishing does. | AttackPhishing
+The hope that the “attacked person will panic, and pay the ransom,” Jonathan Penn, Director of Strategy at Avast, told Fox News. | AttackPhishing
 

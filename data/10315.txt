@@ -1,16 +1,16 @@
 Midland servers hacked, attackers demanding ransom
-The Town of Midland’s computer systems were hacked over the long weekend. | Ransom
-In the early morning hours of Sept 1, the town became the victim of a cyberattack in which the town’s network was illegally accessed and infected with ransomware. | Ransom
+The Town of Midland’s computer systems were hacked over the long weekend. | AttackRansom
+In the early morning hours of Sept 1, the town became the victim of a cyberattack in which the town’s network was illegally accessed and infected with ransomware. | AttackRansom
 The malware was able to encrypt a number of town systems rendering them unusable. | O
-The town has received a ransom demand to decrypt them. | Ransom
+The town has received a ransom demand to decrypt them. | AttackRansom
 Town staff worked quickly to isolate the attacked and activate a cyber incident investigation. | O
 According to town staff, the necessary steps are being taken to restore access to the system and files and to try and return operations to normal as quickly as possible. | O
 “Residents can rest assured that we are taking this matter extremely seriously,” said Mayor Gord McKay. | O
 “We are working closely with cybersecurity experts that specialize in these types of illegal attacks, and we have reported the incident to law enforcement and the Information and Privacy Commissioner of Ontario.” | O
 Vital services, such as fire and water and wastewater management, were  not impacted as these systems are purposely isolated for security reasons. | O
-Ongoing investigations have not found any evidence that information was removed from the system or inappropriately accessed and cybersecurity experts are working quickly to rule out that possibility. | Databreach
-In late April, Wasaga Beach had their computer systems hacked and locked down for several weeks. | Ransom
-The town eventually paid the hackers three Bitcoins, worth approximately $34,000. | Ransom
+Ongoing investigations have not found any evidence that information was removed from the system or inappropriately accessed and cybersecurity experts are working quickly to rule out that possibility. | AttackDatabreach
+In late April, Wasaga Beach had their computer systems hacked and locked down for several weeks. | AttackRansom
+The town eventually paid the hackers three Bitcoins, worth approximately $34,000. | AttackRansom
 However, other costs including loss of productivity, new hardware and consultant fees were estimated at a combined $250,000. | O
 Based on the recommendations outlined a recent service delivery review and lessons learned from the cyberattack in Wasaga Beach, Midland had secured an insurance policy for protection in the event of such illegal activities. | O
 A strategy to address cybersecurity threats had been developed, which the town was in the process of implementing. | O

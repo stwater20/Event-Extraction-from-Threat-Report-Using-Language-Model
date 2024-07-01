@@ -8,8 +8,8 @@ As the bug, CVE-2018-11776, has been discovered in the Struts core, the team say
 If the alwaysSelectFullNamespace flag is set to true in the Struts configuration, which is automatically the case when the Struts Convention plugin is in use, or if a user's Struts configuration file contains a tag that does not specify the optional namespace attribute or specifies a wildcard namespace. | O
 Man Yue Mo from the Semmle Security Research Team first reported the flaw. | DiscoverVulnerability
 "This vulnerability affects commonly-used endpoints of Struts, which are likely to be exposed, opening up an attack vector to malicious hackers," Mo says. | DiscoverVulnerability
-"On top of that, the weakness is related to the Struts OGNL language, which hackers are very familiar with, and are known to have been exploited in the past." | been exploited
-The vulnerability affects all versions of Apache Struts 2. |
+"On top of that, the weakness is related to the Struts OGNL language, which hackers are very familiar with, and are known to have been exploited in the past." | DiscoverVulnerability
+The vulnerability affects all versions of Apache Struts 2. | PatchVulnerability
 Companies which use the popular open-source framework are urged to update their builds immediately. | O
 Users of Struts 2.3 are advised to upgrade to 2.3.35; users of Struts 2.5 need to upgrade to 2.5.17. | PatchVulnerability
 As the latest releases only contain fixes for the vulnerability, Apache does not expect users to experience any backward compatibility issues. | PatchVulnerability

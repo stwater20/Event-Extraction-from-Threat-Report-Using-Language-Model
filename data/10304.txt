@@ -1,0 +1,14 @@
+Watch out for scammers stealing your money by pretending to be Netflix
+Criminals are trying to steal money from Netflix customers with a sophisticated new scam. | AttackPhishing
+Subscribers are being sent convincing fake emails asking them to update their payment information. | AttackPhishing
+While they look to be from Netflix itself, they are in fact from criminals and scammers. | AttackPhishing
+The message currently circulating reads: "We're having some trouble with your current billing information. | O
+"We'll try again, but in the meantime you may want to update your payment details." | O
+There is a red button telling you to "Update Account now" at the end of the message. | O
+This link takes you to a fake-designed site to look like Netflix, but in fact is run by scammers. | AttackPhishing
+An urgent warning has been issued about the email by the Federal Trade Commission, a US government agency that told consumers not to "take the bait". | AttackPhishing
+"Scammers use your information to steal your money, your identity, or both," it reads. | AttackPhishing
+"They also use phishing emails to get access to your computer or network. | AttackPhishing
+"If you click on a link, they can install ransomware or other programs that can lock you out of your data." | AttackPhishing
+
+

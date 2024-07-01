@@ -1,16 +1,16 @@
 Ransomware, fileless attacks and cold boot give firms the shivers
-Bristol Airport authorities were recently forced to take their flight information system displays offline for two days to contain a ransomware attack. | Ransom
-The authorities dismissed the ransom demand and decided to rebuild the affected systems. | Ransom
+Bristol Airport authorities were recently forced to take their flight information system displays offline for two days to contain a ransomware attack. | AttackRansom
+The authorities dismissed the ransom demand and decided to rebuild the affected systems. | AttackRansom
 For two days, flight status information was displayed on whiteboards and there was an increase in announcements over the speakers. | O
 Similarly, in the last few months there have been several cyberattacks targeting hospitals, city administration and sporting events. | O
-The servers of the US-based PGA were reportedly hit by ransomware attacks right before the PGA Championship in the first week of August. | Ransom
-A new ransomware called Everlasting Blue Blackmail Virus, which targets Windows PCs using spam and phishing campaigns, flashes former US President Barrack Obama’s image with the ransom message. | Phishing
-Once the ransomware gains entry into the system, its looks for all .exe (executable) files and encrypts them, preventing users from running apps until the ransom is paid. | Ransom
-Hot on the heels of the cyberattack on the town of Valdez in Alaska, Canadian town Midland in Ontario was hit by a ransomware attack in the first week of September. | Ransom
-Hackers broke into the city database involving fire, water, and waste management and blocked access, demanding ransom. | Ransom
+The servers of the US-based PGA were reportedly hit by ransomware attacks right before the PGA Championship in the first week of August. | AttackRansom
+A new ransomware called Everlasting Blue Blackmail Virus, which targets Windows PCs using spam and phishing campaigns, flashes former US President Barrack Obama’s image with the ransom message. | AttackPhishing
+Once the ransomware gains entry into the system, its looks for all .exe (executable) files and encrypts them, preventing users from running apps until the ransom is paid. | AttackRansom
+Hot on the heels of the cyberattack on the town of Valdez in Alaska, Canadian town Midland in Ontario was hit by a ransomware attack in the first week of September. | AttackRansom
+Hackers broke into the city database involving fire, water, and waste management and blocked access, demanding ransom. | AttackRansom
 A major concern for cybersecurity experts is the fileless attacks, which are hard to detect. | O 
 These attacks do not install a malicious software to infiltrate a victim’s computer, which makes it difficult for anti-virus solutions to detect them. | O
-According to Ponemon Institute, 35% of all cyberattacks in 2018 were fileless, while security solution provider Carbon Black claims that fileless attacks accounted for 50% of all successful data breaches targeting financial businesses. | Databreach
+According to Ponemon Institute, 35% of all cyberattacks in 2018 were fileless, while security solution provider Carbon Black claims that fileless attacks accounted for 50% of all successful data breaches targeting financial businesses. | AttackDatabreach
 Fileless attacks target legitimate Windows tools such as PowerShell (a scripting language which can provide hackers unrestricted access to Windows API) and Windows Management Instrumentation (used by admins). | O
 By latching on to these tools, hackers gain control over the PC and eventually the organization’s database. | O
 In another recent development, researchers at F-Secure have come across a new vulnerability affecting PCs. | O

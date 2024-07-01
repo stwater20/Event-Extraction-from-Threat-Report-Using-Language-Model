@@ -1,0 +1,27 @@
+New Core Patch Fixes Bitcoin Network Vulnerability to DDoS Attacks
+The Bitcoin Core team yesterday released a patch for a DDoS vulnerability that could prove fatal to the Bitcoin network. | PatchVulnerability
+The patch note urged miners to shut down their older versions urgently and replace them with the new version, Bitcoin Core 0.16.3. | PatchVulnerability
+ The announcement, first reported on Hacked, revealed that all the recent Bitcoin Core versions could be vulnerable to Distributed Denial-of-Service attack. | DiscoverVulnerability
+An attack of such kind typically involves multiple compromised systems to flood a single system (or network) – similar to zombies encircling an uninfected person and disabling his movements. | O
+DDoS perpetrators could attack a Bitcoin network by either flooding the block with duplicate transactions, thus jamming the transaction confirmation of other people, or by flooding the nodes on Bitcoin’s peer-to-peer network, thus over-utilizing the bandwidth through malicious transaction relays. | O
+The recent DDoS vulnerability, termed as CVE-2018-17144, tried to attempt the latter – flooding full node operators with traffic. | DiscoverVulnerability
+Hacked reports: | O
+    “The way the potential exploit could work was by allowing anyone who was capable of mining a sufficient number of proof of work blocks to crash Bitcoin Cores running software versions 0.14.0 to 0.16.2.” | O
+It also means that the miners who occasionally run Bitcoin Core were not vulnerable to the attack. | DiscoverVulnerability
+Still, developers recommended all the miners to go ahead with the latest update to stay safe. | PatchVulnerability
+Also, the patch fixed some other minor bugs related to consensus, RPC, invalid flag errors, and documentation. | PatchVulnerability
+It is worth noticing that Bitcoin is not the only cryptocurrency that is on the DDoS attackers’ hitlist. | O
+Flaws have been found in other cryptocurrency clients as well, including Bitcoin Cash and Ethereum. | DiscoverVulnerability
+An effective attack on the Ethereum network lasted more than a month and created million of dead accounts. | O
+In response, developers had to go through two on-chain forks and one off-chain process to clean up the mess. | O
+In another DDoS attack that slowed down the Ethereum network, miners had to increase gas fees to repel the attackers. | O
+There was no consensus failure. | O
+DDoS continues to be a global problem that impacts all spheres of the internet. | O
+Europol in its latest investigative report noted: | O
+    “Criminals continue to use Distributed-Denial-of-Service (DDoS) attacks as a tool against private business and the public sector. | O
+Such attacks are used not only for financial gains but the ideological, political or purely malicious reason. | O
+This type of attack is not only one of the most frequent (second only to malware in 2017); it is also becoming more accessible, low-cost and low-risk.” | O
+Meanwhile, decentralized networks like Bitcoin are still more secure against such attacks purely because single entities would not be able to bring them down. | O
+Also, because the people, including the attackers themselves, are heavily invested in Bitcoin, a coordinated attack would just rip them off their bitcoin validation commissions. | O
+
+
