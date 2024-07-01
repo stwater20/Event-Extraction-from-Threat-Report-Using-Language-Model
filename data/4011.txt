@@ -6,7 +6,7 @@ The accounts also contained the Social Security numbers of some individuals. | O
 Several other healthcare entities also have recently reported to federal regulators data breaches involving apparent phishing and other email-related attacks. | AttackDatabreach, Phishing
 "All of these incidents speak to the rampant attacks we are seeing across healthcare, and yet organizations are still not investing enough in protection or detection," says Mac McMillan, CEO of security consulting firm CynergisTek. | O 
 UConn Health, an academic medical center, says in a media statement that it identified approximately 326,000 potentially impacted individuals whose personal information was contained in the compromised email accounts. | AttackDatabreach 
-For approximately 1,500 of these individuals, this information included Social Security numbers. | 
+For approximately 1,500 of these individuals, this information included Social Security numbers. | AttackDatabreach
 "It is important to note that, at this point, UConn Health does not know for certain if any personal information was ever viewed or acquired by the unauthorized party, and is not aware of any instances of fraud or identity theft as a result of this incident," the statement notes. | AttackDatabreach 
 "The incident had no impact on UConn Health's computer networks or electronic medical record systems." | O
 UConn Health is offering prepaid identity theft protection services to individuals whose Social Security numbers may be impacted. | O  
@@ -31,7 +31,7 @@ For those patients whose Social Security number was potentially exposed, the org
 Francis says. | O
 As phishing continues to menace healthcare entities, covered entities and business associates need to keep up with their defenses, some experts note. | AttackPhishing
 "Phishing techniques have become more sophisticated than in the past," note Kate Borten, president of security and privacy consulting firm The Marblehead Group. | O 
-"Workforce training should include simulated phishing attacks to make people better prepared to recognize and thwart a real attack." | Phishing
+"Workforce training should include simulated phishing attacks to make people better prepared to recognize and thwart a real attack." | AttackPhishing
 To help mitigate breach risks, organizations should be deploying next-generation firewalls and multifactor authentication, plus employing advanced malware detection solutions, McMillan says. | O
 Too many organizations are overlooking the value of multifactor authentication, Borten adds. | O
 "Two-factor user authentication was intended to be required over the internet and public networks in the proposed HIPAA Security Rule," she notes. | O 
@@ -41,4 +41,4 @@ But McMillan advises healthcare organizations to avoid using multifactor authent
 So what other technologies or best practices should covered entities and business associates consider to prevent falling victim to phishing and other attacks?
 "Unfortunately we haven't seen any silver bullets here yet, but one thing we might want to begin exploring is just what an attacker has access to when they compromise a user's account," McMillan notes. | AttackDatabreach
 "All too often, we hear that the accounts compromised had incredibly large numbers of emails immediately accessible to the attacker. | AttackDatabreach
-The question is, are their better ways to deal with retention that mitigate risk as well?"   
+The question is, are their better ways to deal with retention that mitigate risk as well?" | O 
