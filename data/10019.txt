@@ -7,7 +7,7 @@ Austal says the material is neither sensitive nor classified and that it has tak
 Austal's business in the United States is unaffected by this issue, as the computer systems are not linked. | O 
 A spokesman for Austal contacted on Friday says he couldn't offer further information on the incident. | O 
 The breach exposed ship design drawings that are distributed to customers, fabrication subcontractors and suppliers, Austal says. | AttackDatabreach 
-It also exposed "some staff email addresses and mobile phone numbers." | Databreach
+It also exposed "some staff email addresses and mobile phone numbers." | AttackDatabreach
 Those individuals have been informed as well as a "small number" of other stakeholders directly impacted by the breach, the company reports. | O
 Austal has contacted the Australian Cyber Security Center and the Australian Federal Police. | O 
 The Office of the Australian Information Commissioner, which enforces the country's data protection regulations "will be involved as required," Austal says. | O 
