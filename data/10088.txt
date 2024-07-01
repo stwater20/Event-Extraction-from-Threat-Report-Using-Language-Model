@@ -4,7 +4,7 @@ What he initially thought was just a kink in his computer’s software was in fa
 Now, Mr. Gren and the thousands of other victims worldwide face an agonizing choice: either hand over the ransom — a figure that has climbed to $600 for each affected machine — by a deadline this Friday, or potentially lose their digital information, including personal photos, hospital patient records and other priceless data, forever. | AttackRansom
 “I’m pretty devastated,” said Mr. Gren, 32, a manager of an online entertainment business in Krakow, Poland, who has spent almost all of his waking hours since Friday looking for ways to reclaim his digital data. | O 
 “I’ve lost private files that I have no other way of recovering. | O 
-For me, the damage has been huge.” | 
+For me, the damage has been huge.” | O
 That decision has become even more difficult as cybersecurity experts and law enforcement officials have repeatedly warned people against paying the ransom ahead of this week’s deadline. | AttackRansom
 Aside from dissuading victims from handing over money that may help fund further such attacks, they caution that it is not guaranteed the attackers will return control of people’s computers even if they pay the assailants in bitcoin, a digital currency favored in such ransomware attacks that can be difficult to trace. | AttackRansom
 Officials also note that the attackers, who have yet to been named, have provided only three bitcoin addresses — similar to a traditional bank routing number — for all global victims to deposit the ransom, so it may prove difficult to know who has paid the digital fees. | AttackRansom

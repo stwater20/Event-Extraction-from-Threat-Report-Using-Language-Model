@@ -7,7 +7,7 @@ It did, however, temporarily halt any online credit or debit card payments. | O
 It affected all of our departments, and we have been in recovery mode ever since [Sunday]," City Administrator Victor Lay said. | O 
 "We've now been able to, at least minimally, conduct business, although the manual system of paper and pencil seems to work pretty well against those kinds of things." | O
 Lay added that the "appropriate government authorities" have been contacted about the incident, which will meet later this week to discuss an investigation into the incident. | O
-He said it was not a "hack" per se, but a virus created from a downloadable email attachment, locking the system using an encryption key. | 
+He said it was not a "hack" per se, but a virus created from a downloadable email attachment, locking the system using an encryption key. | AttackRansom
 "We're working through it. | O 
 Obviously, we chose not to pay the ransom. | AttackRansom 
 We're working through the system and it's going to take us a few days to get things all back to normal, but we're getting there." | O

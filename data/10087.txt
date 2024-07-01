@@ -13,7 +13,7 @@ In private, however, higher ransoms are finding success when hackers successfull
 An IBM Security study from December 2016 found that over half of the businesses they surveyed said they had already paid over $10,000 in ransom while 20 percent said they’d paid over $40,000. | AttackRansom
 Globally, 34 percent of victims end up paying ransom. | AttackRansom 
 American victims, however, pay at a rate of 64 percent, according to Norton. | O
-“That’s a phenomenal number,” Symantec’s Kevin Haley told CyberScoop. |  
+“That’s a phenomenal number,” Symantec’s Kevin Haley told CyberScoop. | O 
 “I always compare it to direct mail where if you get a 1 percent rate you’re doing really good. | O 
 These guys get a 34 percent return rate. | O 
 Extortion really pays.” | AttackRansom 

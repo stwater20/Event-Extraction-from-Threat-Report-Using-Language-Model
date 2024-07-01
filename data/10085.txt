@@ -7,7 +7,7 @@ Since early March, attacks have slowly evolved. | O
 F5 experts say that in the beginning, attackers targeted Struts instances running on Linux servers, where they would end up installing the PowerBot malware, an IRC-controlled DDoS bot also known as PerlBot or Shellbot. | O
 In later attacks, some groups switched to installing a cryptocurrency miner called "minerd" that mined for the Monero cryptocurrency. | O 
 In other attacks reported by the SANS Technology Institute, some attackers installed Perl backdoors. | O
-Recent attacks also targeted Struts running on Windows
+Recent attacks also targeted Struts running on Windows | DiscoverVulnerability
 Both SANS and F5 experts report that after March 20, one of these groups switched to targeting Struts instances installed on Windows systems. | O
 Using a slightly modified exploit code, attackers executed various shell commands to run the BITSAdmin utility and then downloaded (via Windows' built-in FTP support) the Cerber ransomware. | O
 From this point on, Cerber took over, encrypted files, and displayed its standard ransom note, leaving victims no choice but pay the ransom demand or recover data from backups. | AttackRansom

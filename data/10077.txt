@@ -1,7 +1,7 @@
  Atlanta hit by ransomware attack, city employees told not to turn on computers  
 City employees in Atlanta coming to work Friday morning were told not to turn on their computers and WiFi at the Atlanta airport was turned off due to a ransomware attack that hit municipal systems on Thursday. | AttackRansom
-As employees walked into city hall for work, they were handed a printed notice telling them to not use their computers until they were cleared by the municipal IT group, the Atlanta Journal Constitution reported. | 
-At a news conference Friday afternoon, Atlanta chief operating officer Richard Cox said that the WiFi at Hartsfield–Jackson Atlanta International Airport had been disabled out of "an abundance of caution." | 
+As employees walked into city hall for work, they were handed a printed notice telling them to not use their computers until they were cleared by the municipal IT group, the Atlanta Journal Constitution reported. | O
+At a news conference Friday afternoon, Atlanta chief operating officer Richard Cox said that the WiFi at Hartsfield–Jackson Atlanta International Airport had been disabled out of "an abundance of caution." | O
 The city is still working on mitigating the ransomware and Mayor Keisha Lance Bottoms did not answer questions from reporters as to whether the attack had ended. | O
 "What we want to make sure of is that we aren’t putting a Band-Aid on a gaping wound. | O 
 We want to make sure that we take the appropriate steps," she said. | O
@@ -10,7 +10,7 @@ The good news is that while “this is a massive inconvenience to the city, it i
 Police, fire and other vital services are still fully functional, Cox said. | O 
 The attack hit early Thursday morning. | O 
 Bottoms has repeatedly told employees they should monitor their bank accounts because city officials don’t yet know what information was compromised in the attack. | AttackDatabreach
-"Let's just assume that if your personal information is housed by the City of Atlanta, whether it be because you are a customer who goes online and pays your bills or any employee or even a retiree, we don't know the extent, so we just ask that you be vigilant," Bottoms said. | 
+"Let's just assume that if your personal information is housed by the City of Atlanta, whether it be because you are a customer who goes online and pays your bills or any employee or even a retiree, we don't know the extent, so we just ask that you be vigilant," Bottoms said. | O
 The ransomware is affecting applications that customers use to pay bills and access court-related information among other things, Bottoms said. | O
 The attackers demanded the equivalent of $51,000 in digital currency to unlock the system. | AttackRansom 
 The city is working with the FBI and local law enforcement to investigate the attack, Cox said. | O 

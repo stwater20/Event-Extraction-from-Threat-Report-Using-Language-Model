@@ -19,7 +19,7 @@ It's a crime against the people of Licking County and its government. | O
 " Bubb said, adding that the county government currently is seeking the assistance of cybersecurity experts. | O
 According to Sean Grady, director of the Licking County Emergency Management Agency and Regional 911 Center, resolving the situation will take time. | O
 "It's going to be awhile," Grady said. | O 
-"Until they identify what it was, they don't know how to fix it. | "
+"Until they identify what it was, they don't know how to fix it. " | O
 Maybe Licking County officials should turn toward cybersecurity experts in Russia. Dr. Web, a Russia-based antivirus developer and cyber security service provider, has been particularly effective in dealing with ransomware since early versions appeared in Russia some five years ago. | O 
 The company has a web page dedicated to ransomware observing that using brute force to break modern ransomware encryption would take 107,902,838,054,224,993,544,152,335,601 years, at current processor speeds, and the average ransom sum can reach up to 1500 bitcoins ($49,500 currently). | AttackRansom 
 "Things can even get rather peculiar. | O

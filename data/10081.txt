@@ -9,7 +9,7 @@ For example, after gaining access to MySQL servers, attackers created a new data
 In some cases, attackers only created the WARNING table and left it inside an already existing database, without creating a new one. | O
 Investigators report that attackers would then dump the database's content and delete it afterward, leaving only the one holding their ransom. | AttackRansom 
 In some cases, attackers deleted the databases without dumping any data. | O
-Attackers have their own website
+Attackers have their own website | O
 Two ransom notes have been found in the hundreds of confirmed attacks, one asking victims to get in contact via email and confirm the payment, while the other used a completely different mode of operation, redirecting users to a Tor-hosted website. | AttackRansom
 The two Bitcoin addresses listed in the ransom notes received four and six payments, respectively, albeit GuardiCore experts doubt that all are from victims. | AttackRansom
 "We can not tell whether it was the attackers who made the transactions to make their victims feel more confident about paying," they said. | AttackRansom
