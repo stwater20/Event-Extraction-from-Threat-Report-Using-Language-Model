@@ -1,0 +1,16 @@
+ Adobe Patches Critical Photoshop Flaws in Unscheduled Update 
+The two vulnerabilities are critical remote code execution flaws that exist in Adobe Photoshop CC. | DiscoverVulnerabilit
+Adobe hurried out unscheduled patches today for two critical flaws that could enable remote code-execution in Photoshop CC. | PatchVulnerability
+The patches impact two memory corruption vulnerabilities in Adobe Photoshop products, including Photoshop CC 2018 (v 19.1.6) and Photoshop CC 2017 (v 18.1.6), both for Windows and macOS. | PatchVulnerability
+ The release comes only a week after the company fixed a slew of glitches last Patch Tuesday. | PatchVulnerability
+“Adobe has released updates for Photoshop CC for Windows and macOS,” the company said in a Wednesday security bulletin. | PatchVulnerability
+“These updates resolve critical vulnerabilities in Photoshop CC 19.1.5 and earlier 19.x versions, as well as 18.1.5 and earlier 18.x versions. | PatchVulnerability
+Successful exploitation could lead to arbitrary code-execution in the context of the current user.” | PatchVulnerability
+Both vulnerabilities (CVE-2018-12810) and (CVE-2018-12811) are critical remote code-execution flaws, according to the advisory, but further details around both flaws are not available. | O
+Kushal Arvind Shah of Fortinet’s FortiGuard Labs was credited with reporting the two flaws. | DiscoverVulnerability
+Adobe said impacted users need to apply the fixes to the affected versions of Photoshop by updating to version 19.1.6 (via the applications’ update mechanism). | PatchVulnerability
+Last week, Adobe released 11 total fixes for an array of products, including two critical patches for Acrobat and Reader for Windows and macOS. | PatchVulnerability
+ Exploitation of those two vulnerabilities could lead to arbitrary code execution in the context of the current user. | PatchVulnerability
+Adobe said in an email that it is not aware of any exploits in the wild for the flaws. | O
+ The update is a priority 3 in severity, meaning that it resolves vulnerabilities in a product that has historically not been a target for attackers, according to the company’s ranking system. | O
+In this case I would expect there may have been a disclosure deadline and the release did not make this month’s typical release cycle but needed to release before September’s release cycle.” | O

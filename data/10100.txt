@@ -1,0 +1,13 @@
+ Bad Rabbit Bitcoin Ransomware Misery Continues As Hackers Demand $300 in BTC  
+Over 200 victims in Europe and beyond continue to suffer from a brand new ransomware attack demanding Bitcoin to release encrypted files. | AttackRansom
+Known as Bad Rabbit, the ransomware of unknown origin demands 0. | 05 BTC ($290) to unlock infected computers. | AttackRansom
+Its progress focuses on Russia and Ukraine, with outbreaks also reported in Turkey and Germany, according to cybersecurity firm Kaspersky Lab. | O
+“While the target is visiting a legitimate website, a malware dropper is being downloaded from the threat actor’s infrastructure,” a report on the ransomware released Tuesday explains. | O
+“No exploits were used, so the victim would have to manually execute the malware dropper, which pretends to be an Adobe Flash installer. | AttackPhishing
+We’ve detected a number of compromised websites, all of which were news or media websites.” | O
+As of Thursday, it has become apparent those targets fall outside the news and media sphere, with Odessa Airport and the Kiev Metro’s payment system also seeing breakdowns. | O
+Bad Rabbit is just the latest cyberattack to hit the Russian and Ukrainian zone, with WannaCry and NotPetya all having left their mark over the past six months. | AttackRansom
+The ransom demands from Bad Rabbit’s hackers are similar to those of WannaCry at around $300 per machine. | AttackRansom
+Unlike NotPetya, however, there appears to be no attempt to wipe data from victims, whether or not they send the requisite Bitcoins. | AttackRansom
+Kaspersky adds it is not yet known whether or not paying the ransomware amount results in full control being returned. | AttackRansom
+

@@ -1,0 +1,17 @@
+AMD confirms Ryzenfall vulnerabilities, but says they'll be fixed soon via routine BIOS updates 
+AMD has acknowledged the Ryzenfall vulnerabilities discovered by CTS-Labs, though the chip company believes the flaws can be patched via BIOS updates issued over the next few weeks. | PatchVulnerability, DiscoverVulnerability
+In a blog post authored by AMD’s chief technical officer, Mark Papermaster, AMD confirmed that the four broad classifications of attacks—Masterkey, Ryzenfall, Fallout, and Chimera—are viable, though they require administrative access to the PC or server in question. | O
+ Third-party protection, such as Microsoft Windows Credential Guard, also serve to block unauthorized administrative access, Papermaster wrote. | O
+In any event, “any attacker gaining unauthorized administrative access would have a wide range of attacks at their disposal well beyond the exploits identified in this research,” AMD’s Papermaster added. | O
+But AMD also provided the answer to consumers’ most pressing question: What, if anything, needs to be done? For each of the first three classifications of vulnerabilities, AMD said it is working on firmware updates that the company plans to release during the coming weeks. | PatchVulnerability
+The fourth category of vulnerability, known as Chimera, affected the Promontory chipset, which CTS-Labs said was designed with logic supplied by ASMedia, a third-party vendor. | DiscoverVulnerability
+ While AMD said patches for that will also be released via a BIOS update, the company said it is working with the Promontory chipset maker on developing the mitigations, rather than supplying its own. | PatchVulnerability
+AMD has neither confirmed nor denied whether the attacks can be executed remotely, or require local access. | O
+ AMD did deny, however, that the attacks have anything to do with Meltdown or Spectre, the two side-channel attacks that rival Intel has worked to patch. | PatchVulnerability
+About a week ago, CTS-Labs issued a press release as well as a website outlining the vulnerabilities, which the company provided to AMD less than 24 hours before CTS-Labs went public, AMD said. | O
+ But CTS-Labs also drew fire over boilerplate copy on its website that implied a potential financial interest in the subjects of its reports. | O
+ PCWorld attempted to interview CTS executives, but later rescinded that request after CTS-Labs representatives demanded a list of questions in advance, and also forbade us from asking about the timing and the company’s financial motivationb  | O
+In the meantime, however, the vulnerabilities were confirmed by two independent researchers, Trail of Bits and Check Point. | DiscoverVulnerability
+ Both expressed doubts that attackers would be able to exploit the vulnerabilities that CTS-Labs had originally discovered. | DiscoverVulnerability
+
+

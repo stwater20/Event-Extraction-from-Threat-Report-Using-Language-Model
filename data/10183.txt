@@ -1,0 +1,18 @@
+Security researchers discover flaw allowing access to deleted photos on iPhone, fix on the way 
+An exploit discovered by a pair of security researchers allowed them to hack an iPhone X and access a photo that was supposedly deleted from the device. | DiscoverVulnerability
+Apple was informed of the security hole and a fix is on the way. | DiscoverVulnerability
+As first reported by Forbes, hackers Richard Zhu and Amat Cama teamed up and discovered the hole that allowed access to deleted files on iOS devices running iOS 12. | DiscoverVulnerability
+This is due to a weakness in the current public version of the Safari browser. | O
+As per the Mobile Pwn2Own contest in Tokyo, Apple has been informed and the hackers were able to walk away with $50,000. | O
+The hack in question would be able to retrieve more than just photos. | O
+The vulnerablitiy is found in a just-in-time compiler. | DiscoverVulnerability
+These are programs that translate code while a computer rather than before. | O
+And because it’s software, it’s bound to have some vulnerabilities. | O
+Software vulnerabilities are a common occurrence due to its complex nature. | O
+While developers can continue fixing bugs, there’s no guarantee new holes won’t emerge. | PatchVulnerability, DiscoverVulnerability
+The hackers were able to exploit the JIT compiler with a malicious Wi-Fi access point. | O
+However, Apple isn’t the only company at fault here. | O
+The pair of hackers were able to use the same exploits on Android devices including the Samsung Galaxy S9 and the Xiaomi Mi6. | O
+The pair earned the “Master of Pwn” title for discovering the iPhone vulnerability along with several other exploits showcased during the event. | DiscoverVulnerability
+Apple should have this exploit patched within the next few weeks. | PatchVulnerability
+The company will likely patch this in the next beta version of iOS 12.1.1. | PatchVulnerability

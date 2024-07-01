@@ -1,0 +1,17 @@
+Abbott releases firmware patch to fix cybersecurity flaws in 350,000 medical devices
+Haven't updated your Adobe PDF software lately? Here's 85 new reasons to do it now  | O
+Adobe has posted an update to address 85 CVE-listed security vulnerabilities in Acrobat and Reader for both Windows and macOS. | PatchVulnerability
+The PDF apps have received a major update that includes dozens of fixes for flaws that would allow for remote code execution attacks if exploited. | PatchVulnerability
+ Other possible attacks include elevation of privilege flaws and information disclosure vulnerabilities. | DiscoverVulnerability
+Fortunately, Adobe said that none of the bugs was currently being targeted in the wild - yet. | O
+For Mac and Windows Acrobat/Reader DC users, the fixes will be present in versions 2019.008.20071. | PatchVulnerability
+ For those using the older Acrobat and Reader 2017 versions, the fix will be labeled 2017.011.30105. | PatchVulnerability
+Because PDF readers have become such a popular target for email and web-based malware attacks, users and admins alike would do well to test and install the updates as soon as possible. | O
+ Exploit-laden PDFs have for more than a decade proven to be one of the most reliable ways to put malware on someone's machine. | O
+In total, Adobe credited 19 different researchers with discovering and reporting the vulnerabilities. | DiscoverVulnerability
+ Among the more prolific bug hunters were Omri Herscovici of CheckPoint Software, who was credited for finding and reporting 35 CVE-listed bugs, and Ke Liu and Tencent Security Xuanwu Lab, who was credited with finding 11 of the patched Adobe vulnerabilities. | DiscoverVulnerability
+ Beihang University's Lin Wang was given credit for nine vulnerabilities. | DiscoverVulnerability
+While we're on the subject of massive security updates, both users and admins will want to mark their calendars for a week from Tuesday. | O
+ October 9 is slated to be this month's edition of the scheduled 'Patch Tuesday' monthly security update. | O
+
+

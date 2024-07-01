@@ -1,0 +1,20 @@
+Microsoft Windows zero-day vulnerability disclosed through Twitter
+Microsoft has quickly reacted to the disclosure of a previously unknown zero-day vulnerability in the Windows operating system. | DiscoverVulnerability
+On Monday, Twitter user SandboxEscaper revealed the existence of the bug on the microblogging platform. | PatchVulnerability
+As reported by the Register, the user said: | O
+    "Here is the alpc bug as 0day. | O
+I don't f**king care about life anymore. | O
+Neither do I ever again want to submit to MSFT anyway. | O
+F**k all of this shit." | O
+The user linked to a page on GitHub which appears to contain a proof-of-concept (PoC) for the vulnerability. | O
+Following the disclosure, on Tuesday, Will Dormann, vulnerability analyst at CERT/CC verified the bug, adding that the zero-day flaw works "well in a fully-patched 64-bit Windows 10 system." | DiscoverVulnerability
+The Windows vulnerability is described as a local privilege escalation security flaw in the Microsoft Windows task scheduler caused by errors in the handling of Advanced Local Procedure Call (ALPC) systems. | DiscoverVulnerability
+If exploited, the zero-day bug permits local users to obtain system privileges. | DiscoverVulnerability
+As ALPC is a local system, the impact is limited, but the public disclosure of a zero-day is still likely a headache for the Redmond giant. | DiscoverVulnerability
+There are no known workarounds for the vulnerability, which has been awarded a CVSS score of 6.4 -- 6.8. | O
+SandboxEscaper's tweet has since been deleted. | O
+However, Microsoft has acknowledged the zero-day flaw. | DiscoverVulnerability
+This is likely to take place on September 11, the next scheduled Microsoft Patch Tuesday, unless the firm decides to issue an out-of-schedule patch. | PatchVulnerability
+    "Windows has a customer commitment to investigate reported security issues, and proactively update impacted devices as soon as possible. | O
+Our standard policy is to provide solutions via our current Update Tuesday schedule." | O
+

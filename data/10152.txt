@@ -1,0 +1,18 @@
+ Depressed Security Researcher Drops Serious 0-Day Windows Exploit On Twitter 
+Due to the far reaching implications, Security Researchers will typically submit serious 0-day Windows exploits to Microsoft and give the company ample time to patch the vulnerabilities before they can be used to create malware and do harm. | DiscoverVulnerability, PatchVulnerability
+ A security researcher that goes by the Twitter handle SandboxEscaper, however, decided it would be a good idea to expose a 0-day threat to the world on Twitter, without forewarning Microsoft, and even linked to proof on concept code on GitHub that has since been verified as functional. | DiscoverVulnerability
+The language in the original Tweet prevents me from directly embedding it here. | O
+ SandboxEscaper essentially said, “Here is the alpc bug as 0day ... | DiscoverVulnerability
+ I don't ****ing care about life anymore. | O
+ Neither do I ever again want to submit to MSFT anyway...” | O
+The official post on the CERT/CC website explains, “The Microsoft Windows task scheduler SchRpcSetSecurity API contains a vulnerability in the handling of ALPC, which can allow a local user to gain SYSTEM privileges. | DiscoverVulnerability
+ We have confirmed that the public exploit code works on 64-bit Windows 10 and Windows Server 2016 systems. | DiscoverVulnerability
+ We have also confirmed compatibility with 32-bit Windows 10 with minor modifications to the public exploit code. | DiscoverVulnerability
+ Compatibility with other Windows versions is possible with further modifications.” | O
+At this point, Microsoft does not have a patch at the ready, but according to reports a fix will be coming in the next batch of patch Tuesday updates. | PatchVulnerability
+ Because the exploit requires the local execution of code, it doesn’t necessarily warrant an out-of-band update. | O
+ However, with proof of concept code readily available, it’s possible nefarious individuals could trick less savvy users into running the code and gain full access to their systems. | O
+ As always, never execute any files from unknown or untrusted sources. | O
+The bug lies in the Windows Task Scheduler’s Advanced Local Procedure Call, or ALPC, interface. | O
+ It allows a local user to gain system level privileges and have free reign over the system to do whatever they want, including overwriting / modifying system files. | O
+ Will Dormann of CERT/CC verified the original exploit code works on a fully patched Windows 10 x64 installation and later modified the code to work on 32-bit systems as well. | DiscoverVulnerability

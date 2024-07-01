@@ -1,0 +1,19 @@
+ Flaw in Fiserv banking platform exposed personal data  
+ The exploit, which has now been patched, affected customers banking with hundreds of financial institutions. | PatchVulnerability
+US-based financial services firm Fiserv has just fixed a flaw in its web platform that exposed the personal and financial details of a vast number of banking customers. | PatchVulnerability
+With more than 12,000 clients across the world using the company's services, it is hard to establish how many customers' details were exposed in the 'information disclosure vulnerability' found by security researcher Kristian Erik Hermansen. | DiscoverVulnerability
+When logging into his local bank, which uses Fiserv's platform, Hermansen learned email alerts for financial transactions were assigned an 'event number', which he successfully predicted were distributed in sequence, according to KrebsOnSecurity. | O
+Using this knowledge, the researcher was able to directly view alerts set up by another customer by rewriting the site's code in his browser and sending a request for an altered event number. | O
+ He was able to view the customer's email address, phone number and bank account number - as well as view and edit alerts they had previously set up. | O
+"I shouldn't be able to see this data," he said. | O
+ "Anytime you spend money that should be a private transaction between you and your bank, not available for everyone else to see. | O
+" He added a criminal could have exploited the flaw to steal information from customers. | AttackDatabreach
+ Together with KrebsOnSeceurity author Brian Krebs, Hermansen worked to verify whether or not the flaw was exclusive to his own bank's installation of the platform. | DiscoverVulnerability
+ They soon discovered hundreds of other Fiserv-affiliated banks may have been just as vulnerable as those they had tested. | DiscoverVulnerability
+IT Pro approached Fiserv for comment, and to establish how many institutions in the UK may have been affected, if any, but the company did not respond at the time of writing. | O
+ A spokesperson told Krebs that Fiserv had responded accordingly, and corrected the issue. | PatchVulnerability
+"After receiving your email, we promptly engaged appropriate resources and worked around the clock to research and remediate the situation," the spokesperson said. | O
+"We developed a security patch within 24 hours of receiving notification and deployed the patch to clients that utilise a hosted version of the solution. | PatchVulnerability
+ We will be deploying the patch this evening to clients that utilise an in-house version of the solution." | PatchVulnerability
+While information disclosure vulnerabilities are among the most common types of website security issues, according to Krebs, they are also the most preventable and easy to fix. | PatchVulnerability
+ But they can also cause just as much damage to a company's brand as more severe security risks. | O

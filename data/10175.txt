@@ -1,0 +1,13 @@
+ Git security vulnerability could lead to an attack of the (repo) clones 
+A new version of Git has been emitted to ward off attempts to exploit a potential arbitrary code execution vulnerability – which can be triggered by merely cloning a malicious repository. | DiscoverVulnerability
+The security hole, CVE-2018-11235, reported by Etienne Stalmans, stems from a flaw in Git whereby sub-module names supplied by the . | DiscoverVulnerability
+gitmodules file are not properly validated when appended to $GIT_DIR/modules. | O
+ Including "../" in a name could result in directory hopping. | O
+ Post-checkout hooks could then be executed, potentially causing all manner of mayhem to ensue on the victim's system. | O
+Another vulnerability, CVE-2018-11233, describes a flaw in the processing of pathnames in Git on NTFS-based systems, allowing the reading of memory contents. | DiscoverVulnerability
+In a change from normal programming, the vulnerability appears to be cross platform. | DiscoverVulnerability
+Fear not, however, because a patch is available. | PatchVulnerability
+ The Git team released the update in 2.13.7 of the popular coding, collaboration and control tool and forward-ported it to versions 2.14.4, 2.15.2, 2.16.4 and 2.13.7. | PatchVulnerability
+For its part, Microsoft has urged users to download 2.17.1 (2) of Git for Windows and has blocked the malicious repositories from being pushed to Visual Studio Team Services users. | O
+ The software giant has also promised a hotfix will "shortly" be available for its popular Visual Studio 2017 platform. | PatchVulnerability
+Other vendors, such as Debian, have been updating their Linux and software distributions to include the patched code and recommend that users upgrade to thwart ne'er-do-wells seeking to exploit the vulnerability. | PatchVulnerability
