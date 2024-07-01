@@ -7,7 +7,7 @@ Police said the incident took place on Monday at the complainant’s office near
 Around 2.15 pm, a message flashed on the complainant’s computer screen saying, “You have to pay for decryption in bitcoins. | AttackRansom 
 The price depends on how fast you write to us. | O 
 After payment, we will send you the decryption key, which will decrypt all your files.” | O 
-The message also had an email address, on which he was to write to the fraudsters. | 
+The message also had an email address, on which he was to write to the fraudsters. | AttackPhishing
 Around 7 pm, when the complainant tried to use a computer for some work, he could not access the data. | O 
 When he tried other computers, he faced the same problem. | O 
 He also found that some data and software had been deleted. | O  
