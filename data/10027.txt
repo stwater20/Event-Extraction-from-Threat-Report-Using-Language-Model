@@ -1,6 +1,6 @@
 MacEwan University defrauded of nearly $12M in phishing scam
 MacEwan University said its IT systems are secure after the institution was defrauded of nearly $12 million in a phishing scam compounded by human error. | AttackPhishing
-The university learned it was the victim of an attack last Wednesday, Aug 23 after a series of fraudulent emails “convinced university staff to change electronic banking information for one of the university’s major vendors.” | Phishing 
+The university learned it was the victim of an attack last Wednesday, Aug 23 after a series of fraudulent emails “convinced university staff to change electronic banking information for one of the university’s major vendors.” | AttackPhishing 
 On Friday, Clark Builders — an Edmonton construction and contracting company — confirmed it was the vendor fraudsters posed as in the online attack. | O
 The fraud led university staff members to transfer $11.8 million to a bank account they believed belonged to the vendor, the university said. | AttackPhishing
 MacEwan University spokesperson David Beharry said three relatively low-level staff members were involved in the transfer. | O 
