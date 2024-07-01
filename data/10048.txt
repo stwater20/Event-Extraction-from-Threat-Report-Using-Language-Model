@@ -1,7 +1,7 @@
 The post Splunk addressed several vulnerabilities in Enterprise and Light products appeared first on Security Affairs
 Splunk recently addressed several vulnerabilities in Enterprise and Light products, some of them have been rated “high severity.” | PatchVulnerability
 Splunk Enterprise solution allows organizations to aggregate, search, analyze, and visualize data from various sources that are critical to business operations.| O
-The Splunk Light is a comprehensive solution for small IT environments that automates log analysis and integrate server and network monitoring.| 
+The Splunk Light is a comprehensive solution for small IT environments that automates log analysis and integrate server and network monitoring.| PatchVulnerability
 “To mitigate these issues, Splunk recommends upgrading to the latest release and applying as many of the Hardening Standards from the Securing Splunk documentation as are relevant to your environment.| PatchVulnerability 
 Splunk Enterprise and Splunk Light releases are cumulative, meaning that future releases will contain fixes to these vulnerabilities, new features and other bug fixes,” reads the advisory published by Splunk.| O
 The most severe issue fixed by the company is a high severity cross-site scripting (XSS) flaw in the Web interface, tracked as CVE-2018-7427, that received the CVSS score of 8.1.| DiscoverVulnerability, PatchVulnerability

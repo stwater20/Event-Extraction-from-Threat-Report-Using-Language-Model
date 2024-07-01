@@ -11,5 +11,5 @@ Rimasauskas was charged by the DOJ in March of sending the forged emails, as wel
 "Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation," a representative from Facebook said. | O
 The BBC reported that neither Google nor Facebook revealed how much money they had transferred, or how much they recouped following the incident. | O
 While the two companies have advanced cybersecurity measures in place, the phishing attacks targeted individuals through their emails — attacks that could have been avoided through proper verification of dubious payment requests. | AttackPhishing
-"Sometimes staff [at large firms] think that they are defended, that security isn't part of their job," James Maude of cyber-security firm Avecto told the BBC. |  
+"Sometimes staff [at large firms] think that they are defended, that security isn't part of their job," James Maude of cyber-security firm Avecto told the BBC. |  O
 "But people are part of the best security you can have — that's why you have to train them." | O

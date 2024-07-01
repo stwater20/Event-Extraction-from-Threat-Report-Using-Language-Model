@@ -6,9 +6,12 @@ Fortunately, the breach was limited to email addresses; no documents or further 
 The attackers have begun sending out malicious emails with the company’s branding to DocuSign customers and users. | AttackPhishing 
 In an alert on the DocuSign website, the company shared that it is tracking these emails which carry a downloadable Microsoft Word document harboring malware to attack the user’s system. | O  
 The email subject line has been known to read: “Completed: docusign. | com – Wire Transfer Instructions for recipient-name Document Ready for Signature.” | O
-How to protect yourself
+How to protect yourself | O
     If you are not expecting an email via DocuSign, do not click on the link. | O
     If you are expecting a document, but are unsure of the source, you can access your document directly by visiting docusign.com. | O 
     Every legitimate DocuSign email has a code which the user can enter on the website to access their document. | O
     DocuSign has asked that people forward suspicious emails to spam@docusign. | com then delete the email from their inboxes. | O
 It is important to remember that DocuSign will never request a customer or user to open a PDF, Microsoft Office document or ZIP file in an email. | O 
+
+
+

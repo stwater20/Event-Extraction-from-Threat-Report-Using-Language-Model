@@ -9,7 +9,7 @@ The attackers show a deep knowledge of the targets, hackers are targeting logist
 “It’s clear there is some degree of advanced reconnaissance that takes place before targeting individuals within these companies,” Cidon added.| O
 Recently the U.S. Computer Emergency Readiness Team issued an alert of phishing campaigns targeting airline consumers.| AttackPhishing
 “US-CERT has received reports of email-based phishing campaigns targeting airline consumers.| AttackPhishing 
-Systems infected through phishing campaigns act as an entry point for attackers to gain access to sensitive business or personal information.” | Phishing
+Systems infected through phishing campaigns act as an entry point for attackers to gain access to sensitive business or personal information.” | AttackPhishing
 reads the US-CERT warning.| O
 “US-CERT encourages users and administrators to review an airline Security Advisory(link is external) and US-CERT’s Security Tip ST04-014 for more information on phishing attacks.” | O
 The US-CERT specifically references the security advisory published by Delta Air Lines that warned its consumers of fraudulent activities.| O

@@ -6,9 +6,9 @@ Alternatively, in lieu of those options, they will even accept $100,000 in iTune
 Apple responded to the allegation that the hackers breached its systems, assuring their systems were not compromised, but did not confirm if the hackers do in fact hold an entire collection of Apple IDs and passwords. | AttackDatabreach 
 Whatever information they do have, probably came from previously comprised third-parties. | O
 "If the list is legitimate, it was not obtained through any hack of Apple," an Apple spokesperson told Fortune in an email. | AttackDatabreach 
-"There have not been any breaches in any of Apple's systems including iCloud and Apple ID." | Databreach
+"There have not been any breaches in any of Apple's systems including iCloud and Apple ID." | AttackDatabreach
 Even if the data didn't come from an Apple breach, it could still mean your iCloud login details are out there. | AttackDatabreach 
-Fortune suggested that the logins could be from the LinkedIn hack, in which login info from 117 million accounts was sold on the black market site "The Real Deal." | Databreach
+Fortune suggested that the logins could be from the LinkedIn hack, in which login info from 117 million accounts was sold on the black market site "The Real Deal." | AttackDatabreach
 Though, if the Turkish Crime Family really has 559 million accounts, well, a mere fraction of the 117 million from LinkedIn doesn't really cut it. | O
 The hackers have been sending login information to media companies in an effort to gather attention to their scam. | O 
 For example, The Next Web received a small fraction of the alleged data from the hackers, and cross-referenced the info with the site Have I Been Pwned, which checks to see if your email or username has been compromised in a hack. | AttackDatabreach

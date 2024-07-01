@@ -1,5 +1,5 @@
 Russian officials hired criminals to hack 500 million Yahoo accounts, according to Feds
-Today, federal officials announced new charges relating to the 2014 hack of Yahoo, alleging a conspiracy between criminal hackers and the Russian Federal Security Agency (or FSB). |  
+Today, federal officials announced new charges relating to the 2014 hack of Yahoo, alleging a conspiracy between criminal hackers and the Russian Federal Security Agency (or FSB). | AttackDatabreach 
 The indictment names two FSB agents — Igor Suschin and Dmitry Dokuchaev — who allegedly contracted two criminal hackers — Aleksey Belan and Karim Baratov — to compromise Yahoo’s database, which included both US military officers and Russian journalists believed to be of interest to the FSB. | AttackDatabreach 
 Baratov was arrested yesterday in Canada, Department of Justice officials say. | O
 “There are no free passes for foreign, state-sponsored criminal behavior,” Assistant Attorney General McCord told reporters at a press conference. | O

@@ -7,7 +7,7 @@ It said the unauthorised access -- on 27 February 2017 -- may have affected 43,0
 Around 1,000 of the accessed files may include personal identity information relating to customers of ABTA members, submitted in support of their complaint about an ABTA member. | O 
 These files relate to complaints uploaded to ABTA after 11 January 2017. | O 
 Additionally, around 650 files may include personal identity information of ABTA members. | O 
-But Tanzer said: "We are not aware of any information being shared beyond the infiltrator." | Databreach
+But Tanzer said: "We are not aware of any information being shared beyond the infiltrator." | AttackDatabreach
 The travel trade association said the vast majority of the 43,000 were people who had registered on abta. | O
 com, with email addresses and encrypted passwords, or have filled in an online form with basic contact details "which are types of data at a very low exposure risk to identity theft or online fraud". | O
 Once it became aware of the intrusion, ABTA notified the third-party suppliers of the abta.com website, who immediately fixed the vulnerability, and the association hired risk consultants to assess the potential extent of the incident. | PatchVulnerability

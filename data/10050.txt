@@ -12,7 +12,7 @@ The find came after the security firm was asked by the IAAF in January to "condu
 The company was confident Fancy Bear, also known as APT28, was responsible.| O
 "The threat intelligence team at Context Information Security has tracked the tools, techniques and procedures of Fancy Bear/APT28 for a number of years, through our own investigations and through collaboration with many other cyber security researchers [and] organizations.| O 
 Our findings in this investigation give us a high degree of confidence that this cyber attack can be attributed to Fancy Bear/APT28." | O
-In response to a question about the time it took from discovery in February to throwing the hackers off the network at the start of April, the spokesperson said the parties needed to collect forensic images to "better understand how the attacks were carried out, what information may have been compromised." | Databreach
+In response to a question about the time it took from discovery in February to throwing the hackers off the network at the start of April, the spokesperson said the parties needed to collect forensic images to "better understand how the attacks were carried out, what information may have been compromised." | AttackDatabreach
 "By taking the time to fully investigate the attack, the IAAF was able to remove the attackers' access to the network as effectively as possible," the spokesperson added.| O 
 If IAAF had gone public with this before the investigation was complete and before the attackers' access was removed, the attackers may have been tipped off to the investigation and performed further malicious actions.| O
 The Facebook page for the WADA hackers, who posted under the pluralized name Fancy Bears, has not been updated since December 2016.| O
