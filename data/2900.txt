@@ -8,7 +8,7 @@ It explained: | O
 “ISD take backups of all our shared drives and this should protect most data even if it has been encrypted by the malware. | O  
 Once we are confident the infections have been contained, then we will restore the most recent back up of the file. | O  
 ISD can confirm that a backup of the shares was successfully taken at close of business on Tuesday 12th June. ” | O
-Fraser Kyne, EMEA CTO at Bromium, urged all UK university IT teams to be on high alert for possible attacks. | 
+Fraser Kyne, EMEA CTO at Bromium, urged all UK university IT teams to be on high alert for possible attacks. | O
 “The initial reports are suggesting that the ransomware was able to get in at UCL through a zero-day exploit, which allowed it to bypass antivirus software,” he added. | O  
 “That really underscores the limitations of antivirus; in that it is only able to stop things that it knows are bad. | O  
 Given that most malware is only seen once in the wild before it evolves into something different, there’s very little that antivirus can offer in the way of protection. ” | O
