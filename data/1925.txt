@@ -1,8 +1,8 @@
-Positive Technologies discovers vulnerabilities in SAP solutions
+Positive Technologies discovers vulnerabilities in SAP solutions | PatchVulnerability
 Positive Technologies has today confirmed it has detected vulnerabilities in SAP Enterprise Portal Navigation, SAP NetWeaver Log Viewer and SAP Enterprise Portal Theme Editor, which are the components of the SAP NetWeaver platform. | DiscoverVulnerability
 By exploiting these security flaws, attackers can intercept login credentials, register keystrokes, spoof data or perform other illegal activities that could potentially lead to a system compromise. | AttackDatabreach
 Four Cross-Site Scripting (XSS) vulnerabilities were detected in the following SAP Enterprise Portal components: SAP Enterprise Portal Navigation (CVSSv3 score 6.1) and SAP Enterprise Portal Theme Editor (three flaws with CVSSv3 scores 5.4, 6.1, and 6.1). | DiscoverVulnerability
-Exploiting these vulnerabilities, an attacker could obtain access to a victim's session tokens, login credentials or other sensitive information in the browser, perform arbitrary actions on the victim's behalf, rewrite HTML page content and intercept keystrokes. | DiscoverVulnerability, Databreach
+Exploiting these vulnerabilities, an attacker could obtain access to a victim's session tokens, login credentials or other sensitive information in the browser, perform arbitrary actions on the victim's behalf, rewrite HTML page content and intercept keystrokes. | DiscoverVulnerability, AttackDatabreach
 The relevant remediation guidelines are described in SAP Security notes No. 2369469, 2372183, 2372204, and 2377626. | O
 Another vulnerability—Directory Traversal (CVSSv3 score 5.9)—allows arbitrary file upload in SAP NetWeaver Log Viewer. | AttackDatabreach
 Attackers can upload a malformed archive that contains files with special characters in their names. | AttackDatabreach
