@@ -1,5 +1,5 @@
-Russian hackers use OAuth, fake Google apps to phish users | ITworld
-The Russian hacking group blamed for targeting U.S. and European elections has been breaking into email accounts, not only by tricking victims into giving up passwords, but by stealing access tokens too. | AttackDatabreach, Phishing
+Russian hackers use OAuth, fake Google apps to phish users | ITworld | AttackPhishing
+The Russian hacking group blamed for targeting U.S. and European elections has been breaking into email accounts, not only by tricking victims into giving up passwords, but by stealing access tokens too. | AttackDatabreach, AttackPhishing
 It's sneaky hack that's particularly worrisome, because it can circumvent Google's 2-step verification, according to security firm Trend Micro. | O
 The group, known as Fancy Bear or Pawn Storm, has been carrying out the attack with its favored tactic of sending out phishing emails, Trend Micro said in a report Tuesday. | AttackPhishing
 The attack works by sending out a fake email, pretending to be from Google, with the title “Your account is in danger.” | AttackPhishing
