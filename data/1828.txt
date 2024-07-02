@@ -1,4 +1,4 @@
-Top-ranked programming Web tutorials introduce vulnerabilities into software - Help Net Security
+Top-ranked programming Web tutorials introduce vulnerabilities into software - Help Net Security | DiscoverVulnerability
 Researchers from several German universities have checked the PHP codebases of over 64,000 projects on GitHub, and found 117 vulnerabilities that they believe have been introduced through the use of code from popular but insufficiently reviewed tutorials. | DiscoverVulnerability
 The researchers identified popular tutorials by inputting search terms such as “mysql tutorial”, “php search form”, “javascript echo user input”, etc. into Google Search. | O
 The first five results for each query were then manually reviewed and evaluated for SQLi and XSS vulnerabilities by following OWASP’s guidelines (Reviewing Code for SQL Injection, Cross Site Scripting Prevention Cheat Sheat).  | DiscoverVulnerability
