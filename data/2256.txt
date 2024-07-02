@@ -10,7 +10,7 @@ On Monday, a Microsoft spokesman declined to comment beyond Mr. Smith’s post. 
 
 Microsoft has recognized the risk that cybersecurity poses to it since about 2002, when Bill Gates, the former chief executive, issued a call to arms inside the company after a wave of malicious software began infecting Windows PCs connected to the internet. | O
 “As software has become ever more complex, interdependent and interconnected, our reputation as a company has in turn become more vulnerable,” Mr. Gates wrote in an email to employees identifying trustworthy computing as Microsoft’s top priority. | O
-“Flaws in a single Microsoft product, service or policy not only affect the quality of our platform and services overall, but also our customers’ view of us as a company.”| DiscoverVulnerability
+“Flaws in a single Microsoft product, service or policy not only affect the quality of our platform and services overall, but also our customers’ view of us as a company.” | DiscoverVulnerability
 Since then, the company has poured billions of dollars into security initiatives, employing more than 3,500 engineers dedicated to security. | O
 In March, it released a software patch that addressed the vulnerability exploited by the ransomware, known as WannaCry, protecting systems such as Windows 10, its latest operating system. | PatchVulnerability
 Yet security flaws in older editions of Windows persist. | O
