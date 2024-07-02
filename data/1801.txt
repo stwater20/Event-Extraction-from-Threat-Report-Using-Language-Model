@@ -1,4 +1,4 @@
-Microsoft shrugs off report that Edge can expose user identities from JS Fetch requests • The Register
+Microsoft shrugs off report that Edge can expose user identities from JS Fetch requests • The Register | AttackDatabreach
 Updated An independent researcher claims to have uncovered a security flaw in Microsoft Edge. | DiscoverVulnerability
 The issue enables any website to identify someone by their username from another website, according to Ariel Zelivansky. | DiscoverVulnerability, PatchVulnerability
 More specifically, the researcher alleges that Edge exposes the URL of any JavaScript Fetch response, contrary to the specification. | DiscoverVulnerability
