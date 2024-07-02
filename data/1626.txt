@@ -1,4 +1,4 @@
-Report: Cyber Criminals Targeting Healthcare Industry with Off-The-Shelf Ransomware | Healthcare Informatics Magazine | Health IT | Information Technology
+Report: Cyber Criminals Targeting Healthcare Industry with Off-The-Shelf Ransomware | Healthcare Informatics Magazine | Health IT | Information Technology | AttackRansom
 Amateur cybercriminals may be shifting towards targeting the healthcare sector using an off-the-shelf ransomware, according to security researchers at Forcepoint Security Labs. | AttackRansom
 Forcepoint is an Austin, Texas-based cybersecurity software company and Roland Dela Paz, a senior security researcher at the company, detailed in a blog post that Forcepoint Security Labs has identified a ransomware-as-a-service (RaaS) platform, called Philadelphia, used in a cyber attack on a healthcare organization. | O
 “In that attack, a shortened URL, which we believe was sent through a spear-phishing email, was used as a lure to infect a hospital from Oregon and Southwest Washington.  | AttackPhishing
