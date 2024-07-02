@@ -13,4 +13,4 @@ Tests found apps from some of the largest banks contained the flaw which, if exp
 That could allow them to view information entered and perform any operation that app can usually perform -- such as making payments or transferring of funds. | O
 Other attacks allowed hackers to perform in-app phishing attacks against Santander and Allied Irish bank users, allowing attackers to take over part of the screen while the app was running and steal the entered credentials. | AttackDatabreach, AttackPhishing
 The researchers have worked with the National Cyber Security Centre and all the banks involved to fix the vulnerabilities, noting that the current version of all the apps affected by the pinning vulnerability are now secure. | DiscoverVulnerability, PatchVulnerability
-A University of Birmingham spokesperson told ZDNet all the banks were highly cooperative: "once this was flagged to them they did work with the team to amend it swiftly."  | O
+A University of Birmingham spokesperson told ZDNet all the banks were highly cooperative: "once this was flagged to them they did work with the team to amend it swiftly." | O
