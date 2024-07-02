@@ -1,4 +1,4 @@
-Auto Lender Exposes Loan Data For Up To 1 Million Applicants | Threatpost | The first stop for security news
+Auto Lender Exposes Loan Data For Up To 1 Million Applicants | Threatpost | The first stop for security news | AttackDatabreach
 A California auto loan company left the names, addresses, credit scores and partial Social Security numbers of up to 1 million people exposed on an insecure online database. | AttackDatabreach
 The company behind the database is Alliance Direct Lending Corporation, according to Kromtech Security Research Center, which discovered the data earlier this week. | AttackDatabreach
 It said the data was found on an unprotected Amazon server and that the data could have been exposed for up to two years. | AttackDatabreach
@@ -12,7 +12,7 @@ Kromtech said it was unsure if additional third parties may have accessed the da
 Privacy experts said the data in the hands of the wrong person would be a nightmare for victims. | AttackDatabreach
 A criminal that knows the data comes from people who have refinanced their car loan and may have less than stellar credit, coupled with partial Social Security numbers, would be a dream come true. | AttackDatabreach
 “Things could go wrong on a variety of levels. | O
-The data could be used to phish additional data via email or phone scams. | AttackDatabreach, Phishing
+The data could be used to phish additional data via email or phone scams. | AttackDatabreach, AttackPhishing
 That’s not even mentioning the reputational damage to those in the database with bad credit scores,” said Adam Levin, chairman and founder of CyberScout. | AttackDatabreach
 The data found by Kromtech was on an Amazon’s AWS S3 server. | AttackDatabreach
 AWS S3 is marketed as an easy-to-use web service that allows businesses to store and retrieve data at a moment’s notice. | O
