@@ -5,9 +5,9 @@ The firm claimed in an FAQ on the incident that it is still trying to establish
 What we do know is that customer names, e-mail addresses, home addresses and phone numbers may have been compromised, along with the last four digits of their card number and/or bank account number and sort code. | AttackDatabreach
 It added: | O
 “We do not believe your Wonga account password was compromised and believe your account should be secure, however if you are concerned you should change your account password. | AttackDatabreach, Phishing
-We also recommend that you look out for any unusual activity across any bank accounts and online portals”. | AttackDatabreach, Phishing
-Wonga also advised customers to be on the lookout for follow-up scams, both online and over the phone. | AttackDatabreach, Phishing
-The kind of information that appears to have been compromised would certainly provide seasoned fraudsters with enough to socially engineer targets into divulging more details such as their full card numbers. | AttackDatabreach, Phishing
+We also recommend that you look out for any unusual activity across any bank accounts and online portals”. | AttackDatabreach, AttackPhishing
+Wonga also advised customers to be on the lookout for follow-up scams, both online and over the phone. | AttackDatabreach, AttackPhishing
+The kind of information that appears to have been compromised would certainly provide seasoned fraudsters with enough to socially engineer targets into divulging more details such as their full card numbers. | AttackDatabreach, AttackPhishing
 This is just the latest in a long line of breaches at big-name companies. | AttackDatabreach
 Data from over 130,000 customers of network operator Three was illegally obtained by fraudsters back in November. | AttackDatabreach
 The impact to brand and reputation can be a serious blow to breached organizations. | AttackDatabreach
