@@ -9,7 +9,7 @@ Three of the bugs fixed with the release of WordPress 5.0.1 are cross-site scrip
 Two of the XSS bugs could allow for an adversary to launch a privilege escalation attack. | PatchVulnerability
 “Contributors could edit new [WordPress web-based] comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability,” Wordfence wrote. | O
 “This is another vulnerability that requires a higher-level user role, making the likelihood of widespread exploitation quite low. | O
-WordPress addressed this issue by removing the <form> tag from their HTML whitelist.”| PatchVulnerability
+WordPress addressed this issue by removing the <form> tag from their HTML whitelist.” | PatchVulnerability
 WordPress plugins are potentially impacted by a third XSS bug that opens up sites to attacks launched by adversaries who send specially crafted URLs to affected sites. | DiscoverVulnerability 
 According to researchers, the bug doesn’t impact WordPress 5.0 directly, rather the “wpmu_admin_do_redirect” function used by some WordPress plugins. | DiscoverVulnerability
 “Specially crafted URL inputs could lead to a cross-site scripting vulnerability in some circumstances,” they said. | O
