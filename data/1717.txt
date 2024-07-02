@@ -1,4 +1,4 @@
-Microsoft (MSFT) mysteriously managed to fix NSA targeted security gaps revealed in Shadow Brokers leak — Quartz
+Microsoft (MSFT) mysteriously managed to fix NSA targeted security gaps revealed in Shadow Brokers leak — Quartz | PatchVulnerability
 On Friday, a cache of hacking tools allegedly developed by the US National Security Agency was dumped online. | O
 The news was explosive in the digital security community because the tools contained methods to hack computers running Windows, meaning millions of machines could be at risk. | O
 Security experts who tested the tools, leaked by a group called the Shadow Brokers, found that they worked. | DiscoverVulnerability
