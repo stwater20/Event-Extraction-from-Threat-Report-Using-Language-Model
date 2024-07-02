@@ -1,5 +1,5 @@
-Critical Vulnerability Puts ICS Security at Risk
-Thousands of industrial control systems (ICS) could be at risk of hacking due to critical vulnerabilities affecting a popular piece of software.  | DiscoverVulnerability
+Critical Vulnerability Puts ICS Security at Risk | DiscoverVulnerability
+Thousands of industrial control systems (ICS) could be at risk of hacking due to critical vulnerabilities affecting a popular piece of software. | DiscoverVulnerability
 SecurityWeek detailed how the flaws affect an application from 3S-Smart Software Solutions.  | DiscoverVulnerability
 The potential problem for ICS security stems from CODESYS, a hardware-independent middleware layer for programming Industrial Internet of Things (IIoT) and ICS. | O
 SecurityWeek reported the issue has now been resolved by 3S-Smart Software Solutions.  | PatchVulnerability
