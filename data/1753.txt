@@ -1,4 +1,4 @@
-Beware bogus emails from LinkedIn asking for your CV! – HOTforSecurity
+Beware bogus emails from LinkedIn asking for your CV! – HOTforSecurity | AttackPhishing
 LinkedIn users are being warned to be on their guard following a rise in reports of attacks being distributed via email designed to trick job seekers into sharing their personal details. | AttackPhishing
 Scammers have spammed out email messages posing as communications from LinkedIn, claiming that a company is “urgently seeking” workers matching your qualifications in “your region”. | AttackPhishing
 It would be nice to think that recipients of the bogus message would spot a number of warning signals as soon as they open the communication in their email inbox. | O
