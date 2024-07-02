@@ -1,6 +1,6 @@
 Ransomware steals 8 years of data from Texas police department | CSO Online
-http://www.csoonline.com/article/3163045/security/ransomware-steals-8-years-of-data-from-texas-police-department.html 
-2017_01_31 
+ 
+ 
 
 It is suspected that Ukrainian-based hackers took the Cockrell Hill Police Department's server for ransom last month, resulting in the loss of video evidence. | AttackRansom
 The police chief decided not to pay the ransom and instead had the server wiped, according to WFAA in Texas. | AttackRansom

@@ -1,6 +1,6 @@
 MongoDB ransom attacks continue to plague administrators | CSO Online
-http://www.csoonline.com/article/3162711/security/mongodb-ransom-attacks-continue-to-plague-administrators.html 
-2017_01_30 
+ 
+ 
 
 Earlier this month, Salted Hash reported on a surge in attacks against publicly accessible MongoDB installations. | O
 Since January 3, the day of that first report, the number of victims has climbed from about 200 databases to more than 40,000. | O

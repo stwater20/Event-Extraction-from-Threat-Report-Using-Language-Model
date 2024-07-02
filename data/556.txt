@@ -1,6 +1,6 @@
 Social Media Phishing Attacks Soar 500% 
-https://www.infosecurity-magazine.com/news/social-media-phishing-attacks-soar/ 
-2017_02_08 
+ 
+ 
 
 Social media phishing attacks jumped by a massive 500% in Q4, driven by a huge increase in fraudulent accounts including many posing as customer support for big name brands, according to Proofpoint. | AttackPhishing
 The security vendor revealed the findings in its Q4 2016 Threat Summary and Year in Review report. | O

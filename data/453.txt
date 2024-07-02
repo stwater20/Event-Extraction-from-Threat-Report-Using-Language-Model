@@ -1,6 +1,6 @@
 Can your Netgear router be hijacked? Check now! - Help Net Security
-https://www.helpnetsecurity.com/2017/01/31/netgear-routers-hijacking/ 
-2017_02_01 
+ 
+ 
 
 Yesterday, researcher Simon Kenin of Trustwave SpiderLabs released information about an authentication bypass flaw affecting a wide variety of Netgear routers, as well as PoC attack code for triggering it. | DiscoverVulnerability
 The vulnerability (CVE-2017-5521) can be exploited by attackers to discover the password required to take over control of an affected device. | DiscoverVulnerability

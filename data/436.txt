@@ -1,6 +1,6 @@
 Many Android VPN Apps Breaking Privacy Promises  | Threatpost | The first stop for security news
-https://threatpost.com/many-android-vpn-apps-breaking-privacy-promises/123442/ 
-2017_01_31 
+ 
+ 
 
 An alarming number of Android VPNs are providing a decidedly false sense of security to users, especially those living in areas where communication is censored or technology is crucial to the privacy and physical security. | O
 A study published recently identified a number of shortcomings common to high percentages of 238 mobile VPN apps analyzed by a handful of researchers. | O

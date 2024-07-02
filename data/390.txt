@@ -1,6 +1,6 @@
 Cross-Site Request Forgery: What Happened to the Sleeping Giant? | Qualys Blog
-https://blog.qualys.com/webappsec/2017/01/26/cross-site-request-forgery-what-happened-to-the-sleeping-giant?utm_source=hs_email&utm_medium=email&utm_content=41461127&_hsenc=p2ANqtz-_Qn5IiQe3EOVNZzqIQmCYmKWtmM_wGHeXqIlyhACmkasYfrEgh-dQvcPqo8WB6rF9eZty0O1FDXvL-T8H7YcVP-eF-AA&_hsmi=41461127 
-2017_01_27 
+ 
+ 
 
 A decade ago, cross-site request forgery (CSRF, often pronounced “c-surf”) was considered to be a sleeping giant, preparing to wake and inflict havoc on the Worldwide Web. | O
 But the doomsday scenario never materialized and you don’t even seem to hear much about it anymore. | O

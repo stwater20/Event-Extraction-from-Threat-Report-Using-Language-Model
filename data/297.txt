@@ -1,6 +1,6 @@
 What You Need To Know About The iMessage Security Flaw
-http://www.pandasecurity.com/mediacenter/technology/need-know-imessage-security-flaw/ 
-2017_01_23 
+ 
+ 
 
 With everything that’s gone down in 2016 it’s easy to forget Tim Cook’s and Apple’s battle with the FBI over data encryption laws. | O
 Apple took a strong stance though, and other tech giants followed suite leading to a victory of sorts for (the little guy in) online privacy. | O

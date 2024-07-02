@@ -1,6 +1,6 @@
 Spora Ransomware Sets Itself Apart with Top-Notch PR, Customer Support
-https://www.bleepingcomputer.com/news/security/spora-ransomware-sets-itself-apart-with-top-notch-pr-customer-support/ 
-2017_02_07 
+ 
+ 
 
 Discovered at the start of the year, Spora distinguishes itself from similar threats by a few features, such as the option to work offline, and a ransom payment portal that uses "credits" to manage Bitcoin fees. | O
 Another of those unique features is a real-time chat window where victims can get in contact with ransomware operators. | O

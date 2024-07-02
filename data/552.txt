@@ -1,6 +1,6 @@
 Tens of thousands WordPress sites defaced, SEO spam to follow - Help Net Security
-https://www.helpnetsecurity.com/2017/02/08/wordpress-sites-defaced/ 
-2017_02_08 
+ 
+ 
 
 Sucuri, the company that discovered the flaw and responsibly reported it to the WordPress security team, spotted four distinct defacement campaigns in the 48 hours after the existence of the bug was publicly revealed. | DiscoverVulnerability
 Three of them have had limited impact, but one – “signed” by someone that goes by “w4l3XzY3” – has resulted in the compromise of 86,000 pages and counting. | O

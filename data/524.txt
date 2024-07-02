@@ -1,6 +1,6 @@
 Polish Banks Infected with Malware Hosted on Their Own Government's Site
-https://www.bleepingcomputer.com/news/security/polish-banks-infected-with-malware-hosted-on-their-own-governments-site/ 
-2017_02_07 
+ 
+ 
 
 Zaufana Trzecia Strona, a local Polish news site, first reported the attacks late Friday, last week. | O
 The news site said that during the past week, the security teams at several, yet unnamed, Polish banks detected downloads of suspicious files and encrypted traffic going to uncommon IPs situated in many foreign countries. | O

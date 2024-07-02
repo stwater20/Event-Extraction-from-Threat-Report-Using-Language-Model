@@ -1,6 +1,6 @@
 Trump’s Personal Phone Is a National Security Risk - Motherboard
-http://motherboard.vice.com/read/trumps-personal-android-phone-is-a-national-security-risk 
-2017_01_27 
+ 
+ 
 
 In the evenings, Trump keeps himself company with television and his "old, unsecured Android phone," according to a recent The New York Times report, which contradicts an earlier report that said he had "traded in" his old Android phone for a more secure one. | O
 It's unclear exactly what type of phone he's using for his late-night White House tweeting, but it doesn't sound like it's a hardened, government-approved, Android phone such as the one supported by the Pentagon's Defense Information Systems Agency, which helps the White House with communications tools. | O

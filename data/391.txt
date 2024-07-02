@@ -1,6 +1,6 @@
 How one man could have deleted any public Facebook video – Naked Security
-https://nakedsecurity.sophos.com/2017/01/26/how-one-man-could-have-deleted-any-public-facebook-video/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5b01698c7d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5b01698c7d-455160889 
-2017_01_27 
+ 
+ 
 
 Freelance security researcher Dan Melamed has done us all a solid.
 Then, he did the right thing: he reported it to Facebook.

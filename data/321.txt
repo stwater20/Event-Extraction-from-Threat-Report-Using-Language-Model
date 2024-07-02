@@ -1,6 +1,6 @@
 A flawed medical device, a troubling response - CSMonitor.com
-http://www.csmonitor.com/World/Passcode/2017/0120/A-flawed-medical-device-a-troubling-response 
-2017_01_23 
+ 
+ 
 
 A case involving software vulnerabilities in medical electronics reveals the inability for both the health care sector and federal regulators to swiftly address cybersecurity problems. | DiscoverVulnerability
 This past fall, an investment firm rattled the health care industry with unsubstantiated claims of multiple software vulnerabilities in internet-connected pacemakers and cardiac defibrillators. | DiscoverVulnerability

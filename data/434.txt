@@ -1,6 +1,6 @@
 Dozens of Netgear products vulnerable to authentication bypass flaws | CSO Online
-http://www.csoonline.com/article/3162850/security/dozens-of-netgear-products-vulnerable-to-authentication-bypass-flaws.html 
-2017_01_31 
+ 
+ 
 
 Simon Kenin, a security researcher at Trustwave, was – by his own admission – being lazy the day he discovered an authentication vulnerability in his Netgear router. | DiscoverVulnerability
 Instead of getting up out of bed to address a connection problem, he started fuzzing the web interface and discovered a serious issue. | DiscoverVulnerability

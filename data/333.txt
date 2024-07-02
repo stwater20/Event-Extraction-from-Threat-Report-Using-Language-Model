@@ -1,6 +1,6 @@
 Three Medical Data Breaches Expose 242,600 Patients' PHI 
-http://www.esecurityplanet.com/network-security/three-medical-data-breaches-expose-242600-patients-phi.html 
-2017_01_24 
+ 
+ 
 
 The exposed data includes names, Social Security numbers, birthdates, contact details, medical record numbers and/or clinical information. | O
 On December 21, 2016, Children's Hospital Los Angeles learned that an unencrypted laptop containing patient data was stolen from the locked vehicle of a Children's Hospital Los Angeles Medical Group physician on October 18, 2016. | AttackDatabreach

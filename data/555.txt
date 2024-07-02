@@ -1,6 +1,6 @@
 How Hackers Could Have Pwned You With a Nasty Steam Bug - Motherboard
-https://motherboard.vice.com/en_us/article/how-hackers-could-have-pwned-you-with-a-nasty-steam-bug 
-2017_02_08 
+ 
+ 
 
 The bug could've likely been exploited to make a self-spreading worm too, according to hackers and security researchers. | DiscoverVulnerability
 Steam's operator Valve announced that it fixed the bug earlier today, but with over 125 million monthly active users on its platform, the exploit could have wreaked havoc for thousands of people, and for the company itself. | PatchVulnerability

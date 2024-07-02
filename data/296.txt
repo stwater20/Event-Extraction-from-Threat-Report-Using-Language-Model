@@ -1,6 +1,6 @@
 Satan ransomware-as-a-service gives hackers on the dark web malware customising tools
-http://www.ibtimes.co.uk/satan-ransomware-service-gives-malware-customising-tools-hackers-dark-web-1602311 
-2017_01_23 
+ 
+ 
 
 A new ransomware-as-a-service (RaaS) has reportedly emerged, offering cybercriminals on the dark web the option of using ransomware created by someone else in exchange for subscription payments. | O
 According to a report by ZDNet, independent security researcher going by the Twitter handle Xylitol uncovered the Satan malware as part of the Gen:Trojan.Heur2.FU malware family. | O

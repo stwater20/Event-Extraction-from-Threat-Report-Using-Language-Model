@@ -1,6 +1,6 @@
 Windows SMB Zero-Day Exploit Released in the Wild after Microsoft delayed the Patch
-http://thehackernews.com/2017/02/windows-smb-0day.html?utm_source=hs_email&utm_medium=email&utm_content=42004078&_hsenc=p2ANqtz-96PMZt6Rf6vml5QAYCLFlDFjc2PSXjGlJhg6JmPer9MpML1hKN5pmIcHaq3xx8NoBpxQbL9qAoWBBCGfhiMKs7Jpbj4A&_hsmi=42004078 
-2017_02_06 
+ 
+ 
 
 The zero-day memory corruption flaw resides in the implementation of the SMB (server message block) network file sharing protocol that could allow a remote, unauthenticated attacker to crash systems with denial of service attack, which would then open them to more possible attacks. | DiscoverVulnerability
 According to US-CERT, the vulnerability could also be exploited to execute arbitrary code with Windows kernel privileges on vulnerable systems, but this has not been confirmed right now by Microsoft. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Cyber criminals tricking consumers into downloading fake apps: Kaspersky report | BGR India
-http://www.bgr.in/news/cyber-criminals-tricking-consumers-into-downloading-fake-apps-kaspersky-report/ 
-2017_02_07 
+ 
+ 
 
 Digital payments have gained popularity among consumers but have also brought in the threat of cyber criminals placing fake e-wallet apps to dupe users. | AttackPhishing
 According to cyber security solution firm Kaspersky, no such incident has been reported yet but the probability of cyber criminals adding fake apps on app stores remains high. | AttackPhishing

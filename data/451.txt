@@ -1,6 +1,6 @@
 Ugly Password Gaffe Plagues Cryptkeeper Encryption App  | Threatpost | The first stop for security news
-https://threatpost.com/ugly-password-gaffe-plagues-cryptkeeper-encryption-app/123485/ 
-2017_02_01 
+ 
+ 
 
 A longtime Debian developer has recommended that the Cryptkeeper Linux encryption app be removed from the distribution. | DiscoverVulnerability
 The advice came after the disclosure of a bug where the app sets the universal password “p” to decrypt any directory created with the program. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Attackers start wiping data from CouchDB and Hadoop databases | CSO Online
-http://www.csoonline.com/article/3159534/security/attackers-start-wiping-data-from-couchdb-and-hadoop-databases.html 
-2017_01_20 
+ 
+ 
 
 Researchers are now observing similar destructive attacks hitting openly accessible Hadoop and CouchDB deployments. | O
 Security researchers Victor Gevers and Niall Merrigan, who monitored the MongoDB and Elasticsearch attacks so far, have also started keeping track of the new Hadoop and CouchDB victims. | O

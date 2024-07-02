@@ -1,6 +1,6 @@
 St. Louis Public Library Recovers from Ransomware Attack  | Threatpost | The first stop for security news
-https://threatpost.com/st-louis-public-library-recovers-from-ransomware-attack/123297/ 
-2017_01_25 
+ 
+ 
 
 Services are being restored to the St. Louis Public Library computer system after a ransomware attack last Thursday impacted access to machines and data at all 17 branches. | AttackRansom
 Library management refused to pay the $35,000 demanded as ransom, and IT staff wiped affected servers and restored them from available backups. | AttackRansom

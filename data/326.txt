@@ -1,6 +1,6 @@
 Hacker Group Claims Responsibility for Lloyds Bank Outages, Ransom Demand
-https://www.bleepingcomputer.com/news/security/hacker-group-claims-responsibility-for-lloyds-bank-outages-ransom-demand/ 
-2017_01_24 
+ 
+ 
 
 The extortion attempt took place on January 11, the first day some Lloyds Bank customers experienced short-lived problems with accessing their online banking portals. | AttackRansom,DiscoverVulnerability
 Customers continued to report brief outages in the following two days. | O

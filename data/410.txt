@@ -1,6 +1,6 @@
 Remote attackers can force Samsung Galaxy devices into never-ending reboot loop - Help Net Security
-https://www.helpnetsecurity.com/2017/01/27/samsung-galaxy-remote-attack-sms/ 
-2017_01_30 
+ 
+ 
 
 A single SMS can force Samsung Galaxy devices into a crash and reboot loop, and leave the owner with no other option than to reset it to factory settings and lose all data stored on it. | O
 This is because there are certain bugs in older Samsung Galaxy phones and tablets that can be triggered via SMS, and used by attackers to force maliciously crafted configuration messages onto the users’ device. | O

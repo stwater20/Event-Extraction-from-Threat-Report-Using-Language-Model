@@ -1,6 +1,6 @@
 Charger mobile ransomware steals contacts and SMS messages - Help Net Security
-https://www.helpnetsecurity.com/2017/01/24/charger-mobile-ransomware/ 
-2017_01_25 
+ 
+ 
 
 Check Point’s mobile security researchers have discovered a new ransomware in Google Play, dubbed Charger. | O
 Charger was found embedded in an app called EnergyRescue. | O

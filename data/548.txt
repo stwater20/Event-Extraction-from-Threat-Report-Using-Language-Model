@@ -1,6 +1,6 @@
 Polish banks on alert after mystery malware found on computers | CSO Online
-http://www.csoonline.com/article/3166555/security/polish-banks-on-alert-after-mystery-malware-found-on-computers.html 
-2017_02_08 
+ 
+ 
 
 Polish media reported last week that the IT security teams at many Polish banks have been busy recently searching their systems for a particular strain of malware after several unnamed banks found it on their computers. | O
 It's not clear what the malware's end goal is, but in at least one case it was used to exfiltrate data from a bank's computer to an external server. | AttackDatabreach

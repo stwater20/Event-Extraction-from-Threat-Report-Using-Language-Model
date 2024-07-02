@@ -1,6 +1,6 @@
 Was The Guardian’s WhatsApp reporting “irresponsible” or fake news?
-http://theconversation.com/was-the-guardians-whatsapp-reporting-irresponsible-or-fake-news-71749 
-2017_01_24 
+ 
+ 
 
 The Guardian has drawn the ire of a large number of cryptography and security experts by publishing a story claiming that WhatsApp has a security backdoor that would allow it, or governments, to snoop on encrypted messages. | DiscoverVulnerability
 The group of experts, led by Associate Professor Zeynep Tufekci have written an open letter demanding that the article is retracted and for The Guardian to issue an apology for the misleading claims. | O

@@ -1,6 +1,6 @@
 ICS, SCADA Security Woes Linger On | Threatpost | The first stop for security news
-https://threatpost.com/ics-scada-security-woes-linger-on/123572/ 
-2017_02_07 
+ 
+ 
 
 A handful of worrisome vulnerabilities in Honeywell building automation system software disclosed last week are case in point of how far the industry continues to lag in securing SCADA and industrial control systems. | DiscoverVulnerability
 Honeywell published in September new firmware that patches vulnerabilities privately disclosed by researcher Maxim Rupp in its XL Web II controllers. | DiscoverVulnerability,PatchVulnerability

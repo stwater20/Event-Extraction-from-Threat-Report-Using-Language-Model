@@ -1,6 +1,6 @@
 Cisco WebEx code execution hole – what you need to know – Naked Security
-https://nakedsecurity.sophos.com/2017/01/26/cisco-webex-code-execution-hole-what-you-need-to-know/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=5b01698c7d-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-5b01698c7d-455160889 
-2017_01_27 
+ 
+ 
 
 The big security issue of the week is a remote code execution hole related to the Cisco WebEx service. | O
 WebEx is a popular collaboration tool for online events such as meetings, webinars and videoconferences. | O

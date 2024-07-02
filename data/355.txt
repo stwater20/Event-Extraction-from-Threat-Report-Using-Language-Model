@@ -1,6 +1,6 @@
 Clash of Clans Maker Hacked 
-https://www.infosecurity-magazine.com/news/clash-of-clans-maker-hacked/ 
-2017_01_24 
+ 
+ 
 
 A breach of the Clash of Clans creator has exposed credentials for forum users.
 Supercell, the force behind that popular mobile game and others, said that a vulnerability in the software it uses to run its forums allowed third-party hackers to gain illegal access to some forum user information, including a number of emails and encrypted passwords. | DiscoverVulnerability

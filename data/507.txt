@@ -1,6 +1,6 @@
 Security flaws in Pentagon systems 'easily' exploited by hackers | ZDNet
-http://www.zdnet.com/article/pentagon-system-flaws-likely-under-attack-by-foreign-hackers/ 
-2017_02_06 
+ 
+ 
 
 Hackers are likely exploiting the easy-to-find vulnerabilities, according to the security researcher who warned the Pentagon of the flaws months ago. | DiscoverVulnerability
 The vulnerable systems could allow hackers or foreign actors to launch cyberattacks through the department's systems to make it look as though it originated from US networks. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 
-http://www.reuters.com/article/us-taiwan-cyber-idUSKBN15L128 
-2017_02_07 
+ 
+ 
 
 Rick Wang, an official with Taiwan’s Financial Supervisory Commission (FSC), said each brokerage had received an email setting a deadline for the transfer of funds to avoid a distributed denial of service (DDoS) attack. | O
 They have become common tools for cyber criminals trying to cripple businesses and organizations with significant online activities. | O

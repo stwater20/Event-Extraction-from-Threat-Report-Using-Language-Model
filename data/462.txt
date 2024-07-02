@@ -1,6 +1,6 @@
 Hacker Compromises 2.5 Million Xbox 360, PSP ISO Forum Accounts
-http://www.esecurityplanet.com/hackers/hacker-compromises-2.5-million-xbox-360-psp-iso-forum-accounts.html 
-2017_02_01 
+ 
+ 
 
 Email addresses, passwords and IP addresses were exposed.
 The breach, which took place in September 2015 but was only recently disclosed, compromised email addresses, passwords and IP addresses, the Daily Mail reports. | AttackDatabreach

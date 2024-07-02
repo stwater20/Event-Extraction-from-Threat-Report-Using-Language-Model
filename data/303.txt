@@ -1,6 +1,6 @@
 Security Researchers Urge The Guardian to Retract WhatsApp “Backdoor” Story
-http://news.softpedia.com/news/security-researchers-urge-the-guardian-to-retract-whatsapp-backdoor-story-512042.shtml 
-2017_01_23 
+ 
+ 
 
 Last week, we reported about a cryptographer who found a supposed vulnerability in WhatsApp and later gave an interview to The Guardian explaining the matter. | DiscoverVulnerability
 The cryptographer later posted videos on YouTube explaining his findings, and WhatsApp’s response to his claims came in a timely manner. | DiscoverVulnerability

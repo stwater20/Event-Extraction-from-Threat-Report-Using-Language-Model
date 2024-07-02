@@ -1,6 +1,6 @@
 WordPress Websites Exposed to Severe Content Injection Vulnerability
-https://www.hackread.com/wordpress-severe-content-injection-vulnerability/ 
-2017_02_02 
+ 
+ 
 
 So when there is a security flaw in its system, it affects millions of users on the Internet. | O
 Sucuri found a Content Injection or Privilege Escalation vulnerability affecting the REST API allowing an attacker to modify the content of any post or page within a WordPress site. | DiscoverVulnerability

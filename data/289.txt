@@ -1,6 +1,6 @@
 Hackers Hack Hacking Forum As Soon As It's Launched - Motherboard
-http://motherboard.vice.com/read/hackers-hack-hacking-forum-as-soon-as-its-launched 
-2017_01_20 
+ 
+ 
 
 In 2015, the FBI shuttered malware marketplace Darkode, and then at the end of last year a small group of hackers launched their own eponymous copycat version. | O
 Almost immediately, however, other hackers attacked that new site, and stole user account information. | AttackDatabreach

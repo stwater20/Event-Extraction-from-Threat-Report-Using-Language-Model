@@ -1,6 +1,6 @@
 Severe vulnerability in Cisco's WebEx extension for Chrome leaves PCs open to easy attack | CSO Online
-http://www.csoonline.com/article/3161140/software/severe-vulnerability-in-ciscos-webex-extension-for-chrome-leaves-pcs-open-to-easy-attack.html 
-2017_01_25 
+ 
+ 
 
 Anyone who uses the popular Cisco WebEx extension for Chrome should update to the latest version pronto. | O
 Google security researcher Tavis Ormandy recently discovered a serious vulnerability in the Chrome extension that leaves PCs wide open to attack. | DiscoverVulnerability

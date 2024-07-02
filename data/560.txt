@@ -1,6 +1,6 @@
 Report: IRS-related phishing scams seen running rampant | CSO Online
-http://www.csoonline.com/article/3166556/security/report-irs-related-phishing-scams-seen-running-rampant.html 
-2017_02_08 
+ 
+ 
 
 If this year is anything like last we are in the midst of phishers’ attempts to trick taxpayers, employers and tax preparers into giving up information that will allow attackers to file bogus tax returns and collect IRS refunds, according to PhishLabs’ annual phishing report. | AttackPhishing
 The latest Phishing Trends and Intelligence Report, which has data about January 2016, says that the IRS phishing sites spotted in that one month totaled more than the IRS phishing attempts seen during all of the previous year. | O

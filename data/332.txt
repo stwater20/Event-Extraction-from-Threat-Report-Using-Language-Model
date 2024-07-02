@@ -1,6 +1,6 @@
 Report: Half of ransomware's SMB victims pay up | CSO Online
-http://www.csoonline.com/article/3160905/backup-recovery/report-half-of-ransomwares-smb-victims-pay-up.html 
-2017_01_24 
+ 
+ 
 
 The average company had four ransomware attacks last year, paid an average ransom of $2,500 per incident, and spent 42 hours dealing with the attack. | AttackRansom
 "We're nowhere near the end of the ransomware threat," said Norman Guadagno, chief evangelist at Carbonite, which provides continuous automated cloud backup services. | O

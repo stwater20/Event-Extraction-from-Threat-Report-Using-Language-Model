@@ -1,6 +1,6 @@
 Android Ransomware Locks Phone and Asks for Credit Card Number
-https://www.bleepingcomputer.com/news/security/android-ransomware-locks-phone-and-asks-for-credit-card-number/ 
-2017_01_20 
+ 
+ 
 
 According to Fortinet researcher Kai Lu, the one who discovered this new threat, the ransomware appears to be targeting only Russian-speaking users, as its ransom note is only available in Russian. | AttackRansom
 A translated version of the ransom note is available below. | AttackRansom

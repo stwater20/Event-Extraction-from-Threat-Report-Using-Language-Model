@@ -1,6 +1,6 @@
 A Vigilante Is Warning Admins of Open Databases Before They Get Hacked - Motherboard
-http://motherboard.vice.com/read/a-vigilante-is-warning-admins-of-open-databases-before-they-get-hacked 
-2017_01_25 
+ 
+ 
 
 Over the past few weeks, hackers have targeted thousands of publicly accessible servers running database software such as MongoDB and Hadoop, and held their data for ransom. | AttackRansom
 Now someone is apparently taking matters into their owns hands, helpfully alerting admins that their databases are vulnerable to attack. | O

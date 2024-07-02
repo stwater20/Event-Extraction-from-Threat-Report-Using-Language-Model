@@ -1,6 +1,6 @@
 Hacker hijacks thousands of publicly exposed printers to warn owners | CSO Online
-http://www.csoonline.com/article/3166054/security/hacker-hijacks-thousands-of-publicly-exposed-printers-to-warn-owners.html 
-2017_02_07 
+ 
+ 
 
 The messages included ASCII art depicting robots and warned that the printers had been compromised and they were part of a botnet. | O
 The hacker, who uses the online alias Stackoverflowin, later said that the botnet claim was not true and that his efforts served only to raise awareness about the risks of leaving printers exposed to the internet. | O

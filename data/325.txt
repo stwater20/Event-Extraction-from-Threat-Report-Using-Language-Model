@@ -1,6 +1,6 @@
 Researchers find link between cyber espionage group and Saudi hacking campaign - CyberScoop
-https://www.cyberscoop.com/shamoon-greenbug-symantec-hacking-campaign/ 
-2017_01_24 
+ 
+ 
 
 Security researchers are closely investigating a spate of newly discovered data breaches in the Middle East, in which each case involved the deployment of an advanced, disk-wiping malware variant. | AttackDatabreach
 Reports from Symantec suggest that a series of recent intrusions share some similarities with an infamous 2012 hacking operation that disrupted multiple Saudi energy companies. | O

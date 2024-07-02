@@ -1,6 +1,6 @@
 Top 6 Types of Rogue Security Software – The Merkle
-https://themerkle.com/top-6-types-of-rogue-security-software/ 
-2017_01_23 
+ 
+ 
 
 In this day and age of online attacks, it becomes all the more important to protect one’s computer and other devices against the various threats. | O
 Criminals often try to bypass existing security solutions on the device in question, but they also distribute fake tools that allegedly prevent these attacks from happening. | AttackPhishing

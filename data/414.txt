@@ -1,6 +1,6 @@
 That Heartbleed problem may be more pervasive than you think | CSO Online
-http://www.csoonline.com/article/3162022/security/that-hearbleed-problem-may-be-more-pervasive-than-you-think.html 
-2017_01_30 
+ 
+ 
 
 That lingering Heartbleed flaw recently discovered in 200,000 devices is more insidious than that number indicates. | DiscoverVulnerability
 According to a report posted by Shodan, the Heartbleed vulnerability first exposed in April 2014 was still found in 199,594 internet-accessible devices during a scan it performed last weekend. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Netflix Scam Spreads Ransomware
-http://www.darkreading.com/attacks-breaches/netflix-scam-spreads-ransomware/d/d-id/1328012? 
-2017_01_31 
+ 
+ 
 
 A newly discovered threat aims to steal Netflix user credentials and hold them hostage, according to researchers at Trend Micro. | AttackDatabreach
 Netflix has 93 million subscribers in more than 190 countries. | O

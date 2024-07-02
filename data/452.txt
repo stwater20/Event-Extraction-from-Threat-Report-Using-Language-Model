@@ -1,6 +1,6 @@
 Routers Under Attack: Current Security Flaws and How to Fix Them - TrendLabs Security Intelligence Blog
-http://blog.trendmicro.com/trendlabs-security-intelligence/routers-under-attack-current-security-flaws-and-how-to-fix-them/ 
-2017_02_01 
+ 
+ 
 
 How is it possible for users to lose hundreds of dollars in anomalous online bank transfers when all of their gadgets have security software installed? | O
 Last year, user Y, who is based in Brazil, lost R$600 (US$191.02, as of January 30, 2017) as a side effect of information theft. | AttackDatabreach

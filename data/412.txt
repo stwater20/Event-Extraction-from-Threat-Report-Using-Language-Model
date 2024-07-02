@@ -1,6 +1,6 @@
 Phishers' new social engineering trick: PDF attachments with malicious links - Help Net Security
-https://www.helpnetsecurity.com/2017/01/27/social-engineering-pdf/ 
-2017_01_30 
+ 
+ 
 
 It is – or it should be – a well known fact that attackers occasionally email potential victims with PDF attachments containing malware or exploit code. | O
 But the latest attacks through PDF attachments are geared towards pushing users to enter their email account credentials into well-crafted phishing pages. | AttackPhishing

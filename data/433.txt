@@ -1,6 +1,6 @@
 Hundreds of Thousands of Netgear Routers Vulnerable to Password Bypass | Threatpost | The first stop for security news
-https://threatpost.com/hundreds-of-thousands-of-netgear-routers-vulnerable-to-password-bypass/123462/ 
-2017_01_31 
+ 
+ 
 
 Hundreds of thousands–potentially more than one million–Netgear routers are susceptible to a pair of vulnerabilities that can lead to password disclosure. | DiscoverVulnerability
 Researchers said that while anyone who has physical access to a router can exploit the vulnerabilities locally, the real threat is that the flaw can also be exploited remotely. | DiscoverVulnerability
