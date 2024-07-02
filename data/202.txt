@@ -1,6 +1,6 @@
 Spammers Revive Hancitor Downloader Campaigns  | Threatpost | The first stop for security news
-https://threatpost.com/spammers-revive-hancitor-downloader-campaigns/123011/ 
-2017_01_13 
+ 
+ 
 
 A recent lull in the distribution of spam spreading information-stealing malware via the Hancitor downloader has been snapped. | O
 Researchers at the SANS Internet Storm Center are currently tracking an increase in spam purporting to be a forwarded parking ticket notification. | AttackPhishing

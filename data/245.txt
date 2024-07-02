@@ -1,6 +1,6 @@
 Vulnerabilities Leave iTunes, Apple's App Store Open to Script Injection | Threatpost | The first stop for security news
-https://threatpost.com/vulnerabilities-leave-itunes-app-store-open-to-script-injection/123129/ 
-2017_01_18 
+ 
+ 
 
 Apple is reportedly aware of and is in the middle of fixing a pair of vulnerabilities that exist in iTunes and the App Store. | DiscoverVulnerability,PatchVulnerability
 If exploited, researchers claim an attacker could inject malicious script into the application side of the vulnerable module or function. | DiscoverVulnerability

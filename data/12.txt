@@ -1,6 +1,6 @@
 Hacking Too Close to Home: Why the Vermont Electric Grid “Laptop” Malware Matters
-http://blog.bayshorenetworks.com/hacking-too-close-to-home-why-the-vermont-electric-grid-laptop-malware-matters-and-what-needs-to-be-done-now?utm_campaign=Vermont%20Malware&utm_content=47184892&utm_medium=social&utm_source=twitter
-2017_01_03 
+
+ 
 
 The recent political furor over state sponsored hacking took an ugly and dangerous turn, on the morning of December 30th when a tiny Vermont electric utility reported that Grizzly Steppe – the spear-fishing process used to access DNC emails – had been found on one of their systems. | AttackDatabreach
 Vermont Governor, Peter Shumlin issued a statement accusing Vladimir Putin of attempting to hack Vermont’s electrical grid, and many others follow suit. | O

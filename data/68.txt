@@ -1,6 +1,6 @@
 HR managers beware: Ransomware could be your next job applicant - TechRepublic
-http://www.techrepublic.com/article/hr-managers-beware-ransomware-could-be-your-next-job-applicant/ 
-2017_01_05 
+ 
+ 
 
 A new ransomware campaign is infecting businesses by targeting a department that typically has to open email from strangers: Human resources. | O
 Dubbed GoldenEye, a variant of Petya, the ransomware imitates a job application and currently targets German speakers, according to a Check Point report released Tuesday. | AttackPhishing

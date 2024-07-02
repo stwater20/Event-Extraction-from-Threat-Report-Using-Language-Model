@@ -1,6 +1,6 @@
 New RCE Flaws Found in Samsung Smartcam | Threatpost | The first stop for security news
-https://threatpost.com/new-rce-flaws-found-in-samsung-smartcam/123146/ 
-2017_01_18 
+ 
+ 
 
 UPDATE At DEFCON 22 in 2014, researchers demonstrated hacks against the Samsung Smartcam that allowed an attacker to remotely take over the device. | O
 Samsung’s reaction at the time was to remove the web interface enabling the attack rather than patch the code in question. | O

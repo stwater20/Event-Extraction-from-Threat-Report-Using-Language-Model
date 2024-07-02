@@ -1,6 +1,6 @@
 Latest WhatsApp Scam Infects Users with Banking Malware
-https://www.hackread.com/whatsapp-scam-users-banking-malware/ 
-2017_01_05 
+ 
+ 
 
 In this campaign, hackers are distributing the malware through 2 files namely “NDA-ranked-8th-toughest-College-in-the-world-to-get-into.xls” and “NIA-selection-order-.xls” respectively. | AttackPhishing
 These files are being circulated via WhatsApp in the form of authentic word files obtaining sensitive information from users which include online banking credentials, PIN codes and similar details. | AttackDatabreach,Phishing

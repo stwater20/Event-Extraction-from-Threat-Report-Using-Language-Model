@@ -1,6 +1,6 @@
 MongoDB Attacks Jump From Hundreds to 28,000 In Just Days | Threatpost | The first stop for security news
-https://threatpost.com/mongodb-attacks-jump-from-hundreds-to-28000-in-just-days/122957/ 
-2017_01_10 
+ 
+ 
 
 Security researchers report a massive uptick in the number of MongoDB databases hijacked and held for ransom. | AttackRansom
 That’s sharp increase from last week when 2,000 MongoDB had been hijacked by two or three criminals. | O 

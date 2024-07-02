@@ -1,6 +1,6 @@
 Severe vulnerabilities spotted in LG G3, G4, and G5
-https://www.scmagazine.com/severe-vulnerabilities-spotted-in-lg-g-series-devices/article/632361/ 
-2017_01_19 
+ 
+ 
 
 MWR Labs researchers recently disclosed two high-security vulnerabilities in LG G3, G4, and G5 mobile devices. | DiscoverVulnerability
 The bugs include a Path Transversal flaw and an Arbitrary File Disclosure flaw, according to the respective security advisories. | O

@@ -1,6 +1,6 @@
 Adobe Acrobat auto-installed a vulnerable Chrome extension on Windows PCs
-https://www.tripwire.com/state-of-security/featured/adobe-acrobat-chrome-extension/ 
-2017_01_19 
+ 
+ 
 
 Adobe is no stranger to finding itself in the security headlines for all the wrong reasons, and it seems that things may not be changing as we enter 2017. | O
 There was controversy earlier this month when news broke about how Adobe took the opportunity on Patch Tuesday of using its regular security updates to force Adobe Acrobat DC users into silently installing a Google Chrome extension. | O

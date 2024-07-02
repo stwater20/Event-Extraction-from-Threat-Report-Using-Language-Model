@@ -1,6 +1,6 @@
 Realtors Be Aware: You Are a Target - SANS Internet Storm Center 
-https://isc.sans.edu/forums/diary/Realtors+Be+Aware+You+Are+a+Target/21911/ 
-2017_01_10 
+ 
+ 
 
 Real estate transactions are some of the higher value transactions performed by individuals and organizations. | O 
 They often exceed hundreds of thousands of dollars in value, and for commercial properties, millions of dollars are quite normal. | O 

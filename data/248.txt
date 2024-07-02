@@ -1,6 +1,6 @@
 Locky Ransomware Activity Goes Down by 81%
-https://www.bleepingcomputer.com/news/security/locky-ransomware-activity-goes-down-by-81-percent/ 
-2017_01_18 
+ 
+ 
 
 This Locky spam dip has been seen by multiple observers, such as security firms Avast and Check Point, and security researchers Kevin Beaumont, MalwareTech, MalwareHunterTeam, and others. | O
 According to Check Point, who recently released a report on December's most active malware families, Locky spam numbers have gone down 81%. | O

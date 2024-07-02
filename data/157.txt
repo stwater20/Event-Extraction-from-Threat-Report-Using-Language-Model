@@ -1,6 +1,6 @@
 A Dark Web Child Porn Site Is Forcing Its Visitors to Learn Security Tips - Motherboard
-http://motherboard.vice.com/read/a-dark-web-child-porn-site-is-forcing-its-visitors-to-learn-security-tips 
-2017_01_11 
+ 
+ 
 
 Whether cops are going undercover to learn more about suspects, or deploying hacking tools to unmask them on a mass scale, each side is always trying to stay one step ahead of the other. | O 
 Apparently in response to law enforcement's use of malware, one dark web child pornography site recently started redirecting visitors to a page with additional security advice if their browser runs JavaScript. | O 

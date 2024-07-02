@@ -1,6 +1,6 @@
 New GhostAdmin Malware Used for Data Theft and Exfiltration
-https://www.bleepingcomputer.com/news/security/new-ghostadmin-malware-used-for-data-theft-and-exfiltration/ 
-2017_01_19 
+ 
+ 
 
 Named GhostAdmin, this threat is part of the "botnet malware" category. | O
 According to current information, the malware is already distributed and deployed in live attacks, being used to possibly target at least two companies and steal hundreds of GBs of information. | AttackDatabreach

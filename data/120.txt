@@ -1,6 +1,6 @@
 Adobe Flash provides six of the top 10 bugs used by exploit kits in 2016
-https://www.grahamcluley.com/adobe-flash-responsible-six-top-10-bugs-used-exploit-kits-2016/ 
-2017_01_09 
+ 
+ 
 
 Published December 7, 2016 5:50 pm in Adobe, Adobe Flash, Malware, Ransomware, Vulnerability  O | O 
 Of the top 10 vulnerabilities incorporated by exploit kits in 2016, six of them (rather unsurprisingly) affected Adobe Flash Player. | O 

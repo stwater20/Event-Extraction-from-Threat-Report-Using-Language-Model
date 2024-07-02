@@ -1,6 +1,6 @@
 Number of Hijacked MongoDB Databases Is Going Up as More Hackers Are Flocking In
-https://www.bleepingcomputer.com/news/security/number-of-hijacked-mongodb-databases-is-going-up-as-more-hackers-are-flocking-in/ 
-2017_01_06 
+ 
+ 
 
 This Monday, Bleeping Computer broke the news that a hacker/group identified as Harak1r1 was taking over MongoDB databases left connected to the Internet without a password on the admin account. | O
 The group was exporting the database's content and replacing all tables with one named WARNING, that contained a ransom note, asking the owners of the hacked database to pay 0.2 Bitcoin (~$200) into Bitcoin wallet. | AttackRansom,Databreach

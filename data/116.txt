@@ -1,6 +1,6 @@
 Merry X-Mas ransomware from Sunday 2017-01-08 - SANS Internet Storm Center 
-https://isc.sans.edu/forums/diary/Merry+XMas+ransomware+from+Sunday+20170108/21905/ 
-2017_01_09 
+ 
+ 
 
 On Tuesday 2017-01-03, BleepingComputer published an article about "Merry X-Mas Ransomware". | O
 This ransomware was first seen by people like @PolarToffee, @dvk01uk, and @Techhelplistcom. | O

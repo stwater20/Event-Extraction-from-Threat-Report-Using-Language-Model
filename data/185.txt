@@ -1,6 +1,6 @@
 Shadow Brokers leak NSA-linked Microsoft hacking tools - CyberScoop
-https://www.cyberscoop.com/shadow-brokers-leak-nsa-linked-microsoft-hacking-tools/ 
-2017_01_13 
+ 
+ 
 
 The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday. | AttackDatabreach
 The code dump, accompanied by a farewell message written in broken English by the enigmatic group the Shadow Brokers, confirms claims implicit in an earlier post Sunday. | AttackDatabreach

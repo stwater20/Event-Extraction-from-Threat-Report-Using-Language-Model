@@ -1,6 +1,6 @@
 Misconfigured Server Gives Insight Into Cerber Ransomware Operation
-https://www.bleepingcomputer.com/news/security/misconfigured-server-gives-insight-into-cerber-ransomware-operation/ 
-2017_01_17 
+ 
+ 
 
 A security researcher that only goes by the nickname of Racco42 discovered the vulnerability on Thursday, January 12. | DiscoverVulnerability
 The issue affected only one Cerber server, not all, and was most likely due to a misconfiguration. | DiscoverVulnerability

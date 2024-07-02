@@ -1,6 +1,6 @@
 Significant decrease in Locky ransomware attacks - Help Net Security
-https://www.helpnetsecurity.com/2017/01/17/locky-ransomware-attacks/ 
-2017_01_17 
+ 
+ 
 
 Locky ransomware attacks have dramatically decreased during December 2016, according to Check Point. | AttackRansom
 Locky, which uses massive spam campaigns as a major distribution vector, only surfaced in 2016 but has rapidly become one of the most popular tools for cybercriminals, part of a growing trend for ransomware cyberattacks that encrypt data on the target machine and demand payment in return for decrypting it. | AttackRansom

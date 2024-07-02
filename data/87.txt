@@ -1,5 +1,5 @@
-http://www.infosecurity-magazine.com/news/fraudsters-pose-as-doe-spread/ 
-2017_01_06 
+ 
+ 
 
 UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware. | AttackPhishing
 An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”. | AttackPhishing

@@ -1,6 +1,6 @@
 Critical flaw lets hackers take control of Samsung SmartCam cameras | CSO Online
-http://www.csoonline.com/article/3158468/security/critical-flaw-lets-hackers-take-control-of-samsung-smartcam-cameras.html 
-2017_01_17 
+ 
+ 
 
 The vulnerability was discovered by researchers from the hacking collective the Exploiteers (formerly GTVHacker), who have found vulnerabilities in the Samsung SmartCam devices in the past. | DiscoverVulnerability
 The flaw allows for command injection through a web script, even though the vendor has disabled the local web-based management interface in these devices. | O

@@ -1,6 +1,6 @@
 Ransomware on smart TVs is here and removing it can be a pain | CSO Online
-http://www.csoonline.com/article/3154266/security/ransomware-on-smart-tvs-is-here-and-removing-it-can-be-a-pain.html 
-2017_01_04 
+ 
+ 
 
 As one victim discovered this Christmas, figuring out how to clean such an infection can be quite difficult. | O
 Ransomware for Android phones has already been around for several years and security experts have warned in the past that it's only a matter of time until such malicious programs start affecting smart TVs, especially since some of them also run Android. | O

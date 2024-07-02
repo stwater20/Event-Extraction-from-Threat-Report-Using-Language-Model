@@ -1,6 +1,6 @@
 SecurityBrief NZ - Ransomware to dominate cyber security landscape 
-https://securitybrief.co.nz/story/ransomware-dominate-cyber-security-landscape/ 
-2017_01_09 
+ 
+ 
 
 Ransomware will continue to dominate the cyber security landscape, with a new report from security specialists ESET forecasting the ‘year of ransomware’ will continue into 2017. | O
 ESET’s Trends 2017: Security held ransom presents key cyber security topics of relevance for both businesses and consumers about the latest threats taking shape in the new year and identifies ransomware as a key threat to protect against. | O

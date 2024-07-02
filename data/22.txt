@@ -1,6 +1,6 @@
 Ransomware 2016: Attack and Loss | 360 Total Security blog
-https://blog.360totalsecurity.com/en/attack-loss-ransomware-2016/?utm_source=hs_email&utm_medium=email&utm_content=39928830&_hsenc=p2ANqtz-_hUzBFj6MlafjvrqOU0UzD-VQYQIDwglOzggQVO647FeElrxfFitk938HPkVOmD7sk_VEefR5Z-31c5xtj25l7DEwkog&_hsmi=39928830 
-2017_01_03 
+ 
+ 
 
 Ransomware, a special version of trojan that encrypts files, has become a new and tremendously growing type of cybercrime. | O
 The 2016 Ransomware Report released by 360 Security Center lately presents that: | O

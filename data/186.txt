@@ -1,6 +1,6 @@
 Suspected NSA tool hackers dump more cyberweapons in farewell | CSO Online
-http://www.csoonline.com/article/3157454/security/suspected-nsa-tool-hackers-dump-more-cyberweapons-in-farewell.html 
-2017_01_13 
+ 
+ 
 
 On Thursday, the Shadow Brokers dumped them online after an attempt to sell these and other supposedly Windows and Unix hacking tools for bitcoin. | AttackDatabreach
 The Shadow Brokers made news back in August when they dumped hacking tools for routers and firewall products that they claimed came from the Equation Group, a top cyberespionage team that some suspect works for the NSA. | AttackDatabreach

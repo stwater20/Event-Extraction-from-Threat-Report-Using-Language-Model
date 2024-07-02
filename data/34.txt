@@ -1,6 +1,6 @@
 Experts Doubt Russia Used Malware to Track Ukrainian Troops | SecurityWeek.Com
-http://www.securityweek.com/experts-doubt-russia-used-malware-track-ukrainian-troops 
-2017_01_04 
+ 
+ 
 
 Experts have cast doubt on a recent report claiming that hackers linked to a Russian military intelligence agency used a piece of Android malware to track Ukrainian artillery units. | O
 A report published by threat intelligence firm CrowdStrike before Christmas revealed that the Russia-linked cyberespionage group known as Fancy Bear (aka APT28, Pawn Storm, Sofacy, Tsar Team, Strontium and Sednit) modified a legitimate Android app used by the Ukrainian military. | O

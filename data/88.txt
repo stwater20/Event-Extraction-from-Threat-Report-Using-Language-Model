@@ -1,6 +1,6 @@
 Ransomware masquerades as CV - Enterprise Times
-https://www.enterprisetimes.co.uk/2017/01/05/ransomware-masquerades-cv/ 
-2017_01_06 
+ 
+ 
 
 Researchers at security vendor Check Point have warned of a ransomware attack targeting HR departments. | AttackRansom
 This attack is currently targeted at German speaking companies and pretends to be a job application. | AttackPhishing,Ransom

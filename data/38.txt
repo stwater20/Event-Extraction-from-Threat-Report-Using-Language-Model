@@ -1,6 +1,6 @@
 Project Zero calls out Kaspersky AV for SSL interception practices | ZDNet
-http://www.zdnet.com/article/project-zero-calls-out-kaspersky-av-for-ssl-interception-practices/ 
-2017_01_04 
+ 
+ 
 
 Using an SSL proxy that simplistically stored certificates, Kaspersky Anti-Virus left its users open to TLS certificate collisions.
 By Chris Duckett

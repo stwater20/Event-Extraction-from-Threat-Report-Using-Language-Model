@@ -1,6 +1,6 @@
 Why the "WhatsApp-backdoor" is not a WhatsApp-backdoor - slashcrypto's page
-https://slashcrypto.org/2017/01/13/WhatsApp_backdoor/ 
-2017_01_13 
+ 
+ 
 
 A researcher discovered, that WhatsApp (or Facebook) could force the WhatsApp mobile client to generate new encryption keys. | DiscoverVulnerability
 Due to this, WhatsApp would be able to intercept the key exchange and - of course - would be able to intercept the messages. | DiscoverVulnerability

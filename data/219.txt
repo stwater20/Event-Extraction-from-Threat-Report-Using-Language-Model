@@ -1,6 +1,6 @@
 MongoDB hackers go after ElasticSearch servers with targeted ransomware attacks
-http://www.ibtimes.co.uk/mongodb-hackers-set-sights-elasticsearch-servers-widespread-ransomware-attacks-1601253?utm_source=yahoo&utm_medium=referral&utm_campaign=rss&utm_content=/rss/yahoous 
-2017_01_17 
+ 
+ 
 
 Mere days after thousands of MongoDB databases were hit by ransomware attacks, cybercriminals have set their sights on ElasticSearch servers, according to reports. | AttackRansom
 Hackers have reportedly hijacked insecure servers exposed to the internet with weak and easy-to-guess passwords. | AttackRansom

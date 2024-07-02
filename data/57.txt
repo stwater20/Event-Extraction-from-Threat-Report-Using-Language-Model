@@ -1,6 +1,6 @@
 FBI website hacked by CyberZeist and data leaked onlineSecurity Affairs
-http://securityaffairs.co/wordpress/55042/data-breach/fbi-hacked.html 
-2017_01_05 
+ 
+ 
 
 The hacker leaked the FBI.GOV accounts that he found in several backup files (acc_102016.bck, acc_112016.bck, old_acc16.bck, etc). | AttackDatabreach
 Leaked records contain accounts data, including names, SHA1 Encrypted Passwords, SHA1 salts, and emails. | O

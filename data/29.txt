@@ -1,6 +1,6 @@
 Pakistan automotive giant PakWheels Hacked, 700k accounts stolen
-https://www.hackread.com/pakistan-largest-automotive-portal-pakwheels-hacked/ 
-2017_01_03 
+ 
+ 
 
 In an email sent to users on 26th December, the site explained that hackers were able to conduct this breach by exploiting a known vulnerability in outdated vBulletin forum software. | DiscoverVulnerability
 Although PakWheels didn’t reveal the number of affected users, we at HackRead have inside details on this breach according to which the number of targeted users impacted by this breach goes over 674,775 users including names, emails, encrypted passwords, mobile number and Facebook sessions. | AttackDatabreach

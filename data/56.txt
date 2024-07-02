@@ -1,6 +1,6 @@
 Hacker: Lol, I pwned FBI.gov! Web devs: Nuh-uh, no you didn't • The Register    
-http://www.theregister.co.uk/2017/01/05/hacker_claims_fbi_cms_zero_day_hack_dumps_155_purported_logins/ 
-2017_01_05 
+ 
+ 
 
 A miscreant using the handle @cyberzeist claims to have infiltrated Plone CMS used by FBI.gov, using a zero day flaw allegedly for sale on an unnamed dark web site. | DiscoverVulnerability
 The Register has contacted the FBI to confirm the allegations. | O

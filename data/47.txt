@@ -1,6 +1,6 @@
 Attacks on Phones of Bitcoin Moguls Continue with Recent KeepKey Security Breach
-https://www.bleepingcomputer.com/news/security/attacks-on-phones-of-bitcoin-moguls-continue-with-recent-keepkey-security-breach/ 
-2017_01_04 
+ 
+ 
 
 According to Darin Stanchfield, KeepKey founder and CEO, the attack took place on Christmas Day, December 25, when an unknown attacker had activated a new phone number with Stanchfield's Verizon account. | O
 This allowed the attacker to request a password reset for his Verizon email account, but receive the password reset details on the newly activated phone number. | O

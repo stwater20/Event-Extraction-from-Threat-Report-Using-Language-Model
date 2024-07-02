@@ -1,6 +1,6 @@
 How does Russia hack? FireEye analysis exposes main tactics used by 'Fancy Bear' APT group
-http://www.ibtimes.co.uk/how-russia-hacks-fireeye-analysis-exposes-main-tactics-used-by-fancy-bear-1600768 
-2017_01_13 
+ 
+ 
 
 Last December the US Intelligence Community (IC) released a report naming APT28, a suspected Russian hacking group, as being linked to numerous cyberattacks designed to influence the outcome of the 2016 presidential election with a mixture of leaks and misinformation. | O 
 Highlighting Russian "malicious cyber activity" the IC's analysis reported on this "advanced persistent threat" by confirming it was likely linked to the county's military or intelligence services. | O 

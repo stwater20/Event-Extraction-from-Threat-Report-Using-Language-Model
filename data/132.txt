@@ -1,6 +1,6 @@
 Will 2017 be the year of ransomworm? - Help Net Security
-https://www.helpnetsecurity.com/2017/01/10/ransomworm/ 
-2017_01_10 
+ 
+ 
 
 It’s safe to say that 2016 was the year of ransomware.
 More specifically, the year of crypto-ransomware, that nefarious variant that encrypts files and holds them captive until a ransom is paid. | AttackRansom

@@ -1,6 +1,6 @@
 Proofpoint Finds Social Media Phishing Scam Steals Credentials And Credit Cards - Information Security Buzz
-http://www.informationsecuritybuzz.com/news/proofpoint-finds-social-media-phishing-scam-steals-credentials-credit-cards/ 
-2017_01_05 
+ 
+ 
 
 In a new blog post researchers from Proofpoint have tracked a phishing campaign leveraging the concept of “Twitter Brand Verification”. | AttackPhishing
 Because the actors in this case are relying on paid, targeted ads on Twitter, users don’t need to do anything to see the phishing link. | O

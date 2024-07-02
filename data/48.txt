@@ -1,6 +1,6 @@
 Topps Data Breach Exposes Months of Credit Card Data
-http://www.esecurityplanet.com/network-security/topps-data-breach-exposes-months-of-credit-card-data.html 
-2017_01_04 
+ 
+ 
 
 All those affected are being offered one year of free access to identity theft protection services from CSID. | O
 BBC News notes that security researcher Chris Vickery uncovered vulnerabilities in Topps databases back in December of 2015 and June of 2016, but he wasn't able to get a response from the company by email. | DiscoverVulnerability

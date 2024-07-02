@@ -1,6 +1,6 @@
 Free 3G internet from WhatsApp? No, it’s a scam – Naked Security
-https://nakedsecurity.sophos.com/2017/01/05/free-internet-from-whatsapp-no-its-a-scam/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=1206c441d7-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-1206c441d7-455160889 
-2017_01_06 
+ 
+ 
 
 It’s still the first week of 2017, and we’ve already had a WhatsApp scam warning from a keen Naked Security reader. | AttackPhishing
 This one tries to draw you in by claiming you’ll get free Wi-Fi service, promising to keep you connected even if you don’t have 3G airtime or a Wi-Fi connection of your own. | O

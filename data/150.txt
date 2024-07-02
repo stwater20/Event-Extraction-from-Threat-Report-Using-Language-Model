@@ -1,6 +1,6 @@
 Netflix Phishing Campaign Targeted User Information, Credit Card Data | Threatpost | The first stop for security news
-https://threatpost.com/netflix-phishing-campaign-targeted-user-information-credit-card-data/122988/ 
-2017_01_11 
+ 
+ 
 
 Researchers recently identified a phishing campaign set up to lure unsuspecting Netflix users into giving up their credentials and credit card data. | AttackPhishing
 The campaign – now defunct – started with an email informing users they needed to update their account details. | AttackPhishing

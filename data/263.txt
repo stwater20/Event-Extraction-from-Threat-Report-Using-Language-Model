@@ -1,6 +1,6 @@
 GhostAdmin botnet malware discovered
-https://www.scmagazine.com/ghostadmin-botnet-malware-discovered/article/632219/ 
-2017_01_19 
+ 
+ 
 
 Cybersecurity  researchers MalwareHunterTeam has uncovered a new botnet malware type it has dubbed GhostAdmin that is alive and working in the wild. | O
 GhostAdmin allows cybercriminals to take control of a computer using an Internet Relay Chat (IRC) channel, according to BleepingComputer MalwareHunterTeam believes the new botnet is an updated version of the old CrimeScene botnet malware. | O

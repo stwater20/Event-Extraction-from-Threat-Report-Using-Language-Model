@@ -1,6 +1,6 @@
 Two New Edge Exploits Integrated into Sundown Exploit Kit | Threatpost | The first stop for security news
-https://threatpost.com/two-new-edge-exploits-integrated-into-sundown-exploit-kit/122974/?m=xla&utm_source=hs_email&utm_medium=email&utm_content=40429439&_hsenc=p2ANqtz-9kwkAUUs4yXchysJyLWVd87T1F6ozJEB7U2C9GCTqVwYVoQ7icXB5RwlopiLw2aEWbyweYma6fnIOJoj-aEGbvmN8JNg&_hsmi=40429439 
-2017_01_11 
+ 
+ 
 
 Six months of relative quiet around exploit kits recently changed when a public proof-of-concept attack disclosed by a Texas startup was integrated into the Sundown Exploit Kit. | DiscoverVulnerability
 The proof-of-concept exploit was developed by Theori, a research and development firm in Austin, which opened its doors last spring. | DiscoverVulnerability

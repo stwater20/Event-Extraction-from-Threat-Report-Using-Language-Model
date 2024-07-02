@@ -1,6 +1,6 @@
 Decoys, Phishing, and the Cloud: The Latest Fan-out Effect - Netskope
-https://resources.netskope.com/h/i/321341739-decoys-phishing-and-the-cloud-the-latest-fan-out-effect 
-2017_01_19 
+ 
+ 
 
 Netskope Threat Research Labs has observed phishing attacks using decoy PDF files, URL redirection, and Cloud Storage services to infect users and propagate malware. | AttackPhishing
 Because many organizations have default “allow” security policies for popular Cloud Storage services and PDF readers to let users take advantage of these useful services, these attacks pass through the corporate network to end users’ machines undetected. | O

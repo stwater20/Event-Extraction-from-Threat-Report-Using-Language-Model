@@ -1,6 +1,6 @@
 Schools warned about cold-calling ransomware attacks – HOTforSecurity
-https://hotforsecurity.bitdefender.com/blog/schools-warned-about-cold-calling-ransomware-attacks-17479.html 
-2017_01_05 
+ 
+ 
 
 Schools and colleges are being warned to be on the lookout for ransomware attacks, after a wave of incidents where fraudsters attempted to trick educational establishments into opening dangerous email attachments. | AttackPhishing,Ransom
 What makes the attacks unusual, however, is just how the attackers tricked users into clicking on the malware-infected attachments. | AttackPhishing

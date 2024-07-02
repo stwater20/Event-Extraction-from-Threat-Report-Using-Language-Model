@@ -1,6 +1,6 @@
 FDA confirms that St. Jude's cardiac devices can be hacked - Jan. 9, 2017 
-http://money.cnn.com/2017/01/09/technology/fda-st-jude-cardiac-hack/index.html?sr=twCNN011017fda-st-jude-cardiac-hack/index.html0146AMStoryLink&linkId=33191858 
-2017_01_10 
+ 
+ 
 
 The FDA confirmed that  St.Jude Medical's implantable cardiac devices have vulnerabilities that could allow a hacker to access a device. | DiscoverVulnerability
 Once in, they could deplete the battery or administer incorrect pacing or shocks, the FDA said on Monday. | O 

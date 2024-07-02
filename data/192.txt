@@ -1,6 +1,6 @@
 Mobile forensics firm Cellebrite confirms data breach - Help Net Security
-https://www.helpnetsecurity.com/2017/01/13/cellebrite-data-breach/ 
-2017_01_13 
+ 
+ 
 
 Israeli mobile forensics firm Cellebrite has announced that it has suffered a data breach following an unauthorized access to an external web server. | AttackDatabreach
 “The impacted server included a legacy database backup of my.Cellebrite, the company’s end user license management system. | O 

@@ -1,6 +1,6 @@
 MM Core In-Memory Backdoor Returns as "BigBoss" and "SillyGoose" | Forcepoint
-https://blogs.forcepoint.com/security-labs/mm-core-memory-backdoor-returns-bigboss-and-sillygoose 
-2017_01_05 
+ 
+ 
 
 Also known as “BaneChant”, MM Core is a file-less APT which is executed in memory by a downloader component. | O
 It was first reported in 2013 under the version number “2.0-LNK” where it used the tag “BaneChant” in its command-and-control (C2) network request. | O

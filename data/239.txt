@@ -1,6 +1,6 @@
 WhatsApp scams spread widely thanks to trust between friends – Naked Security
-https://nakedsecurity.sophos.com/2017/01/17/whatapps-scams-spread-widely-thanks-to-trust-between-friends/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=336f011c6c-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-336f011c6c-455160889 
-2017_01_18 
+ 
+ 
 
 Earlier this year we wrote about a fast-spreading WhatsApp scam that promised free Wi-Fi access. | AttackPhishing
 That scam implied that WhatsApp itself was making the offer in order to keep you active on WhatsApp without using any airtime or data from your own mobile provider network. | AttackPhishing

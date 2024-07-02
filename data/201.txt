@@ -1,6 +1,6 @@
 Is HPCL's Website Under Cerber Ransomware Attack?
-http://www.inforisktoday.in/blogs/hpcls-website-under-cerber-ransomware-attack-p-2358 
-2017_01_13 
+ 
+ 
 
 The site now includes a malicious link that infects the computers of anyone visiting, Arctos contends. | O
 Palani Bala, Arctos' CTO, claims that  HPCL's  site was compromised by a series of attacks by the pseudo-Darkleech campaign, which exposes users to Nemucod malware that, in turn, downloads Cerber ransomware onto their machines. | O

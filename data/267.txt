@@ -1,6 +1,6 @@
 Exploit Kit Jumps on Old Applications «  isssource.com
-http://www.isssource.com/exploit-kit-jumps-on-old-applications/?utm_source=hs_email&utm_medium=email&utm_content=40939671&_hsenc=p2ANqtz-_qAe5oIBeto86K4x_eD8-XZ9XOP9GeM0f72Oy7_UmoWe7gp3W7ZpN1w4_K0UaEeKCuL3qwKRQQ1kuuBmpZCTzfE-oPcQ&_hsmi=40939671 
-2017_01_19 
+ 
+ 
 
 There are plenty of examples of why organizations need to update technology and apply patches. | O
 It is taking advantage of outdated versions of applications such as Flash, Internet Explorer, or Microsoft Edge to distribute the Cerber ransomware, researchers said. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Operation EyePyramid: Two Siblings Spied on Italy's Elite
-https://www.bleepingcomputer.com/news/security/operation-eyepyramid-two-siblings-spied-on-italys-elite/ 
-2017_01_13 
+ 
+ 
 
 The two hired the services of a local programmer to develop their own brand of malware, a backdoor trojan, which authorities have named EyePyramid. | O 
 The men used simple spear-phishing emails sent to the high-ranking officials they wanted to infect. | AttackPhishing
