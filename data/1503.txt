@@ -1,4 +1,4 @@
-Self-Deleting Malware Makes ATMs Spit out Cash
+Self-Deleting Malware Makes ATMs Spit out Cash | DiscoverVulnerability
 These ATM heists are the work of a group of hackers that's been active for years. | O
 Most recently, starting 2016, this group has switched to using legitimate Windows apps and fileless malware to hack into government agencies and banks in at least 40 countries. | O
 Because those attacks used stealthy techniques that left a minimal footprint on infected servers, investigators weren't able to detect what the crooks were after. | O
