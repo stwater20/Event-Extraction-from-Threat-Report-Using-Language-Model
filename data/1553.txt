@@ -1,4 +1,4 @@
-Irresponsible Chinese DVR Vendor Still the Target of IoT Botnets One Year Later
+Irresponsible Chinese DVR Vendor Still the Target of IoT Botnets One Year Later | O
 This particular vulnerability is a severe RCE (Remote Code Execution) bug that allows an attacker to take over a DVR via a simple request. | DiscoverVulnerability
 The flaw came to light last year, after a report from security researcher Rotem Kerner. | DiscoverVulnerability
 His investigation discovered that this flaw was present in the firmware of DVRs manufactured by Chinese company TVT. | DiscoverVulnerability
