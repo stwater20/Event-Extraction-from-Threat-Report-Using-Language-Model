@@ -1,4 +1,4 @@
-Georgia voters' data at risk after equipment stolen in Cobb
+Georgia voters' data at risk after equipment stolen in Cobb | AttackDatabreach
 State officials are investigating the theft last week of equipment from a Cobb County precinct manager’s car that could make every Georgia voters’ personal information vulnerable to theft. | AttackDatabreach
 The equipment, used to check-in voters at the polls, was stolen Saturday evening, Secretary of State Brian Kemp said Monday. | AttackDatabreach
 Cobb County elections director Janine Eveler said the stolen machine, known as an ExpressPoll unit, cannot be used to fraudulently vote in Tuesday’s election but that it does contain a copy of Georgia’s statewide voter file. | O
