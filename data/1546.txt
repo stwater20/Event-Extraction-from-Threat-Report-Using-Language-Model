@@ -1,4 +1,4 @@
-Hackers are attacking Word users with new Microsoft Office zero-day vulnerability | ZDNet
+Hackers are attacking Word users with new Microsoft Office zero-day vulnerability | ZDNet | DiscoverVulnerability
 The bug affects all supported versions of Microsoft Word, but will be fixed this week. | PatchVulnerability, DiscoverVulnerability
 Unlike most document-related vulnerabilities, this zero-day bug that has yet to be patched doesn't rely on macros -- in which Office typically warns users of risks when opening macro-enabled files. | PatchVulnerability, DiscoverVulnerability
 Instead, the vulnerability is triggered when a victim opens a trick Word document, which downloads a malicious HTML application from a server, disguised to look like a Rich Text document file as a decoy. | AttackPhishing
