@@ -1,19 +1,19 @@
 Hackers: We Will Remotely Wipe iPhones Unless Apple Pays Ransom - Motherboard | AttackRansom
  A hacker or group of hackers is apparently trying to extort Apple over alleged access to a large cache of iCloud and other Apple email accounts. | AttackRansom, AttackDatabreach
 The hackers, who identified themselves as 'Turkish Crime Family', demanded $75,000 in Bitcoin or Ethereum, another increasingly popular crypto-currency, or $100,000 worth of iTunes gift cards in exchange for deleting the alleged cache of data. | AttackRansom, AttackDatabreach
-"I just want my money and thought this would be an interesting report that a lot of Apple customers would be interested in reading and hearing," one of the hackers told Motherboard. | AttackRansom, AttackDatabreach
+"I just want my money and thought this would be an interesting report that a lot of Apple customers would be interested in reading and hearing," one of the hackers told Motherboard. | O
 The hackers provided screenshots of alleged emails between the group and members of Apple's security team. | AttackRansom, AttackDatabreach
-One also gave Motherboard access to an email account allegedly used to communicate with Apple. | AttackRansom, AttackDatabreach
+One also gave Motherboard access to an email account allegedly used to communicate with Apple. | O
 "Are you willing to share a sample of the data set?" | O
-an unnamed member of Apple's security team wrote to the hackers a week ago, according to one of the emails stored in the account. | AttackRansom, AttackDatabreach
-The hackers also uploaded a YouTube video of them allegedly logging into some of the stolen accounts. | AttackRansom, AttackDatabreach
+an unnamed member of Apple's security team wrote to the hackers a week ago, according to one of the emails stored in the account. | O
+The hackers also uploaded a YouTube video of them allegedly logging into some of the stolen accounts. | AttackDatabreach
 The hacker appears to access an elderly woman's iCloud account, which includes backed-up photos, and the ability to remotely wipe the device. | AttackDatabreach
-"We firstly kindly request you to remove the video that you have uploaded on your YouTube channel as it's seeking unwanted attention, second of all we would like you to know that we do not reward cyber criminals for breaking the law," a message allegedly from a member of Apple's security team reads. | AttackRansom, AttackDatabreach
-The alleged Apple team member then says archived communications with the hacker will be sent to the authorities. | AttackRansom, AttackDatabreach
-According to one of the emails in the accessed account, the hackers claim to have access to over 300 million Apple email accounts, including those use @icloud and @me domains. | AttackRansom, AttackDatabreach
-However, the hackers appear to be inconsistent in their story; one of the hackers then claimed they had 559 million accounts in all. | AttackRansom, AttackDatabreach
-The hackers did not provide Motherboard with any of the supposedly stolen iCloud accounts to verify this claim, except those shown in the video. | AttackRansom, AttackDatabreach
-By reading other emails included in the account, it appears the hackers have approached multiple media outlets. | AttackRansom, AttackDatabreach
-This may be in an attempt to put pressure on Apple; hackers sometimes feed information to reporters in order to help extortion efforts. | AttackRansom, AttackDatabreach
-After the publication of this article, an Apple spokesperson told Motherboard in an email, "There have not been any breaches in any of Apple's systems including iCloud and Apple ID. | AttackRansom, AttackDatabreach
+"We firstly kindly request you to remove the video that you have uploaded on your YouTube channel as it's seeking unwanted attention, second of all we would like you to know that we do not reward cyber criminals for breaking the law," a message allegedly from a member of Apple's security team reads. | O
+The alleged Apple team member then says archived communications with the hacker will be sent to the authorities. | O
+According to one of the emails in the accessed account, the hackers claim to have access to over 300 million Apple email accounts, including those use @icloud and @me domains. | AttackDatabreach
+However, the hackers appear to be inconsistent in their story; one of the hackers then claimed they had 559 million accounts in all. | AttackDatabreach
+The hackers did not provide Motherboard with any of the supposedly stolen iCloud accounts to verify this claim, except those shown in the video. | O
+By reading other emails included in the account, it appears the hackers have approached multiple media outlets. | O
+This may be in an attempt to put pressure on Apple; hackers sometimes feed information to reporters in order to help extortion efforts. | AttackRansom
+After the publication of this article, an Apple spokesperson told Motherboard in an email, "There have not been any breaches in any of Apple's systems including iCloud and Apple ID. | O
 The alleged list of email addresses and passwords appears to have been obtained from previously compromised third-party services. | AttackDatabreach
