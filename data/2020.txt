@@ -1,9 +1,9 @@
-Retina-X admits they have suffered a data breach - Help Net Security
+Retina-X admits they have suffered a data breach - Help Net Security | AttackDatabreach
 Retina-X Studios, the makers of several consumer-grade monitoring products, have finally announced that they have suffered a data breach. | AttackDatabreach
 Retina-X and FlexiSpy, another spyware maker, were attacked by two hackers / hacker groups that revealed last week how they went about compromising the companies’ assets and made off with customer and other data. | AttackDatabreach
 “A hacker known for SQL exploits of great magnitude was able to find a weakness in a decompiled and decrypted version of a now-discontinued product. | DiscoverVulnerability
-The vulnerability hidden inside the coded software led to a breach of the database and the eventual exploit by unauthorized individuals,” the company noted. | DiscoverVulnerability, Databreach
-“According to the report, the attacker was able to break into a server that held database tables for Net Orbit, PhoneSheriff and TeenShield. | DiscoverVulnerability, Databreach
+The vulnerability hidden inside the coded software led to a breach of the database and the eventual exploit by unauthorized individuals,” the company noted. | DiscoverVulnerability, AttackDatabreach
+“According to the report, the attacker was able to break into a server that held database tables for Net Orbit, PhoneSheriff and TeenShield. | DiscoverVulnerability, AttackDatabreach
 The tables held information such as login usernames, subscription keys, device metadata, text messages, GPS locations, contacts’ information, apps installed and website logs. | AttackDatabreach
 A third-party photo storage account was also breached. | AttackDatabreach
 Only accounts created before February 21st, 2017 were affected.” | AttackDatabreach
