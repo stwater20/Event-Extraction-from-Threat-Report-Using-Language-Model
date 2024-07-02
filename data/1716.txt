@@ -1,4 +1,4 @@
-Microsoft patched 'NSA hack' Windows flaws before leak - BBC News
+Microsoft patched 'NSA hack' Windows flaws before leak - BBC News | PatchVulnerability
 Microsoft says it had already fixed software flaws linked to an alleged breach of the global banking system before they were exposed last week. | PatchVulnerability, DiscoverVulnerability
 On Friday, a group called the Shadow Brokers published details of several hacking tools, indicating they had been used by the US National Security Agency (NSA) to spy on money transfers. | PatchVulnerability
 Reports suggested Microsoft's Windows operating system remained vulnerable. | O
