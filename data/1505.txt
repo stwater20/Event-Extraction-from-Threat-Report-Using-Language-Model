@@ -1,4 +1,4 @@
-China-Based Threat Actor APT10 Ramps Up Cyber ...
+China-Based Threat Actor APT10 Ramps Up Cyber ... | O
 An unknown number of managed service providers and their customers are victims of a massive, global cyber espionage campaign by a China-based threat actor that this week was also fingered in another attack against a U.S. group involved in lobbying around foreign trade policy. | AttackDatabreach
 News of the campaigns coincides with Chinese President Xi Jinping’s first official visit to the U.S. to meet with President Trump. | O
 It suggests that cyber-enabled espionage out of China continues to be an issue, despite a September 2015 agreement between the U.S and Chinese governments not to support or engage in such activities. | O
