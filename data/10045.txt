@@ -1,8 +1,8 @@
 Hacker steals 6.5 million accounts from Yu-Gi-Oh clone
-A hacker allegedly used a vulnerability in MySQL to steal 6.5 million emails and poorly encrypted passwords from Dueling Network, a card game in the style of Yu-Gi-Oh, announced Motherboard.| AttackDatabreach
-The website’s forum has been kept online, although Dueling Network was shut down in 2016 following a cease-and-desist order.| O 
-The request was made by a law firm on behalf of the animation company holding the rights to Yu-Gi-Oh.| O
-“Only our forum site was still up as a way for our users to communicate with each other (login used DN [Dueling Network] credentials),” an administrator wrote in an email to Motherboard.| O 
+A hacker allegedly used a vulnerability in MySQL to steal 6.5 million emails and poorly encrypted passwords from Dueling Network, a card game in the style of Yu-Gi-Oh, announced Motherboard. | AttackDatabreach
+The website’s forum has been kept online, although Dueling Network was shut down in 2016 following a cease-and-desist order. | O
+The request was made by a law firm on behalf of the animation company holding the rights to Yu-Gi-Oh. | O
+“Only our forum site was still up as a way for our users to communicate with each other (login used DN [Dueling Network] credentials),” an administrator wrote in an email to Motherboard. | O
 “Now that is down and warns users to change passwords on any other sites they may have used the same password on.” | O
-The passwords were hashed with the MD5 algorithm, known to have extensive vulnerabilities that allow hackers to get plaintext passwords.| AttackDatabreach 
-A company administrator said not all stolen emails and passwords are associated with individual players, as some accounts appear to be duplicates.| O
+The passwords were hashed with the MD5 algorithm, known to have extensive vulnerabilities that allow hackers to get plaintext passwords. | AttackDatabreach
+A company administrator said not all stolen emails and passwords are associated with individual players, as some accounts appear to be duplicates. | O

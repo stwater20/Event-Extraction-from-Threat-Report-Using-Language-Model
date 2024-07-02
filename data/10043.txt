@@ -1,17 +1,19 @@
 Hong Kong Loses 3.7 Million Voter Registration Records
-Hong Kong's electoral office has apologized after two laptops were stolen, containing voter registration records along with the names of members of its Election Committee, which picked a new chief executive for the region last weekend.| AttackDatabreach 
-The REO says the laptops were stored in a locked room at the AsiaWorld Expo, a large conference facility next to Chek Lap Kok International Airport just north of Lantau Island.| O
-"We apologize to the voters for the incident," the REO says.| O 
+Hong Kong's electoral office has apologized after two laptops were stolen, containing voter registration records along with the names of members of its Election Committee, which picked a new chief executive for the region last weekend. | AttackDatabreach
+The REO says the laptops were stored in a locked room at the AsiaWorld Expo, a large conference facility next to Chek Lap Kok International Airport just north of Lantau Island. | O
+"We apologize to the voters for the incident," the REO says. | O
 "The REO will inform the affected voters about the incident as soon as possible." | O
-The data was stored in accordance with the "relevant security requirements," including multiple layers of encryption, the REO says.| O 
-It did not specific what type of encryption was used.| O
-It also did not say how many voters might be affected, but Channel News Asia reported that Hong Kong has 3.7 million registered voters.| O 
-Hong Kong's Privacy Commissioner for Personal Data has launched an investigation.| O 
-On March 26, the Election Committee picked Carrie Lam as the first female chief executive of Hong Kong, which is formally known as the Hong Kong Special Administrative Region of the People's Republic of China.| O 
-The election happens every five years.| O
-The laptops were part of a backup system for the election.|  REO says the room, in Hall 7 of the AsiaWorld Expo, was monitored by closed-circuit television.| O 
-The South China Morning Post reported that the door to the room was locked and required both a passcode and an access card for entry.|  It doesn't appear the door was forced open.| O
-An anonymous source told the SCMP that the computers themselves were not expensive, leading investigators to believe that the equipment may have been intentionally targeted.| O
-The laptops were left in the storeroom on March 22 and were still there two days later.| O 
-The theft was discovered on March 27.| AttackDatabreach
-The computers were taken out of their bags, which were left behind, the SCMP reported.| O 
+The data was stored in accordance with the "relevant security requirements," including multiple layers of encryption, the REO says. | O
+It did not specify what type of encryption was used. | O
+It also did not say how many voters might be affected, but Channel News Asia reported that Hong Kong has 3.7 million registered voters. | O
+Hong Kong's Privacy Commissioner for Personal Data has launched an investigation. | O
+On March 26, the Election Committee picked Carrie Lam as the first female chief executive of Hong Kong, which is formally known as the Hong Kong Special Administrative Region of the People's Republic of China. | O
+The election happens every five years. | O
+The laptops were part of a backup system for the election. | O
+REO says the room, in Hall 7 of the AsiaWorld Expo, was monitored by closed-circuit television. | O
+The South China Morning Post reported that the door to the room was locked and required both a passcode and an access card for entry. | O
+It doesn't appear the door was forced open. | O
+An anonymous source told the SCMP that the computers themselves were not expensive, leading investigators to believe that the equipment may have been intentionally targeted. | O
+The laptops were left in the storeroom on March 22 and were still there two days later. | O
+The theft was discovered on March 27. | AttackDatabreach
+The computers were taken out of their bags, which were left behind, the SCMP reported. | O

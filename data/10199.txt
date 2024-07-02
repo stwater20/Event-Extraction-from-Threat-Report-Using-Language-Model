@@ -6,7 +6,7 @@ But according to Ulf Frisk, something went awry starting with the January update
 This is a table used by Intel microprocessors to “translate the virtual addresses of a process into physical memory addresses in RAM.” | O
 Set correctly, only the kernel should be able to access this table. | O
  The result of the issue is that an attacker aware of the flaw would have the ability to break out of the application space and take over a system. | O
-All this from a simple software mistake:
+All this from a simple software mistake: | O
 No fancy exploits were needed. | O
 Windows 7 already did the hard work of mapping in the required memory into every running process. | O
 Exploitation was just a matter of read and write to already mapped in-process virtual memory. | O
