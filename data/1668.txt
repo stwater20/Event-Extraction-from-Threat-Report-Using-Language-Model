@@ -1,4 +1,4 @@
-OLE packages, how criminals distribute malware, are on the rise | Healthcare IT News 
+OLE packages, how criminals distribute malware, are on the rise | Healthcare IT News | O
 More cybercriminals used object linking and embedding, or OLE packages, to deliver malware content during the first quarter of 2017, according to cybersecurity technology and services company PhishMe Intelligence. | DiscoverVulnerability
 The cyberthreat trend first was observed in December 2016, closely associated to the delivery of the Ursnif botnet malware, PhishMe said.  | DiscoverVulnerability
 The OLE technique abuses Microsoft Office documents by prompting a victim to double-click an embedded icon to access some type of content.  | AttackPhishing
