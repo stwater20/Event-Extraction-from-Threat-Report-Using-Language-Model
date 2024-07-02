@@ -1,4 +1,4 @@
-Hackers exploited Word flaw for months while Microsoft investigated | Reuters
+Hackers exploited Word flaw for months while Microsoft investigated | Reuters | DiscoverVulnerability
 To understand why it is so difficult to defend computers from even moderately capable hackers, consider the case of the security flaw officially known as CVE-2017-0199. | DiscoverVulnerability
 The bug was unusually dangerous but of a common genre: it was in Microsoft software, could allow a hacker to seize control of a personal computer with little trace, and was fixed April 11 in Microsoft’s regular monthly security update. | DiscoverVulnerability, PatchVulnerability
 But it had traveled a rocky, nine-month journey from discovery to resolution, which cyber security experts say is an unusually long time. | O
