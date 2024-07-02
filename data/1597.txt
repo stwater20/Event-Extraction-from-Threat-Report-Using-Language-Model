@@ -1,4 +1,4 @@
-FDA, industry fear wave of medical-device hacks | TheHill
+FDA, industry fear wave of medical-device hacks | TheHill | O
 Regulators and medical-device-makers are bracing for an expected barrage of hacking attacks even as legal and technical uncertainties leave them in uncharted territory. | O
 Tens of millions of electronic health records have been compromised in recent years, a number that is growing and, some say, underreported. | AttackDatabreach
 High-profile attacks have hit hospitals and health insurers, and now attention is turning to a new vulnerability: medical devices like pacemakers and insulin pumps. | O
