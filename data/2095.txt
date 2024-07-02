@@ -23,7 +23,7 @@ However, the dummy app still managed to fool users because Google’s own accoun
 “It’s a great example of what can go wrong.” Rather than hide those details, all of it should be shown to users, Parecki said. | O 
 Austin agreed, and said apps that ask for permission to Gmail should include a more blatant warning over what the user is handing over. | O
 “I’m not on the OAuth hate bandwagon yet. I do see it as valuable,” Austin said. | O
-“But there are some risks with it.”| O
+“But there are some risks with it.” | O
 Fortunately, Google was able to quickly foil Wednesday’s attack, and is introducing “anti-abuse systems” to prevent it from happening again. | O
 Users who might have been affected can do a Google security checkup to review what apps are connected to their accounts. | O
 The company’s Gmail Android app is also introducing a new security feature to warn users about possible phishing attempts. | AttackPhishing
