@@ -1,5 +1,5 @@
-'High Risk' Zero-Day Leaves 200,000 Magento Merchants Vulnerable  | Threatpost | The first stop for security news
-A popular version of the open source Magento ecommerce platform is vulnerable to a zero-day remote code execution vulnerability, putting as many as 200,000 online retailers at risk.  | DiscoverVulnerability
+'High Risk' Zero-Day Leaves 200,000 Magento Merchants Vulnerable  | Threatpost | The first stop for security news | DiscoverVulnerability
+A popular version of the open source Magento ecommerce platform is vulnerable to a zero-day remote code execution vulnerability, putting as many as 200,000 online retailers at risk. | DiscoverVulnerability
 The warning comes from security firm DefenseCode, which found and originally reported the vulnerability to Magento in November. | PatchVulnerability, DiscoverVulnerability
 “During the security audit of Magento Community Edition, a high risk vulnerability was discovered that could lead to remote code execution and thus the complete system compromise including the database containing sensitive customer information such as stored credit card numbers and other payment information,” DefenseCode wrote in a technical description of its discovery (PDF) posted Wednesday. | DiscoverVulnerability
 According Bosko Stankovic, information security engineer at DefenseCode, despite repeated efforts to notify Magento, which began in November 2016, the vulnerability remains unpatched despite four version updates since the disclosure.  | PatchVulnerability, DiscoverVulnerability
