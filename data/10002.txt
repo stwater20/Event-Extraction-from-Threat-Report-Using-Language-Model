@@ -1,0 +1,16 @@
+Data breach hits luxury hotels in Tasmania, with guest details at risk of theft by 'third party'
+Guests of two of Tasmania's luxury hotels have been told their personal data "may have been accessed by an unauthorised third party", with the company — casino giant Federal Group — telling people emails sent from the resorts may be bogus. | AttackDatabreach
+Exterior of Henry Jones Art Hotel, in Hobart. | O
+The company has written to past guests of Hobart's Henry Jones Art Hotel and Saffire Freycinet, on Tasmania's east coast, informing them of the breach, in which the names, email addresses, physical addresses and telephone numbers of customers may have been accessed. | AttackDatabreach
+In a statement, a Federal Group spokesperson said it confirmed it "experienced an unauthorised access to a third-party email distribution service and some past guests received an unusual spam-type email". | AttackDatabreach
+"The system is now secure and the company is currently undertaking an internal investigation of the incident." | O
+Federal Group, which also owns and operates Wrest Point casino, said it would "encourage anyone who has received any email correspondence from either our Saffire or Henry Jones Art Hotel properties today to delete the email without opening it". | O
+Federal Group offered a list of what it described as "good security practices" it recommended for customers, which included: | O
+        Be aware of potential phishing emails and telephone calls from businesses or institutions requesting your personal details. | AttackPhishing
+        Avoid opening attachments from unknown senders via email or social media. | AttackPhishing
+        Regularly change your passwords on other online services, if you re-use the same password. | O
+        Enable multi-factor authentication and other available security measures provided by your other online services. | O
+        Install anti-virus software and keep it updated. | O
+        Apply all recommended software patches from operating system and software providers. | PatchVulnerability
+Federal Group refused to say whether they had contacted police over the incident. | O
+They also would not say how many people may have had their details compromised. | O
