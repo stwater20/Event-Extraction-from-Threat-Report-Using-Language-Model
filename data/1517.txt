@@ -1,4 +1,4 @@
-Ransomware Attack on Pediatric Practice Exposes 55,447 Patients' Information
+Ransomware Attack on Pediatric Practice Exposes 55,447 Patients' Information | AttackRansom
 While the company was able to avoid falling victim to the ransomware, the attackers may have been able to access patient data. | AttackDatabreach
 On February 6, 2017, an employee noticed that a virus had begun encrypting the practice's servers. | AttackDatabreach
 The encryption process was slowed by the company's anti-virus software, and ABCD's IT company was able to take its servers offline and identify the virus as Dharma Ransomware, a variant of Crysis for which decryption tools are available. | AttackDatabreach
