@@ -1,4 +1,4 @@
-This Ransomware Doesn't Want Cash, It Just Wants You to Play a Japanese Video Game - Motherboard
+This Ransomware Doesn't Want Cash, It Just Wants You to Play a Japanese Video Game - Motherboard | AttackRansom
 That's the question posed by a novel piece of ransomware that challenges victims to achieve a high score in a video game instead of demanding cash to unlock files. | AttackRansom
 "Minamitsu 'The Captain' Murasa encrypted your precious data like documents, musics [sic], pictures, and some kinda project files," a pop-up from the malware, called Resenware, reads. | AttackRansom
 Research focused Twitter account MalwareHunterTeam tweeted screenshots of Resenware on Thursday. | O
