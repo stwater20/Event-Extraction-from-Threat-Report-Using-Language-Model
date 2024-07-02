@@ -15,7 +15,7 @@ The state did not share the value of bitcoin that attackers demanded. | AttackRa
 Elsewhere, SamSam attacked the city of Atlanta, debilitating computer systems that residents used to pay traffic tickets, report potholes and access Wi-Fi at the airport. | O
 The city hasn’t issued a public update since March 30, and a city spokesman said Thursday there is nothing new to share. | O
 Attackers demanded $51,000 worth of bitcoin. | AttackRansom
-Asked whether Atlanta has paid the ransom, spokeswoman Anne Torres said: “Unfortunately, we cannot comment further on the ransom.”| AttackRansom
+Asked whether Atlanta has paid the ransom, spokeswoman Anne Torres said: “Unfortunately, we cannot comment further on the ransom.” | AttackRansom
 The rise of ransomware attacks has caused some to wonder whether it’s worth paying to avoid business outages — Hancock Health in Indiana paid $55,000 to get its files back. | AttackRansom
 Dan Likarish, a computer professor at Denver’s Regis University, said there’s still a good reason not to do it. | O
 “If you pay the ransom, you’re supporting the criminal,” said Likarish, adding there’s also no guarantee the attacker will return computer files intact. | AttackRansom
