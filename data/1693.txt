@@ -1,4 +1,4 @@
-We Can Calm Down: Microsoft Already Patched Most of the Shadow Brokers Exploits - Motherboard
+We Can Calm Down: Microsoft Already Patched Most of the Shadow Brokers Exploits - Motherboard | PatchVulnerability
 On Friday, the hacker group known as The Shadow Brokers released a trove of Windows exploits.  | O
 But Microsoft says it has already issued patches for the majority of attacks, and the most recent fix came last month. | PatchVulnerability
 "Most of the exploits that were disclosed fall into vulnerabilities that are already patched in our supported products," a blog post published Friday night by Microsoft reads. | PatchVulnerability, DiscoverVulnerability
