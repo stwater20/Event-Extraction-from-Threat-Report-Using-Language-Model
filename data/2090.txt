@@ -8,7 +8,7 @@ For starters, the Twitter account was registered yesterday, on the same day of t
 Second, if you would try to reset that Twitter account's password, you'll see that the Twitter account isn't registered with the same address used in the phishing attacks. | AttackPhishing
 Registering a Twitter account with the eugene.pupov@gmail.com email wouldn't haven been possible either way, as this Gmail address isn't registered at all. | O
 Furthermore, a Coventry University spokesperson told Bleeping Computer today that no person with the name Eugene Pupov is currently enrolled at their institution. | O
-Later they confirmed it on Twitter.
+Later they confirmed it on Twitter. | O
 If things weren't shady enough, the Twitter account used a profile image portraying a molecular biologist named Danil Vladimirovich Pupov, from the Institute of Molecular Genetics, at the Russian Academy of Sciences. | O
 When other users called out [1, 2] the Twitter account for using another person's image, the man behind the @EugenePupov account simply changed it to a blank white image. | O
 To clarify what exactly is going on with the Twitter account images, we've reached out to the real Danil Pupov hoping for some answers, as we weren't able to find any good reasons for why a molecular biologist would fiddle around with Gmail spam campaings and fake Google Docs apps. | O
