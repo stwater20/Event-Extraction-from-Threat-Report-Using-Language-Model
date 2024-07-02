@@ -1,4 +1,4 @@
-At $175, this ransomware service is a boon to cybercriminals | CSO Online
+At $175, this ransomware service is a boon to cybercriminals | CSO Online | AttackRansom
 Cybercriminals have another easy-to-use ransomware kit to add to their arsenals, thanks to a new variant called Karmen that hackers can buy on the black market for $175. | AttackRansom
 A Russian-speaking user called DevBitox has been advertising the ransomware in underground forums, security firm Recorded Future said in a blog post on Tuesday. | O
 Karmen is what experts call ransomware-as-a-service -- a particularly worrisome trend. | O
