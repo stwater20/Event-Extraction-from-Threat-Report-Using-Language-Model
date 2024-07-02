@@ -1,4 +1,4 @@
-Latest Microsoft Office Zero-day Served via Godzilla Botnet - Netskope
+Latest Microsoft Office Zero-day Served via Godzilla Botnet - Netskope | O
 Netskope Threat Research Labs has discovered that the latest Microsoft Office zero-day vulnerability is linked to the Godzilla botnet loader discussed in our recent blog.  | DiscoverVulnerability
 During our research, we observed the IPs related to the Godzilla Botnet loader serving payloads associated with exploits for the latest zero-day vulnerability in Microsoft Office.  | DiscoverVulnerability
 Microsoft has said that the vulnerability will be patched today.  | PatchVulnerability, DiscoverVulnerability
