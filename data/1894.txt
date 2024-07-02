@@ -1,4 +1,4 @@
-SquirrelMail opens users to remote code execution - Help Net Security
+SquirrelMail opens users to remote code execution - Help Net Security | O
 Users of open source webmail software SquirrelMail are open to remote code execution due to a bug (CVE-2017-7692) discovered independently by two researchers. | DiscoverVulnerability, PatchVulnerability
 “If the target server uses Sendmail and SquirrelMail is configured to use it as a command-line program, it’s possible to trick sendmail into using an attacker-provided configuration file that triggers the execution of an arbitrary command,” the explanation provided by MITRE reads.  | DiscoverVulnerability, PatchVulnerability
 “For exploitation, the attacker must upload a sendmail.cf file as an email attachment, and inject the sendmail.cf filename with the -C option within the ‘Options > Personal Informations > Email Address’ setting.” | DiscoverVulnerability, PatchVulnerability
