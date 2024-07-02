@@ -1,4 +1,4 @@
-Samsung Smart TV Can Be Hacked via Wi-Fi Direct Feature
+Samsung Smart TV Can Be Hacked via Wi-Fi Direct Feature | O
 Security researchers from Neseso are sounding the alarm on a vulnerability they've discovered in Samsung smart TVs that Samsung declined to fix. | DiscoverVulnerability, PatchVulnerability
 The security flaw affects Wi-Fi Direct, a Wi-Fi standard that enables devices to connect with each other without requiring a wireless access point. | DiscoverVulnerability
 Samsung uses Wi-Fi Direct with its smart TVs to allow TV owners to connect to the TV via their phones, laptops, or tablets, directly, and not through the local access point. | O
