@@ -1,4 +1,4 @@
-XMR Squad Is Charging German Companies €250 for "DDoS Tests"
+XMR Squad Is Charging German Companies €250 for "DDoS Tests" | O
 A group calling itself XMR Squad has spent all last week launching DDoS attacks against German businesses and then contacting the same companies to inform them they had to pay €250 ($275) for "testing their DDoS protection systems." | AttackRansom
 German DDoS protection firm Link11 reported attacks against DHL, Hermes, AldiTalk, Freenet, Snipes.com, the State Bureau of Investigation Lower Saxony, and the website of the state of North Rhine-Westphalia. | AttackRansom
 The attack against DHL Germany was particularly effective as it shut down the company's business customer portal and all APIs, prompting eBay Germany to issue an alert regarding possible issues with packages sent via DHL. | O
