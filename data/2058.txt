@@ -1,6 +1,6 @@
 Sneaky Gmail phishing attack fools with fake Google Docs app | CSO Online | AttackPhishing
 Google Docs was pulled into a sneaky email phishing attack on Tuesday that was designed to trick users into giving up access to their Gmail accounts. | AttackPhishing
-The phishing emails, which circulated for about three hours before Google stopped them, invited the recipient to open what appeared to be a Google Doc. The teaser was a blue box that said, “Open in Docs.”| AttackPhishing
+The phishing emails, which circulated for about three hours before Google stopped them, invited the recipient to open what appeared to be a Google Doc. The teaser was a blue box that said, “Open in Docs.” | AttackPhishing
 In reality, the link led to a dummy app that asked users for permission to access their Gmail account. | O
 An example of the phishing email that circulated on Tuesday. | AttackPhishing
 Users might easily have been fooled, because the dummy app was actually named “Google Docs.” It also asked for access to Gmail through Google’s actual login service. | AttackPhishing
