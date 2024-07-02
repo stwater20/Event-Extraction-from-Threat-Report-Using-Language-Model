@@ -1,4 +1,4 @@
-R2Games compromised again, over one million accounts exposed | CSO Online 
+R2Games compromised again, over one million accounts exposed | CSO Online | AttackDatabreach
 Online gaming company Reality Squared Games (R2Games) has been compromised for the second time in two years, according to records obtained by the for-profit notification service LeakBase.  | AttackDatabreach
 The hacker who shared the data with LeakBase says the attack happened earlier this month. | AttackDatabreach
 Headquartered in Shenzhen, China, R2Games operates a number of free-to-play, micropayment-driven games on iOS and Android, as well as modern browsers.  | O
