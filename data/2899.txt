@@ -1,4 +1,4 @@
-Top university under 'ransomware' cyber-attack - BBC News
+Top university under 'ransomware' cyber-attack - BBC News | AttackRansom
 University College London, one of the world's leading universities, has been hit by a major cyber-attack. | O
 The university describes it as a "ransomware" attack, such as last month's cyber-attack which threatened NHS computer systems. | AttackRansom
 The attack was continuing on Thursday, with access to online networks being restricted. | O 
@@ -13,8 +13,8 @@ The university says that it believes the risk of further infection has been cont
 Universities, which often carry out commercially sensitive research, have become frequent targets for cyber-attacks. | O 
 "However, what makes this attack interesting is the timing," said Graham Rymer, an ethical hacker and research associate at the University of Cambridge. | O 
 "Hackers tend to target people who will be desperate to get access to their data and are, therefore, more likely to pay the ransom. | AttackDatabreach
-"Currently there are a lot of students who will be putting the final touches to their dissertations, so it could be that they were the targets. "| O
+"Currently there are a lot of students who will be putting the final touches to their dissertations, so it could be that they were the targets." | O
 Mr Rymer said UCL seemed to have responded well to the attack and had "locked it down pretty well". | O 
-"One thing UCL did is to quickly switch all drives in the system to "read-only" following the attack, which essentially prevented the malware from doing real damage. " | O 
+"One thing UCL did is to quickly switch all drives in the system to "read-only" following the attack, which essentially prevented the malware from doing real damage." | O 
 Mr Rymer said UCL may not have been the only intended target as he had seen other businesses facing the same malware. | O 
 Last month, the National Health Service in England and Scotland was subject to a significant ransomware cyber-attack, as part of a global wave of attacks. | AttackRansom
