@@ -5,7 +5,7 @@ The Microsoft September patch fixed around 61 different vulnerabilities. | Patch
 The patch bundle also included a fix for the recently discovered APLC zero-day vulnerability that has already created trouble. | PatchVulnerability
 Recently, a zero-day vulnerability disclosed on Twitter has created a lot of chaos as it was immediately exploited in a malware campaign. | DiscoverVulnerability
 The APLC zero-day flaw gained attention after a Twitter user with the alias SandboxEscaper disclosed it in a tweet. | DiscoverVulnerability
-Later, a CERT/CC researcher verified the bug. | DiscoverVulnerabilityDiscoverVulnerability
+Later, a CERT/CC researcher verified the bug. | DiscoverVulnerability
 This vulnerability in the Windows Task Scheduler allowed an attacker to gain System-level access. | O
 As promised at that time by the firm, the Microsoft September patch has addressed this Advanced Local Procedure Call (ALPC) flaw. | PatchVulnerability
 As disclosed in their advisory, Microsoft acknowledged the exploitation of this vulnerability (CVE-2018-8440). | DiscoverVulnerability
