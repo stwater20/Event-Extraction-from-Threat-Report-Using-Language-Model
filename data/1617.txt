@@ -1,4 +1,4 @@
-Exploit revealed for remote root access vulnerability affecting many router models - Help Net Security
+Exploit revealed for remote root access vulnerability affecting many router models - Help Net Security | O
 Back in January 2013, researchers from application security services firm DefenseCode unearthed a remote root access vulnerability in the default installation of some Cisco Linksys (now Belkin) routers. | DiscoverVulnerability
 The flaw was actually found in Broadcom’s UPnP implementation used in popular routers, and ultimately the researchers extended the list of vulnerable routers to encompass devices manufactured by the likes of ASUS, D-Link, Zyxel, US Robotics, TP-Link, Netgear, and others. | DiscoverVulnerability
 “Back in the days, Cisco fixed the vulnerability, but we are not sure about all other router vendors and models because there are too many of them,” the DefenseCode team noted.  | PatchVulnerability, DiscoverVulnerability
