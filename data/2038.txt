@@ -1,4 +1,4 @@
-Breach at Sabre Corp.’s Hospitality Unit —  Krebs on Security
+Breach at Sabre Corp.’s Hospitality Unit —  Krebs on Security | O
 Breaches involving major players in the hospitality industry continue to pile up. | AttackDatabreach
 Today, travel industry giant Sabre Corp. disclosed what could be a significant breach of payment and customer data tied to bookings processed through a reservations system that serves more than 32,000 hotels and other lodging establishments. | AttackDatabreach
 In a quarterly filing with the U.S. Securities and Exchange Commission (SEC) today, Southlake, Texas-based Sabre said it was “investigating an incident of unauthorized access to payment information contained in a subset of hotel reservations processed through our Hospitality Solutions SynXis Central Reservations system.” | AttackDatabreach, DiscoverVulnerability
@@ -23,7 +23,7 @@ Hotel brands that have acknowledged card breaches over the last year after promp
 Card breaches also have hit hospitality chains Starwood Hotels and Hyatt. | AttackDatabreach
 In many of those incidents, thieves planted malicious software on the point-of-sale devices at restaurants and bars inside of the hotel chains. | AttackDatabreach
 Point-of-sale based malware has driven most of the credit card breaches over the past two years, including intrusions at Target and Home Depot, as well as breaches at a slew of point-of-sale vendors. | AttackDatabreach
-The malicious code usually is installed via hacked remote administration tools. | AttackDatabreach, Phishing
+The malicious code usually is installed via hacked remote administration tools. | AttackDatabreach, AttackPhishing
 Once the attackers have their malware loaded onto the point-of-sale devices, they can remotely capture data from each card swiped at that cash register. | AttackDatabreach
 Thieves can then sell that data to crooks who specialize in encoding the stolen data onto any card with a magnetic stripe, and using the cards to purchase high-priced electronics and gift cards from big-box stores like Target and Best Buy. | AttackDatabreach
 Readers should remember that they’re not liable for fraudulent charges on their credit or debit cards, but they still have to report the unauthorized transactions. | AttackPhishing
