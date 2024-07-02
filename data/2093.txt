@@ -6,7 +6,7 @@ Google took measures to protect its users by disabling offending accounts, and r
 Other security measures were pushed out in updates to Gmail, Safe Browsing and other in-house systems. | O
 “We were able to stop the campaign within approximately one hour,” a Google spokesperson said in a statement. | O
 “While contact information was accessed and used by the campaign, our investigations show that no other data was exposed. | AttackDatabreach
-There’s no further action users need to take regarding this event.”| O
+There’s no further action users need to take regarding this event.” | O
 The messages were a convincing mix of social engineering and abuse of users’ trust in the convenience of mechanisms that share account access with third parties. | AttackPhishing
 Many of the phishing messages came from contacts known to victims since part of the attack includes gaining access to contact lists. | AttackPhishing
 The messages claimed that someone wanted to share a Google Doc with the victim, and once the “Open in Docs” button in the email is clicked, the victim is redirected to a legitimate Google OAUTH consent screen where the attacker’s application, called “Google Docs” asks for access to victim’s Gmail and contacts through Google’s OAUTH2 service implementation. | AttackPhishing
@@ -17,4 +17,4 @@ The phishing emails spread quickly on Wednesday and likely started with journali
 OAUTH’s open nature allows anyone to develop similar apps. | O
 The nature of the standard and interaction involved makes it difficult to safely ask for permission without giving the users a lot of information to validate whether an app is malicious, said Duo’s Sokley. | O
 “There are many pitfalls in implementing OAUTH 2.0, for example cross site request forgery protection (XSRF). Imagine if the user doesn’t have to click on the approve button, but if the exploit would have done this for you,” said SANS’ Ullrich. | O
-“OAUTH 2.0 also inherits all the security issues that come with running anything in a web browser. A user may have multiple windows open at a time, the URL bar isn’t always very visible and browser give applications a lot of leeway in styling the user interface to confuse the user.”| O
+“OAUTH 2.0 also inherits all the security issues that come with running anything in a web browser. A user may have multiple windows open at a time, the URL bar isn’t always very visible and browser give applications a lot of leeway in styling the user interface to confuse the user.” | O
