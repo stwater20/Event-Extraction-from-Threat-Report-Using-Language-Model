@@ -1,4 +1,4 @@
-Hipchat resets user passwords after possible breach | CSO Online
+Hipchat resets user passwords after possible breach | CSO Online | O
 HipChat has reset all its users' passwords after what it called a security incident that may have exposed their names, email addresses and hashed password information. | AttackDatabreach
 In some cases, attackers may have accessed messages and content in chat rooms, HipChat said in a Monday blog post.  | AttackDatabreach
 But this happened in no more than 0.05 percent of the cases, each of which involved a domain URL, such as company.hipchat.com. | O
