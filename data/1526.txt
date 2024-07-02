@@ -1,11 +1,11 @@
-Fake News Site Targeting Android, Windows Users with Malware Scam 
+Fake News Site Targeting Android, Windows Users with Malware Scam | AttackPhishing
 Research conducted by both cyber security firm shows that the attacks first appeared in July 2015 and since then, cybercriminals behind these attacks have targeted hundreds of organizations within the region. | AttackDatabreach
 According to the research, hackers were using KasperAgent and Micropsia malware to target Windows operating system while SecureUpdate and Vamp malware were being used to target Android OS. | AttackDatabreach
 The cybercriminals behind these attacks used two different techniques to achieve their goal. | AttackDatabreach
 One technique involved using an URL shortener service Bit.ly to disguise the original malicious links. | AttackPhishing
 The motive behind these attacks was to steal credentials and spy on the victims. | AttackPhishing, Databreach
 As per the research, hackers were targeting Educational institutes, Military organization and media companies from Palestine, Israel, Egypt, and the US. | O
-SecureUpdate, a malware disguised as an Android update was designed to download malicious payloads into the victim’s device while the Vamp was focused on stealing data from victims’ smartphones including call recordings, contact information, and stealing other important documents. | AttackPhishing, Databreach
+SecureUpdate, a malware disguised as an Android update was designed to download malicious payloads into the victim’s device while the Vamp was focused on stealing data from victims’ smartphones including call recordings, contact information, and stealing other important documents. | AttackPhishing, AttackDatabreach
 The malware designed to target Windows operating systems KasperAgent and Micropsia were capable of downloading other payloads, executing arbitrary commands, stealing files, capturing a screenshot, logging keystrokes and much more. | AttackDatabreach
 Essentially the hackers were interested in stealing credentials of the infected devices. | AttackDatabreach
 At first, no connection was established between the attacks since all the malware were different from each other. | O
