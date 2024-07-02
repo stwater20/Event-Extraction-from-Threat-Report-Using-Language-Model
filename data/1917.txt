@@ -1,4 +1,4 @@
-Android Malware Posing as FIFA, Pokemon Go Guides Infected 600,000 Devices
+Android Malware Posing as FIFA, Pokemon Go Guides Infected 600,000 Devices | AttackPhishing
 A recently discovered strain of botnet malware has infected over 600,000 Android devices, as stated by the security researchers. | AttackDatabreach
 Researchers have also found that the malware poses as a guide that wants to help gamers with online games like FIFA and Pokemon Go. | AttackPhishing
 These guides are actually a malicious software named FalseGuide. | O
