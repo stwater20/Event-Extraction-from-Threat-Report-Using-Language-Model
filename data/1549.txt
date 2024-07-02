@@ -1,4 +1,4 @@
-Forcepoint Warn Of Healthcare Targeting Ransomware - Information Security Buzz
+Forcepoint Warn Of Healthcare Targeting Ransomware - Information Security Buzz | AttackRansom
 Forcepoint security labs has identified a form of ransomware, first documented back in September 2016 that targets healthcare organisations. | AttackRansom
 ‘Philadelphia’, believed to be a new version of ‘Stampedo’ currently shows patterns that could be the beginning of a widening targeting campaign, extending beyond US perimeters. | AttackRansom
 Sold for just a few hundred dollars and promoted on YouTube, it gives have-a-go criminals, on a global scale, the tools to conduct very targeted and convincing attacks. | O
