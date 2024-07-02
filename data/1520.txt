@@ -1,4 +1,4 @@
-Ransomware Gang Made Over $100,000 by Exploiting Apache Struts Zero-Day
+Ransomware Gang Made Over $100,000 by Exploiting Apache Struts Zero-Day | AttackRansom
 For their attacks, the groups are using a zero-day in Apache Struts, disclosed and immediately fixed last month by Apache. | DiscoverVulnerability
 The vulnerability, CVE-2017-5638, allows an attacker to execute commands on the server via content uploaded to the Jakarta Multipart parser component, deployed in some Struts installations. | PatchVulnerability
 According to cyber-security firms F5, attacks started as soon as Cisco Talos researchers revealed the zero-day's presence and several proof-of-concept exploits were published online. | DiscoverVulnerability
