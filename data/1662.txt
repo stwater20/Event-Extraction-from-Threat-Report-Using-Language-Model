@@ -1,4 +1,4 @@
-Unpatched vulnerability exposes Magento online shops to hacking | CSO Online
+Unpatched vulnerability exposes Magento online shops to hacking | CSO Online | O
 An unpatched vulnerability in the Magento e-commerce platform could allow hackers to upload and execute malicious code on web servers that host online shops. | DiscoverVulnerability
 The flaw was discovered by researchers from security consultancy DefenseCode and is located in a feature that retrieves preview images for videos hosted on Vimeo. Such videos can be added to product listings in Magento. | DiscoverVulnerability
 The DefenseCode researchers determined that if the image URL points to a different file, for example a PHP script, Magento will download the file in order to validate it. | DiscoverVulnerability
