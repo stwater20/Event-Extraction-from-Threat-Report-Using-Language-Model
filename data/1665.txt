@@ -1,4 +1,4 @@
-Is a Smart Oven "Smart" If It Can Be Hijacked via SMS?
+Is a Smart Oven "Smart" If It Can Be Hijacked via SMS? | O
 Security researchers from Pen Test Partners have discovered pretty glaring security flaws in Aga's line of smart ovens. | DiscoverVulnerability
 According to researchers, these flaws can be exploited via SMS messages.  | DiscoverVulnerability
 The reason appears to be that Aga management opted to use a GSM SIM module to control its devices, instead of the classic option of using a Wi-Fi module. | O
