@@ -1,4 +1,4 @@
-Foodie social network Allrecipes warns that someone stole users' email addresses and passwords
+Foodie social network Allrecipes warns that someone stole users' email addresses and passwords | AttackDatabreach
 Allrecipes, the self-described "food-focused social network", has sent an email out to some of its users warning that their email addresses and passwords may have been intercepted by an unknown third-party. | AttackDatabreach
 In the email, the site warns that users who registered an allrecipes.com account or logged on as a registered member of the site prior to June 2013 (yes, that's almost four years ago), may have had their email address and password stolen. | AttackDatabreach
 Part of the email reads as follows: | O
