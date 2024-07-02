@@ -2,7 +2,7 @@ Bank robbers exploited SS7 weaknesses to drain 2SV-protected accounts | O
 A group of thieves exploited weaknesses in Signaling System 7 (SS7) to drain users’bank accounts, including those protected by two-step verification (2SV). | AttackDatabreach, DiscoverVulnerability
 On 3 May, a representative with O2 Telefonica, a provider of mobile phones and broadband, told German newspaper Süddeutsche Zeitung that thieves managed to bypass security measures and make unauthorized withdrawals from customers’ bank accounts: | O
 “Criminals carried out an attack from a network of a foreign mobile network operator in the middle of January. | O
-The attack redirected incoming SMS messages for selected German customers to the attackers.”| O
+The attack redirected incoming SMS messages for selected German customers to the attackers.” | O
 The thieves pulled off their heist by exploiting the weak underbelly of SS7. | O
 It’s a protocol that specifies how public switched telephone networks (PSTN) exchange data over digital signaling network. | O
 In simpler terms, SS7 helps phone carriers around the world route your calls and text messages. | O
