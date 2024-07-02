@@ -1,4 +1,4 @@
-Why Did Microsoft Wait Six Months To Patch a Critical Word Zero-Day? - Motherboard
+Why Did Microsoft Wait Six Months To Patch a Critical Word Zero-Day? - Motherboard | O
 For weeks, perhaps months, hackers could take control of a victim's' computer, or install malware on it, just by tricking them into opening a booby-trapped document, thanks to a critical "zero-day" bug in most versions of Microsoft Word.  | PatchVulnerability, DiscoverVulnerability
 When bugs are unknown to the vendor, and still unpatched, they're called zero-days.  | PatchVulnerability, DiscoverVulnerability
 That's their value: they will work no matter what, as there's no fix for them.  | DiscoverVulnerability
