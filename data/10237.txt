@@ -19,4 +19,4 @@ A spokesman for Action Fraud told This is Money: 'At this important time in the 
 'These criminals will contact victims in many ways, including spoof calls, voicemails and text messages. | O
 And in most cases they will ask for payments in iTunes giftcards. | AttackPhishing
 'It is important that people spot the signs of this type of fraud to protect themselves. | O
-'HMRC will never use text messages to inform about a tax rebate or penalty and will never ask for any payment in the form of iTunes vouchers.'  | O
+'HMRC will never use text messages to inform about a tax rebate or penalty and will never ask for any payment in the form of iTunes vouchers.' | O
