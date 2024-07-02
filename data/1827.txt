@@ -1,20 +1,12 @@
-Dozen hotels in Eastern Carolina victims of lengthy cyber attack
-GREENVILLE, NC (WITN) - A dozen Eastern Carolina hotels are among the 1200 locations that were victims of a lengthy cyber attack last year. | AttackDatabreach
-InterContinental Hotels Group says customer credit card information was stolen from franchised locations that include Holiday Inn, Holiday Inn Express, Candlewood Suites and Staybridge Suites. | AttackDatabreach
-The hacking began on September 29th and continued at some locations for three months. | AttackDatabreach
-Hackers used malware that searched for track data stored on magnetic stripes, which includes name, card number, expiration date and internal verification code, the company said. | AttackDatabreach
-Those hotels in Eastern Carolina affected, and the dates of hacking were: | O
-Greenville - Holiday Inn at 203 Greenville Boulevard. | O
-Hacked from September 29 to December 29. Havelock - Holiday Inn Express. | O
-Hacked from September 29 to December 1. Jacksonville - Staybridge Suites on Cobia Court. | O
-Hacked from September 29 to December 29. Morehead City - Holiday Inn Express. | O
-Hacked from September 29 to November 4. Nags Head - Holiday Inn Express Oceanfront on South Virginia Dare Trail. | O
-Hacked from September 29 to December 29. New Bern - Holiday Inn Express on Dr. Martin Luther King Jr. Boulevard. | O
-Hacked from September 29 to December 12. New Bern - Candlewood Suites on Dr. Martin Luther King Jr. Bouvevard. | O
-Hacked from September 29 to December 29. Plymouth - Holiday Inn Express. | O
-Hacked from September 29 to December 29. Roanoke Rapids - Holiday Inn Express. | O
-Hacked from September 29 to December 15. Wilson - Holiday Inn Express at I-95. | O
-Hacked from September 29 to December 29. Wilson - Holiday Inn Express Downtown. | O
-Hacked from September 29 to December 29. Wilson - Candlewood Suites. | O
-Hacked from September 29 to October 17. | O
-IHG says it has since installed an encryption system that makes front desk payments more secure, while it is telling people who stayed at the hotels during that time that they should review their credit card statements for any fraudulent purchases. | O
+RawPOS malware has new data-grabbing capabilities - Help Net Security | O
+RawPOS continues to evolve, and has recently been equipped with the capability to steal data contained in the victims’ driver’s license’s 2-dimensional barcode. | AttackDatabreach
+“Although the use of this barcode is less common than credit card swipes, it is not unheard of. | O
+Some people might experience getting their driver’s license barcode scanned in places like pharmacies, retail shops, bars, casinos and others establishments that require it,” Trend Micro researchers explained. | AttackDatabreach
+“Traditionally, PoS threats look for credit card mag stripe data and use other components such as keyloggers and backdoors to get other valuable information. | AttackDatabreach
+RawPOS attempts to gather both in one go, cleverly modifying the regex string to capture the needed data.” | AttackDatabreach
+This particular variant is geared towards collecting data from driver’s licenses issued in the US. | O
+Thus, along with payment card data, criminals also get information such as the victims’ full name, date of birth, full address, gender, height, hair and eye color. | AttackDatabreach 
+This additional info could definitely help criminals impersonate the card holder in many identity theft scenarios, as well as while effecting fraudulent card-not-present transactions. | O
+RawPOS is one of the oldest known Point-of-Sale RAM scraper malware families. | O
+It’s first incarnation was spotted all the way back in 2009. | O
+According to the researchers, it is mainly used by threat actors that focus on targeting businesses operating in the hospitality industry. | O
