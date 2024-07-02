@@ -12,7 +12,7 @@ But now the proliferation of these emails is causing some to question whether th
 Chris Underhill, chief technical officer at Cyber Security Partners, a consultancy, said firms that communicate by email have a “corporate responsibility” to prevent fraudsters impersonating them online. | O
 He said many firms were failing to take the basic – and inexpensive – precaution of buying up domain names similar to their own. | O
 He said: “The technology is there for little cost but sadly the adoption rate is low. | O
-“The responsibility is now placed on the consumer to check the sender of the emails is real.”  | O
+“The responsibility is now placed on the consumer to check the sender of the emails is real.” | O
 Telegraph Money found it was possible, for example, to buy domain names such as amazonuk.org, amazon.eu.co.uk or amazonuk.tech for as little as £5.99 per year. | O
 Andrew Goodwill, of The Goodwill Group, a fraud-prevention consultancy, said consumers should “be incredibly sceptical” about any unsolicited digital communication even from familiar companies. | O
 If they contained links or asked for personal information they were “more than likely to be fake”, he said. | O
