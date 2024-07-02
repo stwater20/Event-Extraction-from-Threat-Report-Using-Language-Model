@@ -1,6 +1,6 @@
 Gannett hit with email phishing attack | AttackPhishing
-The attack was discovered when the perpetrators attempted a fraudulent wire transfer of money.
-A link has been posted to your Facebook feed. 
+The attack was discovered when the perpetrators attempted a fraudulent wire transfer of money. | O
+A link has been posted to your Facebook feed. | O
 A phishing email attack potentially compromised the accounts of as many as 18,000 current and former employees of media company Gannett Co. | AttackPhishing
 As of Tuesday there was no indication of access to or acquisition of any sensitive personal data from employees’ accounts, said the company. | AttackDatabreach
 Gannett Co. (GCI) is the owner of USA TODAY, the publisher of this report, and 109 local news properties across the United States. | O
