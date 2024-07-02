@@ -1,5 +1,5 @@
-270,000 customers affected in UK loan firm Wonga data breach - Help Net Security 
-Personal and financial data of some 270,000 customers of UK payday loan firm Wonga have likely been pilfered in a data breach.  | AttackDatabreach
+270,000 customers affected in UK loan firm Wonga data breach - Help Net Security | AttackDatabreach
+Personal and financial data of some 270,000 customers of UK payday loan firm Wonga have likely been pilfered in a data breach. | AttackDatabreach
 The data that was accessed by the attackers includes the name, e-mail address, home address, and phone number of around 245,000 customers in the UK and 25,000 customers in Poland, as well as the last four digits of their payment card number and/or their bank account number and sort code. | AttackDatabreach
 “We do not believe your Wonga account password was compromised and believe your [loan] account should be secure, however if you are concerned you should change your account password.  | AttackDatabreach
 We also recommend that you look out for any unusual activity across any bank accounts and online portals,” the company advised users.  | AttackDatabreach
