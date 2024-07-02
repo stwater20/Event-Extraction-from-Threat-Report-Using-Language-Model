@@ -1,4 +1,4 @@
-Epic Fail: TP-Link 3G Router Spews Admin Password via SMS
+Epic Fail: TP-Link 3G Router Spews Admin Password via SMS | AttackDatabrearch
 A particular TP-Link router model will spew out its admin password in cleatext to anyone that sends an SMS message to the router's SIM card with a particular script inside, according to German security researcher Jan Hörsch, who shared his findings with German newspaper Heise.de. | DiscoverVulnerability
 The vulnerability affects TP-Link model M5350, a 3G mobile Wi-Fi router, often distributed by mobile telco providers to their customers, along with a SIM card they insert in the router. | DiscoverVulnerability
 This SIM card allows the router to connect to the mobile operator's network, and just like any SIM card, has its own telephone number. | O
