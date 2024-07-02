@@ -1,4 +1,4 @@
-Attacks Detected with New Microsoft Office Zero-Day
+Attacks Detected with New Microsoft Office Zero-Day | O
 Microsoft is aware of the zero-day, but it's highly unlikely it will be able to deliver a patch until its next Patch Tuesday, which is scheduled in three days. | PatchVulnerability
 McAfee researchers, who disclosed the zero-day's presence, say they've detected attacks leveraging this unpatched vulnerability going back to January this year. | DiscoverVulnerability, PatchVulnerability
 Attacks with this zero-day follow a simple scenario, and start with an adversary emailing a victim a Microsoft Word document. | AttackPhishing
