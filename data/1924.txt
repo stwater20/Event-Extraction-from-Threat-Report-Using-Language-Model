@@ -1,4 +1,4 @@
-More LastPass flaws: researcher pokes holes in 2FA – Naked Security
+More LastPass flaws: researcher pokes holes in 2FA – Naked Security | DiscoverVulnerability
 Recently we’ve been writing about LastPass more than seems healthy. | O
 March saw two rounds of serious flaws made public by Google’s Tavis Ormandy (quickly fixed), which seemed like a lot for a single week. | DiscoverVulnerability, PatchVulnerability
 Days ago, news emerged of a new issue (also fixed) in the company’s two-factor/two-step authentication (2FA) security. | DiscoverVulnerability, PatchVulnerability
