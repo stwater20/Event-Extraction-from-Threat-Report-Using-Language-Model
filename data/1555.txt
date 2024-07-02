@@ -1,4 +1,4 @@
-Payday loan firm Wonga suffers data breach affecting up to 270,000  |  TechCrunch
+Payday loan firm Wonga suffers data breach affecting up to 270,000  |  TechCrunch | AttackDatabreach
 Payday loan firm Wonga has suffered a data breach affecting up to 245,000 customers in the U.K. A further 25,000 customers in Poland may also be affected, according to the BBC. | AttackDatabreach
 It says it does not believe customers’ Wonga account passwords were compromised but suggests concerned users change their password anyway. | AttackDatabreach
 Wonga is warning affected customers to be “extra vigilant” and to alert their bank of potential risk — though it says it will also be contacting financial institutions about the breach. | AttackDatabreach
