@@ -1,4 +1,4 @@
-Ciphr blames rival company for partial data dump of its users
+Ciphr blames rival company for partial data dump of its users | AttackDatabreach
 Ciphr, a company which offers encrypted communications for BlackBerry 10 and Samsung Knox smartphones, claims that a rival firm are behind a data dump of its customers' email addresses and their device's IMEI numbers. | AttackDatabreach
 A website displaying the alleged leaked data claims that "all Ciphr emails/servers have been compromised." | AttackDatabreach
 Two sources that use Ciphr on their phones told Motherboard the leak includes their information as well as the data of other users. | AttackDatabreach
