@@ -1,4 +1,4 @@
-No, Netflix is not a victim of Ransomware | CSO Online
+No, Netflix is not a victim of Ransomware | CSO Online | O
 Over the weekend, a hacker known as TheDarkOverlord resurfaced and released the first episode of season five for "Orange is the New Black" a popular show on Netflix that isn't slated to air until June. | AttackDatabreach
 A short time later, TheDarkOverlord released episodes 2 though 10, along with a warning to other Hollywood studios – you're next. | AttackDatabreach
 The media jumped on the story.  | O
@@ -15,7 +15,7 @@ According to TheDarkOverlord, Larson Studios was targeted because they were a po
 Late last year, TheDarkOverlord hacked Larson Studios and downloaded an unknown number of files.  | AttackDatabreach
 Plenty of reporters knew TheDarkOverlord had targeted Hollywood, but until this weekend there was never any proof. | O
 Fast forward a few months.  | O
-When Larson Studios didn't comply with the extortion demands, TheDarkOverlord turned their attention to Netflix.  | AttackRansom, Databreach
+When Larson Studios didn't comply with the extortion demands, TheDarkOverlord turned their attention to Netflix.  | AttackRansom, AttackDatabreach
 When Netflix refused to pay, season five (minus three episodes) of "Orange is the New Black" was released for download. | AttackDatabreach
 "It didn't have to be this way, Netflix.  | O
 You're going to lose a lot more money in all of this than what our modest offer was.  | O
@@ -24,6 +24,6 @@ We figured a pragmatic business such as yourselves would see and understand the 
 Netflix surpassed $2.5 billion in quarterly streaming revenue in Q1 2017, and added five million members to their subscriber base.  | O
 While having one of their popular series leaked to the web isn't exactly helpful, it isn't clear if there will be any financial impact from this incident. | O
 Once again, extortion and Ransomware are two separate things. | O
-Netflix and Larson Studios are (were) being extorted, they were not infected with Ransomware and have complete access to their files. | AttackRansom, Databreach
+Netflix and Larson Studios are (were) being extorted, they were not infected with Ransomware and have complete access to their files. | AttackRansom, AttackDatabreach
 However, there is a lesson to be learned.  | O
 Third-parties are always going to pose a risk to any organization, and this is certainly the case in Hollywood where secrecy and suspense are key to their business model. | O
