@@ -1,4 +1,4 @@
-QNAP NAS devices open to remote command execution - Help Net Security
+QNAP NAS devices open to remote command execution - Help Net Security | O
 If you’re using one of the many QNAP NAS devices and you haven’t yet upgraded the QTS firmware to version 4.2.4, you should do so immediately if you don’t want it to fall prey to attackers. | DiscoverVulnerability
 Among the vulnerabilities fixed by QNAP in this latest firmware version, released on March 21, are three command injection flaws in the web user interface that can be exploited to gain remote command execution on a vulnerable device as administrative user (root). | PatchVulnerability, DiscoverVulnerability
 And among these three, one can be exploited by an unauthenticated attacker, via a specially crafted HTTP request. | PatchVulnerability, DiscoverVulnerability
