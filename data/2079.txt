@@ -3,7 +3,7 @@ Sabre hires Mandiant to probe breach in hotel reservation system | Reuters | O
 "The unauthorized access has been shut off and there is no evidence of continued unauthorized activity," Sabre said in a statement. | O
 The company, which offers hotel and airline booking services, said it had informed law enforcement about the breach in its SynXis Central Reservations. | O
 Sabre does not believe any other system was affected. | O
-“32,000 properties use Sabre’s reservation system, so the attackers were able to penetrate a single system and potentially access 32,000 additional targets,” said Jeff Hill, Director of Product Management, Prevalent, which manages third-party risk. 
+“32,000 properties use Sabre’s reservation system, so the attackers were able to penetrate a single system and potentially access 32,000 additional targets,” said Jeff Hill, Director of Product Management, Prevalent, which manages third-party risk. | AttackDatabreach
 Mandiant did not immediately respond to a request for comment. | O
 Hotel groups are increasingly coming under attacks from hackers, who seek to steal payment card data. | AttackDatabreach
 InterContinental Hotels Group Plc said last month 1,200 of its franchised hotels in the United States, including Holiday Inn and Crowne Plaza, were victims of a three-month cyber attack. | O
