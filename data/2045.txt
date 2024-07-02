@@ -3,7 +3,7 @@ Researchers have discovered over 300 cybersquatting domains masquerading as real
 DomainTools used its PhishEye tool to search for domains registered by individuals to mimic those of Barclays, HSBC, Natwest, Lloyd’s and Standard Chartered. | AttackPhishing
 It found a whopping 324 registered domains abusing the trademarks of these lenders, including lloydstbs[.]com, standardchartered-bank[.]com and barclaysbank-plc[.]co.uk. | O
 “Imitation has long been thought to be the sincerest form of flattery, but not when it comes to domains,” explained DomainTools senior security researcher, Kyle Wilhoit. | O
-“While domain squatters of the past were mostly trying to profit from the domain itself, these days they’re often sophisticated cyber-criminals using the spoofed domain names for more malicious endeavors.”| O
+“While domain squatters of the past were mostly trying to profit from the domain itself, these days they’re often sophisticated cyber-criminals using the spoofed domain names for more malicious endeavors.” | O
 Cybersquatting can be used for a variety of ends, including redirecting the user to pay-per-click ads for the victim company’s competitors; for-profit survey sites, or ransomware and other forms of drive-by malware. | O
 However, one of the most common is to create a phishing page similar to the spoofed bank’s original, which will ask for log-ins or other banking and personal information. | AttackPhishing
 This years’ Verizon Data Breach Investigations Report (DBIR) claimed phishing has soared in popularity, present in a fifth (21%) of attacks, up from just 8% last year. | AttackPhishing
@@ -11,4 +11,4 @@ This years’ Verizon Data Breach Investigations Report (DBIR) claimed phishing 
 Users should remember to carefully inspect every domain they are clicking on or entering in their browser. | O
 Also, ensure you are watching redirects when you are going from site to site,” advised Wilhoit. | O
 “Brands can and should start monitoring for fraudulent domain name registrations and defensively register their own typo variants. | O
-It is better to lock down typo domains than to leave them available to someone else and at an average of £12 per year per domain, this is a relatively cheap insurance policy.”| O
+It is better to lock down typo domains than to leave them available to someone else and at an average of £12 per year per domain, this is a relatively cheap insurance policy.” | O
