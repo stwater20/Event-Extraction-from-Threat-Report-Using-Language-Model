@@ -1,4 +1,4 @@
-Mobile apps of 7 Indian banks compromised: FireEye - Business Line
+Mobile apps of 7 Indian banks compromised: FireEye - Business Line | O
 The mobile apps of seven banks in India were infected with malware that can steal sensitive financial information, a study has revealed. | AttackDatabreach
 According to US-based cyber security firm FireEye, banking network frauds have spread around the world. | O
 The firm has tracked such incidents that affected banks in Ukraine, Ecuador and India, with losses totalling more than $100 million. | AttackDatabreach
