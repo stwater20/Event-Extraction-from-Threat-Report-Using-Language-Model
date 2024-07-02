@@ -5,7 +5,7 @@ It does so by enforcing application whitelisting, full hard disk encryption, pro
 The found flaw can be exploited to remotely run code on a targeted ATM, increase the attacker’s privileges in the system, and compromise the machine completely. | DiscoverVulnerability
 “To exploit the vulnerability, a criminal would need to pose as the control server, which is possible via ARP spoofing, or by simply connecting the ATM to a criminal-controlled network connection,” researcher Georgy Zaytsev explained. | AttackPhishing
 “During the process of generating the public key for traffic encryption, the rogue server can cause a buffer overflow on the ATM due to failure on the client side to limit the length of response parameters and send a command for remote code execution. | O
-This can give an attacker full control over the ATM and allow a variety of manipulations, including unauthorized money withdrawal”.”| O
+This can give an attacker full control over the ATM and allow a variety of manipulations, including unauthorized money withdrawal”.” | O
 When informed of the vulnerability and provided with test exploits, GMV confirmed its existence and that it affects versions 4.x and 5.x of the software, and ultimately pushed out a patch, which users are urged to install as soon as possible. | DiscoverVulnerability, PatchVulnerability
 Exploitation not detected in the wild A company spokesperson has made sure to point out that there is no indication that the vulnerability has been exploited in attacks in the wild. | DiscoverVulnerability
 Also, that exploitation is not that easy, as the attacker must first gain access to the ATM network and log into the target system. | O
