@@ -4,7 +4,7 @@ The company rated 61 of the vulnerabilities as having critical impact. | O
 Among the products patched by Oracle are Oracle Database Server, Oracle Global Lifecycle Management, Oracle Fusion Middleware, Oracle E-Business Suite, Oracle PeopleSoft, Oracle Siebel CRM, Oracle Industry Applications, Oracle Java SE, Oracle Virtualization, Oracle MySQL and Oracle Sun Systems Products Suite. | PatchVulnerability 
 While there are issues of varying severity in the update, Oracle is blaming third-party components as being the cause of the majority of the critical issues. | O
 "It is fair to note that bugs in third-party components make up a disproportionate amount of severe vulnerabilities in this Critical Patch Update," Eric Maurice, director of security assurance at Oracle, wrote in a blog post. | O
-"90 percent of the critical vulnerabilities addressed in this Critical Patch Update are for non-Oracle CVEs."  | PatchVulnerability
+"90 percent of the critical vulnerabilities addressed in this Critical Patch Update are for non-Oracle CVEs." | PatchVulnerability
 Of the 334 issues fixed in the July Critical Patch Update, 37 percent were for third-party components included in Oracle product distributions. | PatchVulnerability
 While many flaws were from third-party libraries, there were also flaws in Oracle's own development efforts. | O
 Oracle's namesake database was patched for three issues, one of which is remotely exploitable without user authentication. | PatchVulnerability
