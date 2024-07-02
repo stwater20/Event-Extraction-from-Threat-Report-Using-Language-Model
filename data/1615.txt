@@ -1,6 +1,6 @@
-Tired: Stealing Data. Wired: Holding a Dam for Ransom - Defense One 
+Tired: Stealing Data. Wired: Holding a Dam for Ransom - Defense One | AttackDatabreach
 The spread of ransomware means government and critical infrastructure providers need to start gaming out responses, cyber watchers say. | AttackRansom
-A cadre of shadowy criminal hackers seizes control of an energy plant.  | AttackDatabreach, Ransom
+A cadre of shadowy criminal hackers seizes control of an energy plant. | AttackDatabreach, AttackRansom
 They give themselves administrator privileges and lock the genuine administrators out along with everyone else.  | AttackRansom
 Then, they threaten to trigger a major leak or explosion if the plant owners don’t pay up: $50 million in bitcoin. | AttackRansom
 The story sounds like a fantastical Hollywood plot.  | O
@@ -17,7 +17,7 @@ John Felker, director of the DHS’ main cybersecurity nerve center, the Nationa
  I’m probably going to have a chat with the folks at the fort about that,” he said during the same roundtable, referring to the National Security Agency’s home in Fort Meade, Maryland. | O
 While ransomware attacks against local governments are a common problem across the globe, NCCIC has not been called in on a ransomware attack against the federal government that threatened major destruction, Felker said. | AttackRansom
 When it comes to critical infrastructure, the major cyber fear has typically been an attack by an adversary nation or terrorist group looking to cause destruction and mayhem.  | AttackRansom
-For traditional criminal hackers interested in stealing marketable information such as credit card numbers, these targets held little interest. | AttackDatabreach, Ransom
+For traditional criminal hackers interested in stealing marketable information such as credit card numbers, these targets held little interest. | AttackDatabreach, AttackRansom
 Industrial systems such as dams are further protected because they operate using comparatively obscure industrial control systems not typically in the wheelhouse of hackers used to manipulating consumer software. | AttackRansom
 For ransomware attackers, however, industrial targets could prove lucrative because a hacker that controlled them would have the power to unleash terrible consequences if the ransom wasn’t paid, Grobman said, such as opening that New York dam’s floodgates. | AttackRansom
 Criminals also operate with a different calculus than nation-states, which makes them more difficult to deter, Grobman said. | O
