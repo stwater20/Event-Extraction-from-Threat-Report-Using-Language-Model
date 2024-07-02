@@ -1,4 +1,4 @@
-Malvertising campaign pushes data-collecting VPN on iOS users
+Malvertising campaign pushes data-collecting VPN on iOS users | AttackDatabreach
 A malvertising campaign is targeting iOS devices with a VPN that doesn't hide the fact it collects large quantities of users' information. | AttackDatabreach
 It also employs the aggressive tactic of playing a high-pitch beeping. | O
 To help address the "issues" the site provides a link to a program called "My Mobile Secure." | AttackPhishing
