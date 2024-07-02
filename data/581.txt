@@ -1,6 +1,6 @@
 Beware the latest tax-season spear-phishing scam – Naked Security
-https://nakedsecurity.sophos.com/2017/02/08/beware-the-latest-tax-season-spear-phishing-scam/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=baf57aed8b-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-baf57aed8b-455160889 
-2017_02_09 
+ 
+ 
 
 You may have heard of the CEO scam: that’s where spear-phishers impersonate a CEO to hit up a company for sensitive information. | AttackPhishing
 That’s what happened to Snapchat, when an email came in to its payroll department, masked as an email from CEO Evan Spiegel and asking for employee payroll information. | AttackPhishing

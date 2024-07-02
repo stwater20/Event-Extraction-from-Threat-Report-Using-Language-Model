@@ -1,6 +1,6 @@
 Smart teddy bear maker faces scrutiny over data breach response | CSO Online
-http://www.csoonline.com/article/3176024/security/smart-teddy-bear-maker-faces-scrutiny-over-data-breach-response.html 
-2017_03_01 
+ 
+ 
 
 That’s a key question swirling around Spiral Toys, a company behind a line of smart stuffed animals that security researchers worry can be easily hacked. | O
 On Tuesday, Spiral Toys said the breach, which affects 800,000 user accounts, only came to its attention last week on Feb 22. | AttackDatabreach

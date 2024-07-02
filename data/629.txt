@@ -1,6 +1,6 @@
 Open Databases a Juicy Extortion Target | Threatpost | The first stop for security news
-https://threatpost.com/open-databases-a-juicy-extortion-target/123688/ 
-2017_02_14 
+ 
+ 
 
 Recent attacks against insecure MongoDB, Hadoop and CouchDB installations represent a new phase in online extortion, born from ransomware’s roots with the promise of becoming a nemesis for years to come. | AttackRansom
 First spotted on Dec. 27 by Victor Gevers, an ethical hacker and founder of GDI Foundation, attacks in the past two months shot up from 200 to near 50,000. | O

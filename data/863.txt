@@ -1,6 +1,6 @@
 Yahoo cookie hacks affected 32 million accounts, CEO foregoes bonus | Ars Technica
-https://arstechnica.com/security/2017/03/marissa-mayer-forgoes-bonus-after-yahoo-botches-hack-investigation/ 
-2017_03_02 
+ 
+ 
 
 Yahoo CEO Marissa Mayer said she'll forego her 2016 bonus and any stock award for this year after the company admitted it failed to properly investigate hack attacks that compromised more than a billion user accounts. | AttackDatabreach
 Further ReadingYahoo admits it’s been hacked again, and 1 billion accounts were exposed "When I learned in September 2016 that a large number of our user database files had been stolen, I worked with the team to disclose the incident to users, regulators, and government agencies," she wrote in a note published Monday on Tumblr. | AttackDatabreach

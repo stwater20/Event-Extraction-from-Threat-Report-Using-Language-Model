@@ -1,6 +1,6 @@
 Nothing to see here? Banks' latest cybersecurity concern  | American Banker
-https://www.americanbanker.com/news/nothing-to-see-here-banks-latest-cybersecurity-concern 
-2017_02_09 
+ 
+ 
 
 Cyberattacks on banks and others have seemingly disappeared, making them all the more dangerous. | O
 Malicious software, the type criminals use to steal online banking login credentials from customer or employee desktops, has been getting more stealthy and effective over time, as its authors get progressively better at evading antivirus and antimalware programs. | AttackDatabreach

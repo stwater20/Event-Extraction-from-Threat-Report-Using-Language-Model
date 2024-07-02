@@ -1,6 +1,6 @@
 Mirai Gets a Windows Version to Boost Distribution Efforts
-https://www.bleepingcomputer.com/news/security/mirai-gets-a-windows-version-to-boost-distribution-efforts/ 
-2017_02_09 
+ 
+ 
 
 The Mirai malware was initially developed in late 2015 and early 2016, and only became a massive threat in the summer and autumn of 2016, when it spread to hundreds of thousands of routers and DVRs (deployed with smart cameras and CCTV systems). | O
 After crooks used a botnet of Mirai-infected devices to launch DDoS attacks on the KrebsOnSecurity blog, increased attention from law enforcement forced the malware's author to dump the Mirai source code online. | O

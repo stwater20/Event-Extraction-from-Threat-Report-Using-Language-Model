@@ -1,6 +1,6 @@
 Multiple security flaws found in mainstream robotic technologies - Help Net Security
-https://www.helpnetsecurity.com/2017/03/02/robotic-technologies-security/ 
-2017_03_02 
+ 
+ 
 
 IOActive exposed numerous vulnerabilities found in multiple home, business, and industrial robots available on the market today. | DiscoverVulnerability
 The array of vulnerabilities identified in the systems evaluated included many graded as high or critical risk, leaving the robots highly susceptible to attack. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 
-https://www.infosecurity-magazine.com/news/yahoo-execs-security-team-over/ 
-2017_03_02 
+ 
+ 
 
 Yahoo’s board has blamed unnamed senior executives and its legal team for failing to properly investigate a 2014 security incident which saw 500 million user accounts stolen by state-sponsored attackers. | AttackDatabreach
 In a lengthy SEC filing, the board claimed that in late 2014 the firm’s security team notified of targeted attacks against 26 users, who were subsequently informed, and law enforcement consulted. | O

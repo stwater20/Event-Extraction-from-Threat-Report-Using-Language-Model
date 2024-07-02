@@ -1,6 +1,6 @@
 High Severity BIND Vulnerability Can Lead to A Crash | Threatpost | The first stop for security news
-https://threatpost.com/high-severity-bind-vulnerability-can-lead-to-a-crash/123677/ 
-2017_02_10 
+ 
+ 
 
 The Internet Systems Consortium patched the BIND domain name system this week, addressing a remotely exploitable vulnerability it considers high severity and said could lead to a crash. | PatchVulnerability
 The issue affects servers that use both the DNS64 and RPZ function simultaneously. | DiscoverVulnerability

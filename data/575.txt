@@ -1,6 +1,6 @@
 Ransomware 2.0: Anatomy of an emerging multibillion business | CSO Online
-http://www.csoonline.com/article/3166062/techology-business/ransomware-20-anatomy-of-an-emerging-multibillion-business.html 
-2017_02_09 
+ 
+ 
 
 However, modern ransomware certainly merits a classification as one of the most evolving sectors of cybercrime in 2017. | O
 Though it is quite difficult to calculate the overall damage caused by ransomware in 2016, some researchers state that cybercriminals received over $1 billion in ransom payments last year. | AttackRansom

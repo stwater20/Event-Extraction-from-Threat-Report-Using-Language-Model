@@ -1,6 +1,6 @@
 Cloudflare Breach Had Potential To Be Much Worse
-http://www.darkreading.com/attacks-breaches/cloudflare-breach-had-potential-to-be-much-worse/d/d-id/1328308? 
-2017_03_03 
+ 
+ 
 
 A security lapse at content distribution network provider Cloudflare that resulted in customer data being leaked publicly for several months was bad - but had the potential to be much worse. | AttackDatabreach
 That's Cloudflare's initial postmortem conclusion after a twelve-day review of log data related to the breach. | AttackDatabreach

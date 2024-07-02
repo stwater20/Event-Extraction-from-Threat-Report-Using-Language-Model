@@ -1,6 +1,6 @@
 Millions of smart devices in Spain are vulnerable to attack - Help Net Security
-https://www.helpnetsecurity.com/2017/02/28/smart-devices-spain-vulnerable/ 
-2017_02_28 
+ 
+ 
 
 Avast revealed the findings of its research experiment into smart devices, including public and private webcam vulnerabilities in Spain, and, specifically, in Barcelona. | DiscoverVulnerability
 Avast identified more than 22,000 webcams and baby monitors in the city that are vulnerable to attack, which means that cybercriminals could livestream the videos directly to the Internet. | DiscoverVulnerability

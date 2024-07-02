@@ -1,6 +1,6 @@
 Cyber crooks' latest tricks for targeting Chrome users - Help Net Security
-https://www.helpnetsecurity.com/2017/02/22/tricks-targeting-chrome-users/ 
-2017_02_24 
+ 
+ 
 
 Chrome users have lately been targeted with a few unusual malware delivery and scam attempts. | O
 The first one comes from compromised WordPress sites that have been modified to include JavaScript that changes the text rendering. | AttackPhishing

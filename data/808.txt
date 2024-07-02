@@ -1,6 +1,6 @@
 Smart teddy bears involved in a contentious data breach | CSO Online
-http://www.csoonline.com/article/3175075/security/smart-teddy-bears-involved-in-a-contentious-data-breach.html 
-2017_02_28 
+ 
+ 
 
 The toys -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts. | AttackDatabreach
 The breach, which grabbed headlines on Monday, is drawing concerns from security researchers because it may have given hackers access to voice recordings from the toy's customers. | AttackDatabreach

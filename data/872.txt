@@ -1,6 +1,6 @@
 Cloudbleed Triggered 1.2M Times, Damage Kept to Minimum | Threatpost | The first stop for security news
-https://threatpost.com/cloudbleed-triggered-1-2m-times-damage-kept-to-minimum/124023/ 
-2017_03_03 
+ 
+ 
 
 Having had more than a week to digest Cloudbleed’s causes and impact, Cloudflare CEO Matthew Prince assessed the damage yesterday in a lengthy post-mortem as relatively low. | O
 Prince said there is no evidence the vulnerability, which leaked customer data from memory, was exploited by attackers. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Privacy Issue Discovered in Telegram Messaging App 
-https://www.infosecurity-magazine.com/news/privacy-issue-telegram-messaging/ 
-2017_03_02 
+ 
+ 
 
 Researchers from Fidelis Cybersecurity have unearthed an “interesting security issue” involving the popular messaging app Telegram. | DiscoverVulnerability
 One of the appeals of Telegram is that it has encryption options for Android and iOS, whereby it uses your contact list to prepopulate contacts inside the app. Also, when someone in your contact list signs up for Telegram, you receive a notification so you know you can contact them using the app. However, John Bambenek, threat systems manager, Fidelis Cybersecurity, revealed that the combination of these features has allowed the firm to uncover a big privacy problem. | DiscoverVulnerability

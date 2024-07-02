@@ -1,6 +1,6 @@
 A New Type of Malware Can Lock Power Plant Computers For Ransom - Motherboard
-https://motherboard.vice.com/en_us/article/a-new-type-of-malware-can-lock-power-plant-computers-for-ransom 
-2017_02_14 
+ 
+ 
 
 The hackers could then lock these computers  up and demand a ransom or else cause a blackout or poison the city's water. | AttackRansom
 While that's a scary scenario, it fortunately  hasn't happened—yet. | O

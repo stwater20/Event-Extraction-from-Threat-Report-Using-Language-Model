@@ -1,6 +1,6 @@
 Researchers demonstrate ransomware for industrial control systems - Help Net Security
-https://www.helpnetsecurity.com/2017/02/14/ransomware-ics/ 
-2017_02_14 
+ 
+ 
 
 We’ve witnessed ransomware targeting Windows and Linux systems and Macs, Android devices, smart TVs, and even a ransomware scheme targeting iPhone users (though not effected through malware). | O
 Initial targets of ransomware-wielding criminals were mostly individual users. | O

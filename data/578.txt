@@ -1,6 +1,6 @@
 Mac malware is still crude, but it’s slowly catching up to its Windows rivals | Ars Technica
-https://arstechnica.com/security/2017/02/mac-malware-has-a-way-to-go-but-its-slowly-catching-up-to-windows/ 
-2017_02_09 
+ 
+ 
 
 Malicious Microsoft Word documents that abuse macros have long been the bane of Windows users. | O
 Now, security researchers have found what may be the first such real-world attack to infect Macs. | O

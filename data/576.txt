@@ -1,6 +1,6 @@
 Triada Replaces Hummingbad as No 1 Mobile Threat 
-https://www.infosecurity-magazine.com/news/triada-replaces-hummingbad-as-no-1/ 
-2017_02_08 
+ 
+ 
 
 Hummingbad has been replaced as the top mobile malware threat. It has been usurped by Triada, a modular backdoor for Android. | O
 According to Check Point Security, Triada grants super-user privileges to downloaded malware, helping it to be embedded into system processes. It has also been seen spoofing URLs loaded in the browser. And in January, based on data from the World Cyber Threat Map, Triada edged past Hummingbad, ending that baddie’s year-long reign. | O

@@ -1,6 +1,6 @@
 Ransomware 'customer support' chat reveals criminals' ruthlessness | CSO Online
-http://www.csoonline.com/article/3173987/security/ransomware-customer-support-chat-reveals-criminals-ruthlessness.html 
-2017_02_27 
+ 
+ 
 
 Ransomware criminals chatting up victims, offering to delay deadlines, showing how to obtain Bitcoin, dispensing the kind of customer support that consumers lust for from their cable and mobile plan providers, PC and software makers? | AttackRansom
 Finnish security vendor F-Secure yesterday released 34 pages of transcripts from the group chat used by the crafters of the Spora ransomware family. | O

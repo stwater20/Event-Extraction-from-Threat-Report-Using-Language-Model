@@ -1,6 +1,6 @@
 
-https://www.infosecurity-magazine.com/news/chinese-voip-kit-contains-backdoor/ 
-2017_03_03 
+ 
+ 
 
 Researchers at Trustwave are warning of a hidden backdoor in VoIP devices produced by Chinese manufacturer DBL Technology which could allow access by the manufacturer or malicious third parties. | DiscoverVulnerability
 The issue is with the authentication process, allowing a remote attacker to gain a shell with root privileges on an affected device, Trustwave researcher Neil Kettle explained in a blog post. ｜DiscoverVulnerability

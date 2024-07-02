@@ -1,6 +1,6 @@
 Cloudflare chief pledges third-party review of code – Naked Security
-https://nakedsecurity.sophos.com/2017/03/02/cloudflare-chief-pledges-third-party-review-of-code/?utm_source=Naked+Security+-+Sophos+List&utm_campaign=cd410ebc90-naked%252Bsecurity&utm_medium=email&utm_term=0_31623bb782-cd410ebc90-455160889 
-2017_03_03 
+ 
+ 
 
 Bad as Cloudbleed is, there’s no evidence attackers exploited it before the patch was deployed. | DiscoverVulnerability,PatchVulnerability
 But since the vulnerability was triggered more than 1.2m times from 6,500 sites, Cloudflare is taking no chances: the company has tapped an outside company, Veracode, to scour its code. | O

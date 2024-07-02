@@ -1,6 +1,6 @@
 Movie night? Nope. It's a fake iTunes receipt from phishers targeting Apple users
-https://www.grahamcluley.com/itunes-movie-phishing/ 
-2017_02_27 
+ 
+ 
 
 A new phishing campaign is using a fake iTunes receipt for movie purchases to compromise Apple users' sensitive information. | AttackPhishing
 Fortinet researchers first spotted the phishing campaign over the weekend of 17 February. | AttackPhishing

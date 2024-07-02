@@ -1,6 +1,6 @@
 Avast Exposes Internet of Things Attack Risk in Barcelona, Home of Mobile World Congress 2017 | Business Wire
-http://www.businesswire.com/news/home/20170227005485/en/Avast-Exposes-Internet-Attack-Risk-Barcelona-Home 
-2017_02_28 
+ 
+ 
 
 Half a million smart devices including webcams and baby monitors in the city are currently vulnerable to cyber attack. | DiscoverVulnerability
 BARCELONA, Spain--(BUSINESS WIRE)--Avast, the leader in digital security products for consumers and businesses, today reveals the findings from its latest research experiment into smart devices, including public and private webcam vulnerabilities in Spain, and, specifically, in Barcelona. | DiscoverVulnerability

@@ -1,6 +1,6 @@
 Banks around the world hit with fileless malware - Help Net Security
-https://www.helpnetsecurity.com/2017/02/08/banks-fileless-malware/ 
-2017_02_09 
+ 
+ 
 
 Kaspersky Lab researchers have brought to light a series of attacks leveraged against 140+ banks and other businesses around the world. | O
 But what makes these attacks unusual is the criminals’ use of widely used legitimate tools and fileless malware, which explains why the attacks went largely unnoticed. | O

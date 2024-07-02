@@ -1,0 +1,31 @@
+Credit Card Stealer Disguises as Google Chrome Browser
+  
+  
+ 
+The app is still active at the time of writing and sends collected user details to an AOL email address. | AttackDatabreach 
+Discovered today by MalwareHunter, this application goes above and beyond of what other card stealers have attempted, most of which are half-baked efforts, often easy to recognize as malicious applications thanks to their quirky graphics and misaligned designs. | O
+This app, named "Betaling - Google Chrome.exe", tries to pass as the Google Chrome browser and does a good job at it. | O
+Betaling isn't a perfect Google Chrome, though, as there are a few clues that experienced users can spot. | O
+For starters, the malicious app requires users to have installed a minimum version of .NET Framework 4.0 or higher, a requirement the real Google Chrome never had. | O
+Second, the app also uses the standard Windows 8/8.1/10 Metro style, even when running on a Windows 7 PC. | O
+Third, while Betaling tries to trick users into thinking it's the real Chrome, outside of the lock icon and the address bar, the rest of the Chrome UI is missing, such as the tab bar, the menu, Chrome buttons, and others. | AttackPhishing 
+Users can't resize the window, can't minimize it, can't make it fullscreen, can't drag it, and can't enter a new URL. | O
+Nevertheless, much less sophisticated malware has been able to infect hundreds or thousands of users in the past, which means Betaling and its UI can be quite effective. | O
+Several security researchers who've taken a look at Betaling were impressed by its carefully crafted design. | O
+Non-infosec people thought Betaling was a phishing page loaded inside a Chrome browser, and only some time later realized they weren't looking at a Chrome window to begin with. | AttackPhishing 
+Currently, Betaling's interface is only available in Dutch, which reveals the malware's current target. | O
+The form displayed inside the fake Chrome window isn't blind to user input like most phishing pages, and some data validation takes place, yielding two sorts of errors. | O
+If correct the data is entered, Betaling collects all information and sends it to an AOL email address at whatsapp.hack@aol.com. | AttackDatabreach 
+This email address was discovered when security researchers analyzed the application's source code. | O
+Accessing its inbox, they've discovered recent logs, including the test data entered during Bleeping Computer's tests, meaning the app works just fine. | O
+Besides recent logs from Betaling, researchers also found logs from an unidentified keylogger. | O
+These logs went back as far as January 2016 and included details from victims from all over the world. | O
+"It's been long since he got any [keylogger] logs," said a security researcher that goes by the name of Guido, who also analyzed the malware. | O
+Guido, who already reported the malware to authorities, says the initial entries for the keylogger logs contained a series of recurring email addresses. | O
+Common sense dictates these are the author's own emails, which he used for testing, during the keylogger's development and subsequent rollout. | O
+These two emails, patrick***@live.nl and patrick*******@gmail.com, are also linked to accounts on the Spokeo social network. | O
+Furthermore, Betaling's PDB file includes a compilation path of "C:\Users\Patrick\", and the Betaling EXE file is also self-signed by an invalid certificate authority named "CN = DESKTOP-PC\Patrick". | O
+Both mentions of the "Patrick" name are consistent with the two email addresses found in the keylogger's first log entries. | O
+It's now up to authorities to investigate and determine if the owner of the two email addresses is behind Betaling or not. | O
+Furthermore, Guido told Bleeping Computer that in August 2016, "Patrick" sent an email from the AOL account to ankit******@speedpost.net asking for help with a "stealer" that was having several bugs. | O
+ 

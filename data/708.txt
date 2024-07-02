@@ -1,6 +1,6 @@
 Anatomy of a cyber attack explained at HIMSS17  | Health Data Management
-https://www.healthdatamanagement.com/news/anatomy-of-a-cyber-attack-explained-at-himss17 
-2017_02_22 
+ 
+ 
 
 In March 2014, Boston Children’s Hospital learned the worst possible security news—from a third-party vendor with no formal relationship to the facility. | O
 That vendor told the pediatric facility that it had seen online documents threatening the hospital, as well as posted documents with information on physicians such as cell phone numbers, addresses and work locations. | AttackDatabreach

@@ -1,6 +1,6 @@
 Most Mobile VPNs Have Major Security Concerns | WIRED
-https://www.wired.com/2017/02/beware-mobile-vpns-arent-safe-seem/ 
-2017_02_09 
+ 
+ 
 
 Between an industry-wide push to encrypt all web traffic and the newfound popularity of secure chat apps, it's been a boom time for online privacy. | O
 Virtual private networks, which shield your web traffic from prying eyes, have rightly garnered more attention as well. | O

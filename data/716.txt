@@ -1,6 +1,6 @@
 Cyber-Espionage Group Uses Microphones and Dropbox to Spy on Ukrainian Targets
-https://www.bleepingcomputer.com/news/security/cyber-espionage-group-uses-microphones-and-dropbox-to-spy-on-ukrainian-targets/ 
-2017_02_23 
+ 
+ 
 
 Researchers identified over 70 organizations targeted in these attacks, with most located in Ukraine, and especially in the self-declared separatist states of Donetsk and Luhansk, near the Russian border. | O
 The target list includes editors of Ukrainian newspapers, a scientific research institute; a company that designs remote monitoring systems for oil & gas pipeline infrastructures; an international organization that monitors human rights, counter-terrorism and cyberattacks on critical infrastructure in Ukraine; and an engineering company that designs electrical substations, gas distribution pipelines, and water supply plants; among many others. | O

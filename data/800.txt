@@ -1,6 +1,6 @@
 1500 companies in over 100 countries hit by malicious Adwind backdoor RAT
-https://www.grahamcluley.com/1500-companies-in-over-100-countries-targeted-by-adwind-backdoor/ 
-2017_02_28 
+ 
+ 
 
 More than 1,500 companies in over 100 countries have suffered an infection at the hands of the Adwind Remote Access Tool (RAT). | O
 Discovered by researchers at Kaspersky Lab, this new attack campaign suggests that Adwind, a multifunctional backdoor which has targeted more than 450,000 individual users (including Mac lovers) since 2013, has developed a taste for business victims. | O

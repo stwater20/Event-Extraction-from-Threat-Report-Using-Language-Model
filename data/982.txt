@@ -1,0 +1,10 @@
+CVE-2017-5638: Apache Struts 2 Vulnerability Leads to Remote Code Execution - TrendLabs Security Intelligence Blog
+  
+  
+ 
+Apache Struts is a free and open-source framework used to build Java web applications. | O
+We looked into past several Remote Code Execution (RCE) vulnerabilities reported in Apache Struts, and observed that in most of them, attackers have used Object Graph Navigation Language (OGNL) expressions. | DiscoverVulnerability 
+The use of OGNL makes it easy to execute arbitrary code remotely because Apache Struts uses it for most of its processes. | DiscoverVulnerability 
+Using OGNL, a researcher found a new remote code execution vulnerability in Apache Struts 2, designated as CVE-2017-5638. | DiscoverVulnerability 
+An exploit has been reported to be already in the wild. | DiscoverVulnerability 
+ 

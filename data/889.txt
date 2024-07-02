@@ -1,6 +1,6 @@
 Singapore Reveals Cyber Attack on Defense Ministry | The Diplomat
-http://thediplomat.com/2017/03/singapore-reveals-cyber-attack-on-defense-ministry/ 
-2017_03_06 
+ 
+ 
 
 The breach indicates even more capable Asian states are struggling to confront cyber threats.
 On February 28, Singapore’s defense ministry (MINDEF) disclosed that a breach in an Internet-connected system earlier this month had resulted in the personal data of 850 national servicemen and employees being stolen. | AttackDatabreach

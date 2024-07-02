@@ -1,6 +1,6 @@
 Researcher develops ransomware attack that targets water supply | CSO Online
-http://www.csoonline.com/article/3169592/security/researcher-develops-ransomware-attack-that-targets-water-supply.html 
-2017_02_14 
+ 
+ 
 
 He's experimented with a simulated water treatment system based on actual programmable logic controllers (PLCs) and documented how these can be hacked. | O
 David Formby, a PhD student at Georgia Institute of Technology, conducted his experiment to warn the industry about the danger of poorly-secured PLCs. | O

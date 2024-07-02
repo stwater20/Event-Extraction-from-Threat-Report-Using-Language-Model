@@ -1,6 +1,6 @@
 IoT Smart Dust – The Next Internet of Zombies (Learn More - Video) - American Security Today
-https://americansecuritytoday.com/iot-smart-dust-next-internet-zombies-learn-video/ 
-2017_02_15 
+ 
+ 
 
 The Internet of Things (IoT) is placing an unprecedented number of unsecured devices on the Internet every day that are being leveraged by hackers to steal data and to launch Denial of Service Attacks (DDoS). | AttackDatabreach
 These devices are coming in the form of thermostats, refrigerators, pet feeders, cameras, healthcare devices, and more. | O

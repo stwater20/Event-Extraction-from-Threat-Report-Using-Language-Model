@@ -1,6 +1,6 @@
 Macs Feel More Crypto-Locker Ransomware Love - BankInfoSecurity
-http://www.bankinfosecurity.com/blogs/macs-feel-more-crypto-locker-ransomware-love-p-2399 
-2017_02_27 
+ 
+ 
 
 One tried-and-true technique continues to be hiding malware inside fake versions of popular files, then distributing those fake versions via app stores. | AttackPhishing
 Doing the same via peer-to-peer BitTorrent networks has also long been popular. | O

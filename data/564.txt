@@ -1,6 +1,6 @@
 A rash of invisible, fileless malware is infecting banks around the globe | Ars Technica
-https://arstechnica.com/security/2017/02/a-rash-of-invisible-fileless-malware-is-infecting-banks-around-the-globe/ 
-2017_02_09 
+ 
+ 
 
 Further ReadingStepson of Stuxnet stalked Kaspersky for months, tapped Iran nuke talksTwo years ago, researchers at Moscow-based Kaspersky Lab discovered their corporate network was infected with malware that was unlike anything they had ever seen. | O
 Virtually all of the malware resided solely in the memory of the compromised computers, a feat that had allowed the infection to remain undetected for six months or more. | O

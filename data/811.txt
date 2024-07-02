@@ -1,6 +1,6 @@
 Boeing Notifies 36,000 Employees Following Breach | Threatpost | The first stop for security news
-https://threatpost.com/boeing-notifies-36000-employees-following-breach/123942/ 
-2017_02_28 
+ 
+ 
 
 A Boeing employee inadvertently leaked the personal information of 36,000 of his co-workers late last year when he emailed a company spreadsheet to his non-Boeing spouse. | AttackDatabreach
 Forty-seven states, including Washington, have legislation on the books that requires companies or government entities to disclose whenever there’s been a breach of personally identifiable information. | AttackDatabreach

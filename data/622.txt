@@ -1,6 +1,6 @@
 Banks around the world targeted in watering hole attacks - Help Net Security
-https://www.helpnetsecurity.com/2017/02/14/banks-watering-hole-attacks/ 
-2017_02_14 
+ 
+ 
 
 The January attacks against Polish financial institutions through the booby-trapped site of the Polish Financial Supervision Authority are just one piece of a larger puzzle, elements of which are slowly coming to light. | AttackPhishing
 As the indicators of compromise and attack were shared by the affected banks, other institutions around the world found that they have been hit, as well. | O

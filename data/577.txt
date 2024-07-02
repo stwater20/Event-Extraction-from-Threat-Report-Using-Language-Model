@@ -1,6 +1,6 @@
 New Malware Underscores the Danger of Assumed Mac Security | The Mac Security Blog
-https://www.intego.com/mac-security-blog/new-malware-underscores-the-danger-of-assumed-mac-security/ 
-2017_02_09 
+ 
+ 
 
 This week researchers found a piece of malware in the wild, built to steal passwords from the macOS keychain. | AttackDatabreach
 Named "MacDownloader" and posing as, what else, a fake Flash Player update, the new malware was found on the Mac of a human rights advocate and believed to originate from Iran. | AttackPhishing
