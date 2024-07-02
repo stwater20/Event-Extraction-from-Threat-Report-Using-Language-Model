@@ -1,12 +1,11 @@
 Unity 3D Forums Hacked by OurMine Hacking Group | O
 The OurMine hackers are back in the news again. | O
 This time the group hacked and defaced the official domain of Unity 3D Forums leaving a deface page along with a note over the weekend. | O
-The hack which took place on 30th April allowed the Saudi Arabia-based OurMine hacking group to compromise the forum’s security and leave a note stating “Hacked by OurMine, Your Security is low.”| O
+The hack which took place on 30th April allowed the Saudi Arabia-based OurMine hacking group to compromise the forum’s security and leave a note stating “Hacked by OurMine, Your Security is low.” | O
 Unity 3D administrators have acknowledged the hack but stated that no password was stolen in the attack and that the 2FA Authentication will be introduced to the forums for better security. | AttackDatabreach
 Furthermore, the administrators are also planning to bring Device Identification and Password Policy on the forums. | O
 According to the official statement from Unity 3D: | O
-Thanks to everyone that have reached out about our forums being compromised – we are on it! | O
-— Unity (@unity3d) April 30, 2017 | O
+Thanks to everyone that have reached out about our forums being compromised – we are on it! — Unity (@unity3d) April 30, 2017 | O
 One of the team members from Unity stated on Reddit that: | O
 After the hack, the Unity 3D forums was down for maintenance though at the time of publishing this article the forums were online and reachable. | O
 However, if you have an account on Unity 3D forums it is advised that you change your password. | O
