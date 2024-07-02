@@ -1,12 +1,12 @@
-Hacker Leaks Episodes From Netflix Show and Threatens Other Networks - The New York Times
-A hacker who claims to have stolen unreleased television shows from several major networks shared the coming season of the Netflix series “Orange Is the New Black” on Saturday after the person said the streaming service failed to meet its ransom requests. | AttackDatabreach, Ransom
+Hacker Leaks Episodes From Netflix Show and Threatens Other Networks - The New York Times | AttackDatabreach
+A hacker who claims to have stolen unreleased television shows from several major networks shared the coming season of the Netflix series “Orange Is the New Black” on Saturday after the person said the streaming service failed to meet its ransom requests. | AttackDatabreach, AttackRansom
 The breach appears to have occurred at the postproduction company Larson Studios, a popular digital-mixing service in Los Angeles for television networks and movie studios.  | AttackDatabreach
 The hacker or hackers, who go by the name “thedarkoverlord,” also claim to have stolen unreleased content from ABC, Fox, National Geographic and IFC.  | AttackDatabreach
 The Federal Bureau of Investigation learned of the episode at Larson Studios in January but did not start notifying the content companies until a month ago. | AttackDatabreach
 A message to Larson Studios was not immediately returned. | O
 On Twitter, thedarkoverlord suggested that other networks would have their shows released next. | AttackRansom
 “Oh, what fun we’re all going to have,” the hacker said. | O
-“We’re not playing any games anymore.”| Ransom
+“We’re not playing any games anymore.”| AttackRansom
 Netflix had announced this year that Season 5 of “Orange Is the New Black” would be released June 9, and it was not immediately clear whether it planned to move up the release date. | O
 In a statement, Netflix said: “We are aware of the situation. | O 
 A production vendor used by several major TV studios had its security compromised and the appropriate law enforcement authorities are involved.” | AttackDatabreach
@@ -19,6 +19,6 @@ The statement continued: “We’re quite ashamed to breathe the same air as you
 We figured a pragmatic business such as yourselves would see and understand the benefits of cooperating with a reasonable and merciful entity like ourselves.” | O
 The hacker threatened to release content from other studios on Saturday if its demands were not met. | AttackRansom
 ABC, Fox and IFC declined to comment, and a message to National Geographic was not immediately returned. | O
-The alias thedarkoverlord has popped up in other recent attacks, including one last January on a small charity in Muncie, Ind., the Little Red Door Cancer Services of East Central Indiana. | AttackDatabreach, Ransom
+The alias thedarkoverlord has popped up in other recent attacks, including one last January on a small charity in Muncie, Ind., the Little Red Door Cancer Services of East Central Indiana. | AttackDatabreach, AttackRansom
 In that case, the hackers wiped the organization’s servers and backup servers, and demanded 50 bitcoins — valued at $43,000 — to restore the data. | AttackRansom
 The organization did not pay. | AttackRansom
