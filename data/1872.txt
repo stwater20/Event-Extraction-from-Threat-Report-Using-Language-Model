@@ -1,4 +1,4 @@
-Northrop Grumman can make a stealth bomber – but can't protect its workers' W-2 tax forms • The Register
+Northrop Grumman can make a stealth bomber – but can't protect its workers' W-2 tax forms • The Register | O
 Northrop Grumman has admitted one of its internal portals was broken into, exposing employees' sensitive tax records to miscreants. | AttackDatabreach
 In a letter [PDF] to workers and the California Attorney General's office, the aerospace contractor said that between April 18, 2016 and March 29, 2017, crooks infiltrated the website, allowing them to access staffers' W-2 paperwork for the 2016 tax year. | AttackDatabreach
 These W-2 forms can be used by identity thieves to claim tax rebates owed to employees, allowing the crims to pocket victims' money.  | AttackDatabreach
