@@ -1,6 +1,6 @@
-Android SMS Spyware Sees Millions of Downloads
+Android SMS Spyware Sees Millions of Downloads | O
 An Android SMS-based spyware dubbed SMSVova, which can steal and relay a victim's location to an attacker in real time, has been downloaded between one and five million times since 2014 from the US Google Play store. | AttackDatabreach
-Zscaler ThreatLabz found that the app claimed to give users access to the latest Android software updates, but in fact was being used to spy on a user’s exact geolocation, which could have been used for any number of malicious reasons. | AttackDatabreach, Phishing
+Zscaler ThreatLabz found that the app claimed to give users access to the latest Android software updates, but in fact was being used to spy on a user’s exact geolocation, which could have been used for any number of malicious reasons. | AttackDatabreach, AttackPhishing
 Despite clear red flags, millions downloaded it. | AttackDatabreach
 “The app portrays itself as a ‘System Update,’” the firm’s researchers explained, in a blog. | AttackPhishing
 “After reading the app reviews, it became clear that several users were misled by the app, thinking that it would provide them with the latest Android release. Many users were unhappy with the app and conveyed their concerns.” | AttackPhishing
