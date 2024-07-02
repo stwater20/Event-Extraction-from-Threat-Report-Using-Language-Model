@@ -1,4 +1,4 @@
-Amnesia botnet targeting DVRs, Palo Alto report
+Amnesia botnet targeting DVRs, Palo Alto report | DiscoverVulnerability
 Over a quarter of a million devices used with DVRs around the globe are susceptible to a new botnet its discoverers have dubbed Amnesia. | DiscoverVulnerability
 Unit 42 researchers at Palo Alto Networks announced on Thursday their detection of a new variant of the IoT/Linux botnet Tsunami, which they are referring to as Amnesia. | O
 The Amnesia botnet looks for an unpatched remote code execution vulnerability affecting DVR (digital video recorder) appliances manufactured by China-based TVT Digital and identified in nearly identical products from more than 70 global vendors. | DiscoverVulnerability
