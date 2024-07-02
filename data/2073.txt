@@ -13,6 +13,6 @@ According to him and BeyondSecurity, whose SecuriTeam coordinated the disclosure
 Golunski found it in version 4.3.1 of the CMS. | DiscoverVulnerability
 “WordPress has a password reset feature that contains a vulnerability which might in some cases allow attackers to get hold of the password reset link without previous authentication. | DiscoverVulnerability
 Such attack could lead to an attacker gaining unauthorized access to a victim’s WordPress account,” BeyondSecurity explained. | O
-“The vulnerability stems from WordPress using untrusted data by default when creating a password reset e-mail that is supposed to be delivered only to the e-mail associated with the owner’s account.”| O
+“The vulnerability stems from WordPress using untrusted data by default when creating a password reset e-mail that is supposed to be delivered only to the e-mail associated with the owner’s account.” | O
 Golunski says that the issue was reported to the WordPress security team multiple times, but they did not confirm whether it has been patched. | DiscoverVulnerability, PatchVulnerability
 He ultimately decided to publish his findings, and offer a temporary solution (“users can enable UseCanonicalName to enforce static SERVER_NAME value”). | DiscoverVulnerability, PatchVulnerability
