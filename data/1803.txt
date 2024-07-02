@@ -1,4 +1,4 @@
-Ambient Light Sensors Can Be Used to Steal Browser Data
+Ambient Light Sensors Can Be Used to Steal Browser Data | AttackDatabreach
 Sensors used to detect the level of ambient light can be used to steal browser data, according to privacy expert Lukasz Olejnik. | AttackDatabreach
 Over the past decade, ambient light sensors have become quite common in smartphones, tablets, and laptops, where they are used to detect the level of surrounding light and automatically adjust a screen's intensity to optimize battery consumption... and other stuff. | O
 The sensors have become so prevalent, that the World Wide Web Consortium (W3C) has developed a special API that allows websites (through a browser) to interact with a device's ambient light sensors. | DiscoverVulnerability
