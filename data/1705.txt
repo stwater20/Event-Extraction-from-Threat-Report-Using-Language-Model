@@ -1,4 +1,4 @@
-Ransomware Recap: Tougher Tactics and Evasion Techniques
+Ransomware Recap: Tougher Tactics and Evasion Techniques | AttackRansom
 Ransomware authors are nothing if not persistent.  | O
 They continue to try new evasion techniques, new programming languages, new naming conventions, and even more forceful demand tactics to pressure victims into paying. | AttackRansom
 One new technique involves packaging ransomware in RarSFX executable files.  | O
