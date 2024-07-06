@@ -4,10 +4,10 @@ The scheduled update comes less than a week after Adobe released several out-of-
 That’s a use-after-free flaw enabling arbitrary code-execution in Flash. | O
 
 The addressed critical vulnerabilities are myriad this month. | O
-The arbitrary code-execution problems include: two buffer errors; two untrusted pointer dereference glitches; three heap-overflow issues, five out-of-bounds write flaws, 24 use-after-free bugs. | O
+The arbitrary code-execution problems include: two buffer errors; two untrusted pointer dereference glitches; three heap-overflow issues, five out-of-bounds write flaws, 24 use-after-free bugs. | DiscoverVulnerability
 Adobe also patched three other critical-rated issues that could lead to privilege escalation; these are all security bypass problems. | PatchVulnerability
 
 In addition to the critical bugs, Adobe also patched 43 out-of-bounds read flaws, four integer overflow problems and two security bypass issues, all of which could allow information disclosure. | PatchVulnerability
 Adobe has characterized all of the flaws, both critical and important, as “priority two” for patching, which means that the software giant deems them to be unlikely to be imminently exploited in the wild, but patching within 30 days is recommended. | PatchVulnerability, DiscoverVulnerability
-The flaws are far-reaching and affect various implementations of Acrobat DC, Acrobat Reader DC, Acrobat 2017 and Acrobat Reader 2017 for macOS and Windows, in classic 2015, classic 2017 and continuous-track versions. | DiscoverVulnerability
+The flaws are far-reaching and affect various implementations of Acrobat DC, Acrobat Reader DC, Acrobat 2017 and Acrobat Reader 2017 for macOS and Windows, in classic 2015, classic 2017 and continuous-track versions. | O
 All can be mitigated by updating to the most current versions of the software. | PatchVulnerability
