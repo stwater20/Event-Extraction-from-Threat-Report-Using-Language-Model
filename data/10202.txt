@@ -10,7 +10,7 @@ The flaw was reported by Icebrg in collaboration with Qihoo 360 Core Security. |
 "While this attack leveraged a zero-day exploit, individual attacker actions do not happen in isolation. | O
 There are several other behavioural aspects that can be used for detection. | O
 Any single observable might be low confidence but multiple observables clustered might be indicative of suspicious or malicious activity," said Icebrg staff in its blog post. | O
-Of course, this is not the first instance wherein Flash Player's vulnerabilities have been exploited. | DiscoverVulnerability
+Of course, this is not the first instance wherein Flash Player's vulnerabilities have been exploited. | O
 Back in October last year, the company had issued a security patch to fix a critical leak. | PatchVulnerability
 Users have been strongly recommended to update Adobe Flash in order to avoid any such vulnerabilities seeping into your machines. | O
 The update, however, is not a guarantee towards protection against future discrepancies. | O
