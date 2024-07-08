@@ -1,8 +1,5 @@
-Barts Health Trust launches cyber attack probe - BBC News
- 
- 
-
-Barts Health Trust, which runs The Royal London, St Bartholomew's, Whipps Cross, Mile End and Newham hospitals, is investigating the breach. | O
+Barts Health Trust launches cyber attack probe - BBC News | O
+   Barts Health Trust, which runs The Royal London, St Bartholomew's, Whipps Cross, Mile End and Newham hospitals, is investigating the breach. | O
 The trust said it could now rule out ransomware, in which email recipients are tricked into opening attachments which contain viruses, as the cause. | AttackPhishing
 It has not confirmed how much of its system was affected but said there was no sign that patient data was accessed. | AttackDatabreach
 In a statement said: "We are urgently investigating this matter and have taken a number of drives offline as a precautionary measure. | O

@@ -1,8 +1,5 @@
-London NHS hospital trust hit by cyber-attack | Technology | The Guardian
- 
- 
-
-The largest NHS trust in England has been hit by a cyber-attack that could affect thousands of files across at least four London hospitals. | O
+London NHS hospital trust hit by cyber-attack | Technology | The Guardian | O
+   The largest NHS trust in England has been hit by a cyber-attack that could affect thousands of files across at least four London hospitals. | O
 Barts health trust, which runs five hospitals in east London – the Royal London, St Bartholomew’s, Whipps Cross, Mile End and Newham – has sent a message to staff urging them not to open email attachments from unknown senders. | O
 “We are urgently investigating this matter and have taken a number of drives offline as a precautionary measure, a Barts spokeswoman said. | O
 “We have tried and tested contingency plans in place and are making every effort to ensure that patient care will not be affected”. | O

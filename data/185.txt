@@ -1,8 +1,5 @@
-Shadow Brokers leak NSA-linked Microsoft hacking tools - CyberScoop
- 
- 
-
-The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday. | AttackDatabreach
+Shadow Brokers leak NSA-linked Microsoft hacking tools - CyberScoop | DiscoverVulnerability
+   The mysterious group that claims to have stolen digital weapons once used by the National Security Agency published a trove of active Microsoft Windows software exploits on Thursday. | AttackDatabreach
 The code dump, accompanied by a farewell message written in broken English by the enigmatic group the Shadow Brokers, confirms claims implicit in an earlier post Sunday. | AttackDatabreach
 While the prior message showed filenames, directories and screenshots — implying the existence of these capabilities — along with an associated price tag, today’s download provides functional code. | O 
 Of the 61 files provided in total in the newly released set, only one had ever been catalogued by anti-virus databases, based on a VirusTotal scan conducted earlier Thursday morning. | O 

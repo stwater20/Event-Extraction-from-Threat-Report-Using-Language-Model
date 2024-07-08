@@ -1,8 +1,5 @@
-Operation EyePyramid: Two Siblings Spied on Italy's Elite
- 
- 
-
-The two hired the services of a local programmer to develop their own brand of malware, a backdoor trojan, which authorities have named EyePyramid. | O 
+Operation EyePyramid: Two Siblings Spied on Italy's Elite | O
+   The two hired the services of a local programmer to develop their own brand of malware, a backdoor trojan, which authorities have named EyePyramid. | O 
 The men used simple spear-phishing emails sent to the high-ranking officials they wanted to infect. | AttackPhishing
 The emails came with a file attachment, which when opened would covertly install their malware. | O 
 EyePyramid would collect information from the target's system, such as passwords, sensitive documents, and more. | AttackDatabreach

@@ -1,8 +1,5 @@
-A Dark Web Child Porn Site Is Forcing Its Visitors to Learn Security Tips - Motherboard
- 
- 
-
-Whether cops are going undercover to learn more about suspects, or deploying hacking tools to unmask them on a mass scale, each side is always trying to stay one step ahead of the other. | O 
+A Dark Web Child Porn Site Is Forcing Its Visitors to Learn Security Tips - Motherboard | O
+   Whether cops are going undercover to learn more about suspects, or deploying hacking tools to unmask them on a mass scale, each side is always trying to stay one step ahead of the other. | O 
 Apparently in response to law enforcement's use of malware, one dark web child pornography site recently started redirecting visitors to a page with additional security advice if their browser runs JavaScript. | O 
 "At [child pornography site] we have always had a big JavaScript warning if you have it enabled," one user on a dark web child abuse site wrote in December of last year. | DiscoverVulnerability
 JavaScript is sometimes used as a delivery mechanism for a browser exploit; meaning that if users turn it on, they may make themselves vulnerable to attack, which could ultimately reveal their identity. | O 

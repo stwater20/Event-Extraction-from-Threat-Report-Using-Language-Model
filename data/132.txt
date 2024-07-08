@@ -1,8 +1,5 @@
-Will 2017 be the year of ransomworm? - Help Net Security
- 
- 
-
-It’s safe to say that 2016 was the year of ransomware.
+Will 2017 be the year of ransomworm? - Help Net Security | AttackRansom
+   It’s safe to say that 2016 was the year of ransomware.
 More specifically, the year of crypto-ransomware, that nefarious variant that encrypts files and holds them captive until a ransom is paid. | AttackRansom
 Since the release of Cryptolocker in late 2013, crypto-ransomware has exploded, and 2016 was a banner year. | O 
 As a matter of fact, according to the FBI, cyber criminals used ransomware to steal more than $209 million from U.S. businesses in just the first quarter of 2016. | AttackRansom

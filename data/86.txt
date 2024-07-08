@@ -1,8 +1,5 @@
-KillDisk cyber sabotage tool evolves into ransomware | ITworld
- 
- 
-
-KillDisk was one of the components associated with the Black Energy malware that a group of attackers used in December 2015 to hit several Ukrainian power stations, cutting power for thousands of people. | O
+KillDisk cyber sabotage tool evolves into ransomware | ITworld | AttackRansom
+   KillDisk was one of the components associated with the Black Energy malware that a group of attackers used in December 2015 to hit several Ukrainian power stations, cutting power for thousands of people. | O
 A month before that, it was used against a major news agency in Ukraine. | O
 Since then, KillDisk has been used in other attacks, most recently against several targets from the shipping sector, according to security researchers from antivirus vendor ESET. | O
 However, the latest versions have evolved and now act like ransomware. | O

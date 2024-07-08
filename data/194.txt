@@ -1,8 +1,5 @@
-Why the "WhatsApp-backdoor" is not a WhatsApp-backdoor - slashcrypto's page
- 
- 
-
-A researcher discovered, that WhatsApp (or Facebook) could force the WhatsApp mobile client to generate new encryption keys. | DiscoverVulnerability
+Why the "WhatsApp-backdoor" is not a WhatsApp-backdoor - slashcrypto's page | O
+   A researcher discovered, that WhatsApp (or Facebook) could force the WhatsApp mobile client to generate new encryption keys. | DiscoverVulnerability
 Due to this, WhatsApp would be able to intercept the key exchange and - of course - would be able to intercept the messages. | DiscoverVulnerability
 This is how a man-in-the-middle attack works and it only works when both parties - which are communicating with each other - do not verify the fingerprints of the exchanged keys. | O 
 Signal and WhatsApp are using a concept called “TOFU” or “Trust on first use”. | O 

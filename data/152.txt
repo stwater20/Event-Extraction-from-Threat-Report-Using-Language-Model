@@ -1,8 +1,5 @@
-The Unpatched LSASS Remote Denial of Service (MS16-137) | Core Security
- 
- 
-
-In November 8, 2016 Microsoft released a security update for Windows Authentication Methods (MS16-137) which included 3 CVEs: | O 
+The Unpatched LSASS Remote Denial of Service (MS16-137) | Core Security | O
+   In November 8, 2016 Microsoft released a security update for Windows Authentication Methods (MS16-137) which included 3 CVEs: | O 
 Talking specifically about CVE-2016-7237, this fix was applied to "lsasrv.dll", which affected the LSASS service. | PatchVulnerability
 The vulnerability affected all Windows versions, either 32 or 64 bits, and was reported and later described in more detail by Laurent Gaffié (@PythonResponder) the same day that the fix was published. | DiscoverVulnerability,PatchVulnerability
 He also published proof-of-concept (PoC) code triggering the vulnerability. | O 

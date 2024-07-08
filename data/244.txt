@@ -1,8 +1,5 @@
-Router Vulnerabilities Disclosed in July Remain Unpatched | Threatpost | The first stop for security news
- 
- 
-
-Details on serious vulnerabilities in a number of routers freely distributed by a major Thai ISP were published on Monday after private disclosures made to the vendors in July went unanswered. | DiscoverVulnerability
+Router Vulnerabilities Disclosed in July Remain Unpatched | Threatpost | The first stop for security news | O
+   Details on serious vulnerabilities in a number of routers freely distributed by a major Thai ISP were published on Monday after private disclosures made to the vendors in July went unanswered. | DiscoverVulnerability
 Researcher Pedro Ribeiro of Agile Information Security found accessible admin accounts and command injection vulnerabilities in ZyXel and Billion routers distributed by TrueOnline, Thailand’s largest broadband company. | DiscoverVulnerability
 Ribeiro said he disclosed the vulnerabilities through Beyond Security’s SecuriTeam Secure Disclosure Program, which contacted the affected vendors last July. | DiscoverVulnerability
 Ribeiro published a proof of concept exploit yesterday as well. | DiscoverVulnerability

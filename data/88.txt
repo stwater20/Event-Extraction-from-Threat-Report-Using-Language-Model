@@ -1,8 +1,5 @@
-Ransomware masquerades as CV - Enterprise Times
- 
- 
-
-Researchers at security vendor Check Point have warned of a ransomware attack targeting HR departments. | AttackRansom
+Ransomware masquerades as CV - Enterprise Times | AttackRansom
+   Researchers at security vendor Check Point have warned of a ransomware attack targeting HR departments. | AttackRansom
 This attack is currently targeted at German speaking companies and pretends to be a job application. | AttackPhishing,Ransom
 Researchers say that the email comes with two attachments. | O
 A covering letter which is a standard PDF and an Excel file containing the GoldenEye variant of the Petya ransomware. | O

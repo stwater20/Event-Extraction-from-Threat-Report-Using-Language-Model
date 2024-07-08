@@ -1,8 +1,5 @@
-Dangerous New Gmail Phishing Attack Gaining Steam
- 
- 
-
-But sometimes that simple precaution isn't enough.
+Dangerous New Gmail Phishing Attack Gaining Steam | AttackPhishing
+   But sometimes that simple precaution isn't enough.
 A case in point is a dangerous phishing technique targeting Gmail users that first surfaced about one year ago but has begun gaining steam in recent weeks. | O
 Wordfence, the maker of a security plugin for Wordpress, described the phishing attack as beginning with an adversary sending an email to a target’s Gmail account. | AttackPhishing
 The email typically will originate from someone on the recipient’s contact list whose own account had previously been compromised. | O

@@ -1,8 +1,5 @@
-Experts Warn of Novel PDF-based Phishing Scam | Threatpost | The first stop for security news
- 
- 
-
-The SANS Internet Storm Center published a warning on Wednesday about an active phishing campaign that utilizes PDF attachments in a novel ploy to harvest email credentials from victims. | AttackPhishing
+Experts Warn of Novel PDF-based Phishing Scam | Threatpost | The first stop for security news | AttackPhishing
+   The SANS Internet Storm Center published a warning on Wednesday about an active phishing campaign that utilizes PDF attachments in a novel ploy to harvest email credentials from victims. | AttackPhishing
 According to the SANS bulletin, the email has the subject line “Assessment document” and the body contains a single PDF attachment that claims to be locked. | O
 A message reads: “PDF Secure File UNLOCK to Access File Content”. | O
 Clicking on a link to unlock the document opens the PDF document using the computer’s default viewer. | O

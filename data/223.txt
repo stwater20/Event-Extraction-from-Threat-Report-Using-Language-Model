@@ -1,8 +1,5 @@
-Cerber Ransomware Distributed By A New RIG Campaign
- 
- 
-
-A brand new RIG campaign has been registered over the past few days. | O
+Cerber Ransomware Distributed By A New RIG Campaign | AttackRansom
+   A brand new RIG campaign has been registered over the past few days. | O
 According to Heimdal Security, it’s been targeting the old versions of popular applications such as Internet Explorer, Microsoft Edge, or Flash, in order to distribute the Cerber ransomware. | O
 The campaign involves a number of malicious domains to launch drive-by attacks against unsuspecting visitors and relies on their failure to update applications regularly. | O
 Nevertheless, according to Heimdal Security, just the outdated versions of Internet Explorer, Silverlight, Flash Player, and Microsoft Edge are targeted. | O

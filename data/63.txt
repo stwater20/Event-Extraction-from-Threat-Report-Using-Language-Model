@@ -1,8 +1,5 @@
-Botnet-Powered Iot Devices Create New Avenues Of Attack Says New Report By Surfwatch Labs 
- 
- 
-
- The leading cybercrime trend this year is botnets powered by compromised Internet-of-Things (IoT) devices according to the new report by cyber threat intelligence provider SurfWatch Labs. | O
+Botnet-Powered Iot Devices Create New Avenues Of Attack Says New Report By Surfwatch Labs | O
+    The leading cybercrime trend this year is botnets powered by compromised Internet-of-Things (IoT) devices according to the new report by cyber threat intelligence provider SurfWatch Labs. | O
 In 2016, the amount of data collected on service interruption rose 162% over the year prior due to cybercriminals’ use of massive distributed-denial-of-service (DDoS) attacks against a popular security blog as well as hosting and domain name providers. | AttackDatabreach
 Cybercrime incidents via the supply chain also spiked sharply this year. | O
 Threat data collected and evaluated by SurfWatch Labs shows that the percentage of cybercrime linked to third parties nearly doubled over the past year – and that only includes publicly disclosed breaches. | O

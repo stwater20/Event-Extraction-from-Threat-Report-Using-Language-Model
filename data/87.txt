@@ -1,8 +1,5 @@
  
- 
-
-UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware. | AttackPhishing
-An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”. | AttackPhishing
+  UK police are warning that fraudsters are posing as Department of Education officials in order trick schools into installing ransomware. | AttackPhishing An Action Fraud notice claimed that the fraudsters have been cold calling education institutions pretending to be government officials and socially engineering the victim into giving them the email address of the head teacher, in order to send across “sensitive information”. | AttackPhishing
 The resulting email contains a .zip attachment loaded with ransomware that will apparently demand up to £8000 to recover the files. | AttackRansom
 Action Fraud claimed similar cases have been noted where the fraudsters pretend to be calling from the Department for Work and Pensions, or even telecom providers. | AttackPhishing
 The newly reported incidents represent an escalation in tactics designed to get ransomware on the networks of targets presumably selected because they may be relatively poorly secured, and be willing to pay a high penalty to gain access back to their data. | AttackRansom,Phishing

@@ -1,8 +1,5 @@
-Ultrasound Tracking Could Be Used to Deanonymize Tor Users
- 
- 
-
-This attack model was brought to light towards the end of 2016 by a team of six researchers, who presented their findings at the Black Hat Europe 2016 security conference in November and the 33rd Chaos Communication Congress held last week. | O
+Ultrasound Tracking Could Be Used to Deanonymize Tor Users | AttackDatabreach
+   This attack model was brought to light towards the end of 2016 by a team of six researchers, who presented their findings at the Black Hat Europe 2016 security conference in November and the 33rd Chaos Communication Congress held last week. | O
 When the ad plays on a TV or radio, or some ad code runs on a mobile or computer, it emits ultrasounds that get picked up by the microphone of nearby laptops, desktops, tablets or smartphones. | O
 Speaking at last week's 33rd Chaos Communication Congress, Vasilios Mavroudis, one of the six researchers, detailed a deanonymization attack on Tor users that leaks their real IP and a few other details. | AttackDatabreach
 The attack that the research team put together relies on tricking a Tor user into accessing a web page that contains ads that emit ultrasounds or accessing a page that contains hidden JavaScript code that forces the browser to emit the ultrasounds via the HTML5 Audio API. | AttackPhishing

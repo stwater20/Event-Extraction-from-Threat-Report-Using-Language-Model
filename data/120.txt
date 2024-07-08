@@ -1,8 +1,5 @@
-Adobe Flash provides six of the top 10 bugs used by exploit kits in 2016
- 
- 
-
-Published December 7, 2016 5:50 pm in Adobe, Adobe Flash, Malware, Ransomware, Vulnerability  O | O 
+Adobe Flash provides six of the top 10 bugs used by exploit kits in 2016 | O
+   Published December 7, 2016 5:50 pm in Adobe, Adobe Flash, Malware, Ransomware, Vulnerability  O | O 
 Of the top 10 vulnerabilities incorporated by exploit kits in 2016, six of them (rather unsurprisingly) affected Adobe Flash Player. | O 
 Real-time threat intelligence provider Recorded Future arrived at those findings by analyzing thousands of sources including information security blogs and deep web forum postings. | O 
 Recorded Future then ranked each vulnerability based upon how many web references linked the bug to at least one of 141 exploit kits, malicious software packages like Neutrino and RIG which abuse security flaws to infect users with TrickBot and other malware. | DiscoverVulnerability

@@ -1,8 +1,5 @@
-Attacks on Phones of Bitcoin Moguls Continue with Recent KeepKey Security Breach
- 
- 
-
-According to Darin Stanchfield, KeepKey founder and CEO, the attack took place on Christmas Day, December 25, when an unknown attacker had activated a new phone number with Stanchfield's Verizon account. | O
+Attacks on Phones of Bitcoin Moguls Continue with Recent KeepKey Security Breach | AttackDatabreach
+   According to Darin Stanchfield, KeepKey founder and CEO, the attack took place on Christmas Day, December 25, when an unknown attacker had activated a new phone number with Stanchfield's Verizon account. | O
 This allowed the attacker to request a password reset for his Verizon email account, but receive the password reset details on the newly activated phone number. | O
 A few minutes later, the attacker had taken over Stanchfield's email account and proceeded to request password resets for several services where the KeepKey founder had used that email address to register profiles. | O
 In no time, the attacker had taken over several of Stanchfield's accounts on other sites, such as KeepKey's official Twitter account, and several of KeepKey's side services, such as accounts for sales distribution channels and email marketing software. | O

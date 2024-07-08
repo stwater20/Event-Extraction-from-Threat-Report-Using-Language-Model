@@ -1,8 +1,5 @@
-WhatsApp Says 'Backdoor' Claim Bogus | Threatpost | The first stop for security news
- 
- 
-
-Claims of a backdoor in WhatsApp that could be used for third-party snooping were shot down by WhatsApp, which called the allegations false. | DiscoverVulnerability
+WhatsApp Says 'Backdoor' Claim Bogus | Threatpost | The first stop for security news | DiscoverVulnerability
+   Claims of a backdoor in WhatsApp that could be used for third-party snooping were shot down by WhatsApp, which called the allegations false. | DiscoverVulnerability
 On Friday, news outlet The Guardian reported that a cryptography researcher had discovered a backdoor in WhatsApp’s messaging service that could “allow Facebook and others to intercept and read encrypted messages”. | DiscoverVulnerability
 In a short statement, WhatsApp said the claim was false: | O
 “WhatsApp does not give governments a ‘backdoor’ into its systems and would fight any government request to create a backdoor. | O

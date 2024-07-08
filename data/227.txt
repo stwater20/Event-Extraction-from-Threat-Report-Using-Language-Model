@@ -1,8 +1,5 @@
-SWIFT systems of three Indian banks compromised to create fake trade documents - Help Net Security
- 
- 
-
-Since last year’s revelation that attackers have compromised SWIFT software of Bangladesh’s central bank and used it to perform fraudulent transfers worth tens of millions, news about similar attacks – both successful and not – have become a regular occurrence. | AttackPhishing
+SWIFT systems of three Indian banks compromised to create fake trade documents - Help Net Security | O
+   Since last year’s revelation that attackers have compromised SWIFT software of Bangladesh’s central bank and used it to perform fraudulent transfers worth tens of millions, news about similar attacks – both successful and not – have become a regular occurrence. | AttackPhishing
 Attackers usually use banks’ compromised SWIFT system to send information about fraudulent financial transactions, but in attacks aimed at three government-owned banks in India, they chose to create fake trade documents such as letters of credit and guarantees. | AttackPhishing
 A letter of credit allows the sellers to be sure that they will get paid once they prove that the sold goods have been provided, as the buyer’s bank – the institution that issued the letter of credit – is obliged to release the money, even if the buyer is unable to make payment. | O
 Bank guarantees are documents that guarantee that the bank will release an agreed-upon sum either to the seller or the buyer in case the other party ultimately can’t provide the goods or the cash. | O

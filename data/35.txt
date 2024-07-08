@@ -1,8 +1,5 @@
-The GRU-Ukraine Artillery Hack That May Never Have Happened
- 
- 
-
-“It’s pretty high confidence that Fancy Bear had to be in touch with the Russian military,” Dmitri Alperovich told Forbes. | O
+The GRU-Ukraine Artillery Hack That May Never Have Happened | AttackDatabreach
+   “It’s pretty high confidence that Fancy Bear had to be in touch with the Russian military,” Dmitri Alperovich told Forbes. | O
 Crowdstrike’s core argument has three premises: | O
 If all of these premises were true, then Crowdstrike’s prior claim that Fancy Bear must be affiliated with the GRU [4] would be substantially supported by this new finding. | O
 Dmitri referred to it in the PBS interview as “DNA evidence”. | O
