@@ -1,8 +1,5 @@
-640,000 Decrypted PlayStation Accounts Being Sold on DarkWeb
-  
-  
- 
-Last week HackRead exclusively reported on a vendor selling over 1 million Gmail and Yahoo accounts on a Dark Web marketplace. | AttackDatabreach 
+640,000 Decrypted PlayStation Accounts Being Sold on DarkWeb | O
+   Last week HackRead exclusively reported on a vendor selling over 1 million Gmail and Yahoo accounts on a Dark Web marketplace. | AttackDatabreach 
 Now, the same vendor is back with yet another listing and this time the victims are PlayStation users. | O
 The vendor who goes by the handle of “SunTzu583” is selling 640,000 accounts of PlayStation users in just USD 35.71 (0.0292 BTC) stolen from an unknown database. | AttackDatabreach 
 These accounts contain emails along with their clear-text passwords. | O

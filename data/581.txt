@@ -1,8 +1,5 @@
-Beware the latest tax-season spear-phishing scam – Naked Security
- 
- 
-
-You may have heard of the CEO scam: that’s where spear-phishers impersonate a CEO to hit up a company for sensitive information. | AttackPhishing
+Beware the latest tax-season spear-phishing scam – Naked Security | AttackPhishing
+   You may have heard of the CEO scam: that’s where spear-phishers impersonate a CEO to hit up a company for sensitive information. | AttackPhishing
 That’s what happened to Snapchat, when an email came in to its payroll department, masked as an email from CEO Evan Spiegel and asking for employee payroll information. | AttackPhishing
 Here’s a turn of that same type of screw: the Internal Revenue Service (IRS) last week sent out an urgent warning about a new tax season scam that wraps the CEO fraud in with a W-2 scam, then adds a dollop of wire fraud on top. | O
 A W-2 is a US federal tax form, issued by employers, that has a wealth of personal financial information, including taxpayer ID and how much an employee was paid in a year. | O

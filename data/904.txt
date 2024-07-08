@@ -1,8 +1,5 @@
-Phishing scam uses myGov to pull personal information - Security - CRN Australia
-  
-  
- 
-The bad guys send along a URL, since removed, that perfectly mirrors the real Australian site with the email requesting the person verify their identity, according to Malwarebytes. | AttackPhishing 
+Phishing scam uses myGov to pull personal information - Security - CRN Australia | AttackPhishing
+   The bad guys send along a URL, since removed, that perfectly mirrors the real Australian site with the email requesting the person verify their identity, according to Malwarebytes. | AttackPhishing 
 Once on the fake landing page the victim is asked to input their login credentials, then the crooks take the unusual, and nervy, step of asking for many different pieces of information. | AttackPhishing 
 Malwarebytes said the fake site asks for a high-resolution image, front and back, of the person's driver's license, passport be uploaded. | O
 But the bad guys are not satisfied even with this gift, they then ask for the victim to link their banking account with the site and supply account numbers, mother's maiden name, phone number and telephone passcode. | O

@@ -1,8 +1,5 @@
-ISP Blocks TeamViewer Because of Tech Support Scammers
-  
-  
- 
-"Since this afternoon, I have been unable to use Teamviewer through a TalkTalk connection," said the first user that complained about the block, saying that TeamViewer works fine from his mobile 4G connection, but not his home TalkTalk line. | O
+ISP Blocks TeamViewer Because of Tech Support Scammers | O
+   "Since this afternoon, I have been unable to use Teamviewer through a TalkTalk connection," said the first user that complained about the block, saying that TeamViewer works fine from his mobile 4G connection, but not his home TalkTalk line. | O
 Tens of other users followed suite and shared similar experiences. | O
 As it became clear to all that TalkTalk had banned TeamViewer on its network, the company admitted the issues through a representative. | O
 Apologies for the confusion, but I can confirm that we have implemented a number of  network changes that have blocked a number of applications including Teamviewer | O

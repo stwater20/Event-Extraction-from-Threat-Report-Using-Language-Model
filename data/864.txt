@@ -1,8 +1,5 @@
-Yahoo execs botched its response to 2014 breach, investigation finds | CSO Online
- 
- 
-
-Unfortunately, Yahoo didn't, according to a new internal investigation.
+Yahoo execs botched its response to 2014 breach, investigation finds | CSO Online | AttackDatabreach
+   Unfortunately, Yahoo didn't, according to a new internal investigation.
 The internet pioneer, which reported a massive data breach involving 500 million user accounts in September, actually knew an intrusion had occurred back in 2014, but allegedly botched its response. | AttackDatabreach
 The findings were made in a Yahoo securities exchange filing on Wednesday that offered more details about the 2014 breach, which the company has blamed on a state-sponsored hacker. | O
 That breach, which only became public last year, involved the theft of user account details such as email addresses, telephone numbers, and hashed passwords. | AttackDatabreach

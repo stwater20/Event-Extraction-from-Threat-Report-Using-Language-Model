@@ -1,8 +1,5 @@
-Java and Python Contain Security Flaws That Allow Attackers to Bypass Firewalls
- 
- 
-
-The problems arise from the way Java and Python (through the urllib2 library in Python 2 and urllib library in Python 3) handle FTP links, which allow the attacker to inject newline (CRLF) characters inside the URL, making the Java and Python code think some parts of the URL are new commands. | DiscoverVulnerability
+Java and Python Contain Security Flaws That Allow Attackers to Bypass Firewalls | O
+   The problems arise from the way Java and Python (through the urllib2 library in Python 2 and urllib library in Python 3) handle FTP links, which allow the attacker to inject newline (CRLF) characters inside the URL, making the Java and Python code think some parts of the URL are new commands. | DiscoverVulnerability
 This leads to a flaw that security researchers call "protocol injection." | DiscoverVulnerability
 The FTP protocol injection issue was first detailed by Russian security lab ONsec in 2014, but never got the public attention it needed. | DiscoverVulnerability
 Two recent reports have raised the profile of this flaw, describing two new exploitation scenarios. | DiscoverVulnerability

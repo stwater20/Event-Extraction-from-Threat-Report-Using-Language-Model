@@ -1,8 +1,5 @@
-This Android Trojan pretends to be Flash security update but downloads additional malware | ZDNet
- 
- 
-
-Malware tricks users into opening Android Accessibility menu, enabling the attacker to mimic users' clicks and select anything displayed on their screen. | AttackPhishing
+This Android Trojan pretends to be Flash security update but downloads additional malware | ZDNet | O
+   Malware tricks users into opening Android Accessibility menu, enabling the attacker to mimic users' clicks and select anything displayed on their screen. | AttackPhishing
 The Android Trojan can mimic the user's clicks and actions. | O
 A new form of Trojan malware targeting Android smartphones is duping victims into downloading a fake security update for Adobe Flash Player, which then makes them even more susceptible to malicious software. | AttackPhishing
 The malware is ultimately designed to monitor the users' activity for the purposes of stealing data, mimicking their actions in order to generate funds from fraudulent adware installations, and enabling the installation of various other types of malware --  including ransomware. | AttackDatabreach

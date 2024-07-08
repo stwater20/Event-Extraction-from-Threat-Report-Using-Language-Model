@@ -1,8 +1,5 @@
-WikiLeaks Files Show the CIA Repurposing Hacking Code to Save Time, Not to Frame Russia
-  
-  
- 
-Attributing hacking attacks to the correct perpetrators is notoriously difficult. 
+WikiLeaks Files Show the CIA Repurposing Hacking Code to Save Time, Not to Frame Russia | O
+   Attributing hacking attacks to the correct perpetrators is notoriously difficult. 
 Even the U.S. government, for all its technical resources and expertise, took warranted criticism for trying to pin a high-profile 2014 cyberattack on North Korea, and more recently faced skepticism when it blamed Russia for hacks against top Democrats during the 2016 election. | O
 In those cases, government officials said they based their attribution in part on software tools the hackers employed, which had been used in other cyberattacks linked to North Korea and Russia. | O
 But that sort of evidence is not conclusive; hackers have been known to intentionally use or leave behind software and other distinctive material linked to other groups as part of so-called false flag operations intended to falsely implicate other parties. | O

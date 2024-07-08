@@ -1,8 +1,5 @@
-Cisco Warns of High Severity Bug in NetFlow Appliance | Threatpost | The first stop for security news
-  
-  
- 
-Warning the device is susceptible to denial of service attacks, Cisco Systems on Wednesday released a patch for its NetFlow Generation Appliance. | DiscoverVulnerability,PatchVulnerability 
+Cisco Warns of High Severity Bug in NetFlow Appliance | Threatpost | The first stop for security news | O
+   Warning the device is susceptible to denial of service attacks, Cisco Systems on Wednesday released a patch for its NetFlow Generation Appliance. | DiscoverVulnerability,PatchVulnerability 
 The flaw traces back to the hardware’s Stream Control Transmission Protocol (SCTP) used by the appliance, according to a Cisco Security Advisory posted Wednesday. | DiscoverVulnerability 
 Cisco warns the vulnerability, “could allow an unauthenticated, remote attacker to cause the device to hang or unexpectedly reload, causing a denial of service (DoS) condition”. | DiscoverVulnerability 
 The bug (CVE-2017-3826) is due to incomplete validation of SCTP packets being monitored on the NGA data ports, Cisco wrote. | O

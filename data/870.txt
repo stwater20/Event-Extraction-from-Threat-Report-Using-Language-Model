@@ -1,8 +1,4 @@
-
- 
- 
-
-Researchers at Trustwave are warning of a hidden backdoor in VoIP devices produced by Chinese manufacturer DBL Technology which could allow access by the manufacturer or malicious third parties. | DiscoverVulnerability
+   Researchers at Trustwave are warning of a hidden backdoor in VoIP devices produced by Chinese manufacturer DBL Technology which could allow access by the manufacturer or malicious third parties. | DiscoverVulnerability
 The issue is with the authentication process, allowing a remote attacker to gain a shell with root privileges on an affected device, Trustwave researcher Neil Kettle explained in a blog post. ｜DiscoverVulnerability
 “The Telnet interface of the GoIP is documented as providing information for users of the device through the use of logins ‘ctlcmd’ and ‘limitsh’. | O
 However, an additional undocumented user, namely ‘dbladm’ is present which provides root level shell access on the device. | O

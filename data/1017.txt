@@ -1,8 +1,5 @@
-Danes targeted by malware spread through Dropbox | CSO Online
-  
-  
- 
-According to a research report by AppRiver, the attack hit Denmark, Germany, and several surrounding Scandinavian countries on Wednesday morning. | O
+Danes targeted by malware spread through Dropbox | CSO Online | O
+   According to a research report by AppRiver, the attack hit Denmark, Germany, and several surrounding Scandinavian countries on Wednesday morning. | O
 The attack was unusual in that it narrowly targeted a specific audience, said Troy Gill, security analyst at AppRiver. | O
 "Somehow, they found this language-based list of email addresses," he said. | O
 Dropbox is an attractive avenue for malware because it is a popular service, and because email providers are increasingly putting stringent limits on the kinds of files that can be sent as attachments. | O

@@ -1,8 +1,5 @@
-Latest Huawei Security Advisory Highlights a Privilege Elevation Vulnerability
- 
- 
-
-Huawei has just announced a new vulnerability that is currently possible on both the Huawei Honor 7 and the Huawei Mate S. This is said to be a privilege elevation vulnerability that is possible thanks to an arbitrary file upload in Huawei Themes. | DiscoverVulnerability
+Latest Huawei Security Advisory Highlights a Privilege Elevation Vulnerability | O
+   Huawei has just announced a new vulnerability that is currently possible on both the Huawei Honor 7 and the Huawei Mate S. This is said to be a privilege elevation vulnerability that is possible thanks to an arbitrary file upload in Huawei Themes. | DiscoverVulnerability
 The vulnerability already has an update ready to fix it and devices susceptible to this simply needs to apply the latest update to be safe from it. | PatchVulnerability
 As of right now, we don’t have any details about how quickly this update is going out to devices though. | O
 Huawei tells us this vulnerability was initially reported to Huawei PSIRT by Nicky (Wu Huiyu). | DiscoverVulnerability

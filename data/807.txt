@@ -1,8 +1,5 @@
-Creepy IoT teddy bear leaks &gt;2 million parents’ and kids’ voice messages | Ars Technica
- 
- 
-
-A maker of Internet-connected stuffed animal toys has exposed more than 2 million voice recordings of children and parents, as well as e-mail addresses and password data for more than 800,000 accounts. | AttackDatabreach
+Creepy IoT teddy bear leaks &gt;2 million parents’ and kids’ voice messages | Ars Technica | O
+   A maker of Internet-connected stuffed animal toys has exposed more than 2 million voice recordings of children and parents, as well as e-mail addresses and password data for more than 800,000 accounts. | AttackDatabreach
 He said searches using the Shodan computer search engine and other evidence indicated that, since December 25 and January 8, the customer data was accessed multiple times by multiple parties, including criminals who ultimately held the data for ransom. | AttackDatabreach,Ransom
 The recordings were available on an Amazon-hosted service that required no authorization to access. | O
 The data was exposed by Spiral Toys, maker of the CloudPets line of stuffed animals. | AttackDatabreach

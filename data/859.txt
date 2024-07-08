@@ -1,8 +1,5 @@
-6 dangerous toys that are not child's play | CSO Online
- 
- 
-
-The most recent breach of smart teddy bears -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts. | AttackDatabreach
+6 dangerous toys that are not child's play | CSO Online | O
+   The most recent breach of smart teddy bears -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts. | AttackDatabreach
 The company behind the products, Spiral Toys, is denying that any customers were hacked. | O
 Zach Lanier, director of research at Cylance, went through the more famous incidents involving toys and breaches and offers a tip with each case. | O
 This may have given attackers access to voice recordings from the toy's customers, by allegedly making the mistake of storing the customer information in a publicly exposed online MongoDB database that required no authentication process. | AttackDatabreach

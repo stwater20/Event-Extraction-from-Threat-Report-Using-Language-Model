@@ -1,8 +1,5 @@
-WikiLeaks Publishes Biggest Leak of Secret CIA Documents | SIGNAL Magazine
-  
-  
- 
-WikiLeaks is posting thousands of files Tuesday the organization says detail the CIA’s efforts to surveil overseas targets by tapping otherwise ordinary devices that are connected to the Internet. | AttackDatabreach 
+WikiLeaks Publishes Biggest Leak of Secret CIA Documents | SIGNAL Magazine | O
+   WikiLeaks is posting thousands of files Tuesday the organization says detail the CIA’s efforts to surveil overseas targets by tapping otherwise ordinary devices that are connected to the Internet. | AttackDatabreach 
 The anti-secrecy group launched a “new series of leaks,” this time taking aim at the CIA’s Center for Cyber Intelligence, which falls under the agency’s Digital Innovation Directorate. | O
 The group maintains the CIA’s center lost control of its hacking arsenal, including malware, viruses, trojans, weaponized "zero day" exploits, malware remote control systems and associated documentation, and is posting what it calls the "largest-ever publication of confidential documents on the agency." | O
 The dump comprises 8,761 documents and files from a network of the Center for Cyber Intelligence. | AttackDatabreach 

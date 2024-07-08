@@ -1,8 +1,5 @@
-Ebay messages, account info, and user activity not secured with HTTPS
- 
- 
-
-Ebay customers need to be extra cautious when accessing their account activity, personal information, and messages stored on Ebay. | O
+Ebay messages, account info, and user activity not secured with HTTPS | O
+   Ebay customers need to be extra cautious when accessing their account activity, personal information, and messages stored on Ebay. | O
 Sources recently pointed out to us that many pages on the site, which require user input or contain their personal info, are not HTTPS encrypted. | O
 Ebay uses mixed web page content, meaning some pages use encrypted connections while others do not. | O
 As a standard best practice, all pages that either require user input or contain personal data should be HTTPS-encrypted. | O

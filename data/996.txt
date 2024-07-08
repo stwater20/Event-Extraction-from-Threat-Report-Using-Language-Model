@@ -1,8 +1,5 @@
-Dorchester hospital workers at risk of identity fraud following national cyber attack | Dorset Echo
-  
-  
- 
-  DORCHESTER hospital workers have been caught up in a high-level cyber-security attack that has put hundreds at risk across the country. | O
+Dorchester hospital workers at risk of identity fraud following national cyber attack | Dorset Echo | O
+     DORCHESTER hospital workers have been caught up in a high-level cyber-security attack that has put hundreds at risk across the country. | O
 Computer hackers have stolen private files from the company Landauer, which is employed by the NHS to monitor radiation levels among staff. | AttackDatabreach 
 They hold personal details such as names, dates of birth, national insurance numbers and radiation dose of workers across the county including from Dorset County Hospital (DCH). | AttackDatabreach 
 Fortunately fewer than 55 employees at DCH were affected. | O

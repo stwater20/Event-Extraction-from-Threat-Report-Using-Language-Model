@@ -1,8 +1,5 @@
-InfoSec Handlers Diary Blog - Dynamite Phishing 
- 
- 
-
-Last week I ran across a very successful phishing campaign, what’s odd in most ways it was nothing special. | AttackPhishing
+InfoSec Handlers Diary Blog - Dynamite Phishing | AttackPhishing
+   Last week I ran across a very successful phishing campaign, what’s odd in most ways it was nothing special. | AttackPhishing
 The attacker was using this more like a worm, where stolen credentials would be used within the hour to start sending out a mass amount of more phishes. | AttackPhishing,Databreach
 I've decided to call this "Dynamite Phishing" because there is nothing quiet about this at all. | AttackPhishing
 It seems about 40% of the credentials were used for more mailings, and the other account's credentials had not been used. | O

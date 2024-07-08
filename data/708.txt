@@ -1,8 +1,5 @@
-Anatomy of a cyber attack explained at HIMSS17  | Health Data Management
- 
- 
-
-In March 2014, Boston Children’s Hospital learned the worst possible security news—from a third-party vendor with no formal relationship to the facility. | O
+Anatomy of a cyber attack explained at HIMSS17  | Health Data Management | O
+   In March 2014, Boston Children’s Hospital learned the worst possible security news—from a third-party vendor with no formal relationship to the facility. | O
 That vendor told the pediatric facility that it had seen online documents threatening the hospital, as well as posted documents with information on physicians such as cell phone numbers, addresses and work locations. | AttackDatabreach
 And the information also included details of Boston Children’s infrastructure, such as the main IP address of its organizational web site. | O
 Any kid could find this stuff easily online, but it was clear someone was trying to damage the reputation of Boston Children’s, said Daniel Nigrin, MD, senior vice president and CIO in the division of endocrinology, during the Cybersecurity Forum at HIMSS17.

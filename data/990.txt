@@ -1,8 +1,5 @@
-185,000+ vulnerable Wi-Fi cameras just waiting to be hijacked - Help Net Security
-  
-  
- 
-A generic wireless camera manufactured by a Chinese company and sold around the world under different names and brands can be easily hijacked and/or roped into a botnet. | O
+185,000+ vulnerable Wi-Fi cameras just waiting to be hijacked - Help Net Security | O
+   A generic wireless camera manufactured by a Chinese company and sold around the world under different names and brands can be easily hijacked and/or roped into a botnet. | O
 The flaw that allows this to happen is found in a custom version of GoAhead, a lightweight embedded web server that has been fitted into the devices. | O
 This and other vulnerabilities have been found by security researcher Pierre Kim, who tested one of the branded cameras – the Wireless IP Camera (P2P) WIFICAM. | O
 The extensive list of devices affected by the flaw in the custom embedded web server can be found here, and includes 1250+ camera models from over 300 vendors, including D-Link, Foscam, Logitech, Netcam, and Polaroid.| O 

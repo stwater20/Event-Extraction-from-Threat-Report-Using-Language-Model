@@ -1,8 +1,5 @@
-Why Printers Still Pose a Security Threat
-  
-  
- 
-Networked printers for years have left gaping holes in home and office network security. | O
+Why Printers Still Pose a Security Threat | O
+   Networked printers for years have left gaping holes in home and office network security. | O
 Today, experts continue to find flaws in popular laser printers, which are putting businesses at risk. | DiscoverVulnerability 
 Experts at the University Alliance Ruhr recently announced vulnerabilities in laser printers from manufacturers including Dell, HP, Lexmark, Samsung, Brother, and Konica. | DiscoverVulnerability 
 The flaws could permit print docs to be captured, allow buffer overflow exploits, disclose passwords, or cause printer damage. | O

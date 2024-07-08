@@ -1,8 +1,5 @@
-Apache Struts bug is under attack, patch now | InfoWorld
-  
-  
- 
-Apache Software Foundation has patched a remote code execution vulnerability affecting the Jakarta Multipart parser in Apache Struts. | PatchVulnerability,DiscoverVulnerability 
+Apache Struts bug is under attack, patch now | InfoWorld | O
+   Apache Software Foundation has patched a remote code execution vulnerability affecting the Jakarta Multipart parser in Apache Struts. | PatchVulnerability,DiscoverVulnerability 
 Administrators need to update the popular Java application framework or put workarounds in place because the vulnerability is actively being targeted in attacks. | PatchVulnerability 
 The issue affects Apache Struts versions 2.3.5 through 2.3.31 and versions 2.5 through 2.5.10. | DiscoverVulnerability 
 The presence of vulnerable code is enough to expose the system to attack—the web application doesn’t need to implement file upload for attackers to exploit the flaw, said researchers from Cisco Talos. | DiscoverVulnerability 

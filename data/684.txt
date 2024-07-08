@@ -1,8 +1,5 @@
-Feds more at risk from clicking on links than from data stolen during OPM breach - FederalNewsRadio.com
- 
- 
-
-The 21.5 million current and former federal employees impacted by the massive data breach in 2015 may never know if they will be targeted based on the information stolen from the Office of Personnel Management. | AttackDatabreach
+Feds more at risk from clicking on links than from data stolen during OPM breach - FederalNewsRadio.com | O
+   The 21.5 million current and former federal employees impacted by the massive data breach in 2015 may never know if they will be targeted based on the information stolen from the Office of Personnel Management. | AttackDatabreach
 Bill Evanina, the director of the National Counterintelligence and Security Center and the National Counterintelligence Executive, said the rate of attacks and the amount of information out there from public and private sector breaches, means hackers likely will bring together a host of data to use in spear phishing attacks. | AttackPhishing,Databreach
 “If a foreign entity is using the data stolen from OPM, they will use it as one variable in a big matrix of targeting,” Evanina said on Ask the CIO. | AttackDatabreach
 “It’s really not going to be reality to say if Bill Evanina is targeted a year from now by a foreign government, I’m never going to be able to say it’s because of the OPM data breach. | AttackDatabreach

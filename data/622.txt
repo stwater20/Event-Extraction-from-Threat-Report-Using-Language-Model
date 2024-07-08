@@ -1,8 +1,5 @@
-Banks around the world targeted in watering hole attacks - Help Net Security
- 
- 
-
-The January attacks against Polish financial institutions through the booby-trapped site of the Polish Financial Supervision Authority are just one piece of a larger puzzle, elements of which are slowly coming to light. | AttackPhishing
+Banks around the world targeted in watering hole attacks - Help Net Security | O
+   The January attacks against Polish financial institutions through the booby-trapped site of the Polish Financial Supervision Authority are just one piece of a larger puzzle, elements of which are slowly coming to light. | AttackPhishing
 As the indicators of compromise and attack were shared by the affected banks, other institutions around the world found that they have been hit, as well. | O
 The sites were booby-trapped with code that would trigger the download of malicious JavaScript files from other compromised domains (sap.misapor[. | O
 The domains hosted an exploit kit, which leveraged Silverlight and Flash exploits to deliver malware. | O

@@ -1,8 +1,5 @@
-Western Digital My Cloud NAS devices wide open to attackers - Help Net Security
-  
-  
- 
-Western Digital My Cloud NAS devices have again been found wanting in the security department, as two set of researchers have revealed a number of serious flaws in the devices’ firmware. | DiscoverVulnerability 
+Western Digital My Cloud NAS devices wide open to attackers - Help Net Security | O
+   Western Digital My Cloud NAS devices have again been found wanting in the security department, as two set of researchers have revealed a number of serious flaws in the devices’ firmware. | DiscoverVulnerability 
 WD My Cloud is meant to be a private cloud environment hosted at home or at a small organization’s office, and can be accessed either from a desktop located on the same network or remotely, with a smartphone, from wherever else in the world. | O
 Users can interact with it either via the administrative user interface or an application (that uses a RESTful API). | O
 Zenofex, a member of the Exploitee.rs team, revealed the existence of a login bypass issue, several command injection flaws, and a number of other bugs on Saturday. | DiscoverVulnerability 

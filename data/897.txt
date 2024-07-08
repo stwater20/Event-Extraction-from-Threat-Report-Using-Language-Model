@@ -1,8 +1,5 @@
-Ransomware hits Pennsylvania's Democratic state senators - AIVAnet
-  
-  
- 
-Democrats in Pennsylvania’s state Senate were locked out of their computer network early Friday morning due to a ransomware attack, NBC News reports. | AttackRansom 
+Ransomware hits Pennsylvania's Democratic state senators - AIVAnet | AttackRansom
+   Democrats in Pennsylvania’s state Senate were locked out of their computer network early Friday morning due to a ransomware attack, NBC News reports. | AttackRansom 
 According to an unidentified state official who spoke with NBC, the Democratic senators in Harrisburg use their own computer network and “there is no indication that other state agencies of the Republicans have been affected”. | O
 As of about 5 p.m. Friday, both law enforcement agencies and Microsoft were working with the state Democrats to free their network. | O
 In a statement sent to reporters via text message and obtained by The Hill, state party officials said, “there is currently no indication that the caucus system was targeted or that any data has been compromised”. | AttackDatabreach 

@@ -1,8 +1,5 @@
-Hackers exploit Apache Struts vulnerability to compromise corporate web servers | CSO Online
-  
-  
- 
-Apache Struts is an open-source web development framework for Java web applications. 
+Hackers exploit Apache Struts vulnerability to compromise corporate web servers | CSO Online | O
+   Apache Struts is an open-source web development framework for Java web applications. 
 On Monday, the Apache Struts developers fixed a high-impact vulnerability in the framework's Jakarta Multipart parser. | PatchVulnerability 
 The vulnerability is very easy to exploit and allows attackers to execute system commands with the privileges of the user running the web server process. | O
 What's even worse is that the Java web application doesn't even need to implement file upload functionality via the Jakarta Multipart parser in order to be vulnerable. | O

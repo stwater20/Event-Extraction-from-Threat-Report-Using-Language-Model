@@ -1,8 +1,5 @@
-Satan ransomware: old name, new business model – Naked Security
-  
-  
- 
-Last month, we received a few queries asking about a strain of ransomware going by the name of Satan. | O
+Satan ransomware: old name, new business model – Naked Security | AttackRansom
+   Last month, we received a few queries asking about a strain of ransomware going by the name of Satan. | O
 Those queries were along the lines of, “What do you detect it as?” | O
 The simple answer is Troj/Ransom-ECZ, which is what we replied back then, but there’s a backstory to the Satan malware family that we thought was worth covering, too. | O
 Cybercriminals have long used themes like the devil, the occult and what you might rather loosely call “the dark arts” as inspiration for malware names: Dark Avenger, Necropolis, Mydoom, Natas (which is Satan backwards) and SatanBug are just a few examples | O

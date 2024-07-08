@@ -1,8 +1,5 @@
-Multiple Unpatched Vulnerabilities Discovered in Western Digital NAS Hard Drives
-  
-  
- 
-Discovered by a security researcher who goes by the name of Zenofex, these security flaws have not been reported to Western Digital, are still unpatched, and with public exploit code is available for more than half of the vulnerabilities. | PatchVulnerability,DiscoverVulnerability 
+Multiple Unpatched Vulnerabilities Discovered in Western Digital NAS Hard Drives | O
+   Discovered by a security researcher who goes by the name of Zenofex, these security flaws have not been reported to Western Digital, are still unpatched, and with public exploit code is available for more than half of the vulnerabilities. | PatchVulnerability,DiscoverVulnerability 
 According to Zenofex multiple WD MyCloud NAS device models are affected, such as: | DiscoverVulnerability 
 Zenofex's decision not to inform Western Digital came after the researcher attended a security conference last year, where other infosec professionals complained about Western Digital ignoring vulnerability reports. | DiscoverVulnerability 
 It was at the same conference, Black Hat USA 2016, where Western Digital also won a Pwnie Award in a category called "Lamest Vendor Response." | O

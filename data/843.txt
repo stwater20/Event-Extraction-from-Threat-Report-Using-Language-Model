@@ -1,8 +1,5 @@
-Smart teddy bear maker faces scrutiny over data breach response | CSO Online
- 
- 
-
-That’s a key question swirling around Spiral Toys, a company behind a line of smart stuffed animals that security researchers worry can be easily hacked. | O
+Smart teddy bear maker faces scrutiny over data breach response | CSO Online | AttackDatabreach
+   That’s a key question swirling around Spiral Toys, a company behind a line of smart stuffed animals that security researchers worry can be easily hacked. | O
 On Tuesday, Spiral Toys said the breach, which affects 800,000 user accounts, only came to its attention last week on Feb 22. | AttackDatabreach
 One researcher named Victor Gevers began contacting the toymaker about the problem in late December, when he noticed that a company MongoDB database storing customer information was publicly exposed. | AttackDatabreach
 Gevers has even documented his efforts to contact Spiral Toys, which involved email, sending a message to its CEO over a LinkedIn invite, and working with a journalist from Vice Media to try and warn the company about the breach. | AttackDatabreach

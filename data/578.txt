@@ -1,8 +1,5 @@
-Mac malware is still crude, but it’s slowly catching up to its Windows rivals | Ars Technica
- 
- 
-
-Malicious Microsoft Word documents that abuse macros have long been the bane of Windows users. | O
+Mac malware is still crude, but it’s slowly catching up to its Windows rivals | Ars Technica | O
+   Malicious Microsoft Word documents that abuse macros have long been the bane of Windows users. | O
 Now, security researchers have found what may be the first such real-world attack to infect Macs. | O
 Allies and Rivals Digest Trump's Victory - Carnegie Endowment for International Peace." | O
 It was taken almost verbatim from EmPyre, an open-source exploit framework for Macs. | O

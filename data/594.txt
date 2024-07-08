@@ -1,8 +1,5 @@
-High Severity BIND Vulnerability Can Lead to A Crash | Threatpost | The first stop for security news
- 
- 
-
-The Internet Systems Consortium patched the BIND domain name system this week, addressing a remotely exploitable vulnerability it considers high severity and said could lead to a crash. | PatchVulnerability
+High Severity BIND Vulnerability Can Lead to A Crash | Threatpost | The first stop for security news | O
+   The Internet Systems Consortium patched the BIND domain name system this week, addressing a remotely exploitable vulnerability it considers high severity and said could lead to a crash. | PatchVulnerability
 The issue affects servers that use both the DNS64 and RPZ function simultaneously. | DiscoverVulnerability
 DNS64 is a mechanism for synthesizing AAAA records from A records. | O
 It’s traditionally used to allow IPv6-only clients to receive IPv6 addresses proxied to IPv4 addresses. | O

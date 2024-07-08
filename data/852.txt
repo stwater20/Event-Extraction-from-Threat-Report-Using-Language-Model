@@ -1,8 +1,5 @@
-Phishing for Big Money Wire Transfers is Still Alive and Well (or: For Want of Good Punctuation, all was Lost) - SANS Internet Storm Center 
- 
- 
-
-I recently had a client get an interesting phishing message. | AttackPhishing
+Phishing for Big Money Wire Transfers is Still Alive and Well (or: For Want of Good Punctuation, all was Lost) - SANS Internet Storm Center | O
+   I recently had a client get an interesting phishing message. | AttackPhishing
 They had received a fake message from their CEO to their Controller - a "start the conversation" email to end up with a wire transfer. | AttackPhishing
 This sort of email is not common, but is frequent enough in Sr Management circles, especially if you are in the middle of merger or acquisition discussions with another company. | O
 Some technical warning signs in that note were: | O

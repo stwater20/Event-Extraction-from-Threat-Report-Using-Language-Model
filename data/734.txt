@@ -1,8 +1,5 @@
-Cyber crooks' latest tricks for targeting Chrome users - Help Net Security
- 
- 
-
-Chrome users have lately been targeted with a few unusual malware delivery and scam attempts. | O
+Cyber crooks' latest tricks for targeting Chrome users - Help Net Security | O
+   Chrome users have lately been targeted with a few unusual malware delivery and scam attempts. | O
 The first one comes from compromised WordPress sites that have been modified to include JavaScript that changes the text rendering. | AttackPhishing
 A visitor sees the page as an unreadable mish-mash of symbols, and is prompted to update “Chrome’s language pack” so that the text is rendered correctly and he or she is able to read it: | AttackPhishing
 “The usage of a a clean, well-formatted dialog to present the message with the correct Chrome logo – and, more importantly, – the correct shade of blue for the update button. | AttackPhishing
