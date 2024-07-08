@@ -1,8 +1,5 @@
-WordPress kept users and hackers in the dark while secretly fixing critical zero-day - Help Net Security
- 
- 
-
-Last week WordPress released the newest version (4.7.2) of the popular CMS, ostensibly fixing three security issues affecting versions 4.7.1 and earlier. | PatchVulnerability
+WordPress kept users and hackers in the dark while secretly fixing critical zero-day - Help Net Security | O
+   Last week WordPress released the newest version (4.7.2) of the popular CMS, ostensibly fixing three security issues affecting versions 4.7.1 and earlier. | PatchVulnerability
 What the WordPress team didn’t share at that time is that the update also secretly fixes a bug that allows unauthenticated users to modify the content of any post or page within a WordPress site. | PatchVulnerability
 The vulnerability was discovered by Sucuri researcher Marc-Alexandre Montpas and responsibly disclosed to the WordPress security team on January 20. | DiscoverVulnerability
 A fix was soon created, tested, and included in the security update pushed out on January 26. | PatchVulnerability

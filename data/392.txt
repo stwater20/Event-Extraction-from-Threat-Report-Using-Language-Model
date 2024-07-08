@@ -1,8 +1,5 @@
-More mobe malware creeps into Google Play – this time, ransomware • The Register    
- 
- 
-
-Researchers say a piece of ransomware disguised as a battery app made its way into the Play store. | AttackPhishing
+More mobe malware creeps into Google Play – this time, ransomware • The Register | AttackRansom
+   Researchers say a piece of ransomware disguised as a battery app made its way into the Play store. | AttackPhishing
 Check Point says one of its customers contracted the malware app, dubbed "Charger," after installing what they thought was a battery monitoring tool called EnergyRescue. | O
 Researchers with Check Point Mobile Threat Prevention say the malware activates when EnergyRescue runs, and requires admin access to the device. | O
 Once that permission is granted, the malware checks for location (it does not attack phones in the Ukraine, Belarus, or Russia), then swipes all user contacts and SMS messages and locks down the device. | AttackDatabreach

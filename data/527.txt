@@ -1,8 +1,5 @@
-Locky and Sage Ransomware Use the Same Distribution Infrastructure
- 
- 
-
-PhishMe security researchers warn that the Locky ransomware is relying on the same delivery infrastructure which was previously used for the Sage ransomware distribution. | O
+Locky and Sage Ransomware Use the Same Distribution Infrastructure | AttackRansom
+   PhishMe security researchers warn that the Locky ransomware is relying on the same delivery infrastructure which was previously used for the Sage ransomware distribution. | O
 Cybercriminals often share infrastructure between one another, so the fact that Locky and Sage use the same recourses is not that surprising. | O
 However, the fact also shows that the crooks behind Locky are working on securing new distribution venues after the main Locky distributor – Necurs botnet – recently went silent. | O
 The Sage ransomware first appeared on the malware stage at the end of last year and was analyzed early this year. | O

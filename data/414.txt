@@ -1,8 +1,5 @@
-That Heartbleed problem may be more pervasive than you think | CSO Online
- 
- 
-
-That lingering Heartbleed flaw recently discovered in 200,000 devices is more insidious than that number indicates. | DiscoverVulnerability
+That Heartbleed problem may be more pervasive than you think | CSO Online | O
+   That lingering Heartbleed flaw recently discovered in 200,000 devices is more insidious than that number indicates. | DiscoverVulnerability
 According to a report posted by Shodan, the Heartbleed vulnerability first exposed in April 2014 was still found in 199,594 internet-accessible devices during a scan it performed last weekend. | DiscoverVulnerability
 But according to open-source security firm Black Duck, about 11% of more than 200 applications it audited between Oct  2015 and March 2016 contained the flaw, which enables a buffer overread that endangers data from clients and servers running affected versions of OpenSSL. | DiscoverVulnerability
 The company’s vice president of security strategy Mike Pittenger says it’s likely most of those machines have been remediated, but it doesn’t address the countless other applications – commercial and proprietary - Black Duck didn’t audit. | O

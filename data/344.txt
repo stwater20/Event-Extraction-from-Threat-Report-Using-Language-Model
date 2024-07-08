@@ -1,8 +1,4 @@
-
- 
- 
-
-As users have become more attached to their mobile devices, they want everything on those devices. | O
+   As users have become more attached to their mobile devices, they want everything on those devices. | O
 There’s an app for just about any facet of one’s personal and professional life, from booking travel and managing projects, to buying groceries and binge-watching the latest Netflix series. | O
 The iOS and Android apps for Netflix are enormously popular, effectively turning a mobile device into a television with which users can stream full movies and TV programs anytime, anywhere. | O
 But the apps, with their many millions of users, have captured the attention of the bad actors, too, who are exploiting the popularity of Netflix to spread malware. | O

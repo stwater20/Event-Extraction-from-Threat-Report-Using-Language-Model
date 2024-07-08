@@ -1,8 +1,5 @@
-Polish Banks Infected with Malware Hosted on Their Own Government's Site
- 
- 
-
-Zaufana Trzecia Strona, a local Polish news site, first reported the attacks late Friday, last week. | O
+Polish Banks Infected with Malware Hosted on Their Own Government's Site | O
+   Zaufana Trzecia Strona, a local Polish news site, first reported the attacks late Friday, last week. | O
 The news site said that during the past week, the security teams at several, yet unnamed, Polish banks detected downloads of suspicious files and encrypted traffic going to uncommon IPs situated in many foreign countries. | O
 As employees at different banks started looking into their systems, they found malware installed on numerous workstations and even some servers. | O
 The JavaScript code worked by opening a hidden iframe and forcibly downloading a file on the victim's computers. | O

@@ -1,8 +1,5 @@
-Cyber criminals tricking consumers into downloading fake apps: Kaspersky report | BGR India
- 
- 
-
-Digital payments have gained popularity among consumers but have also brought in the threat of cyber criminals placing fake e-wallet apps to dupe users. | AttackPhishing
+Cyber criminals tricking consumers into downloading fake apps: Kaspersky report | BGR India | AttackPhishing
+   Digital payments have gained popularity among consumers but have also brought in the threat of cyber criminals placing fake e-wallet apps to dupe users. | AttackPhishing
 According to cyber security solution firm Kaspersky, no such incident has been reported yet but the probability of cyber criminals adding fake apps on app stores remains high. | AttackPhishing
 “Digital payment companies ensure that the transactions are safe on their apps. | O
 Besides, there are checks like two-factor authentication for ensuring secure transactions for consumers,” Altaf Halde, Managing Director at Kaspersky Lab, South Asia, told. | O

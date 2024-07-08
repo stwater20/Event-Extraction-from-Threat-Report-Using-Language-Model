@@ -1,8 +1,5 @@
-Honeywell SCADA Controllers Exposed Passwords in Clear Text | Threatpost | The first stop for security news
- 
- 
-
-A series of remotely exploitable vulnerabilities exist in a popular web-based SCADA system made by Honeywell that make it easy to expose passwords and in turn, give attackers a foothold into the vulnerable network. | DiscoverVulnerability
+Honeywell SCADA Controllers Exposed Passwords in Clear Text | Threatpost | The first stop for security news | O
+   A series of remotely exploitable vulnerabilities exist in a popular web-based SCADA system made by Honeywell that make it easy to expose passwords and in turn, give attackers a foothold into the vulnerable network. | DiscoverVulnerability
 The flaws exist in some versions of Honeywell’s XL Web II controllers, systems deployed across the critical infrastructure sector, including wastewater, energy, and manufacturing companies. | DiscoverVulnerability
 An advisory from the Department of Homeland Security’s Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) warned about the vulnerabilities Thursday. | DiscoverVulnerability
 The company has developed a fix, version 3.04.05.05, to address the issues but users have to call their local Honeywell Building Solutions branch to receive the update, according to the company. | PatchVulnerability

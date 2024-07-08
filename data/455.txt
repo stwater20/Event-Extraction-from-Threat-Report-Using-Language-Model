@@ -1,8 +1,5 @@
-Video: Cerber, Locky, Kovter top malware families in 2016: Malwarebytes
- 
- 
-
-Between the constant talk of the U.S. elections being hacked, organizations being hit daily by ransomware and webcams being drafted into botnet armies and used to take down major internet organizations, 2016 was a year for the record books. | AttackRansom
+Video: Cerber, Locky, Kovter top malware families in 2016: Malwarebytes | O
+   Between the constant talk of the U.S. elections being hacked, organizations being hit daily by ransomware and webcams being drafted into botnet armies and used to take down major internet organizations, 2016 was a year for the record books. | AttackRansom
 Ransomware attacks increased 267 percent in 2016, comprising almost 70 percent of all malware distributed during the year, an amount Malwarebytes called unprecedented in its State of Malware report. | O
 While ransomware certainly stole the show in 2016, it was far from the only tool used by cybercriminals with malvertising, tech support scams and botnets, but the damage done by other types of malware pale in comparison. | O
 According to Malwarebytes' annual State of Malware report, the amount of ransomware spotted between January and November 2016 comprised 68 percent of all exploits and spam payloads with 400 variants being seen in the wild. | O

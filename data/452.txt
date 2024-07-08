@@ -1,8 +1,5 @@
-Routers Under Attack: Current Security Flaws and How to Fix Them - TrendLabs Security Intelligence Blog
- 
- 
-
-How is it possible for users to lose hundreds of dollars in anomalous online bank transfers when all of their gadgets have security software installed? | O
+Routers Under Attack: Current Security Flaws and How to Fix Them - TrendLabs Security Intelligence Blog | O
+   How is it possible for users to lose hundreds of dollars in anomalous online bank transfers when all of their gadgets have security software installed? | O
 Last year, user Y, who is based in Brazil, lost R$600 (US$191.02, as of January 30, 2017) as a side effect of information theft. | AttackDatabreach
 Upon discovering this, Y immediately called an IT technician to find the root cause. | O
 But since no malware was found in the devices connected to the network, he then reviewed the home router settings. | O

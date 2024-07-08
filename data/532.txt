@@ -1,8 +1,5 @@
-How app makers increasingly track your every move - CSMonitor.com
- 
- 
-
-Privacy advocates say tech companies are becoming more brazen about collecting users' location data and personal information. | AttackDatabreach
+How app makers increasingly track your every move - CSMonitor.com | O
+   Privacy advocates say tech companies are becoming more brazen about collecting users' location data and personal information. | AttackDatabreach
 February 6, 2017 | O
 —For just a few days last month, a photo filter app called Meitu, which turns selfies into pearl-skinned, doe-eyed Anime characters, enthralled the social media world. | O
 But Meitu faded as quickly as it rose to internet fame after cybersecurity researchers exposed what was really behind the app. | O

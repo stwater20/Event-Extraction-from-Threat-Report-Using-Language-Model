@@ -1,8 +1,5 @@
-Malware Capable of Paralyzing an Entire Ministry Neutralized
- 
- 
-
-Cyberthreats are a constant risk and affect public administrations significantly. | O
+Malware Capable of Paralyzing an Entire Ministry Neutralized | O
+   Cyberthreats are a constant risk and affect public administrations significantly. | O
 So much so that they have become a powerful instrument of aggression against public entities and citizens. | O
 They can lead to a serious deterioration in the quality of service, and also, above all, to data leaks concerning everything from personal information to state secrets. | AttackDatabreach
 The combination of new technologies and the increase in the complexity of attacks, as well as the professionalization of cybercriminals, is highly dangerous. | O

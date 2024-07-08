@@ -1,8 +1,5 @@
-Dozens of Netgear products vulnerable to authentication bypass flaws | CSO Online
- 
- 
-
-Simon Kenin, a security researcher at Trustwave, was – by his own admission – being lazy the day he discovered an authentication vulnerability in his Netgear router. | DiscoverVulnerability
+Dozens of Netgear products vulnerable to authentication bypass flaws | CSO Online | O
+   Simon Kenin, a security researcher at Trustwave, was – by his own admission – being lazy the day he discovered an authentication vulnerability in his Netgear router. | DiscoverVulnerability
 Instead of getting up out of bed to address a connection problem, he started fuzzing the web interface and discovered a serious issue. | DiscoverVulnerability
 Kenin had hit upon unauth.cgi, code that was previously tied to two different exploits in 2014 for unauthenticated password disclosure flaws. | O
 The short version of the 2014 vulnerability is that an attacker can get unauth.cgi to issue a number that can be passed over to passwordrecovered.cgi in order to receive credentials. | O

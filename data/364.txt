@@ -1,8 +1,5 @@
-AlphaBay Dark Web marketplace hacked, private messages leaked | ZDNet
- 
- 
-
-One of the largest trading posts on the Dark Web, AlphaBay, has rewarded a researcher for disclosing the existence of a vulnerability which allowed him to steal over 200,000 private messages exchanged between users and sellers. | DiscoverVulnerability,Databreach
+AlphaBay Dark Web marketplace hacked, private messages leaked | ZDNet | O
+   One of the largest trading posts on the Dark Web, AlphaBay, has rewarded a researcher for disclosing the existence of a vulnerability which allowed him to steal over 200,000 private messages exchanged between users and sellers. | DiscoverVulnerability,Databreach
 Earlier this week, the hacker, known only as Cipher0007, disclosed the existence of two "high-risk" bugs through Reddit. | DiscoverVulnerability
 In a forum post, the hacker said the two security flaws could be exploited to snatch private messages. | DiscoverVulnerability
 Cipher0007 was able to compromise AlphaBay and steal the first and last names of buyers and sellers, nicknames, addresses, and the tracking IDs of packages sent by traders when included in the messages and not protected by PGP keys. | AttackDatabreach

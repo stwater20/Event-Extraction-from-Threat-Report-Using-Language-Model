@@ -1,8 +1,5 @@
-Cross-Site Request Forgery: What Happened to the Sleeping Giant? | Qualys Blog
- 
- 
-
-A decade ago, cross-site request forgery (CSRF, often pronounced “c-surf”) was considered to be a sleeping giant, preparing to wake and inflict havoc on the Worldwide Web. | O
+Cross-Site Request Forgery: What Happened to the Sleeping Giant? | Qualys Blog | O
+   A decade ago, cross-site request forgery (CSRF, often pronounced “c-surf”) was considered to be a sleeping giant, preparing to wake and inflict havoc on the Worldwide Web. | O
 But the doomsday scenario never materialized and you don’t even seem to hear much about it anymore. | O
 In this blog post, part 1 of 2, I will explore this idea and try to understand why the CSRF giant never awoke. | O
 First we’ll cover the overall threat landscape, trends, and some notable CSRF exploits throughout the years, including one from personal experience. | O

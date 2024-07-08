@@ -1,8 +1,5 @@
-Your Smart TV Has Been Hijacked. To Continue, Please Pay Ransom
- 
- 
-
-Cybercriminals that specialize in ransomware, which affects thousands of computers and mobile devices every year, are ramping up their attacks against businesses. | O
+Your Smart TV Has Been Hijacked. To Continue, Please Pay Ransom | AttackRansom
+   Cybercriminals that specialize in ransomware, which affects thousands of computers and mobile devices every year, are ramping up their attacks against businesses. | O
 It is here that they can get their hands on valuable information and large sums of cash. | O
 This particular kind of malware, which hijacks devices and demands a ransom for their return, has managed to conquer another kind of technology: smart TVs. | AttackRansom
 Last December, the American developer Darren Cauthon announced on Twitter that a family member’s television had fallen victim to one of these attacks. | AttackRansom

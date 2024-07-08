@@ -1,8 +1,5 @@
-Cloud Storage The New Favorite Target Of Phishing
- 
- 
-
-For all the sophisticated tactics, techniques, and procedures employed by threat actors these days, phishing continued to be the top attack vector in 2016, as it has been for some time. | AttackPhishing
+Cloud Storage The New Favorite Target Of Phishing | AttackPhishing
+   For all the sophisticated tactics, techniques, and procedures employed by threat actors these days, phishing continued to be the top attack vector in 2016, as it has been for some time. | AttackPhishing
 The big difference was that instead of targeting financial services companies, phishers increasingly targeted cloud storage service providers like Google and DropBox, security vendor PhishLabs said in a voluminous report on phishing trends released this week. | O
 Compared to 2013, when barely 10% of phishing attacks targeted cloud storage services, about 22.5% of phishing attacks last year involved such companies. | AttackPhishing
 That was just barely below the 23% of phishing scams involving financial brands, the company noted. | O

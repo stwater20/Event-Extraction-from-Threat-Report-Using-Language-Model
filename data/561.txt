@@ -1,8 +1,5 @@
-Security products endanger customers through poor TLS interception - Security - iTnews
- 
- 
-
-Popular security products such as anti-viruses and middleboxes put customers at risk through poor transport layer security (TLS) interception implementations, researchers have found. | DiscoverVulnerability
+Security products endanger customers through poor TLS interception - Security - iTnews | O
+   Popular security products such as anti-viruses and middleboxes put customers at risk through poor transport layer security (TLS) interception implementations, researchers have found. | DiscoverVulnerability
 A group of researchers from United States universities as well as tech companies Google, Mozilla, and Cloudflare tested middleboxes - which act as network proxies for traffic analysis and content filtering - from A10, Blue Coat, Barracuda, CheckPoint, Cisco, Fortinet, Juniper, Microsoft, Sophos, Untangle, and WebTitan. | O
 All but the BlueCoat device weakened connection security and introduced TLS vulnerabilities such as Logjam, weak export and RC4 ciphers, or didn't validate digital certificates properly. | DiscoverVulnerability
 The researchers also tested [pdf] 29 anti-viruses, and found 13 would intercept TLS connections. | DiscoverVulnerability

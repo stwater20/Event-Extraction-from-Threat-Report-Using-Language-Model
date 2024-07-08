@@ -1,8 +1,5 @@
-Hackers Hack Hacking Forum As Soon As It's Launched - Motherboard
- 
- 
-
-In 2015, the FBI shuttered malware marketplace Darkode, and then at the end of last year a small group of hackers launched their own eponymous copycat version. | O
+Hackers Hack Hacking Forum As Soon As It's Launched - Motherboard | O
+   In 2015, the FBI shuttered malware marketplace Darkode, and then at the end of last year a small group of hackers launched their own eponymous copycat version. | O
 Almost immediately, however, other hackers attacked that new site, and stole user account information. | AttackDatabreach
 "It's a shit show on what happened," a Darkode staff member who used the handle Bullets told Motherboard. | O
 Hackers managed to steal a database of Darkode's users, including usernames and hashed passwords. | AttackDatabreach

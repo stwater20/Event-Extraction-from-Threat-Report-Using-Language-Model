@@ -1,8 +1,5 @@
-Dark Web’ Largest Trading Platform AlphaBay Hacked; 200k Messages Leaked
- 
- 
-
-Recently a hacker identified the existence of two high-risk bugs and revealed this information on Reddit’s forum posts. | DiscoverVulnerability
+Dark Web’ Largest Trading Platform AlphaBay Hacked; 200k Messages Leaked | O
+   Recently a hacker identified the existence of two high-risk bugs and revealed this information on Reddit’s forum posts. | DiscoverVulnerability
 The hacker, who uses the alias Cipher0007, managed to steal 200,000 private messages. | AttackDatabreach
 These messages were exchanged between users/buyers and sellers. | O
 ZDNet reports that Cipher0007 disclosed the vulnerabilities earlier this week and revealed on Reddit that these flaws could be used to steal private messages on AlphaBay. | DiscoverVulnerability,Databreach

@@ -1,8 +1,5 @@
-Ransomware app hosted in Google Play infects unsuspecting Android user | Ars Technica
- 
- 
-
-Google Play, the official market for Android apps, was caught hosting a ransomware app that infected at least one real-world handset, security researchers said Tuesday. | O
+Ransomware app hosted in Google Play infects unsuspecting Android user | Ars Technica | AttackRansom
+   Google Play, the official market for Android apps, was caught hosting a ransomware app that infected at least one real-world handset, security researchers said Tuesday. | O
 The ransomware was dubbed Charger and was hidden inside an app called EnergyRescue, according to a blog post published by security firm Check Point Software. | O
 Once installed, Charger stole SMS contacts and prompted unsuspecting users to grant it all-powerful administrator rights. | AttackDatabreach
 If users clicked OK, the malicious app locked the device and displayed the following message: | AttackRansom

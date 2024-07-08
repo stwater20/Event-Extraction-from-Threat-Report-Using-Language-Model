@@ -1,8 +1,5 @@
-The overlooked security threat in your office: printers - Security - iTnews
- 
- 
-
-Commonly used office printers and multi-function devices can be exploited to leak information and execute code, presenting multiple attack vectors that are often overlooked, a security researcher has found. | DiscoverVulnerability
+The overlooked security threat in your office: printers - Security - iTnews | O
+   Commonly used office printers and multi-function devices can be exploited to leak information and execute code, presenting multiple attack vectors that are often overlooked, a security researcher has found. | DiscoverVulnerability
 Jens Müller from the Ruhr-Universität Bochum in Germany published multiple advisories on vulnerabilities that he had discovered as part of his Master's degree thesis on the security of printers. | DiscoverVulnerability
 The vulnerabilites stem from vendors not separating page description languages such as PostScript and PJL/PCL used to generate the output from printer control. | O
 "Potentially harmful commands can be executed by anyone who has the right to print," Müller said. | O

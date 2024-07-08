@@ -1,8 +1,5 @@
-Attackers start wiping data from CouchDB and Hadoop databases | CSO Online
- 
- 
-
-Researchers are now observing similar destructive attacks hitting openly accessible Hadoop and CouchDB deployments. | O
+Attackers start wiping data from CouchDB and Hadoop databases | CSO Online | O
+   Researchers are now observing similar destructive attacks hitting openly accessible Hadoop and CouchDB deployments. | O
 Security researchers Victor Gevers and Niall Merrigan, who monitored the MongoDB and Elasticsearch attacks so far, have also started keeping track of the new Hadoop and CouchDB victims. | O
 The two have put together spreadsheets on Google Docs where they document the different attack signatures and messages left behind after data gets wiped from databases. | O
 In the case of Hadoop, a framework used for distributed storage and processing of large data sets, the attacks observed so far can be described as vandalism. | O

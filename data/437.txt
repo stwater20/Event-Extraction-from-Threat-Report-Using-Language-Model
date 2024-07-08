@@ -1,8 +1,4 @@
- 
- 
-
-For the second time in a week, a major U.S. airline grounded its fleet after its computer systems stopped working. | O
-The latest incident involved Delta Air Lines (NYSE:DAL), which canceled 170 flights on Sunday and another 110 on Monday because its "essential IT systems went down" over the weekend. | O
+  For the second time in a week, a major U.S. airline grounded its fleet after its computer systems stopped working. | O The latest incident involved Delta Air Lines (NYSE:DAL), which canceled 170 flights on Sunday and another 110 on Monday because its "essential IT systems went down" over the weekend. | O
 The issue at Delta Air Lines alone doesn't seem suspicious -- computers fail all the time. | O
 But there are two things that could lead one to wonder if there's more to this than meets the eye. | O
 The first is that Delta isn't just some guy like me sitting at home who doesn't know a thing about computers. | O

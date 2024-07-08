@@ -1,8 +1,5 @@
-CVE-2017-5521: Bypassing Authentication on NETGEAR Routers
- 
- 
-
-Home routers are the first and sometimes last line of defense for a network. | O
+CVE-2017-5521: Bypassing Authentication on NETGEAR Routers | O
+   Home routers are the first and sometimes last line of defense for a network. | O
 Despite this fact, many manufacturers of home routers fail to properly audit their devices for security issues before releasing them to the market. | O
 As security researchers, we are often disappointed to rediscover that this is not always the case, and that sometimes these vulnerabilities simply fall into our hands during our day-to-day lives. | O
 Such is the story of the two NETGEAR vulnerabilities I want to share with you today: | DiscoverVulnerability

@@ -1,8 +1,5 @@
-Ransomware Locks Down Public Libraries at All Locations Across Saint Louis
- 
- 
-
-Over 700 computers at all of SLPL's 16 branches have been hit. | O
+Ransomware Locks Down Public Libraries at All Locations Across Saint Louis | AttackRansom
+   Over 700 computers at all of SLPL's 16 branches have been hit. | O
 According to library spokesperson Jen Hatton, SLPL doesn't intend to pay the ransom, which is around $35,000, about $50 per infected PC. | AttackRansom
 Instead, library technicians plan to wipe and reinstall all computers from the ground up, an operation that might take a while, several local news outlets have reported [1, 2, 3, 4]. | O
 Hatton said the infection took root on the night between Wednesday and Thursday. | O

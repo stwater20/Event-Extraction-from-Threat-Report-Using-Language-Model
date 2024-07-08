@@ -1,8 +1,5 @@
-Hacker Group Claims Responsibility for Lloyds Bank Outages, Ransom Demand
- 
- 
-
-The extortion attempt took place on January 11, the first day some Lloyds Bank customers experienced short-lived problems with accessing their online banking portals. | AttackRansom,DiscoverVulnerability
+Hacker Group Claims Responsibility for Lloyds Bank Outages, Ransom Demand | AttackRansom
+   The extortion attempt took place on January 11, the first day some Lloyds Bank customers experienced short-lived problems with accessing their online banking portals. | AttackRansom,DiscoverVulnerability
 Customers continued to report brief outages in the following two days. | O
 On the third day, on Friday, January 13, Bleeping Computer received two separate tips, via email and Twitter, from two hackers that appeared to know each other. | O
 Hacker #1 sent Bleeping Computer a link to a PasteBin page that contained a copy of an email the group allegedly sent to a high-ranking Lloyds Bank manager. | O

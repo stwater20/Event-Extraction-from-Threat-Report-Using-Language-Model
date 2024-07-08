@@ -1,8 +1,5 @@
-MongoDB ransom attacks continue to plague administrators | CSO Online
- 
- 
-
-Earlier this month, Salted Hash reported on a surge in attacks against publicly accessible MongoDB installations. | O
+MongoDB ransom attacks continue to plague administrators | CSO Online | AttackRansom
+   Earlier this month, Salted Hash reported on a surge in attacks against publicly accessible MongoDB installations. | O
 Since January 3, the day of that first report, the number of victims has climbed from about 200 databases to more than 40,000. | O
 In addition to MongoDB, those responsible for the attacks have started targeting Elasticsearch and CouchDB. | O
 No matter the platform being targeted, the message to the victim is the same; send a small Bitcoin payment to the listed address, or forever lose access to your files. | AttackRansom

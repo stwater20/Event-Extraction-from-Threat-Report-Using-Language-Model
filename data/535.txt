@@ -1,8 +1,5 @@
-ICS, SCADA Security Woes Linger On | Threatpost | The first stop for security news
- 
- 
-
-A handful of worrisome vulnerabilities in Honeywell building automation system software disclosed last week are case in point of how far the industry continues to lag in securing SCADA and industrial control systems. | DiscoverVulnerability
+ICS, SCADA Security Woes Linger On | Threatpost | The first stop for security news | O
+   A handful of worrisome vulnerabilities in Honeywell building automation system software disclosed last week are case in point of how far the industry continues to lag in securing SCADA and industrial control systems. | DiscoverVulnerability
 Honeywell published in September new firmware that patches vulnerabilities privately disclosed by researcher Maxim Rupp in its XL Web II controllers. | DiscoverVulnerability,PatchVulnerability
 The flaws could give an attacker the ability to access relatively unprotected credentials and use those to manipulate, for example, environmental controls inside a building. | O
 While these aren’t critical infrastructure systems such as wastewater, energy or manufacturing, building automation system hacks can be expensive to remedy, and in a worst-case scenario, afford an attacker the ability to pivot to a corporate network. | O

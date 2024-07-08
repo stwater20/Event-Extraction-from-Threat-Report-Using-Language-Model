@@ -1,8 +1,5 @@
-Was The Guardian’s WhatsApp reporting “irresponsible” or fake news?
- 
- 
-
-The Guardian has drawn the ire of a large number of cryptography and security experts by publishing a story claiming that WhatsApp has a security backdoor that would allow it, or governments, to snoop on encrypted messages. | DiscoverVulnerability
+Was The Guardian’s WhatsApp reporting “irresponsible” or fake news? | O
+   The Guardian has drawn the ire of a large number of cryptography and security experts by publishing a story claiming that WhatsApp has a security backdoor that would allow it, or governments, to snoop on encrypted messages. | DiscoverVulnerability
 The group of experts, led by Associate Professor Zeynep Tufekci have written an open letter demanding that the article is retracted and for The Guardian to issue an apology for the misleading claims. | O
 The article, written by freelance journalist Manisha Ganguly reported claims originally made by a UC Berkeley PhD student Tobias Boelter last year. | DiscoverVulnerability
 He showed that under certain conditions a government could, with the cooperation of WhatsApp, gain access to the content of a small number of messages. | DiscoverVulnerability

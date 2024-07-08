@@ -1,8 +1,5 @@
-Researchers find link between cyber espionage group and Saudi hacking campaign - CyberScoop
- 
- 
-
-Security researchers are closely investigating a spate of newly discovered data breaches in the Middle East, in which each case involved the deployment of an advanced, disk-wiping malware variant. | AttackDatabreach
+Researchers find link between cyber espionage group and Saudi hacking campaign - CyberScoop | O
+   Security researchers are closely investigating a spate of newly discovered data breaches in the Middle East, in which each case involved the deployment of an advanced, disk-wiping malware variant. | AttackDatabreach
 Reports from Symantec suggest that a series of recent intrusions share some similarities with an infamous 2012 hacking operation that disrupted multiple Saudi energy companies. | O
 The mysterious perpetrators behind the destructive 2012 cyberattacks were dubbed Shamoon, a loosely defined hacking group with advanced capabilities. | O
 The malware once used by the enigmatic group — W32.Disttrack and W32.Disttrack.B — first showed up in the 2012 incident but was then again found by digital forensic experts as recently as Nov. 2016. | O

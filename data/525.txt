@@ -1,8 +1,5 @@
-SecurityBrief NZ - Phishing scammers target PayPal in very well crafted attack, Proofpoint finds 
- 
- 
-
-Where there’s a will, there’s a way, and scammers are finding increasingly cunning ways to capitalise on the reach and popularity of the world’s global brands. | O
+SecurityBrief NZ - Phishing scammers target PayPal in very well crafted attack, Proofpoint finds | AttackPhishing
+   Where there’s a will, there’s a way, and scammers are finding increasingly cunning ways to capitalise on the reach and popularity of the world’s global brands. | O
 This time PayPal is the target, according to Proofpoint. | O
 The company recently discovered a phishing email message which looked like a benign PayPal login, but in reality it was a “very well crafted” phishing webpage. | AttackPhishing
 The page is available in multiple languages, which makes it seem all the more legitimate and across many different regions. | O

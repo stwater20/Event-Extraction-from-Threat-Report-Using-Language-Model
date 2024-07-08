@@ -1,8 +1,5 @@
-Hacker Selling 126 Million Cell Phone Details of "U.S. Cellular" Customers
- 
- 
-
-Now, the same vendor is selling something that is not just unique but also highly sensitive and something the Intelligence agencies around the world would consider an excellent opportunity to get their hands on. | O
+Hacker Selling 126 Million Cell Phone Details of "U.S. Cellular" Customers | O
+   Now, the same vendor is selling something that is not just unique but also highly sensitive and something the Intelligence agencies around the world would consider an excellent opportunity to get their hands on. | O
 The vendor is selling a database containing personal and cell phone number details of 126,761,168 citizens of the United States taken from United States Cellular Corporation (U.S. Cellular), a regional carrier which owns and operates the fifth-largest wireless telecommunications network in the United States, serving 4.9 million customers in 426 markets in 23 U.S. states. | AttackDatabreach
 DoubleFlag claims the database is updated till January 2017 and never been leaked on the Internet before. | AttackDatabreach
 The database according to him contains details such as first name, last name, address, city, state and phone numbers of one hundred twenty-six million seven hundred sixty-one thousand one hundred sixty-eight (126,761,168) Americans. | O
