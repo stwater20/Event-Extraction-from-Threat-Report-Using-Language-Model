@@ -9,7 +9,7 @@ This could potentially allow a hacker to take control of millions of these devic
 Bucsay reported the vulnerabilities to Virgin Media in March 2017, but says they weren't fixed until the end of July this year. | DiscoverVulnerability, PatchVulnerability
 “The proposed roll-out date was postponed many times,” he says. | O
 However, a Virgin Media spokeswoman defended the company’s actions. | O
-“The online security of our customers is a top priority for Virgin Media and the issues described by NCC have been fixed,” she told The Daily Swig. | DiscoverVulnerability, PatchVulnerability
+“The online security of our customers is a top priority for Virgin Media and the issues described by NCC have been fixed,” she told The Daily Swig. | PatchVulnerability
 “We have seen no evidence that these advanced technical exploits, carried out by NCC as a proof of concept, were used maliciously to impact customers.” | O
 With the patch rolled out in August, Super Hub 3.0 users don’t need to do anything extra to protect themselves. | PatchVulnerability
 “However, this research should remind consumers that no connected device is inherently secure, and that they should consider additional security measures around their home network, such as using password managers and different passwords for each device and service,” Bucsay warns. | O
