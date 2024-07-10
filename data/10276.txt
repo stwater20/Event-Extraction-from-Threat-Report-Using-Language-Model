@@ -1,9 +1,9 @@
 Despite serious security flaws, D-Link will (again) not patch some routers | O
-For the second time in roughly a year, D-Link has failed to act on warnings from security researchers involving the company’s routers. | DiscoverVulnerability
+For the second time in roughly a year, D-Link has failed to act on warnings from security researchers involving the company’s routers. | O
 The latest incident arose after Silesian University of Technology researcher Błazej Adamczyk contacted D-Link last May about three vulnerabilities affecting eight router models. | DiscoverVulnerability
-Following the warning, D-Link patched two of the affected routers, but did not initially reveal how it would proceed for the remaining six models. | PatchVulnerability, DiscoverVulnerability
-After further prompting from Adamczyk, D-Link revealed that the remaining six routers would not get a security patch because they were considered end-of-life models, leaving affected owners out in the cold. | PatchVulnerability, DiscoverVulnerability
-“The D-Link models affected are the DWR-116, DWR-140L, DWR-512, DWR-640L, DWR-712, DWR-912, DWR-921, and DWR-111, six of which date from 2013, with the DIR-640L first appearing in 2012 and the DWR-111 in 2014,” Naked Security reported. | DiscoverVulnerability
+Following the warning, D-Link patched two of the affected routers, but did not initially reveal how it would proceed for the remaining six models. | PatchVulnerability
+After further prompting from Adamczyk, D-Link revealed that the remaining six routers would not get a security patch because they were considered end-of-life models, leaving affected owners out in the cold. | O
+“The D-Link models affected are the DWR-116, DWR-140L, DWR-512, DWR-640L, DWR-712, DWR-912, DWR-921, and DWR-111, six of which date from 2013, with the DIR-640L first appearing in 2012 and the DWR-111 in 2014,” Naked Security reported. | O
 Though these are not current models in D-Link’s portfolio, many of the listed models are still likely to be in use. | O
 As a result of this impasse, Adamczyk released details about the security flaws, following responsible security protocols after giving D-Link notice and the opportunity to address the issues. | PatchVulnerability, DiscoverVulnerability
 Of significance is that this is the second time in about a year that D-Link has failed to address security vulnerabilities affecting its products after being notified by researchers. | PatchVulnerability, DiscoverVulnerability
