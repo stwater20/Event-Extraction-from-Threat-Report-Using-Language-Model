@@ -14,7 +14,7 @@ The Department of Watershed Management, for example, still cannot accept online 
 The Atlanta Municipal Court has been unable to process ticket payments either online or in person due to the outage and has had to reschedule some of its hearings. | O
 The city took down two of its online services voluntarily as a security precaution: the Hartsfield–Jackson Atlanta International Airport wi-fi network and the ability to process service requests via the city’s 311 Web site portal, according to Anne Torres, Atlanta’s director of communications. | O
 Both are now back online, with airport wi-fi restored Tuesday morning. | O
-The ransomware used to attack Atlanta is called SamSam. | O
+The ransomware used to attack Atlanta is called SamSam. | AttackRansom
 Like most malicious software it typically enters computer networks through software whose security protections have not been updated. | O
 When attackers find vulnerabilities in a network, they use the ransomware to encrypt files there and demand payment to unlock them. | DiscoverVulnerability, AttackRansom
 Earlier this year attackers used a derivative of SamSam to lock up files at Hancock Regional Hospital in Greenfield, Ind. | AttackRansom
