@@ -11,7 +11,7 @@ But scanning the internet has shown that this is not true," wrote Embedi. | O
 Smart Install is supported by a broad range of Cisco routers and switches. | O
 The high number of devices with an open port is probably because the Smart Install client's port TCP 4786 is open by default. | O
 This situation is overlooked by network admins, Embedi said. | O
-The company has also published proof-of-concept exploit code, so it probably will be urgent for admins to patch. | PatchVulnerability, DiscoverVulnerability
+The company has also published proof-of-concept exploit code, so it probably will be urgent for admins to patch. | O
 An attacker can exploit the bug by sending a crafted Smart Install message to these devices on TCP port 4786, according to Cisco. | AttackPhishing
 Embedi discovered the flaw last year, landing it an award at the GeekPwn conference in Hong Kong last May, and reported it to Cisco in September. | DiscoverVulnerability
 Cisco's internal testing also turned up a critical issue in its IOS XE software, CVE-2018-0150, due to an undocumented user account that has a default username and password. | DiscoverVulnerability
