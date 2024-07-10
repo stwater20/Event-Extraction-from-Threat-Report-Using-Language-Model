@@ -4,12 +4,12 @@ The Internal Revenue Service is warning tax preparers about a new scam designed 
 The hacker’s goal is to break in to the preparer’s computer system and steal client information. | AttackDatabreach
 The IRS advises the bogus email appears to come from the recipient’s software provider and typically has a subject line that reads something like: “Software Support Update” or “Important Software System Upgrade.” | AttackPhishing
 The message tells the preparer they need to revalidate their login credentials and it provides a link to a “fictitious website that mirrors the software provider’s actual login page,” according to an IRS bulletin issued last month. | O
-“Instead of upgrading software, the tax professionals are providing their information to cybercriminals who use the stolen credentials to access the preparers' accounts and to steal client information." | O
+“Instead of upgrading software, the tax professionals are providing their information to cybercriminals who use the stolen credentials to access the preparers' accounts and to steal client information." | AttackDatabreach
 This phishing attack was cleverly designed to launch at the time of year when many software providers release upgrades to professional preparers. | AttackPhishing
 It’s also a busy time for preparers who are working to meet the Oct. 15 deadline for clients who filed for extensions. | O
 “This sophisticated scam yet again displays cybercriminals’ tax savvy and underscores the need for tax professionals to take strong security measures to protect their clients and protect their business,” the IRS alert said. | O
 Mike Wyatt, a threat researcher with RiskIQ, a digital threat management firm, told NBC News he’s not surprised to see this current attack. | O
-Getting people to click on malicious links requires social engineering — and launching a phishing campaign related to calendar events can be a successful tactic. | O
+Getting people to click on malicious links requires social engineering — and launching a phishing campaign related to calendar events can be a successful tactic. | AttackPhishing
 “Cybercriminals very often leverage holidays, events and other important dates in their threat campaigns, so it makes perfect sense that a group is capitalizing on the extended tax deadlines coming up,” he said. | O
 
 The IRS said it had received reports of “multiple takeover incidents” in the past year in which the criminals accessed client tax returns, completed those returns, e-filed them and secretly directed refunds to their own accounts. | O
