@@ -1,15 +1,15 @@
 Jenkins releases patch for critical pipeline security flaws | PatchVulnerability
-A critical vulnerability in open source automation tool Jenkins could allow permission checks to be bypassed through the use of specially-crafted URLs. | O
+A critical vulnerability in open source automation tool Jenkins could allow permission checks to be bypassed through the use of specially-crafted URLs. | DiscoverVulnerability
 Jenkins uses the Stapler web framework for HTTP request handling, which uses reflection to dispatch incoming web requests to controller code. | O
 This means that any public methods that start with get and include string and integer parameters are exposed to the web server. | O
 Because this is a common naming convention, this has led to multiple internal Jenkins methods being inadvertently exposed. | O
 The precise impact of this isn’t clear. | O
 The advisory notes that code execution could be a possible outcome – though on closer inspection, this seems to be a worst-case scenario. | O
-“To clarify, the vulnerability we addressed had nothing to do with arbitrary code execution, but was rather an issue discovered by the Jenkins security team that allowed a small subset of existing Jenkins code to be invoked by a remote client,” Daniel Beck, Jenkins security officer, told The Daily Swig in an email. | PatchVulnerability, DiscoverVulnerability
+“To clarify, the vulnerability we addressed had nothing to do with arbitrary code execution, but was rather an issue discovered by the Jenkins security team that allowed a small subset of existing Jenkins code to be invoked by a remote client,” Daniel Beck, Jenkins security officer, told The Daily Swig in an email. | DiscoverVulnerability
 “While the known impact is pretty limited, we felt that the layer at which the vulnerability existed, and its potential warranted a higher score.” | O
 These potential attacks include unauthenticated users being able to invalidate sessions when running with the built-in server, and users with overall/read permissions being able to create new user objects in memory. | O
 The advisory reads: “Given the vast potential attack surface, we fully expect other attacks, that we are not currently aware of, to be possible on Jenkins releases that do not have this fix applied. | PatchVulnerability
-“This is reflected in the high score we assigned to this issue, rather than limiting the score to the impact through known issues.” | DiscoverVulnerability
+“This is reflected in the high score we assigned to this issue, rather than limiting the score to the impact through known issues.” | O
 Beck added: “Jenkins users should always keep their instances up to date. | O
 In this case, we released updates for two LTS lines simultaneously for the first time, so admins could apply the update without having to go through a major version jump. | PatchVulnerability
 “We strive to fix all security vulnerabilities in Jenkins and plugins in a timely manner.” | PatchVulnerability
