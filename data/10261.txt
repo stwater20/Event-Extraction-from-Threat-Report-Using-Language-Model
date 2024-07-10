@@ -9,8 +9,8 @@ The tech giant says that exploitation of the security flaws, an out of bounds wr
 The vulnerabilities resolved include five bugs in Adobe Flash. | PatchVulnerability
 An out of bounds read flaw (CVE-2018-12824), a security bypass error (CVE-2018-12825), two information disclosure vulnerabilities (CVE-2018-12826, CVE-2018-12827), and a privilege escalation flaw (CVE-2018-12828) have all been patched. | PatchVulnerability
 A reflected cross-site scripting flaw (CVE-2018-12806), input validation bypass (CVE-2018-12807), and cross-site scripting (XSS) bug (CVE-2018-5005) have been patched in Adobe Experience Manager versions 6.0 -- 6.4 on all platforms. | PatchVulnerability
-If exploited, the security flaws can facilitate sensitive information disclosure and data modification. | O
-In addition, a single bug in Adobe Creative Cloud Desktop affecting versions 4.5.0.324 and earlier versions on Windows systems has been resolved. | DiscoverVulnerability, PatchVulnerability
+If exploited, the security flaws can facilitate sensitive information disclosure and data modification. | AttackDatabreach
+In addition, a single bug in Adobe Creative Cloud Desktop affecting versions 4.5.0.324 and earlier versions on Windows systems has been resolved. | PatchVulnerability
 The DLL hijacking vulnerability (CVE-2018-5003) can be exploited in order for an attacker to escalate privileges on an account. | DiscoverVulnerability
 Adobe recommends that users update their software as quickly as possible. | O
 Researchers from Trend Micro's Zero Day Initiative, Palo Alto Networks, Google Project Zero, TenCent, and Cognizant Technology Solutions, among others, were thanked for reporting the bugs. | DiscoverVulnerability
