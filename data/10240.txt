@@ -15,6 +15,6 @@ He said: “The technology is there for little cost but sadly the adoption rate 
 “The responsibility is now placed on the consumer to check the sender of the emails is real.” | O
 Telegraph Money found it was possible, for example, to buy domain names such as amazonuk.org, amazon.eu.co.uk or amazonuk.tech for as little as £5.99 per year. | O
 Andrew Goodwill, of The Goodwill Group, a fraud-prevention consultancy, said consumers should “be incredibly sceptical” about any unsolicited digital communication even from familiar companies. | O
-If they contained links or asked for personal information they were “more than likely to be fake”, he said. | O
+If they contained links or asked for personal information they were “more than likely to be fake”, he said. | AttackPhishing
 He added: “It’s a difficult situation. | O
 Why wouldn’t you expect to receive an email from a service you use? | O
