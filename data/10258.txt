@@ -8,8 +8,8 @@ Richard Chergwin, The Register, had reported that "CERT/CC vulnerability analyst
 CERT/CC did a formal investigation, and posted an advisory. | O
 "'Microsoft Windows task scheduler contains a vulnerability in the handling of ALPC, which can allow a local user to gain SYSTEM privileges,' the alert stated." | DiscoverVulnerability
 This can be leveraged to gain SYSTEM privileges. | O
-We have confirmed that the public exploit code works on 64-bit Windows 10 and Windows Server 2016 systems. | DiscoverVulnerability
-We have also confirmed compatibility with 32-bit Windows 10 with minor modifications to the public exploit code. | DiscoverVulnerability
+We have confirmed that the public exploit code works on 64-bit Windows 10 and Windows Server 2016 systems. | O
+We have also confirmed compatibility with 32-bit Windows 10 with minor modifications to the public exploit code. | PatchVulnerability
 Compatibility with other Windows versions is possible with further modifications." | O
 Should we worry? Allan said it is a local bug. | O
 The attacker would have to be already logged into the PC to exploit it, or be running code on the machine. | O
