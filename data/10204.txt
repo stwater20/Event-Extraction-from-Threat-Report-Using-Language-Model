@@ -7,7 +7,7 @@ According to the National Vulnerability Database, the glitch is an easily exploi
 The flaw was discovered by Jacob Baines, a researcher with Tenable. | DiscoverVulnerability
 “CVE-2018-2913 is a stack buffer overflow in GoldenGate Manager,” Baines told Threatpost. | DiscoverVulnerability
 “The Manager listens on port 7809 where it accepts GoldenGate Software Command Interface (GGSCI) commands. | O
-Tenable found that a remote unauthenticated attacker can trigger a stack buffer overflow by sending a GGSCI command that is longer than expected.” | O
+Tenable found that a remote unauthenticated attacker can trigger a stack buffer overflow by sending a GGSCI command that is longer than expected.” | DiscoverVulnerability
 The attack is not complex and a bad actor could be remote and unauthenticated. | O
 Making matters worse, an attacker could compromise other products after initially attacking GoldenGate, the advisory warned. | O
 “While the vulnerability is in Oracle GoldenGate, attacks may significantly impact additional products,” the note said. | O
