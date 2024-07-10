@@ -12,7 +12,7 @@ These flaws could allow privilege escalation on the targeted systems. | O
 
 In addition to the above, Adobe also released fixes for 48 important security vulnerabilities. | PatchVulnerability
 These include, 43 out-of-bounds read vulnerabilities, 4 integer overflow bugs, and a single security bypass bug. | O
-All these could allegedly result in information disclosure. | O
+All these could allegedly result in information disclosure. | AttackDatabreach
 As stated in Adobe’s advisory, the affected software include the following for Windows, | O
    Acrobat DC and Acrobat Reader DC (continuous track) versions 2019.008.20081 and earlier, | O
    Adobe Acrobat 2017 and Acrobat Reader 2017 (Classic 2017 track) versions 2017.011.30106 and earlier, | O
