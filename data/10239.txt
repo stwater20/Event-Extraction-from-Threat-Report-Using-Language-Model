@@ -1,4 +1,4 @@
-How MacEwan University got duped out of $11.8 million by scammers | AttackRansom
+How MacEwan University got duped out of $11.8 million by scammers | AttackPhsihing
 The email didn’t just seem innocent, it also seemed familiar to the accounts payable employee at MacEwan University in Edmonton. | O
 It was from one of the local construction firms the public institution deals with, logo and all. | O
 There was new bank account information —could accounts payable please change it? | O
@@ -17,7 +17,7 @@ There’s likely not a person reading this online who hasn’t received a phishi
 What hit MacEwan was a spear phishing attack, in which scammers impersonate a client or associate of the individual. | AttackPhishing
 In this case, the fraudster had cut-and-pasted the actual vendor’s logo, MacEwan spokesman David Beharry said. | O
 A phishing attacker will often cast several lures; in this case, investigators said 14 different Edmonton-area construction sites or firms were impersonated as part of this attempt. | AttackPhishing
-The successful trick led to financial transfers equivalent to more than five per cent of the publicly funded school’s 2016 operating budget, according to records. | AttackPhishing
+The successful trick led to financial transfers equivalent to more than five per cent of the publicly funded school’s 2016 operating budget, according to records. | O
 This inflicted vastly more damage than the last well-documented online scam to successfully target an Alberta post-secondary school: last year, University of Calgary paid $20,000 in what’s known as a ransomware attack, in which cyberattackers manage to lock or encrypt network data until the victim pays up. | AttackRansom 
 While MacEwan is confident it can recoup the amounts already frozen, it will also incur legal fees on three continents as it tries to do so, Beharry says. | O
 Edmonton’s second-largest university knew enough about this problem to launch its own phishing awareness campaign last school year for staff and students, posters and all. | O
