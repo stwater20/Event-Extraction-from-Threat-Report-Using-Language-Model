@@ -5,7 +5,7 @@ The findings identified more than 493,000 smart devices in Barcelona and 5.3 mil
 In the experiment, Avast found: | O
 Conducted in partnership with IoT search engine Shodan.io, the experiment proves just how easy it is for anyone – including cybercriminals – to scan IP addresses and ports over the Internet and classify what device is on each IP address. | O
 And, with a little extra effort and know-how, hackers can also find out the type of device (webcam, printer, smart kettle, fridge and so on), brand, model and the version of software it is running. | O
-As webcams and other devices are vulnerable, there are a range of security, legal and privacy concerns to be addressed. | PatchVulnerability,DiscoverVulnerability
+As webcams and other devices are vulnerable, there are a range of security, legal and privacy concerns to be addressed. | PatchVulnerability, DiscoverVulnerability
 Snoopers could easily access and watch Mobile World Congress visitors and Barcelona residents in private and public spaces, and stream the video directly to the internet, or turn the device into a bot. | AttackDatabreach
 Smart device manufacturers also collect and store private user data, including behavioral data, contact information, and credit card details, which poses an additional risk if intercepted by cybercriminals. | AttackDatabreach
 And while the problem is in no way confined to Barcelona, Spain, or indeed to webcams, it is particularly challenging for the city as it is hosting thousands of mobile and technology industry executives at Mobile World Congress 2017 this week. | O
