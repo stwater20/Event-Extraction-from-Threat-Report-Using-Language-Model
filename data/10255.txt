@@ -11,8 +11,8 @@ The hijacked extensions were coded mostly to substitute banner ads on adult webs
 At least one of the affiliate programs receiving the hijacked traffic promoted PCKeeper, a Windows-focused tool originally from ZeobitLLC, the maker of the MacKeeper security product that was the subject of a class action suit a few years ago over false security claims. | O
 A snippet of JavaScript in the compromised extensions also downloaded a file that was served by Cloudflare containing code with a script designed to collect Cloudflare user credentials after login. | O
 Cloudflare stopped serving the file after it was alerted to the issue by Proofpoint. | O
-The phishing emails that compromised developers' Google Accounts purported to come from Google's Chrome Web Store team, which claimed the developer's extension didn't comply with its policies and would be removed unless the issue was fixed. | AttackPhishing, PatchVulnerability
+The phishing emails that compromised developers' Google Accounts purported to come from Google's Chrome Web Store team, which claimed the developer's extension didn't comply with its policies and would be removed unless the issue was fixed. | AttackPhishing
 As Bleeping Computer recently reported, Google's security team has sent an email warning to Chrome extension developers to be on the lookout for phishing attacks. | AttackPhishing
 The attackers had created a convincing copy of Google's real account login page. | O
-It's not the first time Chrome extensions have been targeted to spread adware and promote affiliate networks. | AttackPhishing
+It's not the first time Chrome extensions have been targeted to spread adware and promote affiliate networks. | O
 In 2014, adware firms bought several popular Chrome extensions from legitimate developers, which up to that point had maintained trustworthy products. | O
