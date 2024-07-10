@@ -7,8 +7,8 @@ Of course, I would just need to click on the bogus link with my 'credit/debit ca
 At first glance, it may look fairly convincing - the spelling and grammar is pretty good, it contains plenty of official-looking reference numbers and the web links are at least in part quite similar to the genuine articles. | O
 But it's very definitely a 'phishing' email - whereby the fraudster sender is trying to hook you into providing personal information. | AttackPhishing
 In this case, they're after my credit or debit card numbers. | O
-Phishing happens by text message too. | O
-Earlier this month HMRC reported people are nine times more likely to fall for text message scams than other types such as email because they can appear more legitimate, with many texts displaying ‘HMRC’ as the sender, rather than a phone number. | O
+Phishing happens by text message too. | AttackPhishing
+Earlier this month HMRC reported people are nine times more likely to fall for text message scams than other types such as email because they can appear more legitimate, with many texts displaying ‘HMRC’ as the sender, rather than a phone number. | AttacKPhishing
 It also said it had 'stopped thousands of taxpayers from receiving scam text messages, with 90 per cent of the most convincing texts now halted before they reach their phones'. | O
 To help you protect yourself and your bank account, there are several warning signs you should always look out for to determine whether such emails and texts are fakes | O
 
@@ -16,7 +16,7 @@ This is in case they contain malware - software with a virus that can read perso
 The bug is often activated by users inadvertently opening an attachment or clicking on an email link. | O
 And it's not just emails and texts about tax refunds you need to be vigilant towards. | O
 A spokesman for Action Fraud told This is Money: 'At this important time in the tax year when people will be claiming refunds, we are warning of fraudsters who contact victims claiming to be from HMRC to trick them into paying bogus debts and taxes. | AttackPhishing 
-'These criminals will contact victims in many ways, including spoof calls, voicemails and text messages. | O
+'These criminals will contact victims in many ways, including spoof calls, voicemails and text messages. | AttackPhishing
 And in most cases they will ask for payments in iTunes giftcards. | AttackPhishing
 'It is important that people spot the signs of this type of fraud to protect themselves. | O
 'HMRC will never use text messages to inform about a tax rebate or penalty and will never ask for any payment in the form of iTunes vouchers.' | O
