@@ -1,9 +1,9 @@
-Man-in-the-middle flaw left smartphone banking apps vulnerable | O
-A flaw in certificate pinning exposed customers of a number of high-profile banks to man-in-the-middle attacks on both iOS and Android devices. | O
+Man-in-the-middle flaw left smartphone banking apps vulnerable | DiscoverVulnerability
+A flaw in certificate pinning exposed customers of a number of high-profile banks to man-in-the-middle attacks on both iOS and Android devices. | DiscoverVulnerability
 A vulnerability in the mobile apps of major banks could have allowed attackers to steal customers' credentials including usernames, passwords, and pin codes, according to researchers. | AttackDatabreach
  The flaw was found in apps by HSBC, NatWest, Co-op, Santander, and Allied Irish bank. | DiscoverVulnerability
 The banks in question have now all updated their apps to protect against the flaw. | PatchVulnerability
-Uncovered by researchers in the Security and Privacy Group at the University of Birmingham, the vulnerability allows an attacker who is on the same network as the victim to perform a man-in-the-middle attack and steal information. | DiscoverVulnerability
+Uncovered by researchers in the Security and Privacy Group at the University of Birmingham, the vulnerability allows an attacker who is on the same network as the victim to perform a man-in-the-middle attack and steal information. | DiscoverVulnerability, AttackDatabreach
 The vulnerability lay in the certificate pinning technology, a security mechanism used to prevent impersonation attacks and use of fraudulent certificates by only accepting certificates signed by a single pinned CA root certificate. | DiscoverVulnerability
 While certificate pinning usually improves security, a tool developed by the researchers to perform semi-automated security-testing of mobile apps found that a flaw in the technology meant standard tests failed to detect attackers trying to take control of a victim's online banking. | O 
 As a result, certificate pinning can hide the lack of proper hostname verification, enabling man-in-the-middle attacks. | O
