@@ -3,10 +3,10 @@ Facebook discovered a security issue that allowed hackers to access information 
 Following the disclosure, shares of Facebook extended midday losses and ended trading 2.5 percent down. | O
 "This is a very serious security issue, and we're taking it very seriously," said CEO Mark Zuckerberg on a call with reporters. | O
 Facebook shares, which were already down about 1.5 percent before the announcement, extended losses after the disclosure and ended down 2.6 percent. | O
-The company said in a blog post that its engineering team found on Tuesday that attackers identified a weakness in Facebook's code regarding its "View As" feature. | O
+The company said in a blog post that its engineering team found on Tuesday that attackers identified a weakness in Facebook's code regarding its "View As" feature. | DiscoverVulnerability
 Facebook became aware of a potential attack after it noticed a spike in user activity on September 16. | O
 "View As" lets users see what their profile looks like to other users on the platform. | O
-This vulnerability, which consisted of three separate bugs, also allowed the hackers to get access tokens — digital keys which let people stay logged into the service without having to re-enter their password — which could be used to control other people's accounts. | O
+This vulnerability, which consisted of three separate bugs, also allowed the hackers to get access tokens — digital keys which let people stay logged into the service without having to re-enter their password — which could be used to control other people's accounts. | DiscoverVulnerability, AttackDatabreach
 Almost 50 million accounts had their access tokens taken, and Facebook has reset those tokens. | O
 The company also reset tokens for an additional 40 million accounts who used the "View As" feature in the last year as a precautionary measure, for a total of 90 million accounts. | O
 Facebook had 2.23 billion monthly active users as of June 30. | O
