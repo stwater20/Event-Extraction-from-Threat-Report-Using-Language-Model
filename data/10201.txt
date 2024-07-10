@@ -5,9 +5,9 @@ The flaw, tracked as CVE-2018-0296, was detailed in an advisory on June 6 and af
 The attacks follow the publication of proof-of-concept exploits for the flaw. | O
 Santos notes that a unauthenticated, remote attacker could cause a device to reload unexpectedly and cause a denial-of-service (DoS) condition. | DiscoverVulnerability
 
-Additionally, an exploit could cause a DoS or unauthenticated disclosure of information. | O
+Additionally, an exploit could cause a DoS or unauthenticated disclosure of information. | AttackDatabreach
 However, Santos said: "Only a denial-of-service condition (device reload) has been observed by Cisco." | O
-Cisco has also updated the advisory for CVE-2018-0296 with details about the attacks. | PatchVulnerability
+Cisco has also updated the advisory for CVE-2018-0296 with details about the attacks. | O
 The researcher who found the flaw, Michał Bentkowski from Polish security firm Securitum, gave a brief description of the root cause in a tweet shortly after Cisco disclosed the bug. | DiscoverVulnerability
 Bentkowsky reported the issue to Cisco as a way to use directory-traversal techniques to disclose information to an unauthenticated attacker. | DiscoverVulnerability
 Cisco labeled its primary impact as a DoS condition, but said it is possible that on certain releases of ASA a device reload would not occur, yet still allow an attacker to use directory-traversal techniques to view sensitive system information. | DiscoverVulnerability
