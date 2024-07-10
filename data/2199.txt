@@ -1,6 +1,6 @@
 Dating site users spammed with smut after ‘third-party’ data leak – Naked Security | AttackDatabreach
 Users of the Guardian’s Soulmates dating site have been getting spammed with smut after the site leaked their contact information. | AttackDatabreach
-The UK-based Guardian newspaper’s publisher, which runs the service, is blaming “human error” and a third-party technology provider for the leak, which has now been fixed. | O
+The UK-based Guardian newspaper’s publisher, which runs the service, is blaming “human error” and a third-party technology provider for the leak, which has now been fixed. | AttackDatabreach
 According to the BBC, the site — which charges users up to £32 ($41.50) per month — said that only email addresses and user IDs had been exposed directly. | AttackDatabreach
 But that information can be used to dig out more from public profiles, said the company, including photos, relationship preferences and physical descriptions. | O
 Here’s a statement the publisher sent to The Register: | O
