@@ -1,4 +1,4 @@
-PSA: WhatsApp security flaw could be triggered simply by answering a call – fix available | O
+PSA: WhatsApp security flaw could be triggered simply by answering a call – fix available | PatchVulnerability
 A WhatsApp security vulnerability could allow attackers to crash the iOS app as soon as you answer a call, and could potentially be used to hack your iPhone … | O
 The Register reports that the flaw was reported to WhatsApp in August, and has been patched in the latest version – so you’ll want to check for an update. | PatchVulnerability, DiscoverVulnerability
 Google Project Zero whizkid and Tamagotchi whisperer Natalie Silvanovich discovered and reported the flaw, a memory heap overflow issue, directly to WhatsApp in August. | DiscoverVulnerability
@@ -10,6 +10,6 @@ It’s not clear whether the WhatsApp security flaw could be exploited for remot
 “This is a big deal,” tweeted Travis Ormandy. | O
 “Just answering a call from an attacker could completely compromise WhatsApp.” | O
 The same vulnerability was present in the Android app, which has also been patched. | DiscoverVulnerability, PatchVulnerability
-The Register says it is still waiting to hear from Google on more details, for example whether the desktop app is similarly affected. | DiscoverVulnerability
+The Register says it is still waiting to hear from Google on more details, for example whether the desktop app is similarly affected. | O
 It’s not the first time of late that a WhatsApp security issue has been identified. | DiscoverVulnerability
 Back in August, it was discovered that it was possible for an attacker to change both the content and the sender of a WhatsApp message after you’ve received it. | DiscoverVulnerability
