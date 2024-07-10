@@ -7,4 +7,4 @@ By using a dash, when Git clones a repository using the --recurse-submodules arg
 If the URL field is set to a string that begins with a dash, this "git clone" subprocess interprets the URL as an option. | O
 This can lead to executing an arbitrary script shipped in the superproject as the user who ran "git clone"." | O
 This vulnerability has been fixed in Git v2.19.1 (with backports in v2.14.5, v2.15.3, v2.16.5, v2.17.2, and v2.18.1), GitHub Desktop 1.4.2, Github Desktop 1.4.3-beta0, Atom 1.31.2, and Atom 1.32.0-beta3. | PatchVulnerability
-The Git Project strongly recommends that all users upgrade to the latest version of the Git client, Github Desktop, or Atom in order to be protected from malicious repositories. | PatchVulnerability
+The Git Project strongly recommends that all users upgrade to the latest version of the Git client, Github Desktop, or Atom in order to be protected from malicious repositories. | O
