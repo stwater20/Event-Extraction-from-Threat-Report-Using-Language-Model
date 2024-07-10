@@ -1,5 +1,5 @@
 Netflix subscribers targeted by scam email | AttackPhishing
-An email scam passing as a Netflix notification has been targeting subscribers of the streaming service. | O
+An email scam passing as a Netflix notification has been targeting subscribers of the streaming service. | AttackPhishing
 The “suspension notification” looks similar in design and format to other Netflix emails. | AttackPhishing
 It notifies and urges users to update their information to avoid the suspension of their account. | O
 The goal of the scam is to steal personal and credit card information, according to a report from Mailguard. | AttackPhishing
