@@ -6,11 +6,11 @@ The recently released Adobe Patch Tuesday November updates addressed three diffe
 The first one existed in the Adobe Photoshop CC affecting versions 19.1.6 and prior for both Windows and MacOS. | DiscoverVulnerability
 As described in the security advisory, Adobe has fixed this important Out-of-bounds read vulnerability (CVE-2018-15980) in the Photoshop CC versions 19.1.7 and 20.0. | PatchVulnerability
 The second information disclosure flaw affected Adobe Reader and Acrobat for Windows. | DiscoverVulnerability
-Explaining about the flaw in their advisory, Adobe stated, “Successful exploitation could lead to an inadvertent leak of the user’s hashed NTLM password.” | O
+Explaining about the flaw in their advisory, Adobe stated, “Successful exploitation could lead to an inadvertent leak of the user’s hashed NTLM password.” | AttackDatabreach
 The vulnerability initially received the CVE number CVE-2018-4993, when Check Point Research first reported the bug. | DiscoverVulnerability
 However, as recently disclosed by the EdgeSpot, Adobe only patched a single variant of this bug. | DiscoverVulnerability, PatchVulnerability
-Whereas, the EdgeSpot team discovered other variants that hinted towards a failed patching of the bug instead of a new vulnerability. | DiscoverVulnerability, PatchVulnerability
-The patched vulnerability has now received CVE number CVE-2018-15979 “to reflect that the patch is available”. | DiscoverVulnerability, PatchVulnerability
+Whereas, the EdgeSpot team discovered other variants that hinted towards a failed patching of the bug instead of a new vulnerability. | O
+The patched vulnerability has now received CVE number CVE-2018-15979 “to reflect that the patch is available”. | PatchVulnerability
 The third vulnerability addressed this month is an out-of-bounds Read vulnerability (CVE-2018-15978) in the Adobe Flash Player. | PatchVulnerability
 The affected versions include 31.0.0.122 and earlier for Windows, Linux, and MacOS. | O
 Unlike previous months, the Adobe Patch Tuesday November update bundle addressed fewer bugs. | PatchVulnerability
