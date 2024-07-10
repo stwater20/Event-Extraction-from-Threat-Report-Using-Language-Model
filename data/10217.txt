@@ -1,6 +1,6 @@
 Decade-old remote code execution vulnerability patched in Valve Steam client | PatchVulnerability
 Valve has patched a critical vulnerability in the Steam client which has lurked undetected for at least 10 years. | PatchVulnerability
-The vulnerability impacts all versions of the gaming platform. | DiscoverVulnerability
+The vulnerability impacts all versions of the gaming platform. | O
 Tom Court, a security researcher hailing from Context Information Security, discovered the bug and disclosed his findings on Thursday. | DiscoverVulnerability
 In a blog post, the researcher said that left unpatched, the bug permits threat actors to perform remote code execution (RCE) attacks. | DiscoverVulnerability, PatchVulnerability
 It was not until July last year that Valve added modern ASLR exploit protections to its Steam source code. | O
