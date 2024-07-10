@@ -1,6 +1,6 @@
 Cisco patches privilege escalation flaw in Adaptive Securty Appliance software | PatchVulnerability
 Cisco Systems this week issued an update for its Adaptive Security Appliance (ASA) software, fixing a high-severity vulnerability that could allow authenticated attackers with low-level access to remotely escalate their privileges on Cisco devices with web management access enabled. | PatchVulnerability
-Designated CVE-2018-15465, the flaw is the result of an improper validation process while using the web management interface. | O
+Designated CVE-2018-15465, the flaw is the result of an improper validation process while using the web management interface. | DiscoverVulnerability
 “An attacker could exploit this vulnerability by sending specific HTTP requests via HTTPS to an affected device as an unprivileged user,” states a Dec. 19 Cisco security advisory. | O
 “An exploit could allow the attacker to retrieve files (including the running configuration) from the device or to upload and replace software images on the device.” | O
 The cybersecurity firm Tenable, whose researchers discovered the bug, explained its findings in further detail in a Dec 19 blog post. | DiscoverVulnerability
