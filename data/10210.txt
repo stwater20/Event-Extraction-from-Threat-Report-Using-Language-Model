@@ -7,7 +7,7 @@ Oracle noted that all three bugs only impact the server versions of Database, us
 For Fusion Middleware, the update will include a total of 56 CVE-listed flaws, including 12 that are remotely exploitable with CVSS base scores of 9.8, meaning an exploit would be fairly easy to pull off and offer near total control of the target machine. | O
 Of those 12, five were for critical flaws in WebLogic Server. | O
 Java SE will get 12 security fixes, with all but one being for remotely exploitable vulnerabilities in that platform. | PatchVulnerability
-Oracle notes that though the CVSS scores for the flaws are fairly high, Solaris and Linux machines running software with lower user privileges will be considered to be at a lower risk than Windows environments that typically operate with admin privileges. | DiscoverVulnerability
+Oracle notes that though the CVSS scores for the flaws are fairly high, Solaris and Linux machines running software with lower user privileges will be considered to be at a lower risk than Windows environments that typically operate with admin privileges. | O
 MySQL was the target of 38 CVE-listed bug fixes this month, through just three of those are remotely exploitable. | O
 The two most serious, CVE-2018-11776 and CVE-2018-8014, concern remote code flaws in MySQL Enterprise Monitor. | O
 PeopleSoft will see 24 bug fixes, 21 of which can be remotely targeted and seven that would not require any user interaction. | O
