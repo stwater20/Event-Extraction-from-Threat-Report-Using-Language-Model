@@ -1,5 +1,5 @@
 Bleeding clouds: Cloudflare server errors blamed for leaked customer data | CSO Online | O
-   While working on something completely unrelated, Google security researcher, Tavis Ormandy, recently discovered that Cloudflare was leaking a wide range of sensitive information, which could have included everything from cookies and tokens, to credentials. | DiscoverVulnerability,Databreach
+   While working on something completely unrelated, Google security researcher, Tavis Ormandy, recently discovered that Cloudflare was leaking a wide range of sensitive information, which could have included everything from cookies and tokens, to credentials. | DiscoverVulnerability, AttackDatabreach
 Cloudflare moved quickly to fix things, but their postmortem downplays the risk to customers, Ormandy said. | PatchVulnerability
 The problem on Cloudflare's side, which impacted big brands like Uber, Fitbit, 1Password, and OKCupid, was a memory leak. | DiscoverVulnerability
 The flaw resulted in the exposure of "HTTP cookies, authentication tokens, HTTP POST bodies, and other sensitive data," Cloudflare said. | O
