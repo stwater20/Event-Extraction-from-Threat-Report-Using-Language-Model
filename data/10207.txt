@@ -1,12 +1,12 @@
 Foxit patches 118 vulnerabilities in popular PDF reader | PatchVulnerability
-Foxit has patched more than 118 vulnerabilities in its PDF reader, some of which could be exploited to enable full remote code execution. | PatchVulnerability, DiscoverVulnerability
+Foxit has patched more than 118 vulnerabilities in its PDF reader, some of which could be exploited to enable full remote code execution. | PatchVulnerability
 Patches were released last week for Foxit Reader 9.3 and Foxit PhantomPDF 9.3 to address a huge number of issues in the programs. | PatchVulnerability
 This security bulletin released by Foxit provides details on the extensive list of vulnerabilities, which were discovered via internal research, end user reports, and reports from research teams. | DiscoverVulnerability
 More than 118 issues were addressed, though there was some overlap, and so the number of actual bugs was lower. | PatchVulnerability
 Vulnerable versions are 9.2.0.9297 and earlier, and only affect Windows users. | DiscoverVulnerability
 A significant number of flaws were classed as ‘critical’ and could allow for remote code execution – 18 were reported by Cisco Talos, all of which were dubbed high in severity. | DiscoverVulnerability
 Several were use-after-free flaws, which allows memory to be accessed after it has been freed and can enable hackers to execute arbitrary code and take over the system. | O
-Cisco Talos wrote in a report: “There are a couple of different ways an adversary could leverage this attack including tricking a user to opening a specially crafted, malicious PDF or, if the browser plugin is enabled, the user could trigger the exploit by viewing the document in a web browser.” | O
+Cisco Talos wrote in a report: “There are a couple of different ways an adversary could leverage this attack including tricking a user to opening a specially crafted, malicious PDF or, if the browser plugin is enabled, the user could trigger the exploit by viewing the document in a web browser.” | AttackPhishing
 Foxit told The Daily Swig that its programs were embedded with security features designed to protect its users from malicious actors. | O
 These include a ‘Safe Mode’, which “prevents suspicious external commands to be executed by Foxit Reader”, and the option to disable JavaScript. | O
 The company also urged its users to update to the latest version. | O
