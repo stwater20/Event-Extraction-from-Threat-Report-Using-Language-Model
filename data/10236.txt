@@ -15,11 +15,11 @@ Attacks, such as these use fear as bait or the lure of a tax refund on the other
 They rely on social engineering tactics. | O
 One such message tells recipients that there’s a pending law enforcement action against them as they have evaded tax. | O
 It is mainly used to target U.S. taxpayers. | O
-The scam pretends to contain information about a subpoena. | O
-It could contain a web link which it wants you to click. | O
-The link could take you to a fraudulent website. | O
+The scam pretends to contain information about a subpoena. | AttackPhishing
+It could contain a web link which it wants you to click. | AttackPhishing
+The link could take you to a fraudulent website. | AttackPhishing
 Or the email could include an attachment. | O
 The file is a “document file” that Microsoft Word opens in Protected View. | O
 It contains an instruction to Enable Editing. | O
-If the Enable Editing button is clicked, malicious Macros in the ‘document’ downloads a malware. | O
+If the Enable Editing button is clicked, malicious Macros in the ‘document’ downloads a malware. | AttackRansom
 So one needs to always exercise utmost caution in either of the cases. | O
