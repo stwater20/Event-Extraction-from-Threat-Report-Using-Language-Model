@@ -8,7 +8,7 @@ What started with a core team of 25 IT employees, Simmons said, ballooned to 150
 She added that others included CDOT, the FBI, state emergency operations and private companies. | O
 The million-dollar estimate includes only overtime pay and other unexpected costs. | O
 The state’s new backup system prevented data loss, but personal data on employees’ computers may not be recovered. | O
-The cyberattack started around Feb 21 when a variant of the SamSam ransomware hijacked CDOT computer files. | O
+The cyberattack started around Feb 21 when a variant of the SamSam ransomware hijacked CDOT computer files. | AttackRansom
 CDOT shut down more than 2,000 computers. | O
 Its employees had to use personal devices to check email. | O
 The state did not share the value of bitcoin that attackers demanded. | AttackRansom
