@@ -1,9 +1,9 @@
-Scammers Are Exploiting Hurricane Harvey to Dupe Well-Intentioned Folks. Don't Fall for It. | O
+Scammers Are Exploiting Hurricane Harvey to Dupe Well-Intentioned Folks. Don't Fall for It. | AttackPhishing
 When tragedy strikes, criminals invariably prey on people’s best intentions. | O
 Scammers have been using Hurricane Harvey-themed messages to trick people into opening phishing emails and links on social media sites, which can steal login information, infect machines with malware, or con victims out of money. | AttackPhishing
 US-CERT, a cybersecurity arm of the U.S. | O
 Department of Homeland Security, issued a warning about the threat on Monday. | O
-“[R]emain vigilant for malicious cyber activity seeking to capitalize on interest in Hurricane Harvey,” the advisory read. | O
+“[R]emain vigilant for malicious cyber activity seeking to capitalize on interest in Hurricane Harvey,” the advisory read. | AttackPhishing
 “Emails requesting donations from duplicitous charitable organizations commonly appear after major natural disasters.” | O
 As the advisory notes, a common scam during and after natural disasters is for fraudsters to pretend to set up relief funds and request donations. | AttackPhishing
 Fortune has seen several suspicious online profiles and personas that, although their legitimacy couldn’t be determined, raised several red flags: a small number of followers, unverified accounts, no apparent links to accredited charities, and no means to track where proceeds go. | O
