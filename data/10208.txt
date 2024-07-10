@@ -2,7 +2,7 @@ Update now: Adobe fixes 85 serious flaws in Acrobat and Reader | PatchVulnerabil
 Adobe has released updates fixing a long list of security vulnerabilities discovered in the Mac and Windows versions of Acrobat and Reader. | PatchVulnerability, DiscoverVulnerability
 In total, the first October update brings 85 CVEs, including 47 rated as ‘critical’ with the remaining 39 classified as ‘important’. | O
 It’s too early to get much detail on the flaws but those rated critical break down as 46 allowing code execution and one allowing privilege escalation. | O
-The majority of the flaws rated important involve out-of-bounds read issues leading to information disclosure. | O
+The majority of the flaws rated important involve out-of-bounds read issues leading to information disclosure. | AttackDatabreach
 As far as Adobe is aware, none are being actively exploited. | O
 
 The update you should download depends on which version you have installed: | O
@@ -13,7 +13,7 @@ The update you should download depends on which version you have installed: | O
 Anyone who still has the old Acrobat XI or Reader XI on their computer, the last version was 11.0.23 when support for this ended a year ago. | O
 A sign of success? | O
 There was a time when having to patch so many flaws in a small suite of products from one company would have been seen as a failure. | PatchVulnerability
-Arguably, these days, it’s a sign of success – researchers are devoting the time to finding vulnerabilities before the bad guys do and Adobe is turning around fixes. | DiscoverVulnerability
+Arguably, these days, it’s a sign of success – researchers are devoting the time to finding vulnerabilities before the bad guys do and Adobe is turning around fixes. | O
 What’s surprising is that despite crediting every one of them (and it’s quite a list), the company doesn’t seem to have a formal bug bounty reward program other than the separate web applications program run via third party company, HackerOne. | O
 If Adobe’s 85 vulnerabilities sounds excessive, have some sympathy for users of the rival Foxit PDF Reader and Foxit PhantomPDF programs. | O
 Foxit last week released what appears to be 116 vulnerabilities of their own (confusingly, many of which are not yet labelled with CVEs). | DiscoverVulnerability
