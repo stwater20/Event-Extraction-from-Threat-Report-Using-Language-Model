@@ -1,4 +1,4 @@
-IRS warns of fraudulent tax transcript email scheme | O
+IRS warns of fraudulent tax transcript email scheme | AttackPhishing
 The Internal Revenue Service today warned the public of a tax transcript scheme via a surge of fraudulent emails impersonating the IRS. | AttackPhishing
 The emails offer tax transcripts, or the summary of a tax return, as bait to entice users to open documents containing malware. | AttackPhishing
 The scam email carries an attachment labeled “Tax Account Transcript” or something similar, and the subject line uses some variation of the phrase “tax transcript.” The IRS said the scam is especially problematic for businesses whose employees might open the malware because it can spread throughout the network and potentially take months to successfully remove. | AttackPhishing
