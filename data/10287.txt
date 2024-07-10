@@ -9,5 +9,5 @@ In practice, the malformed packet that triggers the crash could be sent via a si
 While Silvanovich has not said whether further actions (like remote code execution) would be possible to pull off in the wild, the flaw was serious enough to draw the attention of fellow Google researcher Tavis Ormandy. | O
 Fortunately, as the bug has been patched users will be able to get a fix for the flaw by updating to the latest version of WhatsApp on Android and iOS. | PatchVulnerability
 We're still waiting to hear from Google or Facebook on more details, such as if the desktop app is affected of if RCE is possible, but its PR team has a lot on today. | O
-The disclosure will add another to the growing list of apps that will need to be updated thanks to October security patches. | O
+The disclosure will add another to the growing list of apps that will need to be updated thanks to October security patches. | PatchVulnerability
 Earlier today, Microsoft delivered its Patch Tuesday security bundle, with Adobe dropping its second major patch bundle in as many weeks and Google having posted the Android monthly update last week. | PatchVulnerability
