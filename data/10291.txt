@@ -11,6 +11,6 @@ The original patch only forced the service to run files signed by Webex, but fai
 "Also, a malicious dll must be placed in the same folder, named wbxtrace.dll. | O 
 To gain privileges, the attacker must start the service with the command line: sc start webexservice install software-update 1 "attacker-controlled-path" (if the parameter 1 doesn't work, then 2 should be used)." | O
 These findings were sent to Cisco, which acknowledged the DLL attack method. | O
-A new patch was then issued roughly a week after being informed of the issue. | DiscoverVulnerability, PatchVulnerability 
-"After an additional attack method was reported to Cisco, the previous fix for this vulnerability was determined to be insufficient," Cisco says. | O
+A new patch was then issued roughly a week after being informed of the issue. | PatchVulnerability 
+"After an additional attack method was reported to Cisco, the previous fix for this vulnerability was determined to be insufficient," Cisco says. | PatchVulnerability
 "A new fix was developed, and the advisory was updated on November 27, 2018, to reflect which software releases include the complete fix." | PatchVulnerability
