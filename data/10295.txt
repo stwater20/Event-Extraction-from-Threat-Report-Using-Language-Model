@@ -1,6 +1,6 @@
 Cisco patches critical vulnerabilities in Policy Suite | PatchVulnerability
 Cisco has resolved a set of critical vulnerabilities in Policy Suite which permit attackers to cause havoc in the software's databases. | PatchVulnerability
-This week, the tech giant released a security advisory detailing four vulnerabilities which could place enterprise users at risk of information leaks, account compromise, database tampering, and more. | PatchVulnerability
+This week, the tech giant released a security advisory detailing four vulnerabilities which could place enterprise users at risk of information leaks, account compromise, database tampering, and more. | AttackDatabreach
 The first vulnerability, CVE-2018-0374, has earned a CVSS base score of 9.8. | DiscoverVulnerability
 Described as an unauthenticated bypass bug, the security flaw "could allow an unauthenticated, remote attacker to connect directly to the Policy Builder database," according to Cisco. | DiscoverVulnerability
 The bug has been caused by a simple lack of authentication and as there is no requirement for identity verification, Policy Builder databases can be accessed and tampering with without limitation. | O
@@ -17,6 +17,6 @@ The fourth security flaw, CVE-2018-0377, affects the Open Systems Gateway initia
 There is a lack of authentication within the OSGi interface which permits attackers to circumvent security processes and directly connect to the interface, access any files contained within they wish, and modify any content which is accessible through the process. | DiscoverVulnerability
 This vulnerability impacts Policy Suite versions prior to 18.1.0. | DiscoverVulnerability
 There are no workarounds to circumvent these vulnerabilities. | O
-However, patches have been issued to address them and Cisco says that no reports have been received which indicate the bugs are being exploited in the wild. | DiscoverVulnerability, PatchVulnerability
-In addition, Cisco has revealed seven now-patched bugs affecting SD-WAN solutions. | DiscoverVulnerability
+However, patches have been issued to address them and Cisco says that no reports have been received which indicate the bugs are being exploited in the wild. | PatchVulnerability
+In addition, Cisco has revealed seven now-patched bugs affecting SD-WAN solutions. | PatchVulnerability
 The vulnerabilities included command injection security flaws, a remote code execution bug, and arbitrary file overwrite issues. | DiscoverVulnerability
