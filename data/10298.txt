@@ -4,7 +4,7 @@ The US Postal Service has fixed a security bug in its website that allowed anyon
 The flaw was patched this week after USPS was informed of the issue by Krebs on Security, which reports that an unnamed independent researcher reported the bug a year ago but never received a response. | DiscoverVulnerability, PatchVulnerability 
 According to Krebs, the flaw was caused by an authentication weakness in the application programming interface (API) on usps.com that supported the USPS 'Informed Visibility' program, which offers business customers "near real-time tracking data" about mail campaigns and packages. | O
 The bug let anyone who was logged in to usps.com to see account details for others users, including email address, username, user ID, account number, street address, phone number, authorized users, mailing campaign data and more. | DiscoverVulnerability, AttackDatabreach
-Krebs notes that the "API also let any user request account changes for any other user, such as email address, phone number or other key details". | O
+Krebs notes that the "API also let any user request account changes for any other user, such as email address, phone number or other key details". | AttackDatabreach
 USPS said in a statement it had no information that the vulnerability had been used to access customer records. | O
 "Computer networks are constantly under attack from criminals who try to exploit vulnerabilities to illegally obtain information. | AttackDatabreach
 Similar to other companies, the Postal Service's Information Security program and the Inspection Service uses industry best practices to constantly monitor our network for suspicious activity," USPS said. | O
@@ -12,8 +12,8 @@ Similar to other companies, the Postal Service's Information Security program an
 Out of an abundance of caution, the Postal Service is further investigating to ensure that anyone who may have sought to access our systems inappropriately is pursued to the fullest extent of the law." | O
 However, a recent vulnerability assessment of the Informed Visibility program by the Office of Inspector General of the US Postal Service turned up weaknesses, including a lack of audit logs, in the Informed Visibility database. | O
 The partially redacted audit report, published in October, assessed 13 Informed Visibility (IV) servers. | O
-It found overall compliance with Postal Service server configuration baselines, but weakness in the IV database's account-management systems. | O
-"We identified weaknesses in account management controls, specifically with password complexity, disabling user accounts, and maintaining audit logs," the OIG report notes. | O
+It found overall compliance with Postal Service server configuration baselines, but weakness in the IV database's account-management systems. | DiscoverVulnerability
+"We identified weaknesses in account management controls, specifically with password complexity, disabling user accounts, and maintaining audit logs," the OIG report notes. | DiscoverVulnerability
 "Without account management controls, the IV system is at risk for [redacted]. | O
 Further, if expired accounts are not disabled in a timely manner, this increases the duration that Postal Service information resources are vulnerable to compromise. | O
 "Additionally, without audit logs, the Postal Service would not be able to obtain sufficient detail to reconstruct activities in the event of a compromise or malfunction". | O
