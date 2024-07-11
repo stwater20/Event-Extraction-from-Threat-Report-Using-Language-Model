@@ -1,5 +1,5 @@
 How Hackers Could Have Pwned You With a Nasty Steam Bug - Motherboard | O
-   The bug could've likely been exploited to make a self-spreading worm too, according to hackers and security researchers. | DiscoverVulnerability
+The bug could've likely been exploited to make a self-spreading worm too, according to hackers and security researchers. | DiscoverVulnerability
 Steam's operator Valve announced that it fixed the bug earlier today, but with over 125 million monthly active users on its platform, the exploit could have wreaked havoc for thousands of people, and for the company itself. | PatchVulnerability
 "Anyone who views a specially crafted profile gets popped," a white hat hacker who has found several bugs in Steam in the past, and asked to remain anonymous, told me in a Twitter DM. | DiscoverVulnerability
 Several users and security researchers noticed this week that it was possible to put malicious javascript code inside a Steam user's profile page, and the code will execute whenever someone visits that profile page, without any need for the victim to click anywhere. | DiscoverVulnerability

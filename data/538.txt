@@ -1,5 +1,5 @@
 Hacker hijacks thousands of publicly exposed printers to warn owners | CSO Online | O
-   The messages included ASCII art depicting robots and warned that the printers had been compromised and they were part of a botnet. | O
+The messages included ASCII art depicting robots and warned that the printers had been compromised and they were part of a botnet. | O
 The hacker, who uses the online alias Stackoverflowin, later said that the botnet claim was not true and that his efforts served only to raise awareness about the risks of leaving printers exposed to the internet. | O
 Stackoverflowin claims to be a high-school student from the U.K. who is interested in security research. | O
 He said that for the most part he simply sent print jobs using the Line Printer Daemon (LPD), the Internet Printing Protocol (IPP) and the RAW protocol on communications port 9100 to printers that didn't require authentication. | DiscoverVulnerability

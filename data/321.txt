@@ -1,5 +1,5 @@
 A flawed medical device, a troubling response - CSMonitor.com | O
-   A case involving software vulnerabilities in medical electronics reveals the inability for both the health care sector and federal regulators to swiftly address cybersecurity problems. | DiscoverVulnerability
+A case involving software vulnerabilities in medical electronics reveals the inability for both the health care sector and federal regulators to swiftly address cybersecurity problems. | DiscoverVulnerability
 This past fall, an investment firm rattled the health care industry with unsubstantiated claims of multiple software vulnerabilities in internet-connected pacemakers and cardiac defibrillators. | DiscoverVulnerability
 But it took federal authorities who regulate medical devices four months to acknowledge only one of the alleged defects, and for the company, St. Jude Medical, to patch it. | DiscoverVulnerability,PatchVulnerability
 The delayed response to a problem that could potentially put patients at risk raises many questions about why it took so long for the government to act, and what it will take for the health care industry to respond more swiftly to bugs in medical equipment increasingly connected to the internet. | O

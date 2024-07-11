@@ -1,5 +1,5 @@
 Hacker takes out dark web hosting service using well-known exploit | CSO Online | O
-   On Friday, the unnamed hacker began dumping a sizable database stolen from Freedom Hosting II onto the internet, potentially exposing its users. | AttackDatabreach
+On Friday, the unnamed hacker began dumping a sizable database stolen from Freedom Hosting II onto the internet, potentially exposing its users. | AttackDatabreach
 The hosting service, Freedom Hosting II, was known for operating thousands of sites that were accessible through the Tor browser; the "dark web" is essentially the encrypted network comprising Tor servers and browsers. | O
 Its main landing page was replaced with a message saying that it had been hacked. | O
 Allegedly, Freedom Hosting II had been hosting child pornography sites, though its anonymous operator claimed to have a zero-tolerance policy toward such content, according to the hacker behind the breach. | O

@@ -1,5 +1,5 @@
 Police Department Loses Years Worth of Evidence in Ransomware Incident | AttackRansom
-   Lost evidence includes all body camera video, some in-car video, some in-house surveillance video, some photographs, and all Microsoft Office documents. | O
+Lost evidence includes all body camera video, some in-car video, some in-house surveillance video, some photographs, and all Microsoft Office documents. | O
 Data from that period backed up on DVDs and CDs remained intact. | O
 While archived data has its importance, more worrying is that the department lost data from ongoing investigations. | O
 In an interview with WFAA, who broke the story, Stephen Barlag, Cockrell Hill's police chief, said that none of the lost data was critical. | O

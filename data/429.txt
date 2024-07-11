@@ -1,5 +1,5 @@
 Picky ransomware targets specific subset of would-be Netflix users - Help Net Security | AttackRansom
-   Aspiring Netflix users who don’t want to actually pay for the popular video on demand service are being targeted with a new type of ransomware. | O
+Aspiring Netflix users who don’t want to actually pay for the popular video on demand service are being targeted with a new type of ransomware. | O
 Detected as Netix by Trend Micro, the ransomware is hidden in an executable (Netflix Login Generator v1.1.exe) that poses as a software for creating valid Netflix login credentials. | AttackPhishing
 The file is usually offered for download on sites sharing crackers and free access to paid online services. | O
 Users who download and run the file will be faced with the above screen. | O

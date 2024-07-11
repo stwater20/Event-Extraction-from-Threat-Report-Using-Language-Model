@@ -1,5 +1,5 @@
 Dozens of iOS apps fail to secure users' data, researcher says | CSO Online | O
-   Will Strafach, CEO of Sudo Security Group, said he found 76 iOS apps that are vulnerable to an attack that can intercept protected data. | DiscoverVulnerability
+Will Strafach, CEO of Sudo Security Group, said he found 76 iOS apps that are vulnerable to an attack that can intercept protected data. | DiscoverVulnerability
 TLS is used to secure an app’s communication over an internet connection. | O
 Without it, a hacker can essentially eavesdrop over a network to spy on whatever data the app sends, such as login information. | O
 “This sort of attack can be conducted by any party within Wi-Fi range of your device while it is in use,” Strafach said. | O

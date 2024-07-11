@@ -1,5 +1,5 @@
 A Vigilante Is Warning Admins of Open Databases Before They Get Hacked - Motherboard | O
-   Over the past few weeks, hackers have targeted thousands of publicly accessible servers running database software such as MongoDB and Hadoop, and held their data for ransom. | AttackRansom
+Over the past few weeks, hackers have targeted thousands of publicly accessible servers running database software such as MongoDB and Hadoop, and held their data for ransom. | AttackRansom
 Now someone is apparently taking matters into their owns hands, helpfully alerting admins that their databases are vulnerable to attack. | O
 "It looks like a friendly warning," Victor Gevers, chairman of the non-profit GDI Foundation which discloses security issues to affected victims, told Motherboard in a Twitter message. | DiscoverVulnerability
 Gevers has been tracking the malicious attacks since they began in December, and on Monday started following this rather strange twist. | O

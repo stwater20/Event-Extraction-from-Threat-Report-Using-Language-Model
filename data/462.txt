@@ -1,5 +1,5 @@
 Hacker Compromises 2.5 Million Xbox 360, PSP ISO Forum Accounts | O
-   Email addresses, passwords and IP addresses were exposed.
+Email addresses, passwords and IP addresses were exposed.
 The breach, which took place in September 2015 but was only recently disclosed, compromised email addresses, passwords and IP addresses, the Daily Mail reports. | AttackDatabreach
 The hacker's likely aim was to profit financially from the stolen information. | O
 "Data breaches are often sold via darkweb sites or within closed trading circles," Hunt told the Daily Mail. | AttackDatabreach

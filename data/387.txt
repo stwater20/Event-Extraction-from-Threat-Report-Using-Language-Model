@@ -1,5 +1,5 @@
 Cisco WebEx code execution hole – what you need to know – Naked Security | O
-   The big security issue of the week is a remote code execution hole related to the Cisco WebEx service. | O
+The big security issue of the week is a remote code execution hole related to the Cisco WebEx service. | O
 WebEx is a popular collaboration tool for online events such as meetings, webinars and videoconferences. | O
 Like many services of this sort, you access online events via your browser, augmented by a special-purpose browser extension. | O
 Browser extensions and plugins allow web developers to extend the software features inside your browser with a mixture of scripts and program code, for example to add configuration options or to support new audio and video formats. | O

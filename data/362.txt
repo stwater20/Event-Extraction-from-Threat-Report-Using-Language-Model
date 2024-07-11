@@ -1,5 +1,5 @@
 Energy Live News – Energy Made Easy   – ‘First utility cyber attack will happen this year’| O
-   The first reported instance of a cyber attack on a utilities provider will happen this year. | O
+The first reported instance of a cyber attack on a utilities provider will happen this year. | O
 That’s according to Perry Stoneman, Global Head of Utilities at consulting firm Capgemini, who told ELN it would likely take the form of a ransomware attack. | AttackRansom
 This is when computer systems are hacked by criminals who then demand a sum of money to avoid a major city having its power cut off. | AttackRansom
 Mr Stoneman believes the hackers would want their attack to be “visible, attention-catching and newsworthy” – turning the lights out is just that. | O

@@ -1,5 +1,5 @@
 EyePyramid and a Lesson on the Perils of Attribution - TrendLabs Security Intelligence Blog | O
-   In the past weeks, information-stealing malware EyePyramid made headlines after it was used to steal 87GB of sensitive data from government offices, private companies and public organizations. | AttackDatabreach
+In the past weeks, information-stealing malware EyePyramid made headlines after it was used to steal 87GB of sensitive data from government offices, private companies and public organizations. | AttackDatabreach
 More than 100 email domains and 18,000 email accounts were targeted, including those of high-profile victims in Italy, the U.S., Japan and Europe. | O
 The natural assumption for many would be that EyePyramid was a state-sponsored cyberespionage campaign. | O
 It was ultimately attributed to a brother-sister team who used the malware for profit. | O

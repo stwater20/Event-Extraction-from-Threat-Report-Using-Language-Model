@@ -1,5 +1,5 @@
 India’s Famous Horse Racing Site Hacked with Dharma Ransomware | AttackRansom
-   A popular horse racing website (Racingpulse.in) that operates out of Bangalore, India was reportedly hacked on Tuesday. The hackers posted a statement on the home page informing that the entire data on the website has been encrypted. | AttackRansom
+A popular horse racing website (Racingpulse.in) that operates out of Bangalore, India was reportedly hacked on Tuesday. The hackers posted a statement on the home page informing that the entire data on the website has been encrypted. | AttackRansom
 As is the norm, they also informed about what they expected as ransom. | AttackRansom
 The ransom note suggested that they were expecting ransom amount in Bitcoins while the amount to be paid was not disclosed clearly. | AttackRansom
 The message also included an email address for further communication, which was registered at india.com. | O

@@ -1,5 +1,5 @@
 When Ransomware Comes Knocking at your Door… or Locks it | AttackRansom
-   A lot of things can go wrong on your holidays, like losing luggage or missing a flight, forgetting your travel documents or getting sick at the worst possible time. | O
+A lot of things can go wrong on your holidays, like losing luggage or missing a flight, forgetting your travel documents or getting sick at the worst possible time. | O
 But have you ever been locked out of your hotel room because of a cyberattack? | O
 That’s just what happened to guests at a luxury hotel in Austria when they were left stranded outside of their rooms after a ransomware attack that overrode electronic key systems. | AttackRansom
 This concept, which can be summed up as “if you don’t pay, your guests won’t be able to get into their rooms”, underscores a strategy shift in ransomware. | O

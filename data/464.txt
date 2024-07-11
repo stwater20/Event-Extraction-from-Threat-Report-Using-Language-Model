@@ -1,5 +1,5 @@
 Every Scotty’s Brewhouse employee affected by data breach; scammer gets copy of all W-2 forms | FOX59 | O
-   INDIANAPOLIS, Ind.– Officials at Scotty’s Brewhouse are working to inform thousands of employees across the company about an email data breach, leaking employees’ W-2 forms to an unknown suspect. | AttackDatabreach
+INDIANAPOLIS, Ind.– Officials at Scotty’s Brewhouse are working to inform thousands of employees across the company about an email data breach, leaking employees’ W-2 forms to an unknown suspect. | AttackDatabreach
 Company officials called IMPD Monday afternoon to report the breach, which apparently resulted from an email phishing scam. | AttackPhishing,Databreach
 According to the police report, an individual posing as company CEO Scott Wise sent an email to a payroll account employee. | AttackPhishing
 The email requested the employee to send all 4,000 employees W-2 forms in PDF form. | O

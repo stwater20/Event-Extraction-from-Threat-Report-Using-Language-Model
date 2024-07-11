@@ -1,5 +1,5 @@
 Mac malware, possibly made in Iran, targets US defense industry | CSO Online | O
-   That’s what two security researchers are warning, after finding a Mac-based malware that may be an attempt by Iranian hackers to target the U.S. defense industry. | O
+That’s what two security researchers are warning, after finding a Mac-based malware that may be an attempt by Iranian hackers to target the U.S. defense industry. | O
 The fake site was previously used in a spear phishing email attack to spread Windows malware and is believed to be maintained by Iranian hackers, the researchers claimed. | AttackPhishing
 Visitors to the site are greeted with a page about free programs and courses for employees of U.S. defense companies Lockheed Martin, Raytheon, and Boeing. | O
 The malware itself can be downloaded from an Adobe Flash installer for a video embedded in the site. | O

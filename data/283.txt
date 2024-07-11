@@ -1,5 +1,5 @@
 Android Ransomware Locks Phone and Asks for Credit Card Number | AttackRansom
-   According to Fortinet researcher Kai Lu, the one who discovered this new threat, the ransomware appears to be targeting only Russian-speaking users, as its ransom note is only available in Russian. | AttackRansom
+According to Fortinet researcher Kai Lu, the one who discovered this new threat, the ransomware appears to be targeting only Russian-speaking users, as its ransom note is only available in Russian. | AttackRansom
 A translated version of the ransom note is available below. | AttackRansom
 There are several things that stand out about this threat. | O
 The first is the humongous ransom demand it asks victims for, which is 545,000 Russian rubles (~$9,100). | AttackRansom

@@ -1,5 +1,5 @@
 Security flaws in Pentagon systems 'easily' exploited by hackers | ZDNet | O
-   Hackers are likely exploiting the easy-to-find vulnerabilities, according to the security researcher who warned the Pentagon of the flaws months ago. | DiscoverVulnerability
+Hackers are likely exploiting the easy-to-find vulnerabilities, according to the security researcher who warned the Pentagon of the flaws months ago. | DiscoverVulnerability
 The vulnerable systems could allow hackers or foreign actors to launch cyberattacks through the department's systems to make it look as though it originated from US networks. | DiscoverVulnerability
 Dan Tentler, founder of cybersecurity firm Phobos Group, who discovered the vulnerable hosts, warned the flaws are so easy to find that he believes he was probably not the first person to find them. | DiscoverVulnerability
 "It's very likely that these servers are being exploited in the wild," he told me on the phone. | O

@@ -1,5 +1,5 @@
 29,000 taxpayers affected by W-2 scams, IRS issues new warning | CSO Online | O
-   Last week, the Internal Revenue Service (IRS) issued a new warning to employers, urging them to stay alert as reports of compromised W-2 records started to climb. | O
+Last week, the Internal Revenue Service (IRS) issued a new warning to employers, urging them to stay alert as reports of compromised W-2 records started to climb. | O
 This newest advisory aligns with the agency's plan to delay refunds for those filing their returns early in order to combat identity theft and fraud. | O
 The IRS also informed employers the W-2 scam has moved beyond corporations, expanding to include schools, tribal organizations, and nonprofits. | O
 In a statement, IRS Commissioner, John Koskinen, said the scams - sometimes known as Business Email Compromise (BEC) attacks - are some of the most dangerous email scams the agency has seen in a long time. | AttackPhishing

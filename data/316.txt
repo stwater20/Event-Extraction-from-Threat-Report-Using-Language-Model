@@ -1,5 +1,5 @@
 Twitter Accidentally Made Half a Million People Follow Trump - Motherboard | O
-   Approximately 560,000 people were affected by a flaw in the script used to migrate followers to the new archival handles. | DiscoverVulnerability
+Approximately 560,000 people were affected by a flaw in the script used to migrate followers to the new archival handles. | DiscoverVulnerability
 "If you were following @POTUS before 12pET, by end of day you'd be following *two* accounts: @POTUS44 (44th Admin) and @POTUS (45th Admin)," Dorsey tweeted. | O
 Dorsey apologized for the mistake, and said Twitter has worked to correct the issue. | DiscoverVulnerability
 He did add, however, that the Obama Administration felt it was fair to automatically migrate followers after the transition, since @POTUS is an institutional account. | O

@@ -1,5 +1,5 @@
 Spora Ransomware Sets Itself Apart with Top-Notch PR, Customer Support | AttackRansom
-   Discovered at the start of the year, Spora distinguishes itself from similar threats by a few features, such as the option to work offline, and a ransom payment portal that uses "credits" to manage Bitcoin fees. | O
+Discovered at the start of the year, Spora distinguishes itself from similar threats by a few features, such as the option to work offline, and a ransom payment portal that uses "credits" to manage Bitcoin fees. | O
 Another of those unique features is a real-time chat window where victims can get in contact with ransomware operators. | O
 By tweaking the ransomware infection ID, security researchers can access the ransom payment page of different Spora victims. | O
 This has allowed researchers to keep track of conversations between victims and Spora operators. | O
