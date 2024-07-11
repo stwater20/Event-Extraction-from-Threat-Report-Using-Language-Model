@@ -22,7 +22,7 @@ Syracuse, which uses Duo Security, fights phishing attacks with two-factor authe
 But it just rolled out the feature last year. | O
 Kendra Cooley, a security analyst at Duo Security, pointed out that students are more likely to fall for phishing attacks because they haven't been exposed to them as frequently as working adults have. | AttackPhishing
 Also, cybercriminals know how to target young minds. | O
-"You see a lot of click-bait phishing messages like celebrity gossip or free travel," Cooley said. | O
+"You see a lot of click-bait phishing messages like celebrity gossip or free travel," Cooley said. | AttackPhishing
 All students at Carnegie Mellon are required to take a tech literacy course, in which cybersecurity is a focus, said Mary Ann Blair, the school's chief information security officer. | O
 The school also runs monthly phishing campaigns: If a student or faculty member falls for the friendly trap, they're redirected to a training opportunity. | AttackPhishing
 When your network is being hit with at least two phishing attempts a day, Blair said, it's a crucial precaution to keep students on guard. | AttackPhishing
