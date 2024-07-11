@@ -1,6 +1,6 @@
 Cisco patches critical Nexus flaws: Are your switches vulnerable? | PatchVulnerability
 Cisco has released fixes for 34 flaws in its software, including 24 that affect its FXOS software for Firepower firewalls and NX-OS software for Nexus switches. | DiscoverVulnerability, PatchVulnerability
-Cisco's June updates include fixes for five critical arbitrary code execution vulnerabilities affecting FXOS and NX-OS and 19 high-rated flaws affecting the software. | DiscoverVulnerability
+Cisco's June updates include fixes for five critical arbitrary code execution vulnerabilities affecting FXOS and NX-OS and 19 high-rated flaws affecting the software. | PatchVulnerability
 Four of the critical flaws affect FXOS and NX-OS Cisco Fabric Services, while the fifth one affects the NX-API feature of NX-OS. | DiscoverVulnerability
 All have a CVSS v3 score of 9.8 out of a maximum of 10. | O
 Cisco Fabric Services facilitate distribution and synchronization of configuration data between Cisco devices on the same network. | O
@@ -11,10 +11,10 @@ There are various ways to exploit each of the flaws, depending on what Cisco Fab
 For example, if Fibre Channel ports are configured as a distribution type for a device, the attack could occur via Fibre Channel over Ethernet (FCoE) or Fibre Channel over IP (FCIP). | O
 Cisco has already rolled out fixes in some releases of FXOS and NX-OS. | PatchVulnerability
 Cisco posted a blog this week explaining why it often fixes bugs in IOS and NX-OS releases before disclosing them in an advisory. | PatchVulnerability, DiscoverVulnerability
-It's a practice that appears to cause confusion for customers wondering why it hasn't told them fixed code has been available for several months before it discloses them. | PatchVulnerability, DiscoverVulnerability
+It's a practice that appears to cause confusion for customers wondering why it hasn't told them fixed code has been available for several months before it discloses them. | O
 Cisco's answer is that some flaws affect more than 50 versions of its software. | DiscoverVulnerability
 "There have been some questions as to why creating fixes and releasing updates can take several weeks, or sometimes even months, before an advisory is published," Cisco's Customer Assurance Security Programs team wrote. | PatchVulnerability
-"In some cases, there is a large number of supported software versions to be updated. | O
+"In some cases, there is a large number of supported software versions to be updated. | PatchVulnerability
 The number of affected versions that will be updated can range from single digits to nearly 50 or more. | PatchVulnerability
 We are committed to issuing fixes for every one of those supported versions." | PatchVulnerability
 "If we disclosed the vulnerability after only fixing one release, we would unnecessarily expose all customers running other releases to potential exploitation once details about the attack itself became public." | PatchVulnerability, DiscoverVulnerability
