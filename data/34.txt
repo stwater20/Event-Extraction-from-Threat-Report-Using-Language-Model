@@ -1,5 +1,5 @@
 Experts Doubt Russia Used Malware to Track Ukrainian Troops | SecurityWeek.Com | O
-   Experts have cast doubt on a recent report claiming that hackers linked to a Russian military intelligence agency used a piece of Android malware to track Ukrainian artillery units. | O
+Experts have cast doubt on a recent report claiming that hackers linked to a Russian military intelligence agency used a piece of Android malware to track Ukrainian artillery units. | O
 A report published by threat intelligence firm CrowdStrike before Christmas revealed that the Russia-linked cyberespionage group known as Fancy Bear (aka APT28, Pawn Storm, Sofacy, Tsar Team, Strontium and Sednit) modified a legitimate Android app used by the Ukrainian military. | O
 Specifically, researchers found an Android version of X-Agent, a piece of malware known to be used by Fancy Bear, embedded in an app developed by artillery officer Yaroslav Sherstuk to help military personnel reduce the time to fire D-30 howitzers. | DiscoverVulnerability
 According to CrowdStrike, the malicious app, which had been distributed on Ukrainian military forums from late 2014 through 2016, was capable of accessing contact information, SMS messages, call logs and Internet data. | AttackDatabreach

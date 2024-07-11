@@ -1,5 +1,5 @@
 GhostAdmin botnet malware discovered | O
-   Cybersecurity  researchers MalwareHunterTeam has uncovered a new botnet malware type it has dubbed GhostAdmin that is alive and working in the wild. | O
+Cybersecurity  researchers MalwareHunterTeam has uncovered a new botnet malware type it has dubbed GhostAdmin that is alive and working in the wild. | O
 GhostAdmin allows cybercriminals to take control of a computer using an Internet Relay Chat (IRC) channel, according to BleepingComputer MalwareHunterTeam believes the new botnet is an updated version of the old CrimeScene botnet malware. | O
 “The malware works by infecting computers, gaining boot persistence, and establishing a communications channel with its command and control (C&C;) server, which is an IRC channel,” BleepingComputer wrote. | O
 Once this is accomplished GhostAdmin accesses the IRC channel and begins to issue commands to its botnet army of infected computers. | O

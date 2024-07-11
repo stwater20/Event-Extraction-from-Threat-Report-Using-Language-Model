@@ -1,5 +1,5 @@
 MongoDB Databases being Targeted by Cyber-criminals for Ransom | AttackRansom
-   Organizations use them regardless of their size; from MetLife, LinkedIn, City of Chicago, Expedia, BuzzFeed to KMPG and The Guardian there are several other high-profile platforms that are currently taking advantage of MongoDB. | O
+Organizations use them regardless of their size; from MetLife, LinkedIn, City of Chicago, Expedia, BuzzFeed to KMPG and The Guardian there are several other high-profile platforms that are currently taking advantage of MongoDB. | O
 At the same time, having a high-profile customer doesn’t mean that platform is completely secure. | O
 That’s why in 2016, in two different incidents, hackers leaked more than 36 million and 58 million accounts respectively from unsecured MongoDB. | AttackDatabreach
 More: LG Smart TV Screen Bricked After Android Ransomware Infection | O

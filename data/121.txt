@@ -1,5 +1,5 @@
 ESEA hacked, 1.5 million records leaked after alleged failed extortion attempt | CSO Online | O
-   E-Sports Entertainment Association (ESEA), one of the largest competitive video gaming communities on the planet, was hacked last December. | O 
+E-Sports Entertainment Association (ESEA), one of the largest competitive video gaming communities on the planet, was hacked last December. | O 
 As a result, a database containing 1.5 million player profiles was compromised. | O 
 On Sunday, ESEA posted a message to Twitter, reminding players of the warning issued on December 30, 2016, three days after they were informed of the hack. | O 
 Sunday’s message said the leak of player information was expected, but they’ve not confirmed if the leaked records came from their systems. | AttackDatabreach

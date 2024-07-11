@@ -1,5 +1,5 @@
 Hacker claims our private cell number on Facebook may not be so private | O
-   De Ceukelaire has discovered that he can exploit Facebook to obtain cell phone numbers of users; which they want to remain hidden. | DiscoverVulnerability
+De Ceukelaire has discovered that he can exploit Facebook to obtain cell phone numbers of users; which they want to remain hidden. | DiscoverVulnerability
 According to De Ceukelaire, he can easily identify the cell phone numbers of well-known personalities including top politicians and “Flemish” celebs simply through checking out their Facebook profile. | O
 This is done by analyzing the numbers that are associated with their profiles. | O
 It must be noted that these numbers are supposed to be confidential information and aren’t viewable by the public. | O

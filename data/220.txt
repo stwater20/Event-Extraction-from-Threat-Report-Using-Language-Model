@@ -1,5 +1,5 @@
 New Gmail phishing technique fools even tech-savvy users - Help Net Security | AttackPhishing
-   An effective new phishing attack is hitting Gmail users and tricking many into inputing their credentials into a fake login page. | AttackPhishing
+An effective new phishing attack is hitting Gmail users and tricking many into inputing their credentials into a fake login page. | AttackPhishing
 The phishers start by compromising a Gmail account, then they rifle through the emails the user has recently received. | AttackPhishing
 After finding one with an attachment, they create an image (screenshot) of it and include it in a reply to the sender. | O
 They use the same or similar subject line for the email, to invoke recognition and automatic trust. | O

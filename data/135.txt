@@ -1,5 +1,5 @@
 Hello Kitty database leaked to the web, 3.3 million fans affected | CSO Online | O
-   In a statement, Sanrio said they didn’t believe any data was stolen. | AttackDatabreach
+In a statement, Sanrio said they didn’t believe any data was stolen. | AttackDatabreach
 Now, over a year later, the database has surfaced online. | O 
 Its resurrection places 3.3 million Hello Kitty fans in the hot seat. | O 
 On December 19, 2015, Salted Hash broke the news that a MongoDB installation for Sanrio, the company behind Hello Kitty, was exposed to the public. | O 

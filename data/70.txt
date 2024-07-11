@@ -1,5 +1,5 @@
 Schools warned about cold-calling ransomware attacks – HOTforSecurity | AttackRansom
-   Schools and colleges are being warned to be on the lookout for ransomware attacks, after a wave of incidents where fraudsters attempted to trick educational establishments into opening dangerous email attachments. | AttackPhishing,Ransom
+Schools and colleges are being warned to be on the lookout for ransomware attacks, after a wave of incidents where fraudsters attempted to trick educational establishments into opening dangerous email attachments. | AttackPhishing,Ransom
 What makes the attacks unusual, however, is just how the attackers tricked users into clicking on the malware-infected attachments. | AttackPhishing
 As Action Fraud warns, confidence tricksters are phoning up schools and colleges pretending to be from the “Department of Education”. | AttackPhishing
 The fraudsters request the email or phone number of the institution’s head teacher or financial administrator claiming they need to send guidance forms to the individual directly, as they contain sensitive information. | AttackPhishing

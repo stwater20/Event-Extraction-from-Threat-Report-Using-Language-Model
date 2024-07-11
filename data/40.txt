@@ -1,5 +1,5 @@
 Ransomware on smart TVs is here and removing it can be a pain | CSO Online | AttackRansom
-   As one victim discovered this Christmas, figuring out how to clean such an infection can be quite difficult. | O
+As one victim discovered this Christmas, figuring out how to clean such an infection can be quite difficult. | O
 Ransomware for Android phones has already been around for several years and security experts have warned in the past that it's only a matter of time until such malicious programs start affecting smart TVs, especially since some of them also run Android. | O
 In November 2015, a Symantec researcher named Candid Wueest even went as far as to infect his own TV with an Android ransomware application to highlight the threat. | O
 While that infection was just a demonstration, this Christmas, the owner of an LG Electronics TV experienced the real deal. | O

@@ -1,5 +1,5 @@
 FBI website hacked by CyberZeist and data leaked onlineSecurity Affairs | O
-   The hacker leaked the FBI.GOV accounts that he found in several backup files (acc_102016.bck, acc_112016.bck, old_acc16.bck, etc). | AttackDatabreach
+The hacker leaked the FBI.GOV accounts that he found in several backup files (acc_102016.bck, acc_112016.bck, old_acc16.bck, etc). | AttackDatabreach
 Leaked records contain accounts data, including names, SHA1 Encrypted Passwords, SHA1 salts, and emails. | O
 The intrusion occurred on December 22, 2016, the hacker revealed to have exploited a zero-day vulnerability in the Plone Content Management System | DiscoverVulnerability
  Going back to 22nd December 2016, I tweeted about a 0day vulnerability in Plone CMS which is considered as the most secure CMS till date. | DiscoverVulnerability

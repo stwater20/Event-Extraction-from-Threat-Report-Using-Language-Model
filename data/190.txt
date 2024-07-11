@@ -1,5 +1,5 @@
 Hacker Steals 900 GB of Cellebrite Data - Motherboard | O
-   This is part of an ongoing Motherboard series on the proliferation of phone cracking technology, the people behind it, and who is buying it. | O 
+This is part of an ongoing Motherboard series on the proliferation of phone cracking technology, the people behind it, and who is buying it. | O 
 Motherboard has obtained 900 GB of data related to Cellebrite, one of the most popular companies in the mobile phone hacking industry. | O 
 The cache includes customer information, databases, and a vast amount of technical data regarding Cellebrite's products. | O 
 The breach is the latest chapter in a growing trend of hackers taking matters into their own hands, and stealing information from companies that specialize in surveillance or hacking technologies. | AttackDatabreach

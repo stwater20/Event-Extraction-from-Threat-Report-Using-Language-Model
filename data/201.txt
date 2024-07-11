@@ -1,5 +1,5 @@
 Is HPCL's Website Under Cerber Ransomware Attack? | AttackRansom
-   The site now includes a malicious link that infects the computers of anyone visiting, Arctos contends. | O
+The site now includes a malicious link that infects the computers of anyone visiting, Arctos contends. | O
 Palani Bala, Arctos' CTO, claims that  HPCL's  site was compromised by a series of attacks by the pseudo-Darkleech campaign, which exposes users to Nemucod malware that, in turn, downloads Cerber ransomware onto their machines. | O
 Darkleech is a long-running campaign that uses exploit kits to deliver malware. | O
 The executable downloaded logs delivered by exploit kits were analyzed through a behavior analysis engine, which identified the executable file as Cerber ransomware based on behavior classification, Bala says. | O

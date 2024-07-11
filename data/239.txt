@@ -1,5 +1,5 @@
 WhatsApp scams spread widely thanks to trust between friends – Naked Security | AttackPhishing
-   Earlier this year we wrote about a fast-spreading WhatsApp scam that promised free Wi-Fi access. | AttackPhishing
+Earlier this year we wrote about a fast-spreading WhatsApp scam that promised free Wi-Fi access. | AttackPhishing
 That scam implied that WhatsApp itself was making the offer in order to keep you active on WhatsApp without using any airtime or data from your own mobile provider network. | AttackPhishing
 It was all a pack of lies, of course, as became obvious if you clicked through to the various links seen in the scam campaign. | AttackPhishing
 When we used an old-model iPhone, we were bait-and-switched to what was supposedly a lucky draw in which we could allegedly win a brand new iPhone – in return for forwarding the original scam to four of our friends and four groups of friends: | AttackPhishing

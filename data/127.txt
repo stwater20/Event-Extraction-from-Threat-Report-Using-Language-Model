@@ -1,5 +1,5 @@
 MongoDB Attacks Jump From Hundreds to 28,000 In Just Days | Threatpost | The first stop for security news | O
-   Security researchers report a massive uptick in the number of MongoDB databases hijacked and held for ransom. | AttackRansom
+Security researchers report a massive uptick in the number of MongoDB databases hijacked and held for ransom. | AttackRansom
 That’s sharp increase from last week when 2,000 MongoDB had been hijacked by two or three criminals. | O 
 A wave attacks was first spotted on Dec. 27 by Victor Gevers, an ethical hacker and founder of GDI Foundation. | O 
 That’s when he said a hacker going by the handle “Harak1r1” was compromising open MongoDB installations, deleting their contents, and leaving behind a ransom note demanding 0.2 BTC (about $220). | AttackRansom

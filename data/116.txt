@@ -1,5 +1,5 @@
 Merry X-Mas ransomware from Sunday 2017-01-08 - SANS Internet Storm Center | O
-   On Tuesday 2017-01-03, BleepingComputer published an article about "Merry X-Mas Ransomware". | O
+On Tuesday 2017-01-03, BleepingComputer published an article about "Merry X-Mas Ransomware". | O
 This ransomware was first seen by people like @PolarToffee, @dvk01uk, and @Techhelplistcom. | O
 Merry X-Mas Ransomware was first reported as distributed through malicious spam (malspam) disguised as FTC consumer complaints. | AttackPhishing
 By Sunday 2017-01-08, I saw an updated version of the Merry X-Mas Ransomware distributed through malspam disguised as court attendance notifications. | AttackPhishing

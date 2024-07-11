@@ -1,5 +1,5 @@
 WhatsApp design feature means some encrypted messages could be read by third party | Technology | The Guardian | O
-   Trade-off between security and usability unlikely to permit systematic surveillance, experts say | O 
+Trade-off between security and usability unlikely to permit systematic surveillance, experts say | O 
 • This article was originally published on 13 January 2017. | O 
 It has been extensively amended (see endnotes) following a review by the Guardian’s readers’ editor. | O 
 A design feature that could potentially allow some encrypted messages to reach unintended recipients is present within the WhatsApp messaging service. | DiscoverVulnerability

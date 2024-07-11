@@ -1,5 +1,5 @@
 Hacking Too Close to Home: Why the Vermont Electric Grid “Laptop” Malware Matters | O
-   The recent political furor over state sponsored hacking took an ugly and dangerous turn, on the morning of December 30th when a tiny Vermont electric utility reported that Grizzly Steppe – the spear-fishing process used to access DNC emails – had been found on one of their systems. | AttackDatabreach
+The recent political furor over state sponsored hacking took an ugly and dangerous turn, on the morning of December 30th when a tiny Vermont electric utility reported that Grizzly Steppe – the spear-fishing process used to access DNC emails – had been found on one of their systems. | AttackDatabreach
 Vermont Governor, Peter Shumlin issued a statement accusing Vladimir Putin of attempting to hack Vermont’s electrical grid, and many others follow suit. | O
 And there appears to be a good chance that the malicious code found on a Burlington Electric laptop is evidence of a state sponsored cyberattack. | O
 Following the initial news cycle, some pundits dismissed the finding as a non-story. | O

@@ -1,5 +1,5 @@
 Locky Ransomware Activity Goes Down by 81% | AttackRansom
-   This Locky spam dip has been seen by multiple observers, such as security firms Avast and Check Point, and security researchers Kevin Beaumont, MalwareTech, MalwareHunterTeam, and others. | O
+This Locky spam dip has been seen by multiple observers, such as security firms Avast and Check Point, and security researchers Kevin Beaumont, MalwareTech, MalwareHunterTeam, and others. | O
 According to Check Point, who recently released a report on December's most active malware families, Locky spam numbers have gone down 81%. | O
 Previously, in October, Locky had been ranked as the top malware threat in the world, while now, in December, Locky is not even in the top 10 anymore. | O
 The same thing can also be seen in a chart released by Avast. | O

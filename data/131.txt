@@ -1,5 +1,5 @@
 49% of businesses fell victim to cyber ransom attacks in 2016 - TechRepublic | AttackRansom
-   Nearly half of businesses report that they were the subject of a cyber-ransom campaign in 2016, according to Radware's Global Application and Network Security Report 2016-2017. | AttackRansom
+Nearly half of businesses report that they were the subject of a cyber-ransom campaign in 2016, according to Radware's Global Application and Network Security Report 2016-2017. | AttackRansom
 Data loss topped the list of IT professionals' cyber attack concerns, the report found, with 27% of tech leaders reporting this as their greatest worry. | O 
 It was followed by service outage (19%), reputation loss (16%), and customer or partner loss (9%). | O 
 Malware or bot attacks hit half of all organizations surveyed in the last year. | O 

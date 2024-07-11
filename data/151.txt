@@ -1,5 +1,5 @@
 Two New Edge Exploits Integrated into Sundown Exploit Kit | Threatpost | The first stop for security news | O
-   Six months of relative quiet around exploit kits recently changed when a public proof-of-concept attack disclosed by a Texas startup was integrated into the Sundown Exploit Kit. | DiscoverVulnerability
+Six months of relative quiet around exploit kits recently changed when a public proof-of-concept attack disclosed by a Texas startup was integrated into the Sundown Exploit Kit. | DiscoverVulnerability
 The proof-of-concept exploit was developed by Theori, a research and development firm in Austin, which opened its doors last spring. | DiscoverVulnerability
 The PoC targets two vulnerabilities, CVE-2016-7200 and CVE-2016-7201, in Microsoft Edge that were patched in November in MS16-129 and privately disclosed to Microsoft by Google Project Zero researcher Natalie Silvanovich. | PatchVulnerability,DiscoverVulnerability
 French researcher Kafeine said on Saturday that he had spotted weaponized versions of the Theori exploits in Sundown two days after they were made public. | O 

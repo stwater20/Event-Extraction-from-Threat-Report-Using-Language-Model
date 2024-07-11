@@ -1,5 +1,5 @@
 Ransomware Has Evolved, And Its Name Is Doxware | AttackRansom
-   In recent years, ransomware has become a growing concern for companies in every industry. | O
+In recent years, ransomware has become a growing concern for companies in every industry. | O
 Between April 2015 and March 2016, the number of individuals affected by ransomware surpassed 2 million — a 17.7% increase from the previous year. | O
 Ransomware attacks function by breaching systems, usually through infected email, and locking important files or networks until the user pays a specified amount of money. | O
 According to FBI statistics cited in a Malwarebytes report, hackers gained more than $209 million from ransomware payments in the first three months of 2016, putting ransomware on track to rake in nearly $1 billion this year. | AttackRansom

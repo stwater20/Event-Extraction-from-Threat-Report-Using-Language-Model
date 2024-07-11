@@ -1,5 +1,5 @@
 Critical flaw lets hackers take control of Samsung SmartCam cameras | CSO Online | O
-   The vulnerability was discovered by researchers from the hacking collective the Exploiteers (formerly GTVHacker), who have found vulnerabilities in the Samsung SmartCam devices in the past. | DiscoverVulnerability
+The vulnerability was discovered by researchers from the hacking collective the Exploiteers (formerly GTVHacker), who have found vulnerabilities in the Samsung SmartCam devices in the past. | DiscoverVulnerability
 The flaw allows for command injection through a web script, even though the vendor has disabled the local web-based management interface in these devices. | O
 The Samsung SmartCam is a series of cloud-enabled network security cameras that were originally developed by Samsung Techwin. | O
 Samsung sold this division to South Korean business conglomerate Hanwha Group in 2015 and the company was renamed Hanwha Techwin. | O

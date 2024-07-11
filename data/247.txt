@@ -1,5 +1,5 @@
 Credential-Stuffing Attacks Take Enterprise Systems ... | AttackDatabreach
-   Billions of online credentials freshly stolen in 2016 are fueling a practice of automated login hacks that are overwhelming legitimate human-login traffic on enterprise Web properties. | AttackDatabreach
+Billions of online credentials freshly stolen in 2016 are fueling a practice of automated login hacks that are overwhelming legitimate human-login traffic on enterprise Web properties. | AttackDatabreach
 A study out today from Shape Security shows that it's common for credential-stuffing login attempts to account for more than 90% of all login activity on Internet-facing systems at Fortune 100 firms. | O
 "In working with customers in retail, finance, travel, government, and other industries, Shape has seen millions of instances of credentials from reported breaches being used in credential stuffing attacks," the report says. | O
 Online-credential breaches that don't expose any other personally identifiable information may seem like no big deal on the spectrum of massive security incidents. | O

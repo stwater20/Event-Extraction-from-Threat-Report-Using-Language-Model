@@ -1,5 +1,5 @@
 Misconfigured Server Gives Insight Into Cerber Ransomware Operation | O
-  A security researcher that only goes by the nickname of Racco42 discovered the vulnerability on Thursday, January 12. | DiscoverVulnerability
+A security researcher that only goes by the nickname of Racco42 discovered the vulnerability on Thursday, January 12. | DiscoverVulnerability
 The issue affected only one Cerber server, not all, and was most likely due to a misconfiguration. | DiscoverVulnerability
 The server wasn't a command and control server, but a mere staging server from where the victims' computers would connect and download the actual ransomware, which would later run and infect their PCs. | O
 An error in one of the server files (hxxp://truthforeyoue.top/search.php) displayed page source code, instead of executing it. | O

@@ -1,5 +1,5 @@
 Why Ransomware Is Only Going To Get Worse | AttackRansom
-   Ransomware is perhaps the most ingenious cybercrime in the history of the Internet in terms of its simplicity and effectiveness. | O
+Ransomware is perhaps the most ingenious cybercrime in the history of the Internet in terms of its simplicity and effectiveness. | O
 It has caused absolute terror in nearly every industry, affecting almost 50% of organizations in 2016, and is considered one of the top cyberthreats to the enterprise for 2017. | O
 According to the FBI, ransomware — malware that holds systems and data for ransom — cost victims $209 million in the first three months of 2016, yet totaled only $24 million in all of 2015. | AttackRansom
 This astronomical rise in ransomware is motivated, in large part, by a lack of preparedness. | O

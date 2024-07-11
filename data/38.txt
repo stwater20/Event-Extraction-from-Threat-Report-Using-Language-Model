@@ -1,5 +1,5 @@
 Project Zero calls out Kaspersky AV for SSL interception practices | ZDNet | DiscoverVulnerability
-   Using an SSL proxy that simplistically stored certificates, Kaspersky Anti-Virus left its users open to TLS certificate collisions.
+Using an SSL proxy that simplistically stored certificates, Kaspersky Anti-Virus left its users open to TLS certificate collisions.
 By Chris Duckett
 Google's Project Zero has found that it was previously trivial to create an SSL certificate collision thanks to Kaspersky using only the first 32 bits of an MD5 hash in its SSL proxy packaged with its Anti-Virus product. | DiscoverVulnerability
 "You don't have to be a cryptographer to understand a 32-bit key is not enough to prevent brute-forcing a collision in seconds," Tavis Ormandy of Project Zero said in its issue tracker.

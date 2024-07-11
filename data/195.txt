@@ -1,5 +1,5 @@
 Oh, for F...acebook: WhatsApp, critics spar over alleged 'backdoor' • The Register | DiscoverVulnerability
-   Updated WhatsApp’s end-to-end encryption can be potentially exploited by determined snoops to intercept and read encrypted messages, it was claimed today. | DiscoverVulnerability
+Updated WhatsApp’s end-to-end encryption can be potentially exploited by determined snoops to intercept and read encrypted messages, it was claimed today. | DiscoverVulnerability
 Essentially, if an attacker can reroute a redelivered encrypted message, it is possible to decrypt the text. | O 
 Facebook-owned WhatsApp stresses this is not a serious flaw nor a deliberate backdoor in its code. | DiscoverVulnerability
 Users can detect and stop the surveillance, if it happens, by activating security notifications in the application's settings. | O 

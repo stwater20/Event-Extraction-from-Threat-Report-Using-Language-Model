@@ -1,5 +1,5 @@
 Ransomware 2016: Attack and Loss | 360 Total Security blog | AttackRansom
-   Ransomware, a special version of trojan that encrypts files, has become a new and tremendously growing type of cybercrime. | O
+Ransomware, a special version of trojan that encrypts files, has become a new and tremendously growing type of cybercrime. | O
 The 2016 Ransomware Report released by 360 Security Center lately presents that: | O
 – 4.9 million computers were attacked in China | O
  – 56,000 ransomware infections worldwide only in March 2016 | O

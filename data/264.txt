@@ -1,5 +1,5 @@
 New GhostAdmin Malware Used for Data Theft and Exfiltration | O
-   Named GhostAdmin, this threat is part of the "botnet malware" category. | O
+Named GhostAdmin, this threat is part of the "botnet malware" category. | O
 According to current information, the malware is already distributed and deployed in live attacks, being used to possibly target at least two companies and steal hundreds of GBs of information. | AttackDatabreach
 According to MalwareHunterTeam and other researchers that have looked at the malware's source code, GhostAdmin seems to be a reworked version of CrimeScene, another botnet malware family that was active around 3-4 years ago. | O
 Under the hood, GhostAdmin is written in C# and is already at version 2.0. | O

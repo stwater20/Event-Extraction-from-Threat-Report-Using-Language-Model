@@ -1,5 +1,5 @@
 Hacker: Lol, I pwned FBI.gov! Web devs: Nuh-uh, no you didn't • The Register | O
-   A miscreant using the handle @cyberzeist claims to have infiltrated Plone CMS used by FBI.gov, using a zero day flaw allegedly for sale on an unnamed dark web site. | DiscoverVulnerability
+A miscreant using the handle @cyberzeist claims to have infiltrated Plone CMS used by FBI.gov, using a zero day flaw allegedly for sale on an unnamed dark web site. | DiscoverVulnerability
 The Register has contacted the FBI to confirm the allegations. | O
 The agency was not immediately available for comment – although a staffer said they were aware of the alleged break-in. | O
 Cyberzeist claims to have conducted the hack last month and has posted to Twitter what they claim are screen captures showing the FBI patching against the vulnerability, which appeared to permit public access. | DiscoverVulnerability,PatchVulnerability

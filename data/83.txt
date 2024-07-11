@@ -1,5 +1,5 @@
 Number of Hijacked MongoDB Databases Is Going Up as More Hackers Are Flocking In | AttackRansom
-   This Monday, Bleeping Computer broke the news that a hacker/group identified as Harak1r1 was taking over MongoDB databases left connected to the Internet without a password on the admin account. | O
+This Monday, Bleeping Computer broke the news that a hacker/group identified as Harak1r1 was taking over MongoDB databases left connected to the Internet without a password on the admin account. | O
 The group was exporting the database's content and replacing all tables with one named WARNING, that contained a ransom note, asking the owners of the hacked database to pay 0.2 Bitcoin (~$200) into Bitcoin wallet. | AttackRansom,Databreach
 At the time of our article, Harak1r1 had hijacked just over 1,800 MongoDB databases, and 11 victims have paid the ransom in order to recover their files. | AttackRansom
 As time went by, Harak1r1 hijacked more databases, reaching at one point over 3,500 MongoDB instances, and currently peaking at over 8,500. | O

@@ -1,5 +1,5 @@
 How does Russia hack? FireEye analysis exposes main tactics used by 'Fancy Bear' APT group | O
-   Last December the US Intelligence Community (IC) released a report naming APT28, a suspected Russian hacking group, as being linked to numerous cyberattacks designed to influence the outcome of the 2016 presidential election with a mixture of leaks and misinformation. | O 
+Last December the US Intelligence Community (IC) released a report naming APT28, a suspected Russian hacking group, as being linked to numerous cyberattacks designed to influence the outcome of the 2016 presidential election with a mixture of leaks and misinformation. | O 
 Highlighting Russian "malicious cyber activity" the IC's analysis reported on this "advanced persistent threat" by confirming it was likely linked to the county's military or intelligence services. | O 
 The hackers go by many names: Fancy Bear, Pawn Storm, Sofacy, Sednit, Tsar Team and more. | O 
 The group – after targeting the Democratic National Committee (DNC), the World Anti-Doping Agency (Wada) and the German government – is the focus of a new report from US-based cybersecurity firm FireEye, discussing the key hacking techniques it uses. | O 
