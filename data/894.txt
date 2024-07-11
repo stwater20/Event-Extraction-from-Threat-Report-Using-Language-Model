@@ -1,5 +1,5 @@
 This old ransomware variant is back - with sneaky new tricks | ZDNet | AttackRansom
-   It's been quiet since 2015, but TorrentLocker has suddenly returned. | O
+It's been quiet since 2015, but TorrentLocker has suddenly returned. | O
 And this time it wants to steal your passwords too. | AttackDatabreach 
 Cybercriminals are always adding new malicious tricks to ransomware. | O
 A ransomware variant which has been relatively inactive for almost two years is back, and this time it's stealing user credentials from victims in addition to demanding a ransom to unencrypt locked files. | AttackDatabreach,Ransom 

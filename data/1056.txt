@@ -1,5 +1,5 @@
 Computer ransomware that locks out users flourishes in pay-to-make-it-go-away Japan | The Japan Times | AttackRansom
-   Companies and individuals in Japan are finding their computers are increasingly targeted by ransomware campaign that bar victims from accessing important files unless they pay money. | AttackRansom 
+Companies and individuals in Japan are finding their computers are increasingly targeted by ransomware campaign that bar victims from accessing important files unless they pay money. | AttackRansom 
 “Attacks on Japanese businesses have been particularly large in number,” said Masakatsu Morii, a professor of information and telecommunications engineering at Kobe University’s Graduate School of Engineering. | O
 Ransomware typically infects computers when its user opens a file attached to spam mail from a sender pretending to be a legitimate entity such as a parcel delivery company, according to the government-affiliated Information-Technology Promotion Agency. | AttackPhishing 
 The malicious programs encrypt the infected computers’ files, and users can only open them after paying the perpetrators money to obtain a special key to unlock them. | AttackRansom 

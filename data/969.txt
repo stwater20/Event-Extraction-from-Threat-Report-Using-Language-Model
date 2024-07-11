@@ -1,5 +1,5 @@
 Wikileaks' CIA hacking revelations: Cyber security experts respond with a collective 'meh' | High-Tech Bridge | O
-   For many people, the revelation that the US Central Intelligence Agency has been systematically hacking into civilians' personal devices is profoundly disturbing. | O
+For many people, the revelation that the US Central Intelligence Agency has been systematically hacking into civilians' personal devices is profoundly disturbing. | O
 "While exploits across a range of devices and the ability to turn on cameras and microphones is a touch chilling, they're nothing new, and anyone with real concerns should already be going about their business with those possibilities in mind," he said. | O
 Meanwhile, Ilia Kolochenko from web security firm High-Tech Bridge said he was "surprised" that the incident had attracted so much attention. | O
 "The CIA, like any other governmental intelligence agency, uses and will continue using various hacking tools and techniques to obtain any information they need to protect the country. | AttackDatabreach 

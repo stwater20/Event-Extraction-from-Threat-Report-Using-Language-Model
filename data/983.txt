@@ -1,5 +1,5 @@
 Cisco and Apache issue warnings over Zero-Day flaw being targeted in the wild | CSO Online | O
-   Cisco's Talos says they've observed active attacks against a Zero-Day vulnerability in Apache's Struts, a popular Java application framework. | DiscoverVulnerability 
+Cisco's Talos says they've observed active attacks against a Zero-Day vulnerability in Apache's Struts, a popular Java application framework. | DiscoverVulnerability 
 Cisco started investigating the vulnerability shortly after it was disclosed, and found a number of active attacks. | DiscoverVulnerability 
 In an advisory issued on Monday, Apache says the problem with Struts exists within the Jakarta Multipart parser. | DiscoverVulnerability 
 "It is possible to perform a RCE attack with a malicious Content-Type value. | O

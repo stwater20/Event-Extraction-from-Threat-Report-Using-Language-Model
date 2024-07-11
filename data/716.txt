@@ -1,5 +1,5 @@
 Cyber-Espionage Group Uses Microphones and Dropbox to Spy on Ukrainian Targets | O
-   Researchers identified over 70 organizations targeted in these attacks, with most located in Ukraine, and especially in the self-declared separatist states of Donetsk and Luhansk, near the Russian border. | O
+Researchers identified over 70 organizations targeted in these attacks, with most located in Ukraine, and especially in the self-declared separatist states of Donetsk and Luhansk, near the Russian border. | O
 The target list includes editors of Ukrainian newspapers, a scientific research institute; a company that designs remote monitoring systems for oil & gas pipeline infrastructures; an international organization that monitors human rights, counter-terrorism and cyberattacks on critical infrastructure in Ukraine; and an engineering company that designs electrical substations, gas distribution pipelines, and water supply plants; among many others. | O
 According to CyberX security experts, attacks are mostly driven by spear-phishing emails that spread Word documents that contain malicious macros. | AttackPhishing
 Attacks lure victims into allowing the macros in these documents to execute by telling them the document was created in a newer version of Word, and enabling macros allows them to view their content. | AttackPhishing

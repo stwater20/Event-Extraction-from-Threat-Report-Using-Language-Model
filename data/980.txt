@@ -1,5 +1,5 @@
 Critical vulnerability under “massive” attack imperils high-impact sites [Updated] | Ars Technica | O
-   In a string of attacks that have escalated over the past 48 hours, hackers are actively exploiting a critical vulnerability that allows them to take almost complete control of Web servers used by banks, government agencies, and large Internet companies. | O
+In a string of attacks that have escalated over the past 48 hours, hackers are actively exploiting a critical vulnerability that allows them to take almost complete control of Web servers used by banks, government agencies, and large Internet companies. | O
 The code-execution bug resides in the Apache Struts 2 Web application framework and is trivial to exploit. | DiscoverVulnerability 
 Although maintainers of the open source project patched the vulnerability on Monday, it remains under attack by hackers who are exploiting it to inject commands of their choice into Struts servers that have yet to install the update, researchers are warning. | DiscoverVulnerability,PatchVulnerability 
 Making matters worse, at least two working exploits are publicly available. | O

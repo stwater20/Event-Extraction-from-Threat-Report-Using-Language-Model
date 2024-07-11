@@ -1,5 +1,5 @@
 TeamViewer stopped working? Let me guess, your ISP is TalkTalk… – HOTforSecurity | O
-   Over the phone you’re trying to get them to say what they can see on their PC screen, and attempting to describe the button they should be clicking on, or the file they need to drag from one folder to another. | O
+Over the phone you’re trying to get them to say what they can see on their PC screen, and attempting to describe the button they should be clicking on, or the file they need to drag from one folder to another. | O
 A much easier way to do remote technical support is to use a program that allows you – with permission, of course – to take remote control of the distant PC, and fix it over the internet. | O
 You literally take over control of the mouse and keyboard, and can see what is on your “patient”‘s computer screen. | O
 Trust me, it’s a much easier way to fix things – and avoids the need to take a lengthy road-trip to their house. | O

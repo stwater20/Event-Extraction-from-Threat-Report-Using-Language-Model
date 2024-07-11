@@ -1,5 +1,5 @@
 CloudPets Notifies California AG of Data Breach | Threatpost | The first stop for security news | AttackDatabreach
-   Spiral Toys, the parent company behind CloudPets, yesterday sent the California Attorney General a breach notification that on many fronts contradicts what experts have said about a database breach that exposed user data and private voice messages, many of which were made by children. | AttackDatabreach
+Spiral Toys, the parent company behind CloudPets, yesterday sent the California Attorney General a breach notification that on many fronts contradicts what experts have said about a database breach that exposed user data and private voice messages, many of which were made by children. | AttackDatabreach
 The notification says that the company was not aware of a breach until Feb 22 when it received an inquiry from a Motherboard reporter who was informed by researchers Troy Hunt and Victor Gevers of a serious issue involving the toymaker’s customer data. | O
 This runs contrary to timelines provided by Hunt and Gevers showing both reached out to a number of Spiral Toys contacts, including its ZenDesk ticketing system, around Dec 30. | O
 The data was copied and deleted from an exposed MongoDB instance found online. | O

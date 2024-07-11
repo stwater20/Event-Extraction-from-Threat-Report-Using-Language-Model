@@ -1,5 +1,5 @@
 IoT Smart Dust – The Next Internet of Zombies (Learn More - Video) - American Security Today | O
-   The Internet of Things (IoT) is placing an unprecedented number of unsecured devices on the Internet every day that are being leveraged by hackers to steal data and to launch Denial of Service Attacks (DDoS). | AttackDatabreach
+The Internet of Things (IoT) is placing an unprecedented number of unsecured devices on the Internet every day that are being leveraged by hackers to steal data and to launch Denial of Service Attacks (DDoS). | AttackDatabreach
 These devices are coming in the form of thermostats, refrigerators, pet feeders, cameras, healthcare devices, and more. | O
 Gartner estimates that by 2020, 50 Billion connected “things” will be on the internet. | O
 Pushing the escalation of DDoS attacks is the release of the Mirai code which has opened the door for hackers to create their own code to access the vast varieties of IoT devices to be leveraged as bots designed to launch massive DDoS attacks. | O

@@ -1,5 +1,5 @@
 1500 companies in over 100 countries hit by malicious Adwind backdoor RAT | O
-   More than 1,500 companies in over 100 countries have suffered an infection at the hands of the Adwind Remote Access Tool (RAT). | O
+More than 1,500 companies in over 100 countries have suffered an infection at the hands of the Adwind Remote Access Tool (RAT). | O
 Discovered by researchers at Kaspersky Lab, this new attack campaign suggests that Adwind, a multifunctional backdoor which has targeted more than 450,000 individual users (including Mac lovers) since 2013, has developed a taste for business victims. | O
 The Adwind malware (also known as AlienSpy, Frutas, Unrecom, Sockrat and jRAT) appears particularly drawn to retail and distribution, with approximately one-fifth of this operation's victims falling under that category. | O
 It's also preyed upon organizations in the architecture, shipping, construction, insurance, and legal sectors. | O

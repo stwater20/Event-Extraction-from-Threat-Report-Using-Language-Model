@@ -1,9 +1,9 @@
 Avast Exposes Internet of Things Attack Risk in Barcelona, Home of Mobile World Congress 2017 | Business Wire | O
-   Half a million smart devices including webcams and baby monitors in the city are currently vulnerable to cyber attack. | DiscoverVulnerability
+Half a million smart devices including webcams and baby monitors in the city are currently vulnerable to cyber attack. | DiscoverVulnerability
 BARCELONA, Spain--(BUSINESS WIRE)--Avast, the leader in digital security products for consumers and businesses, today reveals the findings from its latest research experiment into smart devices, including public and private webcam vulnerabilities in Spain, and, specifically, in Barcelona. | DiscoverVulnerability
 Avast identified more than 22,000 webcams and baby monitors in the city that are vulnerable to attack, which means that cybercriminals could livestream the videos directly to the internet. | DiscoverVulnerability
 The findings identified more than 493,000 smart devices in Barcelona and 5.3 million in Spain overall – including smart kettles, coffee machines, garage doors, fridges, thermostats and other IP-connected devices – that are connected to the internet and vulnerable to attacks. | DiscoverVulnerability
-As webcams and other devices are vulnerable, there are a range of security, legal and privacy concerns to be addressed. | DiscoverVulnerability, PatchVulnerability
+As webcams and other devices are vulnerable, there are a range of security, legal and privacy concerns to be addressed. | DiscoverVulnerability,PatchVulnerability
 Snoopers could easily access and watch Mobile World Congress visitors and Barcelona residents in private and public spaces, and stream the video directly to the internet, or turn the device into a bot. | AttackDatabreach
 When a device is infected, it can also be used to infect other devices, to add them to a botnet, or to take control over them and do harm to their owner. | O
 This includes kitchen and other household devices, to which cybercriminals can give remote orders, for example, to heat up water in a kettle. | O

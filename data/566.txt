@@ -1,5 +1,5 @@
 Mirai Gets a Windows Version to Boost Distribution Efforts | O
-   The Mirai malware was initially developed in late 2015 and early 2016, and only became a massive threat in the summer and autumn of 2016, when it spread to hundreds of thousands of routers and DVRs (deployed with smart cameras and CCTV systems). | O
+The Mirai malware was initially developed in late 2015 and early 2016, and only became a massive threat in the summer and autumn of 2016, when it spread to hundreds of thousands of routers and DVRs (deployed with smart cameras and CCTV systems). | O
 After crooks used a botnet of Mirai-infected devices to launch DDoS attacks on the KrebsOnSecurity blog, increased attention from law enforcement forced the malware's author to dump the Mirai source code online. | O
 This move resulted in tens of Mirai variants popping up everywhere, which in turn helped hide the author's tracks, or so the author thought, until this Brian Krebs exposé. | O
 One of the recent developments on the Mirai malware front was discovered by Russian cyber-security firm Dr.Web, whose experts came across a Windows trojan built with the sole purpose of helping Mirai spread to even more devices. | O

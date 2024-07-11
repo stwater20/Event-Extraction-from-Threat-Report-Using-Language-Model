@@ -1,5 +1,5 @@
 Wikileaks&amp;apos; CIA dump looks like a dud for now - Chicago Tribune | O
-   This file photo taken on August 13, 2008 shows a man walking over the seal of the Central Intelligence Agency (CIA) in the lobby of CIA Headquarters in Langley, Va. | O
+This file photo taken on August 13, 2008 shows a man walking over the seal of the Central Intelligence Agency (CIA) in the lobby of CIA Headquarters in Langley, Va. | O
 Wikileaks' latest data dump, the "Vault 7," purporting to reveal the Central Intelligence Agency's hacking tools, appears to be something of a dud. | AttackDatabreach 
 If you didn't know before that spy agencies could apply these tools and techniques, you're naive, and if you think it undermines the attribution of hacker attacks on the Democratic National Committee and other targets, you'll be disappointed. | O
 On the surface, the dump — touted by Wikileaks as the biggest ever publication of confidential CIA documents — offers some explosive revelations. | AttackDatabreach 

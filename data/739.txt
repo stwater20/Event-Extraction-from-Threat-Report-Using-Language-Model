@@ -1,5 +1,5 @@
 Sunny with a chance of stolen credentials: Malicious weather app found on Google Play | O
-   Android users were the target of new banking malware with screen locking capabilities, which was disguised as a weather forecast app on Google Play. | AttackPhishing
+Android users were the target of new banking malware with screen locking capabilities, which was disguised as a weather forecast app on Google Play. | AttackPhishing
 Detected by ESET as Trojan.Android/Spy.Banker.HU, the malware was a trojanized version of the otherwise benign weather forecast application Good Weather. | AttackPhishing
 The malicious app managed to get around Google’s security mechanisms and appeared in the store on February 4th, only to be reported by ESET two days later and consequently pulled from the store. | O
 During its short lifetime, the app found its way to devices of up to 5000 users. | O

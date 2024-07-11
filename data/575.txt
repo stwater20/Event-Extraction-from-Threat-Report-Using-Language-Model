@@ -1,5 +1,5 @@
 Ransomware 2.0: Anatomy of an emerging multibillion business | CSO Online | AttackRansom
-   However, modern ransomware certainly merits a classification as one of the most evolving sectors of cybercrime in 2017. | O
+However, modern ransomware certainly merits a classification as one of the most evolving sectors of cybercrime in 2017. | O
 Though it is quite difficult to calculate the overall damage caused by ransomware in 2016, some researchers state that cybercriminals received over $1 billion in ransom payments last year. | AttackRansom
 Others mention a 3,500% increase in the criminal use of infrastructure that helps run ransomware campaigns. | O
 Carbon Black says that ransomware is the fastest growing malware across industries, up 50% in 2016. | O

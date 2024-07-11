@@ -1,5 +1,5 @@
 Macs Feel More Crypto-Locker Ransomware Love - BankInfoSecurity | AttackRansom
-   One tried-and-true technique continues to be hiding malware inside fake versions of popular files, then distributing those fake versions via app stores. | AttackPhishing
+One tried-and-true technique continues to be hiding malware inside fake versions of popular files, then distributing those fake versions via app stores. | AttackPhishing
 Doing the same via peer-to-peer BitTorrent networks has also long been popular. | O
 But as with so many supposedly free versions of paid-for applications, users may get more than they bargained for. | O
 To wit, last week researchers at the security firm ESET spotted new ransomware - Filecoder.E - circulating via BitTorrent, disguised as a "patcher" that purports to allow Mac users to crack such applications as Adobe Premiere Pro CC and Microsoft Office 2016. | AttackPhishing

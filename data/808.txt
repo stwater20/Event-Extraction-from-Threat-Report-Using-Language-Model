@@ -1,10 +1,10 @@
 Smart teddy bears involved in a contentious data breach | CSO Online | AttackDatabreach
-   The toys -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts. | AttackDatabreach
+The toys -- which can receive and send voice messages from children and parents -- have been involved in a data breach dealing with more than 800,000 user accounts. | AttackDatabreach
 The breach, which grabbed headlines on Monday, is drawing concerns from security researchers because it may have given hackers access to voice recordings from the toy's customers. | AttackDatabreach
 But the company behind the products, Spiral Toys, is denying that any customers were hacked. | AttackDatabreach
 Absolutely not," said Mark Meyers, CEO of the company. | O
 Security researcher Troy Hunt, who tracks data breaches, brought the incident to light on Monday. | AttackDatabreach
-Hackers appear to have accessed an exposed CloudPets' database, which contained email addresses and hashed passwords, and they even sought to ransom the information back in January, he said in a blog post. | AttackDatabreach, AttackRansom
+Hackers appear to have accessed an exposed CloudPets' database, which contained email addresses and hashed passwords, and they even sought to ransom the information back in January, he said in a blog post. | AttackDatabreach,Ransom
 The incident underscores the danger with connected devices, including toys, and how data passing through them can be exposed, he added. | AttackDatabreach
 In the case of CloudPets, the brand allegedly made the mistake of storing the customer information in a publicly exposed online MongoDB database that required no authentication to access. | AttackDatabreach
 That allowed anyone, including hackers, to view and steal the data. | AttackDatabreach

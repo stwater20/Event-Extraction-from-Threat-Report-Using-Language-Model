@@ -1,5 +1,5 @@
 Cloudflare Breach Had Potential To Be Much Worse | AttackDatabreach
-   A security lapse at content distribution network provider Cloudflare that resulted in customer data being leaked publicly for several months was bad - but had the potential to be much worse. | AttackDatabreach
+A security lapse at content distribution network provider Cloudflare that resulted in customer data being leaked publicly for several months was bad - but had the potential to be much worse. | AttackDatabreach
 That's Cloudflare's initial postmortem conclusion after a twelve-day review of log data related to the breach. | AttackDatabreach
 The review showed no evidence that attackers had exploited the flaw prior to it being discovered and patched, Cloudflare CEO and founder Matthew Prince said in a blog Wednesday. | DiscoverVulnerability,PatchVulnerability
 A "vast majority" of Cloudflare's customers also did not appear to have had any of their data leaked. | AttackDatabreach

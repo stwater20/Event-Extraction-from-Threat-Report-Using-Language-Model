@@ -1,5 +1,5 @@
 0.2 BTC Strikes Back, Now Attacking MySQL Databases - GuardiCore - Data Center and Cloud Security | O
-   Last week we first tweeted that the GuardiCore Global Sensor Network (GGSN) has detected a wide ransomware attack targeting MySQL databases. | AttackRansom
+Last week we first tweeted that the GuardiCore Global Sensor Network (GGSN) has detected a wide ransomware attack targeting MySQL databases. | AttackRansom
 The attacks look like an evolution of the MongoDB ransomware attacks first reported earlier this year by Victor Gevers. | AttackRansom
 Similarly to the MongoDB attacks, owners are instructed to pay a 0.2 Bitcoin ransom (approx.$200) to regain access to their content. | AttackRansom
 We saw two very similar variations of the attack using two bitcoin wallets. | O

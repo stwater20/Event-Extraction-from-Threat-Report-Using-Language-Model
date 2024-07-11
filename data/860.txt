@@ -1,5 +1,5 @@
 Multiple security flaws found in mainstream robotic technologies - Help Net Security | O
-   IOActive exposed numerous vulnerabilities found in multiple home, business, and industrial robots available on the market today. | DiscoverVulnerability
+IOActive exposed numerous vulnerabilities found in multiple home, business, and industrial robots available on the market today. | DiscoverVulnerability
 The array of vulnerabilities identified in the systems evaluated included many graded as high or critical risk, leaving the robots highly susceptible to attack. | DiscoverVulnerability
 Attackers could employ the issues found to maliciously spy via the robot’s microphone and camera, leak personal or business data, and in extreme cases, cause serious physical harm or damage to people and property in the vicinity of a hacked robot. | DiscoverVulnerability
 “There’s no doubt that robots and the application of Artificial Intelligence have become the new norm and the way of the future,” said Cesar Cerrudo, CTO at IOActive. | O

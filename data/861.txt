@@ -1,5 +1,5 @@
 Robots Rife With Cybersecurity Holes | Threatpost | The first stop for security news | O
-   Robots with inadequate security could be hacked and cause physical harm or be used to spy on unsuspecting owners in the near future. | O
+Robots with inadequate security could be hacked and cause physical harm or be used to spy on unsuspecting owners in the near future. | O
 Researchers at IOActive Labs released a report Wednesday warning that consumer, industrial and service robots in use today have serious security vulnerabilities making them easy targets for hackers or accidental breaches. | DiscoverVulnerability
 In a review of 10 robots, which ranged from home, business, and industrial, IOActive said the risks ranged from insecure communications, authentication issues, weak cryptography and missing authorization. | DiscoverVulnerability
 Cesar Cerrudo, CTO of IOActive Labs, said robots suffer from many of the same security shortcomings of as IoT, medical devices, smart cars and plush toys. | DiscoverVulnerability

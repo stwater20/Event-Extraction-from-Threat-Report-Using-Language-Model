@@ -1,5 +1,5 @@
 Credit Card Stealer Disguises as Google Chrome Browser | O
-   The app is still active at the time of writing and sends collected user details to an AOL email address. | AttackDatabreach 
+The app is still active at the time of writing and sends collected user details to an AOL email address. | AttackDatabreach 
 Discovered today by MalwareHunter, this application goes above and beyond of what other card stealers have attempted, most of which are half-baked efforts, often easy to recognize as malicious applications thanks to their quirky graphics and misaligned designs. | O
 This app, named "Betaling - Google Chrome.exe", tries to pass as the Google Chrome browser and does a good job at it. | O
 Betaling isn't a perfect Google Chrome, though, as there are a few clues that experienced users can spot. | O

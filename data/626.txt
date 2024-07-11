@@ -1,5 +1,5 @@
 Researchers demonstrate ransomware for industrial control systems - Help Net Security | AttackRansom
-   We’ve witnessed ransomware targeting Windows and Linux systems and Macs, Android devices, smart TVs, and even a ransomware scheme targeting iPhone users (though not effected through malware). | O
+We’ve witnessed ransomware targeting Windows and Linux systems and Macs, Android devices, smart TVs, and even a ransomware scheme targeting iPhone users (though not effected through malware). | O
 Initial targets of ransomware-wielding criminals were mostly individual users. | O
 Not long after, the crooks discovered that they could get greater sums from businesses and organizations whose critical data and systems they managed to encrypt and/or make unusable. | O
 So they began hitting hospitals and other healthcare institutions, universities and schools, police departments and transportation systems, and businesses of every kind. | O

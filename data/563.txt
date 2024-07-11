@@ -1,5 +1,5 @@
 Banks around the world hit with fileless malware - Help Net Security | O
-   Kaspersky Lab researchers have brought to light a series of attacks leveraged against 140+ banks and other businesses around the world. | O
+Kaspersky Lab researchers have brought to light a series of attacks leveraged against 140+ banks and other businesses around the world. | O
 But what makes these attacks unusual is the criminals’ use of widely used legitimate tools and fileless malware, which explains why the attacks went largely unnoticed. | O
 “This threat was originally discovered by a bank’s security team, after detecting Meterpreter code inside the physical memory of a domain controller (DC),” the researchers explained. | DiscoverVulnerability
 “Kaspersky Lab participated in the forensic analysis after this attack was detected, discovering the use of PowerShell scripts within the Windows registry. | DiscoverVulnerability

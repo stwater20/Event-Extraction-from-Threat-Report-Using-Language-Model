@@ -1,5 +1,5 @@
 How Tax Fraud Is Evolving In 2017 | PYMNTS.com | O
-   If there’s one thing that can be counted on to happen every year around tax season — besides the ongoing tax preparation service commercials — it’s fraud. | O
+If there’s one thing that can be counted on to happen every year around tax season — besides the ongoing tax preparation service commercials — it’s fraud. | O
 Whether it’s selling W2 forms online or sending malicious emails that look like they are from the IRS, cybercriminals tend to keep themselves busy this time of year. | AttackPhishing 
 Rick Holland, VP of strategy at Digital Shadows, joined this week’s Hacker Tracker to highlight how cybercriminals are utilizing the dark web to support their tax fraud campaigns. | O
 Earlier this year, the Treasury Inspector General for Tax Administration reported that there was a reduction in the number of fraudulent tax returns identified between 2013 and 2015. | O

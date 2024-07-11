@@ -1,5 +1,5 @@
 Pre-installed malware stealing data from mobiles: Check Point | InfotechLead | O
-   Israel-based cyber security firm Check Point has detected a malware that is not downloaded due to users’ use but is already present in Android device. | O
+Israel-based cyber security firm Check Point has detected a malware that is not downloaded due to users’ use but is already present in Android device. | O
 According to a company blog post last week, the pre-installed malware was detected in 38 Android devices, belonging to a large telecommunications company and a multinational technology company. | O
 “The malicious apps were not part of the official ROM supplied by the vendor, and were added somewhere along the supply chain,” the company said. | O
 The malware added to the devices’ ROM could not be removed by the users, therefore, the devices had to be re-flashed. | O

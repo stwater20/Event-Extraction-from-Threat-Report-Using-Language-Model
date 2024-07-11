@@ -1,5 +1,5 @@
 A New Type of Malware Can Lock Power Plant Computers For Ransom - Motherboard | AttackRansom
-   The hackers could then lock these computers  up and demand a ransom or else cause a blackout or poison the city's water. | AttackRansom
+The hackers could then lock these computers  up and demand a ransom or else cause a blackout or poison the city's water. | AttackRansom
 While that's a scary scenario, it fortunately  hasn't happened—yet. | O
 But a group of researchers from the Georgia Institute of Technology warn that could change very soon, and to prove it they have developed and tested in their lab a working proof of concept ransomware that specifically targets three types of PLCs. | O
 In their scenario, a group of cybercriminals targets PLCs that are exposed online and infects them with custom malware designed to reprogram the tiny computer with a new password, locking out the legitimate owners. | O

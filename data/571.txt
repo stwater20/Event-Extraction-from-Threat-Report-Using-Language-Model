@@ -1,5 +1,5 @@
 Most Mobile VPNs Have Major Security Concerns | WIRED | O
-   Between an industry-wide push to encrypt all web traffic and the newfound popularity of secure chat apps, it's been a boom time for online privacy. | O
+Between an industry-wide push to encrypt all web traffic and the newfound popularity of secure chat apps, it's been a boom time for online privacy. | O
 Virtual private networks, which shield your web traffic from prying eyes, have rightly garnered more attention as well. | O
 But before you use a VPN to hide your online shopping from the IT department at your company—or help protect yourself from state surveillance—know that not all mobile VPNs are created equal. | O
 You can use VPNs to conceal the location revealed by your IP address; one common use before a recent crackdown was to access regional content, like US Netflix, from countries with lesser libraries. | O

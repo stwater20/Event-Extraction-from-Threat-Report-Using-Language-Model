@@ -1,5 +1,5 @@
 Vault 7: CIA Borrowed Code from Public Malware | O
-   A special operational group existed in the CIA named Umbrage, which was tasked with reviewing public malware and embedding selected features into custom CIA hacking tools.| O 
+A special operational group existed in the CIA named Umbrage, which was tasked with reviewing public malware and embedding selected features into custom CIA hacking tools.| O 
 According to one document, the Umbrage team and its purpose were described as follows: | O
 The Vault 7 dump, which WikiLeaks claims it received from government contractors and hackers, did not include any actual malware samples, but only the internal CIA documentation. | O
 The Umbrage documentation hints the CIA may have reused malware code from multiple malware families. | O
