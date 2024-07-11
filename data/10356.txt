@@ -1,4 +1,4 @@
-New Core Patch Fixes Bitcoin Network Vulnerability to DDoS Attacks
+New Core Patch Fixes Bitcoin Network Vulnerability to DDoS Attacks | PatchVulnerability
 The Bitcoin Core team yesterday released a patch for a DDoS vulnerability that could prove fatal to the Bitcoin network. | PatchVulnerability
 The patch note urged miners to shut down their older versions urgently and replace them with the new version, Bitcoin Core 0.16.3. | PatchVulnerability
  The announcement, first reported on Hacked, revealed that all the recent Bitcoin Core versions could be vulnerable to Distributed Denial-of-Service attack. | DiscoverVulnerability
@@ -23,5 +23,3 @@ Such attacks are used not only for financial gains but the ideological, politica
 This type of attack is not only one of the most frequent (second only to malware in 2017); it is also becoming more accessible, low-cost and low-risk.” | O
 Meanwhile, decentralized networks like Bitcoin are still more secure against such attacks purely because single entities would not be able to bring them down. | O
 Also, because the people, including the attackers themselves, are heavily invested in Bitcoin, a coordinated attack would just rip them off their bitcoin validation commissions. | O
-
-

@@ -1,4 +1,4 @@
-Intel Patches High-Severity Privilege-Escalation Bugs
+Intel Patches High-Severity Privilege-Escalation Bugs | PatchVulnerability
 Overall, the chip giant patched five vulnerabilities across an array of its products. | O
 Intel on Tuesday patched three high-severity vulnerabilities that could allow the escalation of privileges across an array of products. | PatchVulnerability
 Overall, the chip giant fixed five bugs – three rated high-severity, and two medium-severity. | O
@@ -21,4 +21,3 @@ And finally, a medium escalation of privilege vulnerability in Intel’s SSD dat
 “Improper directory permissions in the installer for the Intel SSD Data Center Tool for Windows before v3.0.17 may allow authenticated users to potentially enable an escalation of privilege via local access,” said Intel’s update. | DiscoverVulnerability
 The company recommends users update to v3.0.17 or later. | O
 Intel’s patch comes during a busy patch Tuesday week, which includes fixes from Adobe and Microsoft. | PatchVulnerability
-

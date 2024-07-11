@@ -1,4 +1,4 @@
-Phishing alert: GDPR-themed scam wants you to hand over passwords, credit card details 
+Phishing alert: GDPR-themed scam wants you to hand over passwords, credit card details | | AttackPhishing
 Criminals are attempting to trick consumers into handing over passwords and credit card details by taking advantage of the flood of emails being sent out ahead of new European privacy legislation. | AttackPhishing
 The European Union's new General Data Protection Regulation (GDPR) come into force on 25 May and the policy is designed to give consumers more control over their online data. | O
 As a result, in the run-up to it, organisations are sending out messages to customers to gain their consent for remaining on their mailing lists. | AttackPhishing
@@ -20,5 +20,3 @@ Airbnb said those behind the attacks haven't accessed user details in order to s
 "These emails are a brazen attempt at using our trusted brand to try and steal user's details, and have nothing to do with Airbnb. | AttackDatabreach
 We'd encourage anyone who has received a suspicious looking email to report it to our Trust and Safety team on report.phishing@airbnb.com, who will fully investigate," an Airbnb spokesperson told ZDNet. | AttackPhishing
 Airbnb also provided information on how to spot a fake email to help users to determine if a message is genuine or not. | O
-
-

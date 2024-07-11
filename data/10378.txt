@@ -1,4 +1,4 @@
-RCE bug fix featured in Juniper patch bonanza 
+RCE bug fix featured in Juniper patch bonanza | PatchVulnerability
 Juniper Networks has released its first cluster of security updates for 2019, with the patches addressing vulnerabilities in various products developed by the US networking equipment firm. | PatchVulnerability
 Among the 19 security advisories released on Wednesday is a critical bug impacting Junos OS, the FreeBSD-based operating system used in Juniper’s routers. | DiscoverVulnerability
 CVE-2019-0006 affects Junos OS versions 14.1X53, 15.1, 15.1X53, where it was found that a specially crafted HTTP packet could crash the fxpc daemon or could potentially lead to remote code execution (RCE). | DiscoverVulnerability
@@ -10,5 +10,3 @@ Eight additional security updates have been released by Juniper that feature mit
 Multiple vulnerabilities were also discovered in Juniper’s Advanced Threat Prevention (ATP) cloud security service. | DiscoverVulnerability
 And finally, Juniper said nearly 40 vulnerabilities have been resolved in the Junos Space Network Management Platform 18.3R1 and 18.4R1 by upgrading third party components or fixing internally discovered security vulnerabilities. | PatchVulnerability
 Commenting on the advisories, the National Cybersecurity and Communications Integration Center (NCCIC), said: “Users and administrators should review Juniper’s Security Advisories webpage and apply the necessary updates.” | O
-
-

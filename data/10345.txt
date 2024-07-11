@@ -1,4 +1,4 @@
-Hackers hit Onslow County utility with ransomware attack
+Hackers hit Onslow County utility with ransomware attack | AttackRansom
 The Onslow Water and Sewer Authority's internal computer system, including servers and personal computers, was hit by a ransomware attack Saturday. | AttackRansom
 The utility said customer information was not compromised in the attack, but many of databases will have to be recreated in their entirety. | AttackDatabreach
 OWNASA said it is coordinating with the FBI, the Department of Homeland Security, the state of North Carolina,  and several technology security companies in response to the attack. | O 
@@ -26,4 +26,3 @@ Satellite Offices in Holly Ridge, Swansboro, and Richlands have the capability o
 Service orders, account creation, connections, disconnections, development review, backflow program, engineering, and human resources will utilize manual processes until the computer systems are restored. | O
 While phone service remains, email service has been interrupted for most of the utility. | O
 ONWASA said a team of local, state, and federal agencies are cooperating to restore the utility and bring the criminals to justice. | O 
-

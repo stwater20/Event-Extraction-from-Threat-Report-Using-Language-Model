@@ -1,4 +1,4 @@
-Critical remote code execution flaw in Apache Struts exposes the enterprise to attack
+Critical remote code execution flaw in Apache Struts exposes the enterprise to attack | DiscoverVulnerability
 The bug was found in the core infrastructure of Apache Struts 2. | DiscoverVulnerability
 The Apache Software Foundation has patched a critical security vulnerability which affects all versions of Apache Struts 2. | DiscoverVulnerability, PatchVulnerability
 Uncovered by researchers from cybersecurity firm Semmle, the security flaw is caused by the insufficient validation of untrusted user data in the core Struts framework. | DiscoverVulnerability
@@ -17,5 +17,3 @@ As the latest releases only contain fixes for the vulnerability, Apache does not
 "All applications that use Struts are potentially vulnerable, even when no additional plugins have been enabled." | DiscoverVulnerability
 Mo first reported the findings in April. | DiscoverVulnerability
 By June, the Apache Struts team published the code which resolved the problem, leading to the release of official patches on August 22. | PatchVulnerability
-
-

@@ -1,4 +1,4 @@
-Ransomware attacks Ohio hospitals leading to disabled networks 
+Ransomware attacks Ohio hospitals leading to disabled networks | AttackRansom
 East Ohio Regional Hospital in Harper's Ferry, Ohio, and Ohio Valley Medical Center in Wheeling, West Virginia, both got affected by ransomware on the last weekend of November. | O
 [1] Due to this incident, ambulance patients were transported to other hospitals nearby and emergency room admissions were limited to walk-up patients only. | O
 Due to attack, employees needed to switch to paper charting and various systems were taken offline immediately. | O
@@ -15,7 +15,7 @@ IT team took several computers offline, and, because of this, most of the clinic
 On Saturday, when the incidents occurred, hospital officials stated that the staff is ready to take everything on paper until the downtime is over. | O
 Also, since this is a ransomware-type malware attack, hackers demand a ransom. | O 
 However, officials did not select the scenario involving making the payment. | AttackRansom
-No matter how big or how little the ransom demand is, officials shouldn't even consider making the payment because it may lead to system damage or permanent data loss.[3] | Ransom
+No matter how big or how little the ransom demand is, officials shouldn't even consider making the payment because it may lead to system damage or permanent data loss.[3] | AttackRansom
 In the United States, data breaches and malware attacks on huge organizations have become a common thing, especially in the healthcare industry. | AttackDatabreach
 In 2016 Hollywood Presbyterian Hospital paid the demanded ransom in Bitcoin after having its data encrypted. | AttackRansom
 [4] The infection was widespread and the attack cost around $17 000. | AttackRansom
@@ -25,4 +25,3 @@ They send yet another ransom demand instead and asked for a bigger amount of mon
 Previously this year, the Indiana-based hospital got infected with SamSam which is an infamous ransomware virus which has been relying on specific infection tactics which is highly personalized. | O
 After considering different scenarios, the hospital decided to pay 4 BTC (equal to $45 000 at that time) for ransomware developers to get private keys needed for files' recovery. | AttackRansom
 Ransomware developers gave what they promised. | O
-  

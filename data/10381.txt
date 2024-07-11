@@ -1,4 +1,4 @@
-MyHeritage Genealogy Site Announces Mega Breach Affecting 92 Million Accounts
+MyHeritage Genealogy Site Announces Mega Breach Affecting 92 Million Accounts | AttackDatabreach
 Family genealogy and DNA testing site MyHeritage announced on Monday a security breach during which an attacker made off with account details for over 92 million MyHeritage users. | AttackDatabreach
 In a statement on its website, MyHeritage said it became aware of the incident on Monday, the same day of the announcement. | O
 The incident came to light after a security researcher found an archive on a third-party server containing the personal details of 92,283,889 MyHeritage users. | O
@@ -16,4 +16,3 @@ MyHeritage to roll out 2FA. | PatchVulnerability
 The company also promised to roll out a two-factor authentication (2FA) feature for user accounts, so even if the hacker manages to decrypt the hashed passwords, these would be useless without the second-step verification code. | O
 It goes without saying that MyHeritage users should change their passwords as soon as possible. | O
 The MyHeritage incident marks the biggest data breach of the year, and the biggest leak since last year's Equifax hack. | AttackDatabreach
-

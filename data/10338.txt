@@ -1,4 +1,4 @@
-How to spot (and avoid) these Facebook and social media prize scams 
+How to spot (and avoid) these Facebook and social media prize scams | O
 Prize scams are as old as the hills, but people keep falling for them — sending the fraudsters hundreds, sometimes thousands of dollars to claim their cash, luxury cars or other non-existent prizes. | O
 Sweepstakes, lottery and prize scams “are among the most serious and pervasive frauds operating today,” according to a new report from the Better Business Bureau. | O
 And along with phone calls, letters and email, the crooks are now using text messages, pop-ups and phony Facebook messages to lure their victims. | AttackPhishing
@@ -35,4 +35,3 @@ In March, the company announced it was using new machine learning techniques tha
 Our new machine learning models are trained on previously confirmed scams to help detect new ones.” | O
 The company has also posted a warning on how to avoid Facebook scams. | O
 The BBB report calls on Facebook and other social media platforms to make “additional efforts” to prevent fake profiles and to make it easier for users to contact them about fraud. | O
-

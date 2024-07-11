@@ -1,4 +1,4 @@
-Ransomware Strikes Lab-Testing Firm LabCorp
+Ransomware Strikes Lab-Testing Firm LabCorp | AttackRansom
 LabCorp experienced a breach this past weekend, which it nows says was a ransomware attack. | AttackRansom
 The intrusion has also prompted concerns that patient data may have also been stolen. | AttackDatabreach 
 One of the biggest clinical lab testing companies in the world, LabCorp, was hit with a "new variant of ransomware" over the weekend. | AttackRansom
@@ -18,5 +18,3 @@ The North Carolina-based company processes more than 2.5 million lab tests per w
 On Thursday, LabCorp issued a new statement and said the attack was a ransomware strain. | AttackRansom
 At this point, the company has found "no evidence of theft or misuse of data," but it's continuing to investigate. | AttackDatabreach
 "As part of our in-depth and ongoing investigation into this incident, LabCorp has engaged outside security experts and is working with authorities, including law enforcement," the company added. | O
-
-

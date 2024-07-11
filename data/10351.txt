@@ -1,4 +1,4 @@
-Verizon Suffers Cloud Data Leak Exposing Data on Millions of Customers
+Verizon Suffers Cloud Data Leak Exposing Data on Millions of Customers | AttackDatabreach
 Six million of Verizon's US customers had their personal and account information exposed, including PIN numbers. | AttackDatabreach
 Verizon Communications suffered a major data leak due to a misconfigured cloud server that exposed data on 6 million of its customers. | AttackDatabreach
 The leak was the result of its third-party provider NICE Systems incorrectly configuring Verizon's cloud-based file repository housed in an Amazon Web Services S3 bucket on NICE's cloud server, according to UpGuard, which issued a report on the breach today. | O
@@ -28,4 +28,3 @@ You can have the best security in the world and the best visibility into your sy
 "Verizon did not own the server that was involved here, but it will own the consequences." | O
 Rich Campagna, CEO of Bitglass, stressed the importance of security teams ensuring services used are configured securely. " | O
 This massive data leak could have been avoided by using specific data-centric security tools, which can ensure appropriate configuration of cloud services, deny unauthorized access, and encrypt sensitive data at rest," Campagna said in a statement. | AttackDatabreach
-

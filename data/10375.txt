@@ -1,4 +1,4 @@
-Adobe January Patch Tuesday Updates Released – No Security Updates For Flash!
+Adobe January Patch Tuesday Updates Released – No Security Updates For Flash! | O
 This week, Adobe has  released its very first Patch Tuesday update bundle for the year 2019.  | PatchVulnerability
 The Adobe January Patch Tuesday updates brought fixes for security vulnerabilities in Adobe Digital Editions and Adobe Connect. | PatchVulnerability
 It has also released patches for Flash Player, but they are not security fixes. | PatchVulnerability

@@ -1,4 +1,4 @@
-Alaska suburb recovering from ransomware declares disaster as it continues rebuilding systems
+Alaska suburb recovering from ransomware declares disaster as it continues rebuilding systems | O
 Nearly three weeks after many of its systems were knocked out by a complex ransomware virus , Alaska’s Matanuska-Susitna Borough has restored most of its phone system, part of its geospatial information system and the online portal on which residents can pay their looming property-tax bills. | AttackRansom
 But the borough, home to about 106,000 people outside Anchorage, still has many services to restore, prompting its elected officials last week to approve a disaster declaration in the cyberattack’s wake. | O
  The declaration could make the borough eligible for assistance from the Federal Emergency Management Agency. | O
@@ -14,4 +14,3 @@ According to the cybersecurity research website BleepingComputer , the attack on
  There’s no apparent timeline for when all of Mat-Su’s systems will be back to normal, though Wyatt says in his video update that the borough is receiving assistance from at least 20 other organizations, including tech vendors and the FBI. | O
 But the restoration of property tax payments on Aug. | O
 2 came just in time: homeowners are required to pay half their 2018 tax bills by Aug. 15, and as a borough press release states , “there is traditionally a very long line for making payments in person.” | O    
-

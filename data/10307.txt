@@ -1,4 +1,4 @@
-4 of the most common email scams to be aware of this Safer Internet Day
+4 of the most common email scams to be aware of this Safer Internet Day | O
 Email is great for keeping in touch with friends and family and quickly conversing with colleagues but it’s not without its pitfalls. | O 
 Scammers approach people via email to encourage them to hand over private or sensitive information about themselves or the company they work for. | AttackPhishing
 “The most prevalent threats we see targeting consumers today are phishing attacks predominantly via email, where scammers try to trick people into sharing private information or access to money,” Jessica Brookes, director of EMEA consumer at McAfee, told the Press Association. | AttackPhishing
@@ -28,4 +28,3 @@ But what starts as the promise of love or partnership, often leads to requests f
 The scammer will sometimes spin a hardship story, saying they need to borrow money to come visit you or pay their phone bill so they can stay in touch. | O
 The lure here is simple – love and acceptance. | AttackPhishing
 Brookes added: “It is everyone’s responsibility to be aware and educate each other – we need to share knowledge and collaborate to protect ourselves against the current threats we face as people living in a connected world.” | O  
-

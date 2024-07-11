@@ -1,4 +1,4 @@
-Hard Rock, Loews hotels admit data breach
+Hard Rock, Loews hotels admit data breach | AttackDatabreach
 Hard Rock Hotels & Casinos alongside Loews Hotels have warned customers that a security failure may have resulted in the theft of their information. | O
 Both incidents appear to have been linked to a third-party reservation platform, SynXis, which only begun informing client hotels of the security breach in June, months after the attacks took place. | O
 Hard Rock Hotels & Casinos issued a statement informing customers of the data breach last week, which took place due to the Sabre Hospitality Solutions SynXis third-party reservation system. | AttackDatabreach
@@ -24,5 +24,3 @@ Sabre suggests signing up for a free credit report -- available to US consumers 
 However, no compensation has yet been made available. | O
 These hotel chains are far from the only ones that have suffered a data breach in recent years. | AttackDatabreach
 Back in April, InterContinental admitted that a data breach first believed to be isolated to 12 properties actually harmed roughly 1,200, resulting in the exposure of customer credit card data. | AttackDatabreach
-
-

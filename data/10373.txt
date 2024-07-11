@@ -1,4 +1,4 @@
-Phishing scam targets iPhone users with fake calls to ‘Apple Care’
+Phishing scam targets iPhone users with fake calls to ‘Apple Care’ | AttackPhishing
 Conmen are taking phishing scams to the next level, targeting Apple users with emails and calls to a fake Apple Care service. | AttackPhishing
 While emails are a fairly common way of luring victims, it’s not every day that you hear about calls being involved to dupe folks. | AttackPhishing
 Ars Technica reports that the attack begins with an email which is designed to look like an official iCloud account warning. | AttackPhishing
@@ -16,4 +16,3 @@ The phishing site is still live right now, but both Google and Apple have marked
 Ars Technica has additionally passed on the technical details of the scam to an Apple security team member. | O
 The company told Engadget that it has resources on its support website to help people tell right from wrong. | O
 Everyday iOS users could still easily get fooled though. | O
-

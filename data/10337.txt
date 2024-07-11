@@ -1,4 +1,4 @@
-Russian Banks Under Phishing Attack
+Russian Banks Under Phishing Attack | AttackPhishing
 Banks in Russia today were the target of a massive phishing campaign that aimed to deliver a tool used by the Silence group of hackers. | AttackPhishing
 The group is believed to have a background in legitimate infosec activities and access to documentation specific to the financial sector. | O
 The fraudulent emails purported to come from the Central Bank of Russia (CBR) and contained a malicious attachment. | AttackPhishing
@@ -25,4 +25,3 @@ Mirkasymov says that Silence and MoneyTaker are the most dangerous of all groups
 Referring to the latter, the expert says that its repertoire also includes drive-by attacks and testing the network for vulnerabilities. | O
 The goal is to access the internal nodes that enable them to withdraw money from ATMs, process cards or interbank transfers. | O
 Although Silence uses mainly phishing, they are more careful about crafting the message, paying attention to both content and design, adds Group-IB's threat intelligence expert. | AttackPhishing
-

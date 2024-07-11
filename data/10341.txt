@@ -1,4 +1,4 @@
-Phishing scams are surging in the wake of the TSB banking meltdown
+Phishing scams are surging in the wake of the TSB banking meltdown | O
 Noticed more emails and texts lately claiming to be from your bank – and not just yours? You’re not the only one. | AttackPhishing
 Action Fraud, the UK police’s dedicated fraud tracking team, has revealed a significant increase in reports about phishing attacks connected to TSB’s massive IT outage have been reported. | AttackPhishing
 A total of 176 complaints have been received, or around ten a day since April 30. | O
@@ -26,5 +26,3 @@ For those who have fallen victim, the loss of money is adding insult to injury. 
 “I’m certain I’ll move banks,” says Evans, who lost the contents of her current account. | O
 “Most of the staff have been helpful and apologetic, but this should have been resolved by now. | O 
 It seems they are not fit for purpose.” | O
-
-

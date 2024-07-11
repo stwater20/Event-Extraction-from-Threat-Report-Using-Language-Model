@@ -1,5 +1,4 @@
-
-Apple's dark-horse macOS Mojave is out (and it's already pwned)
+Apple's dark-horse macOS Mojave is out (and it's already pwned) | O
 Apple has posted the annual full overhaul of the Mac operating system, this time focusing on a redesign of the look and feel of the interface. | O
 The 10.14 incarnation of macOS, known as Mojave, has been released into general availability. | PatchVulnerability
 It includes new features, interface updates, and security patches – though at least one hole was left unpatched. | PatchVulnerability
@@ -20,5 +19,3 @@ Shortly after Mojave arrived, macOS guru Patrick Wardle dropped word of a vulner
 Here's a video of the exploit... | O
 Wardle said he has reported the bug to Apple, but will not release details beyond the proof-of-concept video until a fix can be released. | DiscoverVulnerability, PatchVulnerability
 More technical details are due to be released in November. | O
-
-

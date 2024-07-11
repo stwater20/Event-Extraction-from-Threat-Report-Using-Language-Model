@@ -1,4 +1,4 @@
-Group Makes $50 Million by Phishing Bitcoin Users Using Google AdWords
+Group Makes $50 Million by Phishing Bitcoin Users Using Google AdWords | AttackPhishing
 A Ukrainian cybercrime operation has made an estimated $50 million by using Google AdWords to lure users on Bitcoin phishing sites. | AttackPhishing
 The operation has been temporarily disrupted this month when Ukrainian cyber police shut down servers hosting some of the phishing sites, acting on information they received from Cisco's Talos security division. | O
 No arrests were made, and it's very likely that the group will make a comeback in the future. | O
@@ -20,4 +20,3 @@ This is where Ukraine's cyber police department intervened and took down servers
 According to Cisco, the Coinhoarder group is by far the largest phishing operation that has targeted Blockchain.info, the biggest Bitcoin wallet service online. | AttackPhishing
 Bleeping Computer, too, has spotted increases in phishing campaigns targeting Blockchain.info in December 2016 and December 2017. | AttackPhishing
 Among the new tricks detected by Cisco since our previous reports, crooks have started using Let's Encrypt certificates to make their phishing sites load via HTTPS, and have also incorporated homograph attacks. | O
-

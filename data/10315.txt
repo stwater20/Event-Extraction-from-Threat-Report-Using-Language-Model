@@ -1,4 +1,4 @@
-Midland servers hacked, attackers demanding ransom
+Midland servers hacked, attackers demanding ransom | AttackRansom
 The Town of Midland’s computer systems were hacked over the long weekend. | AttackRansom
 In the early morning hours of Sept 1, the town became the victim of a cyberattack in which the town’s network was illegally accessed and infected with ransomware. | AttackRansom
 The malware was able to encrypt a number of town systems rendering them unusable. | O

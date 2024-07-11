@@ -1,4 +1,4 @@
-New GandCrab ransomware variant hammers Florida school district  
+New GandCrab ransomware variant hammers Florida school district | AttackRansom
 A GandCrab ransomware attack, combined with a Comcast outage, caused a Florida Keys school district’s computer system to be down for a week. | AttackRansom
 The computer system in a Florida Keys school district were down for a week due to a ransomware attack. | AttackRansom
 The problems were made worse when just as the district was bringing up some administration and school computers, Comcast suffered a day-long outage due to a cut fiber. | O
@@ -19,4 +19,3 @@ Lefere said, “That only happens for folks that don’t back up their stuff and
 We recover our files from the last backup.” | O
 The district’s website was back up by Wednesday, but the computer systems remained partially down on Thursday. | O
 Lefere said the district rebuilt “each server from scratch to make sure they’re clean.” | O
-

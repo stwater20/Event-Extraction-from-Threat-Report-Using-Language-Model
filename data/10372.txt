@@ -1,4 +1,4 @@
-This phishing attack pretends to come from someone you trust
+This phishing attack pretends to come from someone you trust | AttackPhishing
 A wave of cyberattacks is targeting organisations' financial departments with a social engineering and phishing campaign designed to trick victims into downloading credential-stealing malware and other threats. | AttackPhishing
 Detailed by researchers at Barracuda Networks, the invoice impersonation attacks aim to persuade the victim that the messages are from trusted sources, or to act on impulse -- planting the idea that the target has lost money is a common tactic in phishing emails, as it creates panic for the user. | AttackPhishing
 The victim thinks they are reacting to an important request when all they're doing is playing right into the hands of the attackers. | O
@@ -15,4 +15,3 @@ Once again, the victim is encouraged to click through a link to download the doc
 The attacks might seem simple, but those behind them wouldn't be deploying them if they didn't work. | O
 "Impersonation is a proven tactic that criminals are regularly using to attract victims into believing that they are acting on an important message, when that couldn't be further from the truth," said Lior Gavish, VP at Barracuda Networks. | AttackPhishing
 When it comes to protection against this type of attack, employee training can go a long way, especially if they're provided with a sandbox environment. | O
-

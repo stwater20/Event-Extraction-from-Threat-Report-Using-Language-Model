@@ -1,4 +1,4 @@
-Spotting and avoiding phishing scams so you don’t get hooked
+Spotting and avoiding phishing scams so you don’t get hooked | O
 The BBC recently uncovered that scammers are attempting to trick us through the abuse of multilingual character sets. | AttackPhishing
 By creating these lookalike sites with domain names that are almost identical to the URLs we know and trust, it’s made telling the difference between fake and genuine sites – and avoiding phishing scams – increasingly difficult. | AttackPhishing
 Research by security company Wandera revealed that people are three times more likely to fall for a phishing scam if it is on their phone. | AttackPhishing

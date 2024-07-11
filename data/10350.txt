@@ -1,4 +1,4 @@
-Orbitz Attack Impacts Hundreds of Thousands of Consumers
+Orbitz Attack Impacts Hundreds of Thousands of Consumers | O
 Popular travel-booking site Orbitz has likely been hacked, potentially exposing payment card information for people that bought plane tickets or booked hotel rooms over the course of two years. | AttackDatabreach
 The company said that it has uncovered evidence that about 880,000 payment cards were possibly impacted, along with other personal information, like names, payment card information, dates of birth, phone numbers, email addresses, physical and/or billing addresses and gender. | O
 The company said evidence suggests an attacker may have accessed information stored on a legacy e-commerce platform during two periods: 1 January through 22 June 2016 and 1 October to 22 December 2017. | AttackDatabreach
@@ -17,5 +17,3 @@ And while the attackers show no signs of slowing down, companies really need to 
 “Legacy systems are common attack points, as they are often neglected, go without updates or patches and are commonly not monitored, which gives criminals an ideal avenue to gain access and steal whatever data may be resident there. | AttackDatabreach
 In this case, it was nearly 900,000 credit card accounts. | O
 Credit monitoring may be a nice PR gesture, but it does not absolve companies from doing their due diligence around securing legacy systems and protecting their customers data, no matter where it lives.” | O
-
-

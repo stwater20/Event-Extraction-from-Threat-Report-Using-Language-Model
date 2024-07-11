@@ -1,4 +1,4 @@
-Watch out for scammers stealing your money by pretending to be Netflix
+Watch out for scammers stealing your money by pretending to be Netflix | AttackPhishing
 Criminals are trying to steal money from Netflix customers with a sophisticated new scam. | AttackPhishing
 Subscribers are being sent convincing fake emails asking them to update their payment information. | AttackPhishing
 While they look to be from Netflix itself, they are in fact from criminals and scammers. | AttackPhishing
@@ -10,5 +10,3 @@ An urgent warning has been issued about the email by the Federal Trade Commissio
 "Scammers use your information to steal your money, your identity, or both," it reads. | AttackPhishing
 "They also use phishing emails to get access to your computer or network. | AttackPhishing
 "If you click on a link, they can install ransomware or other programs that can lock you out of your data." | AttackPhishing
-
-

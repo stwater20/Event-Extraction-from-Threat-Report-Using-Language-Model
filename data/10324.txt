@@ -1,4 +1,4 @@
-A Recent IE Patch is Causing Windows to Fail While Booting on Some Lenovo Laptops  
+A Recent IE Patch is Causing Windows to Fail While Booting on Some Lenovo Laptops | O
 Microsoft has seen its share of issues as of late, and now a seemingly simple patch is causing serious issues to certain laptops running the 2016 Anniversary Update. | DiscoverVulnerability
 The update was originally released to prevent a zero-day attack on IE. | PatchVulnerability
 Per Microsoft, this was the issue being fixed: | PatchVulnerability
@@ -16,4 +16,3 @@ It’s also noted that if BitLocker is enabled that you may have to go through B
 On the upside, Microsoft is working with Lenovo to correct the issue and will release a fix sometime in the future. | PatchVulnerability
 I just wouldn’t count on it before the end of the year. | O
 Until then, be careful when updating devices, especially if they happen to be Lenovo laptops with limited RAM. | O
-

@@ -1,4 +1,4 @@
-IRS Warns of New Email Phishing Scams
+IRS Warns of New Email Phishing Scams | AttackPhishing
 The IRS, state tax agencies and the nation’s tax industry urge people to be on the lookout for new, sophisticated email phishing scams that could endanger their personal information and next year’s tax refund. | AttackPhishing
 The most common way for cybercriminals to steal bank account information, passwords, credit cards or social security numbers is to simply ask for them. | O
 Every day, people fall victim to phishing scams that cost them their time and their money. | AttackDatabreach, AttackPhishing
@@ -21,4 +21,3 @@ One of the most common phone scams is the caller pretending to be from the IRS a
 Phishing attacks, especially online phishing scams, are popular with criminals because there is no fool-proof technology to defend against them. | O
 Users are the main defense. | AttackPhishing
 When users see a phishing scam, they should ensure they don’t take the bait. | AttackPhishing
-

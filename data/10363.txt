@@ -1,4 +1,4 @@
-Cloquet school district hit by second ransomware attack
+Cloquet school district hit by second ransomware attack  | AttackRansom
 When Cloquet school officials realized staff were unable to access certain files the morning of Aug 3, there may have been a certain amount of negative "been there, done that" feeling involved. | O
 For the second time in three years, the school district is the target of a ransomware attack — a particularly virulent computer malware that spreads from computer to computer, locking up access to network servers and turning documents into gibberish before offering "help" in the form of a request for payment to provide a "key" to unlock the files. | AttackRansom
 Last time, in March 2016, the district had to cancel school for a day to allow technology staff time to recover from the malware, which infected some of the district's servers and many of its more than 600 computers. | O
@@ -17,4 +17,3 @@ Board member Duane Buytaert, who works in technology for Carlton County, said it
 Staff training should be a priority, board members agreed. | O
 On the positive side, Smith said technology staff were able to recover quite a bit of data already, and staff can recreate the data that was lost. | O
 The recovery process should not affect the start of school Sept 5. | O
-

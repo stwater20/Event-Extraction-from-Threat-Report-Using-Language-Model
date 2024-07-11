@@ -1,4 +1,4 @@
-Hackers hit Vermont furniture store with ransomware
+Hackers hit Vermont furniture store with ransomware | AttackRansom
 A Vermont business's computer system was attacked by hackers and held for ransom. | AttackRansom
 It may sound like a movie plot but ransomware attacks like these are on the rise. | AttackRansom
 According to their 2017 Internet Crime report, last year the FBI received 1,783 complaints identified as ransomware. | O
@@ -29,4 +29,3 @@ Wendell's has now reinforced its computer firewalls and replaced parts of its in
 "We're getting back on our feet," Farrell said. | O
 Customers who financed their purchase with Synchrony Financial may have had their account numbers compromised, but according to Wendell's that threat is low. | O
 The business has sent out about 500 letters notifying customers and says they are doing their best to get the word out. | O
-

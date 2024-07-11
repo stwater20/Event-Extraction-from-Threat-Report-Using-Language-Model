@@ -1,4 +1,4 @@
-Quebec urged to do more on cybersecurity, experts saying the province ‘is an embarrassment’
+Quebec urged to do more on cybersecurity, experts saying the province ‘is an embarrassment’ | O
 MONTREAL—On Sept 10, municipal employees in a region between Montreal and Quebec City arrived at work to discover a threatening message on their computers notifying them they were locked out of all their files. | AttackRansom
 In order to regain access to its data, the regional municipality of Mekinac was told to deposit eight units of the digital currency Bitcoin into a bank account — roughly equivalent to $65,000. | AttackRansom
 Mekinac’s IT department eventually negotiated the cyber extortionists down and paid $30,000 in Bitcoin, but not before the region’s servers were disabled for about two weeks. | AttackRansom
@@ -32,7 +32,7 @@ Once opened, the malware was downloaded onto the computer, giving the hackers ac
 The hackers then encrypted all the data and held it hostage until they received their bitcoins. | AttackRansom
 Once a system’s data is encrypted, it’s virtually impossible to crack the code without a key — and there is nothing police can do about it. | O
 Most professional criminals use commercial grade encryption and to locate a key to decrypt data would take “astronomical effort in terms of computing,” Fernandez said. | AttackRansom
-“You either pay or you don’t get the data.” | Ransom
+“You either pay or you don’t get the data.” | AttackRansom
 The identity and location of Mekinac’s hackers were never discovered. | O
 Thompson said police seized some of his computers for analysis and told his office not to negotiate or pay the criminals. | AttackRansom
 But Thompson said his region couldn’t heed that advice, because it would have meant months of data re-entry, costing significantly more than $30,000. | O
@@ -45,4 +45,3 @@ Every email is analyzed before we even receive it.” | O
 He warns that small towns across the province are just as susceptible to attack as his region was. | O
 “Every day, our system catches malicious emails trying to penetrate — but they are stopped,” he said. | O
 “But the attacks keep coming.” | O
-

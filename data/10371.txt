@@ -1,4 +1,4 @@
-Scammers Are Using Fake IRS Sites To Steal Your Personal Info
+Scammers Are Using Fake IRS Sites To Steal Your Personal Info | AttackPhishing
 It’s tax season, and that means con artists and scammers are out in full force trying to capitalize on people’s financial anxieties. | O
 The IRS puts out strong warnings each year—often republishing its “’Dirty Dozen’ list of tax scams” several times between January and April. | O
 This year, phishing schemes—in which scammers send emails pretending to be from the IRS in order to trick people into divulging sensitive information—topped the list. | AttackPhishing
@@ -19,4 +19,3 @@ Researchers also found similar tactics used to get taxpayers’ logins for tax p
 In a fourth example, Zscaler researchers found an encrypted phishing page designed to mask their ill-intent from security measures. | O
 After a user downloads the page, it is decrypted within the browser, skirting some security checks. | O
 In all these examples, users could have avoided the scam by double-checking the URL in the browser, which all included additional characters before the .gov domain, indicating users were not actually at an official IRS site. | O
-

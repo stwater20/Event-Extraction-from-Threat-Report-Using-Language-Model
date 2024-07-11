@@ -1,4 +1,4 @@
-Feds: Iranians led cyberattack against A tlanta, other U.S. entitie
+Feds: Iranians led cyberattack against A tlanta, other U.S. entitie | O
 Authorities on Wednesday charged two Iranian citizens for the ransomware cyber attack that hobbled the city of Atlanta’s computer network in March, and the federal indictment outlines the pair’s massive nationwide scheme to breach computer networks of local governments, health care systems and other public entities. | AttackRansom 
 The defendants, Faramarz Shahi Savandi, 34, and Mohammad Mehdi Shah Mansouri, 27, are alleged to have developed the SamSam ransomware, malicious software that encrypts data until the infected organizations paid ransom. | AttackRansom
 All told, the pair inflicted harm on more than 200 victims across the country and collected roughly $6 million in ransom over a three year period dating back to 2015. | AttackRansom
@@ -33,5 +33,3 @@ Another attachment shows the ransom website the attackers created for the city o
 To get there, someone would have had to download the Tor browser. | O
 And it appeared they had uploaded a couple of files for the demonstration. | O
 “Files available to decrypt: 2,” read a statement on the site. | O
-
-

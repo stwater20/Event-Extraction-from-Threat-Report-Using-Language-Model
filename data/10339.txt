@@ -1,4 +1,4 @@
-Phishing: Would you fall for one of these scam emails? 
+Phishing: Would you fall for one of these scam emails? | O
 Staff are still falling for phishing scams, with social media friend requests and emails pretending to come from the HR department among the ones most likely to fool workers into handing over usernames and passwords. | AttackPhishing
 Phishing scams aim to trick staff into handing over data -- normally usernames and passwords -- by posing as legitimate email. | AttackPhishing
 It's a technique used by the lowliest criminals as part of ransomware campaigns, right up to state-backed hackers because it continues to be such an effective method. | AttackPhishing
@@ -12,4 +12,3 @@ The company also reported bad news about the passwords that users handed over: w
 A third of the passwords consisted of an upper-case first letter, a series of lower-case letters, and then numbers with no symbols. | O
 It also found that 13.6 percent of passwords ended with four numbers in the range of 1940 to 2040. | O
 Of those, nearly half ended in 2016, which means one-in-twenty of all passwords end with the year in which they were created. | O
-

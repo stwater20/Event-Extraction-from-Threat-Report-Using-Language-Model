@@ -1,4 +1,4 @@
-Department of Revenue warns individuals, businesses of email scams posing as IRS  
+Department of Revenue warns individuals, businesses of email scams posing as IRS | AttackPhishing
 The Indiana Department of Revenue and the Internal Revenue Service is warning individuals and businesses about emails that use tax transcripts as bait to entice users to open attachments. | AttackPhishing
 These scams are problematic for businesses or government agencies whose employees open the malware infected attachments, putting the entire network at risk. | O
 This well-known malware, known as Emotet, generally poses as specific banks or financial institutions to trick individuals into opening infected documents. | AttackPhishing
@@ -11,5 +11,3 @@ If you receive an email claiming to be the IRS, delete it or forward the email t
 If the email claims to be from the DOR forward it to investigations@dor.in.gov <mailto:investigations@dor.in.gov>. | AttackPhishing
 Emotet is known to constantly evolve, and in the past few weeks has masqueraded as the IRS, pretending to be “IRS Online”. | AttackPhishing
 The scam email includes an attachment, with the subject line often including “tax transcript”. | AttackPhishing
-
-

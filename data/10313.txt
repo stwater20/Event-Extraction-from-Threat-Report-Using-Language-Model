@@ -1,4 +1,4 @@
-Ryuk Ransomware Crew Makes $640,000 in Recent Activity Surge
+Ryuk Ransomware Crew Makes $640,000 in Recent Activity Surge | AttackRansom
 A new ransomware strain named Ryuk is making the rounds, and, according to current reports, the group behind it has already made over $640,000 worth of Bitcoin. | AttackRansom
 Attacks with this ransomware strain were first spotted last Monday, August 13, according to independent security researcher MalwareHunter, who first tweeted about this new threat. | AttackRansom
 There have been several reports from victims regarding infections with Ryuk in the past week, including one on the Bleeping Computer forums. | O
@@ -26,4 +26,3 @@ Currently, researchers have not spotted such weakness in Ryuk, as of yet. | O
 Similar to most elite ransomware strains, unique Bitcoin payment addresses are created for each victim. | O
 Check Point says that money doesn't stay too much in these addresses, and they are quickly split and laundered through different accounts. | O
 While previous versions of the Hermes ransomware have been an on-and-off threat that surfaces at random intervals with a mass spam campaign, the new Ryuk ransomware strain appears to be a new attempt from the Lazarus Group at developing a SamSam-like strain to use in precise surgical strikes against selected organizations. | O
-

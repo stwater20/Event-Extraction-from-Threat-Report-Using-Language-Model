@@ -1,4 +1,4 @@
-The D in Systemd stands for 'Dammmmit!' A nasty DHCPv6 packet can pwn a vulnerable Linux box
+The D in Systemd stands for 'Dammmmit!' A nasty DHCPv6 packet can pwn a vulnerable Linux box | O
 A security bug in Systemd can be exploited over the network to, at best, potentially crash a vulnerable Linux machine, or, at worst, execute malicious code on the box. | DiscoverVulnerability
 The flaw therefore puts Systemd-powered Linux computers – specifically those using systemd-networkd – at risk of remote hijacking: maliciously crafted DHCPv6 packets can try to exploit the programming cockup and arbitrarily change parts of memory in vulnerable systems, leading to potential code execution. |  DiscoverVulnerability
 This code could install malware, spyware, and other nasties, if successful. | O
@@ -17,4 +17,3 @@ Systemd creator Lennart Poettering has already published a security fix for the 
 If you run a Systemd-based Linux system, and rely on systemd-networkd, update your operating system as soon as you can to pick up the fix when available and as necessary. | PatchVulnerability
 The bug will come as another argument against Systemd as the Linux management tool continues to fight for the hearts and minds of admins and developers alike. | O
 Though a number of major admins have in recent years adopted and championed it as the replacement for the old Init era, others within the Linux world seem to still be less than impressed with Systemd and Poettering's occasionally controversial management of the tool. | O
-

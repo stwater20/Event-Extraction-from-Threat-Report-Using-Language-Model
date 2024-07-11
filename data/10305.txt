@@ -1,4 +1,4 @@
-BT Mail login warning - DO NOT be fooled by this shocking new email scam
+BT Mail login warning - DO NOT be fooled by this shocking new email scam | O
 BT MAIL users should be on alert as a new email scam is discovered which could be used to gain access to personal details. | AttackDatabreach, AttackPhishing
 Users of BT’s popular email service should be aware of a new scam which is targeting customers across the UK. | O
 The latest threat, which was unleashed over the weekend, suggests that customers’ bills are overdue and need to be paid as soon as possible. | O
@@ -20,4 +20,3 @@ BT has plenty of advice on its website about staying safe online. | O
 The broadband supplier states that internet scams can take many forms, from 'phishing', where a fake email or web site will try to get you to part with your bank account information, to scams pretending to be from online auction, job or other websites that try to collect your personal data. | AttackPhishing
 Not sure if an email you've received is genuine? Don't click on it, and never give out your account or bank details. | O
 Stay safe by being aware of "phishing" and other scams that might find their way into your inbox. | AttackPhishing
-

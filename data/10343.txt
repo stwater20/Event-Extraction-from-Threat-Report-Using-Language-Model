@@ -1,4 +1,4 @@
-Hackers Demand $6.3 Million in Bitcoin From Malaysian Media Giant
+Hackers Demand $6.3 Million in Bitcoin From Malaysian Media Giant | AttackRansom
 Ransomware creators have attacked Malaysian media giant Media Prima Bhd and are demanding bitcoins before they can allow access to the company’s compromised computer systems. | AttackRansom
 According to The Edge Markets, which initially broke the news, the hackers struck on November 8 consequently denying the company’s employees access to the email system. | O
 The hackers are now demanding 1,000 bitcoins, translating to approximately US$6.3 million at current market prices, to reauthorize access. | AttackRansom
@@ -15,5 +15,3 @@ The Port can also now confirm that the ransom note requested payment in Bitcoin,
 Can’t Pay, Won’t Pay | O
 Another high-profile target of ransomware in the recent past was the Professional Golfers Association (PGA) of America. | O
 In this case, the hackers encrypted critical files denying access to them just as the golfing body was holding a PGA Championship event as well as preparing for the Ryder Cup. | O
-
-

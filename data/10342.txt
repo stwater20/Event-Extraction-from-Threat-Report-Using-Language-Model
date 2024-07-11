@@ -1,4 +1,4 @@
-Ransomware, fileless attacks and cold boot give firms the shivers
+Ransomware, fileless attacks and cold boot give firms the shivers | O
 Bristol Airport authorities were recently forced to take their flight information system displays offline for two days to contain a ransomware attack. | AttackRansom
 The authorities dismissed the ransom demand and decided to rebuild the affected systems. | AttackRansom
 For two days, flight status information was displayed on whiteboards and there was an increase in announcements over the speakers. | O
@@ -17,4 +17,3 @@ In another recent development, researchers at F-Secure have come across a new vu
 Dubbed as cold boot, the attack can be carried off using a special programme through a USB drive connected to a PC. | O
 Using the programme, the hacker can disable the memory overwriting by rebooting the system, without a proper shutdown. | O
 The attack can be used to break into company system which might have access to the company network. | O
-

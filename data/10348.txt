@@ -1,4 +1,4 @@
-Cloquet School District Again Targeted by a Ransomware Attack
+Cloquet School District Again Targeted by a Ransomware Attack | AttackRansom
 Cloquet school district has been hit by a ransomware attack second time in the past three years. | O
 The ransomware is a virulent computer malware, which attacks by spreading from one computer to another and locking up the access to the network servers. | AttackRansom
 The ransomware also encrypts the documents and then demands ransom for providing a key to unlock encrypted files. | AttackRansom
@@ -15,5 +15,3 @@ Unanimously, the board members also voted for second option, which is recreating
 Besides, the board members suggested hiring a "forensic" company to investigate on the ransomware attack and determine the source from where the virus has entered. | AttackRansom
 On a brighter side, Smith revealed that the technology staffs have been able to recover some of the lost data, and they are also capable of recreating the data that is unrecoverable. | O
 He also commented that the process of recovery will not at any cost affect the commencement of the school session in the month of September. | O
-
-

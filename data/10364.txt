@@ -1,4 +1,4 @@
-Schools promised better protection from ransomware as Taranaki school falls victim
+Schools promised better protection from ransomware as Taranaki school falls victim | AttackRansom
 Files that were scrambled in a ransomware attack on Hāwera High School in Taranaki included school assessments that students had only partly completed as well as backups, principal Rachel Williams has confirmed. | AttackRansom
 More help is on the way for schools battling ransomware and other malware, but it has come a little late for the school which is being held to ransom for US$5000 by hackers. | AttackRansom
 N4L, the Crown-owned company that manages the provision of broadband to schools, said it would improve online security as part of a wider upgrade of its managed network that is due to be completed by October next year. | O
@@ -21,4 +21,3 @@ While the incident had been annoying, "you see people's character come through a
 "It is not stopping us doing what we need to do." | O
 N4L said its technology upgrade would be the first major refresh of its network since it began connecting schools with ultrafast broadband at the end of 2013. | O
 Its existing security system had blocked more than 118,000 viruses and malware threats so far during this school year, it said. | O
-

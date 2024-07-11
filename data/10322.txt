@@ -1,4 +1,4 @@
-SamSam Ransomware Hits Colorado DOT, Agency Shuts Down 2,000 Computers
+SamSam Ransomware Hits Colorado DOT, Agency Shuts Down 2,000 Computers | AttackRansom
 The Colorado Department of Transportation (DOT) has shut down over 2,000 computers after some systems got infected with the SamSam ransomware on Wednesday, February 21. | O
 The agency's IT staff is working with its antivirus provider McAfee to remediate affected workstations and safeguard other endpoints before before reintroducing PCs into its network. | O
 DOT officials told local press [1, 2] that crucial systems were not affected, such as those managing road surveillance cameras, traffic alerts, message boards, and others. | O
@@ -19,4 +19,3 @@ Attackers then try to gain access to as many computers on the same network as po
 In the recent campaigns, SamSam operators usually asked for a 1 Bitcoin ransom and left a message of "I'm sorry" on victims' computers. | AttackRansom
 The SamSam group had been previously active in the winter of 2016 but have come back with new attacks. | O
 These new attacks have been detailed in reports published by Bleeping Computer, Secureworks, and Cisco Talos.  | O
-

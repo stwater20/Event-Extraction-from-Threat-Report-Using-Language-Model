@@ -1,4 +1,4 @@
-Logitech flaw fixed after Project Zero disclosure
+Logitech flaw fixed after Project Zero disclosure | PatchVulnerability
 When it comes to fixing security vulnerabilities, it should be clear by now that words only count when they’re swiftly followed by actions. | PatchVulnerability
 Ask peripherals maker Logitech, which last week became the latest company to find itself on the receiving end of an embarrassing public flaw disclosure by Google’s Project Zero team. | DiscoverVulnerability
 In September, Project Zero researcher Tavis Ormandy installed Logitech’s Options application for Windows (available separately for Mac), used to customise buttons on the company’s keyboards, mice, and touchpads. | O
@@ -15,5 +15,3 @@ The company also tweeted that the flaws had been fixed, confirmed by Ormandy on 
 Logitech aren’t the first to feel Project Zero’s guillotine on their neck. | O
 Earlier in 2018, Microsoft ran into a similar issue over a vulnerability found by Project Zero in the Edge browser. | DiscoverVulnerability
 Times have changed – vendors have to move from learning about a bug to releasing a fix much more rapidly than they used to. | PatchVulnerability
-
-

@@ -1,4 +1,4 @@
-The D in SystemD stands for Dammmit... Security holes found in much-adored Linux toolkit 
+The D in SystemD stands for Dammmit... Security holes found in much-adored Linux toolkit | DiscoverVulnerability
 Security biz Qualys has revealed three vulnerabilities in a component of systemd, a system and service manager used in most major Linux distributions. | DiscoverVulnerability
 Patches for the three flaws – CVE-2018-16864, CVE-2018-16865, and CVE-2018-16866 – should appear in distro repos soon as a result of coordinated disclosure. | PatchVulnerability
 However, Linux distributions such as Debian remain vulnerable at the moment, depending on the version you have installed. | DiscoverVulnerability
@@ -17,5 +17,3 @@ In code where the flaw still exists, it could allow an attacker to read out of b
 "The risk [of these issues] is a local privilege escalation to root," said Graham. | O
 "It's something that should still be a concern because usually attackers don't just use one vulnerability to comprise a system. | O
 They often chain vulnerabilities together."  | O
-
-

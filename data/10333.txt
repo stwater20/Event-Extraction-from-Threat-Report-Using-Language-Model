@@ -1,4 +1,4 @@
-Phishing attacks: How hunting down fake websites is making life harder for hackers
+Phishing attacks: How hunting down fake websites is making life harder for hackers | AttackPhishing
 Cybercriminals are finding it more difficult to maintain the malicious URLs and deceptive domains used for phishing attacks for more than a few hours because action is being taken to remove them from the internet much more quickly. | AttackPhishing
 That doesn't mean that phishing -- one of the most common means of performing cyber-attacks -- is any less dangerous, but a faster approach to dealing with the issue is starting to hinder attacks. | AttackPhishing
 Deceptive domain names look like those of authentic services, so that somebody who clicks on a malicious link may not realise they aren't visiting the real website of the organisation being spoofed. | AttackPhishing
@@ -20,5 +20,3 @@ The successes we have had in our first year will cause attackers to change their
 A focus on taking down HMRC and other government-related domains has helped UK internet users, but cyber-attacks aren't limited by borders, with many malicious IPs hosted in practically every country used to carry out cyber-attacks around the world -- meaning every country should be playing a part. | O
 "Obviously, phishing and web-inject attacks are not connected to the UK's IP space and most campaigns of these types are hosted elsewhere. | AttackPhishing
 There needs to be concerted international effort to have a real effect on the security of users," says the report. | O
-
-

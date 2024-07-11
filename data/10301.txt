@@ -1,4 +1,4 @@
-Lazarus Hackers Phish For Bitcoins, Researchers Warn
+Lazarus Hackers Phish For Bitcoins, Researchers Warn | AttackPhishing
 Bitcoin-seeking hackers are using old-school tricks to socially engineer would-be cryptocurrency exchange executives, researchers warn. | O
 An attack group tied to North Korea has "launched a malicious spear-phishing campaign using the lure of a job opening for the CFO role at a European-based cryptocurrency company," researchers at Secureworks Counter Threat Unit warn in a report. | AttackPhishing
 The CTU researchers refer to the group behind the attack as "Nickel Academy," although it is perhaps better known as the Lazarus Group (see Kaspersky Links North Korean IP Address to Lazarus ). | O
@@ -18,4 +18,3 @@ While the researchers say that Lazarus has done this previously, unusually in th
 The researchers add that this phishing campaign does not appear to target any specific firm or individual, but rather to be more broadly aimed. | AttackPhishing
 "There are common elements in the macro and in the first-stage RAT used in this campaign with former campaigns," the researchers write. | O
 The custom command-and-control network code that controls infected endpoints also includes components that were seen in previous attacks tied to Lazarus, they add. | O
-

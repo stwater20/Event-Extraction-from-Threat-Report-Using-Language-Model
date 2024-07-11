@@ -1,4 +1,4 @@
-Samsam infected thousands of LabCorp systems via brute force RDP 
+Samsam infected thousands of LabCorp systems via brute force RDP | AttackRansom
 LabCorp, one of the largest clinical labs in the U.S., said the Samsam ransomware attack that forced their systems offline was contained quickly and didn't result in a data breach. | AttackRansom, AttackDatabreach
 However, in the brief time between detection and mitigation, the ransomware was able to encrypt thousands of systems and several hundred production servers. | O
 The wider public first learned about the LabCorp incident on Monday, when the company disclosed it via an 8-K filing with the SEC. | O
@@ -20,4 +20,3 @@ However, because LabCorp was able to detect and respond to the attack quickly, t
 It's also likely that backups (tested and current) played a large role in the recovery phase of the incident. | O
 The last time the Samsam group was in the news, they had attacked the Colorado Department of Transportation twice in two weeks and the City of Atlanta. | O
 In March, based on the current value of Bitcoin at the time, it was estimated that the group had earned nearly $850,000 USD from their victims, who paid the ransom demands. | AttackRansom 
-

@@ -1,4 +1,4 @@
-Google releases November security patch (Update: OG Pixels patch is live)
+Google releases November security patch (Update: OG Pixels patch is live) | PatchVulnerability
 If you own a Google Pixel or Google Pixel XL, you’re probably wondering where your November security patch update is. | O
 Although most Google devices — including older Nexus devices — received the patch at the beginning of the month as detailed below, the original Pixel lineup was left high and dry. | PatchVulnerability
 Today, finally, the patch is here. | O
@@ -20,6 +20,3 @@ If you don’t want to wait for the November security patch to make its way to y
 From there, you can either flash a fresh build to your phone or sideload the OTA update. | O
 The November security patch is also making its way to the Essential Phone. | O
 In addition to the resolved issues addressed above, this update brings support for the company’s Audio Adapter HD module. | PatchVulnerability
-
-
-

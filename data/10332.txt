@@ -1,4 +1,4 @@
-Shock as Lloyds fraud chief admits scam texts sent by criminals posing as a bank are so sophisticated even HE can't tell if they are genuine
+Shock as Lloyds fraud chief admits scam texts sent by criminals posing as a bank are so sophisticated even HE can't tell if they are genuine | AttackPhishing
 A fraud chief at Britain’s biggest bank has admitted scam texts are now so sophisticated even he sometimes cannot tell if they are genuine. | O
 Paul Davis, retail fraud director at Lloyds Banking Group, told Money Mail criminals can mimic the exact format of messages – which appear as though they are sent from a bank’s number using a technique called ‘spoofing’. | AttackPhishing
 With fake banking texts now so difficult to spot, Mr Davis said customers should be taught how to respond to them to avoid being lured into a scam. | AttackPhishing
@@ -28,4 +28,3 @@ The guidelines say banks must flash up warnings if a customer is making a questi
 Banks should also delay payments if they are concerned they may be fraudulent and refund vulnerable victims, such as those who have been recently bereaved – even if the bank was not at fault. | O
 But there was no agreement on who should bankroll the cost of refunds for victims – and some campaigners criticised the code for not going far enough. | O
 The voluntary agreement between most banks and consumer groups follows an eight-month consultation by a steering group appointed by the Payment Systems Regulator, following a super-complaint by consumer group Which? | O
-

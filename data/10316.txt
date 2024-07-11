@@ -1,4 +1,4 @@
-Mongo Lock Attack Ransoming Deleted MongoDB Databases
+Mongo Lock Attack Ransoming Deleted MongoDB Databases | AttackRansom
 An attack called Mongo Lock is targeting remotely accessible and unprotected MongoDB databases, wiping them, and then demanding a ransom in order to get the contents back. | AttackRansom
 While this new campaign is using a name to identify itself, these types of attacks are not new and MongoDB databases have been targeted for a while now. | O
 These hijacks work by attackers scanning the Internet or using services such as Shodan.io to search for unprotected MongoDB servers. | O
@@ -12,4 +12,3 @@ Victims are paying ransoms | AttackRansom
 When looking up some of the bitcoin addresses used in recent MongoDB attacks, victims have been paying the ransoms. | AttackRansom
 For example, the bitcoin address 3FAVraz3ovC1pz4frGRH6XXCuqPSWeh3UH, which has been used often, has had 3 ransom payments for a total of 1.8 bitcoins. | AttackRansom 
 This is equivalent to a little over $11,000 USD at the current value of bitcoins. | AttackRansom
-

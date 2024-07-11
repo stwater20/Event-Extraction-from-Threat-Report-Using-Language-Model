@@ -1,4 +1,4 @@
-Market Research Firm Forrester Says Hackers Stole Sensitive Reports 
+Market Research Firm Forrester Says Hackers Stole Sensitive Reports| AttackDatabreach
 Forrester, one of the world's leading market research and investment advisory firms, admitted late Friday afternoon to a security breach that took place during the past week. | O
 The company says that a yet to be identified attacker (or attackers) has gained access to the infrastructure hosting its website — Forrester.com. | AttackDatabreach
 Forrester is using this website to allow customers to log in and download research specific to their contracts. | O
@@ -13,6 +13,3 @@ We also understand there is a tradeoff between making it easy for our clients to
 "We feel that we have taken a common-sense approach to those two priorities; however, we will continuously look at that balance to respond to changing cybersecurity risk." | O
 Forrester is the fourth major financial and business entity that suffered or announced a security incident in the past month. | O
 The other three include credit rating and reporting firm Equifax, the US Securities and Exchange Commission (SEC), and accounting, auditing, and corporate finance consulting firm Deloitte. | O
-
-
- 

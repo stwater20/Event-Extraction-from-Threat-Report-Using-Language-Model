@@ -1,4 +1,4 @@
-Phishing Roundup: Caracal, Stealth Mango, Tangelo, Apple, DHL, eFax & More
+Phishing Roundup: Caracal, Stealth Mango, Tangelo, Apple, DHL, eFax & More | AttackPhishing
 Phishing takes place when a fraudster tricks an individual into sharing sensitive information (account numbers, Social Security numbers, login credentials, etc.) by way of fraudulent emails, texts, or counterfeit websites. | AttackPhishing
 Phishing can also enable a scammer to gain access to a computer or network so that they can install malware, such as ransomware, on a victim's computer. | AttackPhishing
 Phishers are able to achieve this by spoofing the familiar, trusted logos of established, legitimate companies. | AttackPhishing
@@ -28,5 +28,3 @@ When someone gets one of these forwarded mails, they’re prompted for their Goo
 This is problematic, because it invites link-baiting phishing attacks, which could con people into revealing their login information.” | AttackPhishing
     A phishing campaign targeting Apple users seeks to dupe victims into updating their profiles in preparation for the EU’s General Data Protection Regulation (GDPR) policies, which go into effect on May 25. | AttackPhishing
 This is just one of many scams exploiting the coming implementation of GDPR policies. | O
-
-

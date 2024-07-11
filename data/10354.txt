@@ -1,4 +1,4 @@
-Multiple Critical Security Vulnerabilities Discovered In Linux Systemd
+Multiple Critical Security Vulnerabilities Discovered In Linux Systemd | DiscoverVulnerability
 Researchers have discovered some serious security flaws threatening Linux. | DiscoverVulnerability
 These vulnerabilities exist in Linux systemd component. | DiscoverVulnerability
 According to the researchers, the vulnerabilities pose a risk to all systemd-based Linux distros. | DiscoverVulnerability
@@ -17,5 +17,3 @@ For now, Red Hat has patched the bugs CVE-2018-16864 and CVE-2018-16865. | Patch
 Whereas, Debian has fixed CVE-2018-16866 in the unstable systemd 240-1 release. | PatchVulnerability
 Other distros will also supposedly release the fixes soon. | PatchVulnerability
 In November 2018, a Google researcher also highlighted a critical flaw in Systemd that induced system crashes and hacks. | DiscoverVulnerability
-
-

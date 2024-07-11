@@ -1,4 +1,4 @@
-Cyber attack targets ONWASA; company refusing to pay ransom
+Cyber attack targets ONWASA; company refusing to pay ransom | AttackRansom
 In the wake of Hurricane Florence disaster, ONWASA, a water utility company has been specifically targeted by cyber criminals. | O
 ONWASA provides water and sewer service to all of Onslow County except Jacksonville residents. | O
 According to a press release, ONWASA's internal computer system, including servers and personal computers, have been subjected to a sophisticated ransomware attack. | AttackRansom
@@ -20,5 +20,3 @@ There is no expectation that a ransom payment would stop future attacks. | Attac
 The cyber attackers are demanding payment to decrypt everything that was stolen. | AttackRansom
 ONWASA said it will not "negotiate with criminals nor bow to their demands." | AttackRansom
 Instead, ONWASA will rebuild its databases and computer systems from the ground up. | AttackRansom
-
-

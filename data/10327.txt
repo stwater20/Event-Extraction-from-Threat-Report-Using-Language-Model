@@ -1,4 +1,4 @@
-When is a patch not a patch? When it's for this McAfee password bug
+When is a patch not a patch? When it's for this McAfee password bug | O
 A privilege escalation flaw in McAfee's True Key software remains open to exploitation despite multiple attempts to patch it. | PatchVulnerability
 This according to researchers with security shop Exodus Intel, who claim that CVE-2018-6661 was not fully addressed with either of the two patches McAfee released for it. | PatchVulnerability, DiscoverVulnerability
 The flaw is an elevation of privilege issue in McAfee's TrueKey password manager. | PatchVulnerability
@@ -14,4 +14,3 @@ Exodus said that it notified McAfee of the issue back in August, prompting a sec
 To its credit, McAfee acknowledged the issue and said it is still working to fully resolve the flaw. | PatchVulnerability, DiscoverVulnerability
 "McAfee has been working with the researchers to confirm their findings, and has provided customers mitigation guidance to allow them to protect themselves until the company can address the reported issues via automatic product updates," McAfee told The Register. | PatchVulnerability, DiscoverVulnerability
 In the meantime, McAfee says customers can use the True Key browser extension (which is not subject to the DLL vulnerability) rather than the Windows application.  | O
-

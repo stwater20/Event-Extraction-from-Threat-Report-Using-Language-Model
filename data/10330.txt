@@ -1,5 +1,5 @@
-Microsoft: Crash-causing Outlook 2010 security patches are now fixed
-Microsoft's new Outlook 2010 update ought to provide the critical security fixes without the crashes. |  PatchVulnerability
+Microsoft: Crash-causing Outlook 2010 security patches are now fixed | PatchVulnerability
+Microsoft's new Outlook 2010 update ought to provide the critical security fixes without the crashes. | PatchVulnerability
 Microsoft has released a new update for Outlook 2010 that should plug its critical security flaws without causing crashes. | PatchVulnerability
 Microsoft earlier this week warned that the 64-bit version of the security update KB 4461529 from its November Patch Tuesday was causing Outlook 2010 crashes. | O
 Despite the crashes, Microsoft warned users not to remove the update, which plugged four remote code execution flaws that it said were more likely be exploited. | PatchVulnerability, DiscoverVulnerability

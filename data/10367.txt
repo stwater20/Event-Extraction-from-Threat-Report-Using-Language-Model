@@ -1,4 +1,4 @@
-2 Iranian men face new charges over Atlanta cyberattack
+2 Iranian men face new charges over Atlanta cyberattack | O
 Two Iranian men already indicted in New Jersey in connection with a broad cybercrime and extortion scheme targeting government agencies, cities and businesses now face new federal charges in Georgia related to a ransomware attack that caused havoc for the city of Atlanta earlier this year. | AttackRansom
 A federal grand jury in Atlanta returned an indictment Tuesday accusing Faramarz Shahi Savandi and Mohammad Mehdi Shah Mansouri of violating the Computer Fraud and Abuse Act, federal prosecutors said in a news release Wednesday. | O
 The New Jersey indictment against the pair was filed last month on broad conspiracy charges that included the Atlanta cyberattack. | O
@@ -17,4 +17,3 @@ The New Jersey indictment filed Nov 27 accuses the two men of creating the SamSa
 Among the other victims are the city of Newark, New Jersey, the Colorado Department of Transportation, the Port of San Diego and six health care companies across the U.S., according to the Justice Department. | O
 The New Jersey charges include conspiracy to commit wire fraud and conspiracy to commit fraud and related activity in connection with computers. | O
 The overall scheme allowed the hackers to make about $6 million and caused the victims to lose more than $30 million, prosecutors said. | O
-

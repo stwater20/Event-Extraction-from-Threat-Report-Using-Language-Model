@@ -1,4 +1,4 @@
-Patch Tuesday: Microsoft Addresses Two Zero-Days in 60-Flaw Roundup
+Patch Tuesday: Microsoft Addresses Two Zero-Days in 60-Flaw Roundup | PatchVulnerability
 Microsoft rolled out 60 patches for its Patch Tuesday release, impacting 19 critical flaws and 39 important flaws. | PatchVulnerability
 Microsoft has rolled out its August Patch Tuesday fixes, addressing 19 critical vulnerabilities, including fixes for two zero-day vulnerabilities that are under active attack. | PatchVulnerability
 Overall, the company patched a total of 60 flaws, spanning Microsoft Windows, Edge, Internet Explorer (IE), Office, .NET Framework,  ChakraCore, Exchange Server, Microsoft SQL Server and Visual Studio. | PatchVulnerability
@@ -15,5 +15,3 @@ Microsoft also issued fixes for security issues that don’t impact Windows, but
 
 Microsoft’s Patch Tuesday comes after the company found itself in hot water last month after its new update model caused stability issues for Windows operating systems and applications, particularly in July. | O
 The model irked customers so much that enterprise patching veteran Susan Bradley wrote an open letter to Microsoft executives expressing the “dissatisfaction your customers have with the updates released for Windows desktops and servers in recent months.”| PatchVulnerability
-
-

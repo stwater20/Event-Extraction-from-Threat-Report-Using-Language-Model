@@ -1,4 +1,4 @@
-Cooking Utensil Firm OXO Files Data Breach in California
+Cooking Utensil Firm OXO Files Data Breach in California | AttackDatabreach
 Award-winning cooking tools company OXO revealed that it has suffered data breaches over the last two years that may have compromised customer and credit card information. | AttackDatabreach
 In a breach disclosure letter filed with the State of California, OXO said that the data security incident involved “sophisticated criminal activity that may have exposed some of your personal information.” | AttackDatabreach
 The attacker is believed to have accessed credit card information, along with names and billing and shipping addresses, though the letter does not state the scope of impact. | AttackDatabreach
@@ -11,5 +11,3 @@ Additionally, the company has taken measures to secure its site to prevent futur
 “With the new year upon us, companies should perform an in-depth review of all their digital assets to ensure that they and their third parties have not been compromised. | O
 We expect that future hacks will be targeted towards entire industries so as to maximize the payout for cyber-criminals.” | O
 OXO has also secured the services of risk mitigation and response firm Kroll in order to extend identify monitoring services to its customers. | O
-
-

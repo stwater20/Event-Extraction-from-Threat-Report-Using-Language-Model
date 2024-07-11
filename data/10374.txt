@@ -1,4 +1,4 @@
-Microsoft Patches Remote Code Execution Vulnerability in Exchange Server  
+Microsoft Patches Remote Code Execution Vulnerability in Exchange Server | PatchVulnerability
 Microsoft released a security update designed to patch remote code execution (RCE) and information disclosure vulnerabilities in its Microsoft Exchange Server 2019, 2016, and 2013 products. | PatchVulnerability
 The RCE security issue is being tracked as CVE-2019-0586 and according to Microsoft's advisory it exists because "the software fails to properly handle objects in memory." | DiscoverVulnerability
 Attackers can run code as System user | O
@@ -14,5 +14,3 @@ The CVE-2019-0588, security vulnerability was fixed by correcting the way Exchan
 Microsoft rated the two vulnerabilities as 'Important' | O
 Microsoft assigned an Important severity level to both security issues and, until their public disclosure, no mitigation factors or workarounds have been found. | O
 On servers that are using user account control (UAC) the update may fail to install if the update packages are run without Administrator privileges. | O
-
-

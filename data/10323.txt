@@ -1,4 +1,4 @@
-Ransomware Attack At Blue Springs Medical Practice Exposes 45,000 Patient Records  
+Ransomware Attack At Blue Springs Medical Practice Exposes 45,000 Patient Records | AttackRansom
 Officials at a medical practice in Blue Springs say they are taking steps to strengthen privacy protections after a ransomware attack affected nearly 45,000 patients. | AttackRansom
 Blue Springs Family Care discovered in May that hackers had installed malware and ransomware encryption programs on its computer system, giving them full access to patient records. | AttackDatabreach
 Ransomware is a kind of malware that locks up a computer. | AttackRansom
@@ -32,4 +32,3 @@ As such, she says, apart from instituting technical measures, the most important
 “Let them know that people are constantly trying to attack from all angles and the attacks are pretty sophisticated,” she says. | O
 “It’s very easy to click on a link thinking it’s legitimate or respond to an email that looks legitimate when in fact it’s not. | O
 So I think the education of employees and staff is perhaps the biggest step that health care facilities can take.” | O   
-
