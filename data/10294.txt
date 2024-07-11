@@ -1,12 +1,12 @@
 WordPress 5.0 Patched to Fix Serious Bugs | PatchVulnerability
 WordPress 5.0 users are being urged to update their CMS software to fix a number of serious bugs. | PatchVulnerability
 The update (WordPress 5.0.1) addresses seven flaws and was issued Thursday, less than a week after WordPress 5.0 was released. | PatchVulnerability
-The most serious of the flaws is a bug that allows the WordPress “user activation screen” to be indexed by Google and other search engines, leading to the possible public exposure of WordPress usernames and passwords. | O
+The most serious of the flaws is a bug that allows the WordPress “user activation screen” to be indexed by Google and other search engines, leading to the possible public exposure of WordPress usernames and passwords. | DiscoverVulnerability, AttackDatabreach
 “The user activation screen could be indexed by search engines in some uncommon configurations, leading to exposure of email addresses, and in some rare cases, default generated passwords,” wrote security firm Wordfence in a blog post outlining the flaws. | O
 Wordfence said all WordPress users running versions of the 4.x branch of WordPress core are also impacted by similar issues. | DiscoverVulnerability 
 It urges those 4.x users, not ready to update to the 5.0 branch, to install the WordPress 4.9.9 security update (also released this week), which addresses similar bugs. | PatchVulnerability
 Three of the bugs fixed with the release of WordPress 5.0.1 are cross-site scripting (XSS) vulnerabilities. | PatchVulnerability
-Two of the XSS bugs could allow for an adversary to launch a privilege escalation attack. | PatchVulnerability
+Two of the XSS bugs could allow for an adversary to launch a privilege escalation attack. | DiscoverVulnerability
 “Contributors could edit new [WordPress web-based] comments from higher-privileged users, potentially leading to a cross-site scripting vulnerability,” Wordfence wrote. | O
 “This is another vulnerability that requires a higher-level user role, making the likelihood of widespread exploitation quite low. | O
 WordPress addressed this issue by removing the <form> tag from their HTML whitelist.” | PatchVulnerability
