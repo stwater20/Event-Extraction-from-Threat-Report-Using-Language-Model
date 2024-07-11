@@ -3,7 +3,7 @@ US Postal Service website flaw was patched this week but reported by a security 
 The US Postal Service has fixed a security bug in its website that allowed anyone with an account to see the account details of the site's 60 million users. | PatchVulnerability
 The flaw was patched this week after USPS was informed of the issue by Krebs on Security, which reports that an unnamed independent researcher reported the bug a year ago but never received a response. | DiscoverVulnerability, PatchVulnerability 
 According to Krebs, the flaw was caused by an authentication weakness in the application programming interface (API) on usps.com that supported the USPS 'Informed Visibility' program, which offers business customers "near real-time tracking data" about mail campaigns and packages. | O
-The bug let anyone who was logged in to usps.com to see account details for others users, including email address, username, user ID, account number, street address, phone number, authorized users, mailing campaign data and more. | O
+The bug let anyone who was logged in to usps.com to see account details for others users, including email address, username, user ID, account number, street address, phone number, authorized users, mailing campaign data and more. | DiscoverVulnerability, AttackDatabreach
 Krebs notes that the "API also let any user request account changes for any other user, such as email address, phone number or other key details". | O
 USPS said in a statement it had no information that the vulnerability had been used to access customer records. | O
 "Computer networks are constantly under attack from criminals who try to exploit vulnerabilities to illegally obtain information. | AttackDatabreach
