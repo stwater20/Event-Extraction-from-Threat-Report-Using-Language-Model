@@ -1,19 +1,19 @@
-Addressing SAP HANA Zero-Day Critical Vulnerabilities | PatchVulnerability
+Addressing SAP HANA Zero-Day Critical Vulnerabilities | O
 I get an alert on my phone from a news feed around critical vulnerability patches being released by SAP. | DiscoverVulnerability, PatchVulnerability
-Before I discuss the details of the latest two SAP HANA vulnerabilities and the potential business impact, let me take a moment to reiterate that this is the most vulnerable period for any SAP customer with this critical flaw in their IT landscape. | DiscoverVulnerability, PatchVulnerability
-This period, which I call “Hackers Busy Cracking,” started this morning and will not end until affected clients across the globe apply the patch from SAP. | DiscoverVulnerability, PatchVulnerability
+Before I discuss the details of the latest two SAP HANA vulnerabilities and the potential business impact, let me take a moment to reiterate that this is the most vulnerable period for any SAP customer with this critical flaw in their IT landscape. | O
+This period, which I call “Hackers Busy Cracking,” started this morning and will not end until affected clients across the globe apply the patch from SAP. | O
 Onapsis Security Research Lab discovered these vulnerabilities but hasn’t published technical details yet. | DiscoverVulnerability
-We do know that the vulnerability is in the user self-service functionality provided by SAP HANA and has been present since SPS09 of SAP HANA, which was released in 2014. | DiscoverVulnerability, PatchVulnerability
+We do know that the vulnerability is in the user self-service functionality provided by SAP HANA and has been present since SPS09 of SAP HANA, which was released in 2014. | DiscoverVulnerability
 As the name suggests, the user self-service functionality enables users to perform maintenance and support activities for their accounts and for new users to register the accounts. | O
 For this functionality to be useful, it must be accessible from wherever the user population is, be it on internal or external networks. | O
 The second critical vulnerability revolves around session fixation, which can allow an attacker to elevate privileges by impersonating another user in the system. | DiscoverVulnerability
-The SAP HANA 2.0 SPS 00 version is affected by this vulnerability. | DiscoverVulnerability, PatchVulnerability
+The SAP HANA 2.0 SPS 00 version is affected by this vulnerability. | DiscoverVulnerability
 User self-service is a good example of technology that is a double-edged sword. | O
 It cuts costs associated with supporting a large user population and reduces the time taken to correct user issues, thus ensuring individuals spend more time as productive users. | O
 However, any unattended mechanism that allows modification of accounts without human intervention will always be an attractive target. | O
 According to the Onapsis report, a combination of vulnerabilities can allow an attacker with remote access to the user self-service functionality to edit any account on the system, including activating previously deactivated accounts. | DiscoverVulnerability
 The natural target for this attack would be the SYSTEM account present in all HANA deployments. | O
 The potential business impact of an attacker with access to the SYSTEM account is extraordinary. | O
-I strongly urge all SAP HANA customers to check their HANA version levels and make immediate plans to prioritize these updates. | DiscoverVulnerability, PatchVulnerability
+I strongly urge all SAP HANA customers to check their HANA version levels and make immediate plans to prioritize these updates. | PatchVulnerability
 SAP customers who have already deployed active threat protection (ATP) controls or third-party products are one step ahead of zero-day threats. | PatchVulnerability
 For the rest, look to invest in an active threat monitoring and detection solution — meaning a SAP-specific threat vector detection solution. | PatchVulnerability
