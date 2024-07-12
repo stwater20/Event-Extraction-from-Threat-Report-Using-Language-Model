@@ -12,5 +12,5 @@ That “s” makes all the difference, because it signals that a site has securi
 Legitimate e-commerce sites use encryption to keep customers’ payment information safe. | O
 To confirm it is a trusted site, look for on a lock symbol in the browser window. | O
 Consumers also should try to restrict their downloads to official and reputable app stores, such as the Apple Store, the Google Play Store and Amazon, said Scot Ganow, an attorney with Dayton-based law firm Faruki Ireland Cox Rhinehart & Dusing whose practice focuses on information privacy and security law. | O
-More than 1 million Android phones were infected by a yucky type of malware dubbed “Googlian” that consumers downloaded from third-party apps and by clicking on malicious links, experts said. | AttackDatabreach
+More than 1 million Android phones were infected by a yucky type of malware dubbed “Googlian” that consumers downloaded from third-party apps and by clicking on malicious links, experts said. | O
 The malware campaign has exposed people’s messages, documents, photographs and other sensitive data and also led to the installation of unwanted apps their devices, according to Check Point, a threat prevention software company. | AttackDatabreach
