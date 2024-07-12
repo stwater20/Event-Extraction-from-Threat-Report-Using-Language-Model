@@ -2,7 +2,7 @@ Patient files so far okay after ECMC cyber attack | wivb.com | O
 In the wake of a weekend cyber attack, ECMC officials say the hospital’s IT staff discovered the virus and shut down the hospital’s computer network, before it could infect their files.  | O
 ECMC spokesman Peter Cutler said, State Police and the FBI are investigating. | O
 “We do know that a virus was launched into our system and the good news, again, is that we reacted to it immediately.” | O
-With the medical center’s computer network still offline, ECMC is conducting business the old fashioned way, on paper—no website, no email—and Cutler says they don’t believe patient files were compromised in any way. | AttackDatabreach
+With the medical center’s computer network still offline, ECMC is conducting business the old fashioned way, on paper—no website, no email—and Cutler says they don’t believe patient files were compromised in any way. | O
 “Through the assessments that we have been running, we have seen no indication that there has been a compromise of patient health information.” | AttackDatabreach
 Investigators would not say how hackers attacked ECMC’s computers, but authorities in the field of cyber security say, this attempted intrusion has all the hallmarks of ransomware. | AttackRansom
 University at Buffalo cyber security expert Arun Vishwanath says ransomware attacks have grown exponentially in the last two years, and likens them to Internet extortion. | AttackRansom
