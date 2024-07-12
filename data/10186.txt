@@ -8,7 +8,7 @@ The latest unpatched issue is an Elevation of Privilege which allows a normal us
 It’s not clear when Microsoft intends to address the latest security flaw in Windows 10, and the company still needs to solve the Edge vulnerability that was disclosed by Google earlier this week. | DiscoverVulnerability, PatchVulnerability
  Microsoft hit back at Google’s approach to security patches last year, after discovering a Chrome flaw and “responsibly” disclosed it to Google so the company had enough time to patch. | DiscoverVulnerability, PatchVulnerability
 Google’s policy to disclose after 90 days without a patch is often criticized and applauded in equal measure. | O
- There’s plenty of evidence to suggest security vulnerabilities are increasing in Windows and across the industry, and Microsoft has clearly struggled to fix these two issues with plenty of notice. | PatchVulnerability
+ There’s plenty of evidence to suggest security vulnerabilities are increasing in Windows and across the industry, and Microsoft has clearly struggled to fix these two issues with plenty of notice. | DiscoverVulnerability
  It can also be argued that Google is making rival software more secure with its efforts, making everyone’s software secure. | O
  However, Google also has competitive commercial interests, and Project Zero has been unusually aggressive in finding and publishing new vulnerabilities. | O
 Reports suggest Google’s Project Zero security team originated from the fallout around the 2009 Google hack, an intrusion blamed on an unpatched flaw in Microsoft’s Internet Explorer 6 browser. | O
