@@ -8,14 +8,14 @@ According to Larson Studios, they've done work for FOX, Netflix, ABC, NBC, IFC, 
 As word of Netflix's security problem started to spread, news outlets starting comparing the incident to the Sony Pictures hack and the medical hacks over the last few years.  | O
 While there are some comparisons to be made, they're not the same type of threat. | O
 Netflix didn't have a Ransomware incident, and neither did Larson Studios.  | O
-Their files were stolen, not encrypted. | AttackDatabreach
+Their files were stolen, not encrypted. | O
 Ransomware encrypts the files on a computer and renders them useless.  | AttackRansom
 Victims can recover the files if they pay a fee (ransom), or they can try and recover the files from backups. | AttackRansom
-According to TheDarkOverlord, Larson Studios was targeted because they were a post-production company. | AttackDatabreach
+According to TheDarkOverlord, Larson Studios was targeted because they were a post-production company. | O
 Late last year, TheDarkOverlord hacked Larson Studios and downloaded an unknown number of files.  | AttackDatabreach
 Plenty of reporters knew TheDarkOverlord had targeted Hollywood, but until this weekend there was never any proof. | O
 Fast forward a few months.  | O
-When Larson Studios didn't comply with the extortion demands, TheDarkOverlord turned their attention to Netflix.  | AttackRansom, AttackDatabreach
+When Larson Studios didn't comply with the extortion demands, TheDarkOverlord turned their attention to Netflix.  | AttackRansom
 When Netflix refused to pay, season five (minus three episodes) of "Orange is the New Black" was released for download. | AttackDatabreach
 "It didn't have to be this way, Netflix.  | O
 You're going to lose a lot more money in all of this than what our modest offer was.  | O
