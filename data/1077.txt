@@ -1,19 +1,19 @@
-Hackers with Credit Card Scrapers Continue to Target Magento | Threatpost | The first stop for security news | AttackDatabreach
-Attackers continue to take aim at the e-commerce platform Magento. | AttackDatabreach
+Hackers with Credit Card Scrapers Continue to Target Magento | Threatpost | The first stop for security news | O
+Attackers continue to take aim at the e-commerce platform Magento. | O
 Researchers said last week they came across a malicious function snuck into one of the platform’s modules in order to steal credit card information. | AttackDatabreach
-Code for the function was injected into a .php file for SF9 Realex, a module that helps sites store customer credit card data for the one-click checkout functionality commonly used by repeat customers. | DiscoverVulnerability
-The module interacts with the Realex RealAuth Remote and Redirect systems, “very popular solutions in the Magento community,” according to Bruno Zanelato, a researcher with the firm Sucuri, who found the malicious function. | DiscoverVulnerability
+Code for the function was injected into a .php file for SF9 Realex, a module that helps sites store customer credit card data for the one-click checkout functionality commonly used by repeat customers. | O
+The module interacts with the Realex RealAuth Remote and Redirect systems, “very popular solutions in the Magento community,” according to Bruno Zanelato, a researcher with the firm Sucuri, who found the malicious function. | O
 The function, sendCCNumber(), reroutes credit card information entered by a customer from Magento to an attacker’s email address, hidden inside a variable later in the code. | AttackDatabreach
 The data, encoded in JSON, arrives in the attacker’s inbox without the victim being any the wiser. | AttackDatabreach
-According to researchers, the attacker uses binlist.net, a public web service for searching issuer identification numbers (IIN), to help identify which bank each card is associated with. | AttackDatabreach
-Zanelato said Friday that attackers are going greater lengths to target credit card data, especially in e-commerce platforms like Magento. | AttackDatabreach
-“Magento credit card stealers are indeed on the rise,” Zanelato wrote Friday, “While the information here is specific to Magento, realize that this can affect any platform that is used for ecommerce. | DiscoverVulnerability
-As the industry grows, so will the specific attacks targeting it”. | DiscoverVulnerability
-Zanelato is quick to point out that there wasn’t a vulnerability in Magento that enabled the theft of credit card data. | DiscoverVulnerability
-From there the attacker was able to inject script and takeover SF9 Realex. | AttackDatabreach
-It’s the latest in a line of credit card stealers Sucuri researchers have observed taking advantage of Magento, however. | AttackDatabreach
-Last summer Cesar Anjos, a researcher with the firm looked at one stealer that was loaded from another source. | AttackDatabreach
+According to researchers, the attacker uses binlist.net, a public web service for searching issuer identification numbers (IIN), to help identify which bank each card is associated with. | O
+Zanelato said Friday that attackers are going greater lengths to target credit card data, especially in e-commerce platforms like Magento. | O
+“Magento credit card stealers are indeed on the rise,” Zanelato wrote Friday, “While the information here is specific to Magento, realize that this can affect any platform that is used for ecommerce. | O
+As the industry grows, so will the specific attacks targeting it”. | O
+Zanelato is quick to point out that there wasn’t a vulnerability in Magento that enabled the theft of credit card data. | O
+From there the attacker was able to inject script and takeover SF9 Realex. | O
+It’s the latest in a line of credit card stealers Sucuri researchers have observed taking advantage of Magento, however. | O
+Last summer Cesar Anjos, a researcher with the firm looked at one stealer that was loaded from another source. | O
 The stealer essentially performed a man-in-the-middle attack between the user and the checkout page after credit card information was entered. | AttackDatabreach
 Last October, Ben Martin, a different researcher with the firm, discovered attackers scraping credit card numbers and exfiltrating them in obscure, sometimes publicly viewable image files. | AttackDatabreach
-Researchers with RiskIQ monitored attacks similar to ones described by Sucuri last year. | AttackDatabreach
+Researchers with RiskIQ monitored attacks similar to ones described by Sucuri last year. | O
 The firm said the attacks it had been monitoring originated from a single hacking group targeting e-commerce platforms such as Powerfront CMS and OpenCart with a web-based keylogger in March 2016. | AttackDatabreach
