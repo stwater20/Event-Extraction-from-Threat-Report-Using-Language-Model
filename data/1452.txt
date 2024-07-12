@@ -1,16 +1,16 @@
 Notorious iOS spyware has an Android sibling | ITworld | O
 Called Chrysaor, the Android variant can steal data from messaging apps, snoop over a phone’s camera or microphone, and even erase itself. | AttackDatabreach
-On Monday, Google and security firm Lookout disclosed the Android spyware, which they suspect comes from NSO Group, an Israeli security firm known to develop smartphone surveillance products. | AttackDatabreach
-Fortunately, the spyware never hit the mainstream. | AttackDatabreach
+On Monday, Google and security firm Lookout disclosed the Android spyware, which they suspect comes from NSO Group, an Israeli security firm known to develop smartphone surveillance products. | O
+Fortunately, the spyware never hit the mainstream. | O
 It was installed less than three dozen times on victim devices, most of which were located in Israel, according to Google. | O
 Other victim devices resided in Georgia, Mexico and Turkey, among other countries. | O
 Users were probably tricked into downloading the malicious coding, perhaps though a phishing attack. | AttackPhishing
 Once it installs, the spyware can act as keylogger, and steal data from popular apps such as WhatsApp, Facebook and Gmail. | AttackDatabreach
 In addition, it possesses a suicide function that’ll activate if it doesn’t detect a mobile country code on the phone -- a sign that the Android OS is running on an emulator. | O
 The surveillance features are similar to those found in Pegasus, which has also been linked with NSO Group. | O
-At the time, Lookout called the spyware the most sophisticated attack it’s ever seen on a device. | AttackDatabreach
-The iOS variant exploited three previously unknown vulnerabilities to take over a phone and surveil the user. | AttackDatabreach
-The spyware was uncovered when a human rights activist in the United Arab Emirates was found infected by it. | AttackDatabreach
+At the time, Lookout called the spyware the most sophisticated attack it’s ever seen on a device. | O
+The iOS variant exploited three previously unknown vulnerabilities to take over a phone and surveil the user. | O
+The spyware was uncovered when a human rights activist in the United Arab Emirates was found infected by it. | O
 His phone had received an SMS text message, which contained a malicious link to the spyware. | AttackPhishing
 But Lookout had also been investigating into whether NSO Group developed an Android version. | O
 To find out, the security firm compared how the iOS version compromises an iPhone and matched those signatures with suspicious behavior from a select group of Android apps. | O
