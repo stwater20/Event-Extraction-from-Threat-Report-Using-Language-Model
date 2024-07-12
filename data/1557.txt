@@ -1,3 +1,4 @@
+
 The company acknowledged the investigation after being contacted by Brian Krebs, confirming that it received a “notification from a third party” saying that info from cards used at GameStop.com were being offered for sale on the Dark Web. | AttackDatabreach
 Krebs had been tipped off to the situation by financial industry sources, who said the compromise was likely active between mid-September 2016 and the first week of February 2017. | O
 GameStop however didn’t confirm these data points. | O
