@@ -1,14 +1,14 @@
 Critical Moodle Vulnerability Could Lead to Server Compromise | Threatpost | The first stop for security news | DiscoverVulnerability
-A critical vulnerability in Moodle, an open source PHP-based learning management system deployed across scores of schools and universities, could expose the server its running on to compromise. | DiscoverVulnerability
-Tens of thousands of universities worldwide, including the California State University system, the University of Oxford, and Stanford University, use the service to provide students with course outlines, grades, and other personal data. | DiscoverVulnerability
+A critical vulnerability in Moodle, an open source PHP-based learning management system deployed across scores of schools and universities, could expose the server its running on to compromise. | O
+Tens of thousands of universities worldwide, including the California State University system, the University of Oxford, and Stanford University, use the service to provide students with course outlines, grades, and other personal data. | O
 The issue–at its root a SQL injection vulnerability–could be used by an attacker to execute PHP code on a university’s server according to Netanel Rubin, the researcher who found the bug. | DiscoverVulnerability
 Rubin, who has previously dug up vulnerabilities in Mozilla’s Bugzilla bug tracking system, e-commerce platform Magento, and WordPress, described the bug in depth in a blog post on Monday. | DiscoverVulnerability
 “Similar scenarios could be used in previous versions of Moodle but only by managers/admins and only via web services,” the advisory reads. | O
 School IT administrators are being encouraged to apply a patch that maintainers of the system pushed 10 days ago. | PatchVulnerability
 Rubin discovered that he could exploit the feature however and get an unserialize call by leaving a preference in a block mechanism empty. | DiscoverVulnerability
-That could open the door to an object injection attack. | DiscoverVulnerability
-While the attack had its limitations, Rubin discovered a way to pivot from it to a series of method calls. | DiscoverVulnerability
-From there, he found he could use the system’s “update” method to update any row in an affected database. | DiscoverVulnerability
+That could open the door to an object injection attack. | O
+While the attack had its limitations, Rubin discovered a way to pivot from it to a series of method calls. | O
+From there, he found he could use the system’s “update” method to update any row in an affected database. | O
 This gave him the ability to tweak administrator accounts, passwords, the site configuration, “basically whatever we want,” he wrote. | DiscoverVulnerability
 Rubin used a double SQL injection to top off his exploit, helping him gain full administrator privileges on any server running Moodle. | DiscoverVulnerability
-“After gaining full administrator privileges executing code is as simple as uploading a new plugin or template to the server,” Rubin writes. | DiscoverVulnerability
+“After gaining full administrator privileges executing code is as simple as uploading a new plugin or template to the server,” Rubin writes. | O
