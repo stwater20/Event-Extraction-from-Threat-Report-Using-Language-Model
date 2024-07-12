@@ -5,13 +5,13 @@ The vulnerability cannot get much more serious, as it allows attackers to remote
 Nuuo, describing itself as a provider of "trusted video management" software, offers a range of video solutions for surveillance systems in industries including transport, banking, government, and residential areas. | O
 Dubbed "Peekaboo," the zero-day stack buffer overflow vulnerability, when exploited, allows threat actors to view and tamper with video surveillance recordings and feeds. | DiscoverVulnerability
  It is also possible to use the bug to steal data including credentials, IP addresses, port usage, and the make & models of connected surveillance devices. | AttackDatabreach
-Such a security vulnerability has wide-reaching, real-world consequences -- as criminals could compromise a surveillance camera feed, replace the footage with a static image, and raid a premises, for example. | O
+Such a security vulnerability has wide-reaching, real-world consequences -- as criminals could compromise a surveillance camera feed, replace the footage with a static image, and raid a premises, for example. | DiscoverVulnerability
 In addition, the bug could be used to fully disable cameras and surveillance products. | O
 Peekaboo specifically impacts the NVRMini 2 NAS and network video recorder, which acts as a hub for connected surveillance products. | DiscoverVulnerability
- When exploited, the product permitted access to the control management system (CMS) interface, which further exposes credentials of all connected video surveillance cameras connected to the storage system. | O
+When exploited, the product permitted access to the control management system (CMS) interface, which further exposes credentials of all connected video surveillance cameras connected to the storage system. | O
 Speaking to ZDNet, Gavin Millard, VP of threat intelligence at Tenable, said that organizations all over the world use Nuuo software, including in shopping centers, hospitals, banks, and public areas. | O
 However, therein lies the problem -- as the software is also white labeled to over 100 brands and 2,500 camera product lines. | O
 Tenable disclosed the zero-day vulnerability to Nuuo. | DiscoverVulnerability
  A patch has not been released, but Nuuo is currently developing a fix for deployment. | PatchVulnerability
-A plugin has also been released by Tenable for organizations to assess whether or not they are vulnerable to Peekaboo. | DiscoverVulnerability, PatchVulnerability
+A plugin has also been released by Tenable for organizations to assess whether or not they are vulnerable to Peekaboo. | PatchVulnerability
 ZDNet has reached out to Nuuo and will update if we hear back. | O
