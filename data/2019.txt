@@ -3,6 +3,7 @@ Ciphr, a company which offers encrypted communications for BlackBerry 10 and Sam
 A website displaying the alleged leaked data claims that "all Ciphr emails/servers have been compromised." | AttackDatabreach
 Two sources that use Ciphr on their phones told Motherboard the leak includes their information as well as the data of other users. | AttackDatabreach
 Specifically, the website lists users' email addresses and IMEI numbers, data which law enforcement can leverage to expose a user. | AttackDatabreach
+
 In a message provided to Motherboard from one of its sources, the privacy platform says the data dump was not the result of a data breach. | AttackDatabreach
 Instead Ciphr blames a rival company for the incident: | AttackDatabreach
 "Our rapid growth has caught the attention of competitors seeking to slow us down by way of slander, blocking and DDOS [distributed denial of service attacks].... | O
