@@ -1,19 +1,18 @@
 The Locky Ransomware is Back and Still Adding OSIRIS to Encrypted Files | AttackRansom
-After almost an almost non-existent presence in 2017 and a few weeks off, according to Malwarebytes security researcher S!Ri, Locky is back with a fresh wave of SPAM emails containing malicious docs. | AttackPhishing
-While it is not known what caused Locky's hiatus, if they plan on pushing the ransomware like they previously did, then we all need to pay close attention. | AttackRansom
+After almost an almost non-existent presence in 2017 and a few weeks off, according to Malwarebytes security researcher S!Ri, Locky is back with a fresh wave of SPAM emails containing malicious docs. | O
+While it is not known what caused Locky's hiatus, if they plan on pushing the ransomware like they previously did, then we all need to pay close attention. | O
 This current wave of SPAM comes in the form of emails that pretend to be payment receipts with various subjects. | AttackPhishing
-According to an article by My Online Security, the email subjects include Receipt 435, Payment Receipt 2724, Payment-2677, Payment Receipt_739, and Payment#229, where the numbers change. | AttackPhishing
-These emails include a PDF attachment with a name like P72732.pdf. | AttackPhishing
+According to an article by My Online Security, the email subjects include Receipt 435, Payment Receipt 2724, Payment-2677, Payment Receipt_739, and Payment#229, where the numbers change. | O
+These emails include a PDF attachment with a name like P72732.pdf. | O
 When these PDFs are opened, the target will be prompted to open an embedded Word document as shown below. | O
 If a user opens the file, the Word document will open and the target will be greeted with the typical Malicious word document prompt. | O
 That is the prompting to enable the macros by clicking on Enable Content in order to properly see the document. | O
-When the macros are enabled, the macros are currently downloading an encrypted Locky binary from http://uwdesign.com.br/9yg65, decrypting the file, saving it to %Temp% | O
-edchip2.exe, and then executing the file to begin the encryption process. | O
+When the macros are enabled, the macros are currently downloading an encrypted Locky binary from http://uwdesign.com.br/9yg65, decrypting the file, saving it to %Temp% edchip2.exe, and then executing the file to begin the encryption process. | O
 Redchip2.exe currently has a 7/55 detection on VirusTotal. | O
 Just like previous variants, Locky deletes Shadow Volume Copies using a Scheduled Task and appends the .OSIRIS extension to encrypted files. | AttackRansom
 While encrypting files it will routinely send status updates to the Command & Control servers located at 188.120.239.230/checkupdate and 80.85.158.212/checkupdate. | O
 When done it will display the ransom note to let the victim know that they have been infected. | AttackRansom
-Unfortunately, at this time there is still no way to decrypt files encrypted by Locky. | AttackRansom
+Unfortunately, at this time there is still no way to decrypt files encrypted by Locky. | O
 One of my clients was infected by the original Locky which had the file extension .locky in March 2017. | O
 That means Locky never disappears. | O
 Are you sure it is the real Locky? Lots of spoofs, honestly have not seen the original extension distributed in a super long time. | O
