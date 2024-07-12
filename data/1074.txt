@@ -4,11 +4,11 @@ If exploited, these vulnerabilities would allow an attacker, whether inside or o
 “This level of access would allow an attacker to perform any action over the business information and processes supported by HANA, including creating, stealing, altering, and/or deleting sensitive information. | AttackDatabreach
 If these vulnerabilities are exploited, organizations may face severe business consequences,” said Sebastian Bortnik, Head of Research, Onapsis. | DiscoverVulnerability
 The vulnerabilities affect a specific SAP HANA component named SAP HANA User Self Service, which is not enabled by default. | DiscoverVulnerability
-The following list details the affected HANA 2 and HANA versions:“We hope organizations will use this threat intelligence to assess their systems and confirm that they are not currently using this component, and therefore are not affected by these risks. | DiscoverVulnerability
+The following list details the affected HANA 2 and HANA versions:“We hope organizations will use this threat intelligence to assess their systems and confirm that they are not currently using this component, and therefore are not affected by these risks. | O
 Even if the service is not enabled, we still recommend that these organizations apply the patches in case a change is made to the system in the future,” continued Bortnik. | PatchVulnerability
 Onapsis Research Labs originally discovered the vulnerabilities on the newly released SAP HANA 2 platform, but after additional analysis realized that several older versions were vulnerable as well. | DiscoverVulnerability
 Based on this assessment, it was identified that the vulnerabilities had been present in HANA for almost two and a half years, when the User Self Service component was first released. | DiscoverVulnerability
 This greatly increases the likelihood that these vulnerabilities have been discovered by attackers to break into organization’s SAP systems. | DiscoverVulnerability
 Onapsis worked closely with SAP’s Product Security & Engineering teams to help them develop the security patches. | PatchVulnerability
-SAP is releasing the first ever patch for SAP HANA 2. | PatchVulnerability
-In this case, default installations are affected and an attacker can elevate privileges if exploited. | AttackDatabreach
+SAP is releasing the first ever patch for SAP HANA 2. | O
+In this case, default installations are affected and an attacker can elevate privileges if exploited. | O
