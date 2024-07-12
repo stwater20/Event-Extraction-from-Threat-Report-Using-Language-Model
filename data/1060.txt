@@ -3,7 +3,7 @@ Law firms have been put on high alert as the Solicitors Regulation Authority (SR
 Benoit Daoust | O
 	In an update, the regulator said it has experienced an increase in the number of reports of attempted cyber-crime and that some 500 firms may have been targeted in a cunning new scam. | O
 It also warned solicitors to take care that they did not fall victim to the attempted infiltration of IT systems. | O
-It said that firms were sent emails requesting their services and once they reply they are sent attachments or links – both of which could contain malware which would allow the perpetrators to obtain passwords or financial details, copy or modify data on the system, and allow hackers to get into the firm’s network. | AttackPhishing 
+It said that firms were sent emails requesting their services and once they reply they are sent attachments or links – both of which could contain malware which would allow the perpetrators to obtain passwords or financial details, copy or modify data on the system, and allow hackers to get into the firm’s network. | AttackPhishing
 Other advice from the regulator includes using cloud-based computing for storing, accessing and processing information as well as keeping software up to date, using anti-virus systems and encryption on mobile devices. | O
 It also recommends that files are backed up regularly and firms should ensure at least one back-up that is not directly and regularly connected to the main systems. | O
  

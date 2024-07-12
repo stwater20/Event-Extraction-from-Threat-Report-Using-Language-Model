@@ -3,7 +3,7 @@ Spiral Toys, the parent company behind CloudPets, yesterday sent the California 
 The notification says that the company was not aware of a breach until Feb 22 when it received an inquiry from a Motherboard reporter who was informed by researchers Troy Hunt and Victor Gevers of a serious issue involving the toymaker’s customer data. | O
 This runs contrary to timelines provided by Hunt and Gevers showing both reached out to a number of Spiral Toys contacts, including its ZenDesk ticketing system, around Dec 30. | O
 The data was copied and deleted from an exposed MongoDB instance found online. | O
-It’s unknown how many times the database was accessed before its contents were deleted and a ransom note left behind, symptomatic of other attacks against poorly protected MongoDB databases. | AttackDatabreach,Ransom
+It’s unknown how many times the database was accessed before its contents were deleted and a ransom note left behind, symptomatic of other attacks against poorly protected MongoDB databases. | AttackDatabreach , AttackRansom
 The recordings were not stored in the database, but the database did contain references to file paths to the messages, which were stored on an Amazon Web Services AWS S3 storage bucket. | O
 The database, Spiral Toys said in its notification, did include emails and encrypted passwords, which Hunt counters were not encrypted, but were hashed with bcrypt. | O
 Combined with a nonexistent password strength rule on Spiral Toys’ part, the hashed passwords could easily be cracked, Hunt said. | O

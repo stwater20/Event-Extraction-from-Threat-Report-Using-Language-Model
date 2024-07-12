@@ -1,5 +1,5 @@
 Cloudflare chief pledges third-party review of code – Naked Security | O
-Bad as Cloudbleed is, there’s no evidence attackers exploited it before the patch was deployed. | DiscoverVulnerability,PatchVulnerability
+Bad as Cloudbleed is, there’s no evidence attackers exploited it before the patch was deployed. | DiscoverVulnerability , PatchVulnerability
 But since the vulnerability was triggered more than 1.2m times from 6,500 sites, Cloudflare is taking no chances: the company has tapped an outside company, Veracode, to scour its code. | O
 CEO Matthew Prince pledged the external review as he set out a detailed update after 12 days of investigation. | O
 That update includes a synopsis of how the vulnerability was created and who faced the most risk. | O

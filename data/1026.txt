@@ -1,12 +1,12 @@
-640,000 Decrypted PlayStation Accounts Being Sold on DarkWeb | O
-Last week HackRead exclusively reported on a vendor selling over 1 million Gmail and Yahoo accounts on a Dark Web marketplace. | AttackDatabreach 
+640,000 Decrypted PlayStation Accounts Being Sold on DarkWeb | AttackDatabreach
+Last week HackRead exclusively reported on a vendor selling over 1 million Gmail and Yahoo accounts on a Dark Web marketplace. | AttackDatabreach
 Now, the same vendor is back with yet another listing and this time the victims are PlayStation users. | O
-The vendor who goes by the handle of “SunTzu583” is selling 640,000 accounts of PlayStation users in just USD 35.71 (0.0292 BTC) stolen from an unknown database. | AttackDatabreach 
+The vendor who goes by the handle of “SunTzu583” is selling 640,000 accounts of PlayStation users in just USD 35.71 (0.0292 BTC) stolen from an unknown database. | AttackDatabreach
 These accounts contain emails along with their clear-text passwords. | O
-According to SunTzu583, the database was not directly stolen from PlayStation servers, but it does contain unique accounts of PlayStation users. | AttackDatabreach 
+According to SunTzu583, the database was not directly stolen from PlayStation servers, but it does contain unique accounts of PlayStation users. | AttackDatabreach
 SunTzu583 goes on to explain that these accounts may also work on other sites however they can be mainly used for PlayStation-related activities. | O
-It must be noted that in 2015, 2.5 million Xbox (Xbox 360 ISO) and Playstation accounts (PSP ISO) were stolen and leaked on the Dark Web marketplaces in February 2017. | AttackDatabreach 
-Also, about five months ago several PlayStation users were complaining that their accounts have been hacked and in some cases, their funds were missing. | AttackDatabreach 
-While the vendor has already announced that the database is not directly stolen from PlayStation servers, it is quite possible that it was taken from a third party server. | AttackDatabreach 
+It must be noted that in 2015, 2.5 million Xbox (Xbox 360 ISO) and Playstation accounts (PSP ISO) were stolen and leaked on the Dark Web marketplaces in February 2017. | AttackDatabreach
+Also, about five months ago several PlayStation users were complaining that their accounts have been hacked and in some cases, their funds were missing. | AttackDatabreach
+While the vendor has already announced that the database is not directly stolen from PlayStation servers, it is quite possible that it was taken from a third party server. | AttackDatabreach
 We at HackRead can not confirm the authenticity of this database, but if you have an account on PSN, it is advisable to change its password and also use a different password on other sites. | O
  

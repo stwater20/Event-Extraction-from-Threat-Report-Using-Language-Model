@@ -1,11 +1,11 @@
 Yahoo execs botched its response to 2014 breach, investigation finds | CSO Online | AttackDatabreach
-Unfortunately, Yahoo didn't, according to a new internal investigation.
+Unfortunately, Yahoo didn't, according to a new internal investigation. | O
 The internet pioneer, which reported a massive data breach involving 500 million user accounts in September, actually knew an intrusion had occurred back in 2014, but allegedly botched its response. | AttackDatabreach
 The findings were made in a Yahoo securities exchange filing on Wednesday that offered more details about the 2014 breach, which the company has blamed on a state-sponsored hacker. | O
 That breach, which only became public last year, involved the theft of user account details such as email addresses, telephone numbers, and hashed passwords. | AttackDatabreach
 After Yahoo went public with it, the company established an independent committee to investigate the matter. | O
 The committee found that Yahoo’s security team and senior executives actually knew that a state-sponsored actor had hacked certain user accounts back in 2014, according to the filing. | O
-But even as the company took some remedial actions, such as notifying 26 users targeted in the hack and adding new security features, some senior executives allegedly failed to comprehend or investigate the incident further.
+But even as the company took some remedial actions, such as notifying 26 users targeted in the hack and adding new security features, some senior executives allegedly failed to comprehend or investigate the incident further. | O
 For instance, in December 2014, Yahoo's security team knew the state-sponsored actor had stolen copies of backup files that contained users' personal data. | AttackDatabreach
 But it's unclear whether this information was ever "effectively communicated and understood" outside the security team, Wednesday's filing said. | O
 No intentional suppression of information was found, although Yahoo's legal team had enough reason to investigate the breaches further, the committee concluded. | O

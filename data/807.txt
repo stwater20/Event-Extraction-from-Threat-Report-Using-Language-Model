@@ -1,6 +1,6 @@
-Creepy IoT teddy bear leaks &gt;2 million parents’ and kids’ voice messages | Ars Technica | O
+Creepy IoT teddy bear leaks &gt;2 million parents’ and kids’ voice messages | Ars Technica | AttackDatabreach
 A maker of Internet-connected stuffed animal toys has exposed more than 2 million voice recordings of children and parents, as well as e-mail addresses and password data for more than 800,000 accounts. | AttackDatabreach
-He said searches using the Shodan computer search engine and other evidence indicated that, since December 25 and January 8, the customer data was accessed multiple times by multiple parties, including criminals who ultimately held the data for ransom. | AttackDatabreach,Ransom
+He said searches using the Shodan computer search engine and other evidence indicated that, since December 25 and January 8, the customer data was accessed multiple times by multiple parties, including criminals who ultimately held the data for ransom. | AttackDatabreach , AttackRansom
 The recordings were available on an Amazon-hosted service that required no authorization to access. | O
 The data was exposed by Spiral Toys, maker of the CloudPets line of stuffed animals. | AttackDatabreach
 The toys record and play voice messages that can be sent over the Internet by parents and children. | O
@@ -10,8 +10,8 @@ In any event, evidence left behind by the ransom demanders made it almost certai
 Hunt wrote: | O
 It's impossible to believe that CloudPets (or mReady) did not know that firstly, the databases had been left publicly exposed and secondly, that malicious parties had accessed them. | AttackDatabreach
 Obviously, they've changed the security profile of the system, and you simply could not have overlooked the fact that a ransom had been left. | AttackRansom
-So both the exposed database and intrusion by those demanding the ransom must have been identified yet this story never made the headlines. | AttackRansom,Databreach,Ransom
-Further ReadingInternet-connected Hello Barbie doll gets bitten by nasty POODLE crypto bugThe breach is the latest to stoke concerns about the privacy and security of Internet-connected toys. | O
+So both the exposed database and intrusion by those demanding the ransom must have been identified yet this story never made the headlines. | AttackRansom , AttackDatabreach , AttackRansom
+Further ReadingInternet-connected Hello Barbie doll gets bitten by nasty POODLE crypto bugThe breach is the latest to stoke concerns about the privacy and security of Internet-connected toys. | AttackDatabreach
 In November 2015, tech news site Motherboard disclosed the hack of toy maker VTech in a breach that exposed the names, e-mail addresses, passwords, and home addresses of almost 5 million adults, as well as the first names, genders and birthdays of more than 200,000 kids. | AttackDatabreach
 A month later, a researcher found that an Internet-connected Barbie doll made by Mattel contained vulnerabilities that might allow hackers to intercept real-time conversations. | DiscoverVulnerability
 In addition to storing the customer databases in a publicly accessible location, Spiral Toys also used an Amazon-hosted service with no authorization required to store the recordings, customer profile pictures, children's names, and their relationships to parents, relatives, and friends. | O

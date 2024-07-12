@@ -20,7 +20,7 @@ The contents of that adjacent memory were then dumped onto the page with the fla
 Anyone accessing one of those pages would see the memory dump, looking a lot like random text, below, Prince said. | O
 An attacker would need to pound one of those sites with numerous requests to trigger the bug and then record the results, getting a mix of useless data and sensitive information, Prince said. | O
 “The nightmare scenario we have been worried about is if a hacker had been aware of the bug and had been quietly mining data before we were notified by Google’s Project Zero team and were able to patch it,” Prince said. | DiscoverVulnerability
-“For the last 12 days we’ve been reviewing our logs to see if there’s any evidence to indicate that a hacker was exploiting the bug before it was patched. | PatchVulnerability,DiscoverVulnerability
+“For the last 12 days we’ve been reviewing our logs to see if there’s any evidence to indicate that a hacker was exploiting the bug before it was patched. | PatchVulnerability , DiscoverVulnerability
 We’ve found nothing so far to indicate that was the case”. | O
 Prince said Cloudflare customers who find any leaked cached data can send a link to the caches to parserbug@cloudflare[.]com. | O
 Over 2,000 WordPress sites are infected as part of a keylogger campaign that leverages an old malicious script. | O

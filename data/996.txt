@@ -1,13 +1,13 @@
 Dorchester hospital workers at risk of identity fraud following national cyber attack | Dorset Echo | O
 DORCHESTER hospital workers have been caught up in a high-level cyber-security attack that has put hundreds at risk across the country. | O
-Computer hackers have stolen private files from the company Landauer, which is employed by the NHS to monitor radiation levels among staff. | AttackDatabreach 
-They hold personal details such as names, dates of birth, national insurance numbers and radiation dose of workers across the county including from Dorset County Hospital (DCH). | AttackDatabreach 
+Computer hackers have stolen private files from the company Landauer, which is employed by the NHS to monitor radiation levels among staff. | AttackDatabreach
+They hold personal details such as names, dates of birth, national insurance numbers and radiation dose of workers across the county including from Dorset County Hospital (DCH). | AttackDatabreach
 Fortunately fewer than 55 employees at DCH were affected. | O
 The company confirmed the attack, which has left hundreds of people across the country vulnerable to identity fraud, did not just affect the NHS but a ‘number of clients’. | O
 The government’s newly formed National Cyber Security Centre (NCSC) set up to fight the rising threat of cyber-attacks refused to reveal information about the hackers including where they were from or exactly how many people are affected. | O
 The NCSC tackled 188 attacks in its first three months. | O
-A spokesperson for Dorset County Hospital said: “On January 19 2017 Dorset County Hospital NHS Foundation Trust received a letter which informed us that there had been an information security breach on one of the servers at Landauer UK, a third party organisation who supply our Dosimetry service, an externally provided service that monitors, analyses and reports on the radiation dosages that staff who regularly use radioactive equipment and devices are exposed to. | AttackDatabreach 
+A spokesperson for Dorset County Hospital said: “On January 19 2017 Dorset County Hospital NHS Foundation Trust received a letter which informed us that there had been an information security breach on one of the servers at Landauer UK, a third party organisation who supply our Dosimetry service, an externally provided service that monitors, analyses and reports on the radiation dosages that staff who regularly use radioactive equipment and devices are exposed to. | AttackDatabreach
 “The incident occurred in October 2016 and has affected Trusts and non-NHS organisations nationwide, including Dorset County Hospital. | O
-Fortunately the number of staff from DCHFT who were involved in this data security breach was small, with fewer than 55 current or former employees affected. | AttackDatabreach 
-Of these employees, fewer than 10 had more than their name breached, and all of these individuals have been offered a 12 month ‘ProtectMyID’ service via Experian, courtesy of Landauer. | AttackDatabreach 
+Fortunately the number of staff from DCHFT who were involved in this data security breach was small, with fewer than 55 current or former employees affected. | AttackDatabreach
+Of these employees, fewer than 10 had more than their name breached, and all of these individuals have been offered a 12 month ‘ProtectMyID’ service via Experian, courtesy of Landauer. | AttackDatabreach
  

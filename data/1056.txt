@@ -1,22 +1,22 @@
 Computer ransomware that locks out users flourishes in pay-to-make-it-go-away Japan | The Japan Times | AttackRansom
-Companies and individuals in Japan are finding their computers are increasingly targeted by ransomware campaign that bar victims from accessing important files unless they pay money. | AttackRansom 
+Companies and individuals in Japan are finding their computers are increasingly targeted by ransomware campaign that bar victims from accessing important files unless they pay money. | AttackRansom
 “Attacks on Japanese businesses have been particularly large in number,” said Masakatsu Morii, a professor of information and telecommunications engineering at Kobe University’s Graduate School of Engineering. | O
-Ransomware typically infects computers when its user opens a file attached to spam mail from a sender pretending to be a legitimate entity such as a parcel delivery company, according to the government-affiliated Information-Technology Promotion Agency. | AttackPhishing 
-The malicious programs encrypt the infected computers’ files, and users can only open them after paying the perpetrators money to obtain a special key to unlock them. | AttackRansom 
+Ransomware typically infects computers when its user opens a file attached to spam mail from a sender pretending to be a legitimate entity such as a parcel delivery company, according to the government-affiliated Information-Technology Promotion Agency. | AttackPhishing
+The malicious programs encrypt the infected computers’ files, and users can only open them after paying the perpetrators money to obtain a special key to unlock them. | AttackRansom
 Yoshihito Kurotani, a researcher at the agency’s engineering department, said the programs employ basic encryption technologies. | O
 Kurotani’s agency has received numerous inquiries asking for help from victims who cannot access their photos or business files. | O
 The bogus emails “used to be written in English or unnatural Japanese, but we have seen increasing attacks using natural Japanese recently,” Kurotani said. | O
-Computer security firm Trend Micro Inc. said it received 2,810 reports of ransomware attacks nationwide in 2016 — a 3.5-fold jump from the previous year. | AttackRansom 
+Computer security firm Trend Micro Inc. said it received 2,810 reports of ransomware attacks nationwide in 2016 — a 3.5-fold jump from the previous year. | AttackRansom
 “Tactics are expected to be even more sophisticated in 2017,” a Trend Micro official said. | O
-A survey conducted by the firm last June shows that about 60 percent of companies that were attacked paid ransoms. | AttackRansom 
+A survey conducted by the firm last June shows that about 60 percent of companies that were attacked paid ransoms. | AttackRansom
 The payment in one case exceeded ¥10 million ($88,000). | O
-The extortion and the transactions in the ransomware programs themselves have become a profitable business for cybercriminals. | AttackRansom 
+The extortion and the transactions in the ransomware programs themselves have become a profitable business for cybercriminals. | AttackRansom
 The programs are traded on online black markets that cannot be accessed without the use of special software. | O
 In the “dark web” networks, various programs are sold, including multilingual ones and one that can be used for a “lifetime” for just $39. | O
-The people who post the programs make profits by taking a share of ransoms collected. | AttackRansom 
+The people who post the programs make profits by taking a share of ransoms collected. | AttackRansom
 Firms undertaking the delivery of unsolicited emails do business there, too. | O
 Katsuyuki Okamoto, a security “evangelist” at Trend Micro, said it has become easier and easier to be involved in or become a victim of cybercrime. | O
 Cybersecurity experts warn that users should protect their computers by always keeping operating systems and anti-malware software up-to-date and should constantly back up their data. | O
-They said victims should never pay ransoms as there is no guarantee their files will actually be restored. | AttackRansom 
-“If you pay money to the criminals, that will only help them create a new virus,” Okamoto said. | AttackRansom 
+They said victims should never pay ransoms as there is no guarantee their files will actually be restored. | AttackRansom
+“If you pay money to the criminals, that will only help them create a new virus,” Okamoto said. | AttackRansom
  

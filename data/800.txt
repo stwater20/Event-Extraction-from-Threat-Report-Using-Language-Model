@@ -4,8 +4,8 @@ Discovered by researchers at Kaspersky Lab, this new attack campaign suggests th
 The Adwind malware (also known as AlienSpy, Frutas, Unrecom, Sockrat and jRAT) appears particularly drawn to retail and distribution, with approximately one-fifth of this operation's victims falling under that category. | O
 It's also preyed upon organizations in the architecture, shipping, construction, insurance, and legal sectors. | O
 An attack begins when a business receives an email from what appears to be HSBC, one of the largest banking and finance organizations in the world. | AttackPhishing
-The email originates from the mail.hsbcnet.hsbc.com domain that's been active since 2013. | O
-Its message says the corresponding attachment contains payment advice for the recipient. | O
+The email originates from the mail.hsbcnet.hsbc.com domain that's been active since 2013. | AttackPhishing
+Its message says the corresponding attachment contains payment advice for the recipient. | AttackPhishing
 As Kaspersky explains in an alert: | O
 "Instead of instructions, the attachments contain the malware sample. | O
 If the targeted user opens the attached ZIP file, which has a JAR file in it, the malware self-installs and attempts to communicate with its command and control server. | O

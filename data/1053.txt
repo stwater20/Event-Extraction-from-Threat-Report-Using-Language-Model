@@ -3,16 +3,16 @@ ISP Blocks TeamViewer Because of Tech Support Scammers | O
 Tens of other users followed suite and shared similar experiences. | O
 As it became clear to all that TalkTalk had banned TeamViewer on its network, the company admitted the issues through a representative. | O
 Apologies for the confusion, but I can confirm that we have implemented a number of  network changes that have blocked a number of applications including Teamviewer | O
-We constantly monitor for potentially malicious internet traffic, so that we can protect our customers from phishing and scamming activities. | AttackPhishing 
+We constantly monitor for potentially malicious internet traffic, so that we can protect our customers from phishing and scamming activities. | AttackPhishing
 As part of this work, we have recently blocked a number of sites and applications from our network, and we’re working hard to minimise the impact on our customers. | O
 We are working with teamviewer and other 3rd parties on implementing some additional security measures that would enhance the security to all customers of these services but we will continue to block any sites/applications reported by customers to reduce the opportunity for fraud to take place. | O
 The issues the TalkTalk representative was referring to are a wave of scams that have hit TalkTalk customers over the past year. | O
-The data of millions of TalkTalk customers leaked online in 2015 when the company experienced three separate data breaches in the same year. | AttackDatabreach 
+The data of millions of TalkTalk customers leaked online in 2015 when the company experienced three separate data breaches in the same year. | AttackDatabreach
 Scammers have been using some of the leaked TalkTalk data to target the ISP's customers during the past two years. | O
 Several topics on the TalkTalk forums detail such events, which all start with a phone call from one of the scammers. | O
-In many cases, the scammer has an Indian accent, poses as a TalkTalk employee, and asks users to install TeamViewer to assist customers with a technical issue or to fix security errors. | AttackPhishing,PatchVulnerability 
+In many cases, the scammer has an Indian accent, poses as a TalkTalk employee, and asks users to install TeamViewer to assist customers with a technical issue or to fix security errors. | AttackPhishing , AttackPatchVulnerability
 TeamViewer, which is a legitimate app used worldwide by tech departments, allows the scammer to access the victim's computer and install malware such as keyloggers or backdoor trojans right under the unsuspecting victim's nose. | O
-In some cases, parts of the TeamViewer app has even been embedded in malware directly, as to simplify the process of stealing data via a legitimate communications channel, disguising the data theft operations under TeamViewer traffic. | AttackDatabreach 
+In some cases, parts of the TeamViewer app has even been embedded in malware directly, as to simplify the process of stealing data via a legitimate communications channel, disguising the data theft operations under TeamViewer traffic. | AttackDatabreach
 Apps like TeamViewer, Supremo, and LogMeIn, have all been used as part of tech support scams for years. | O
 The only surprise is TalkTalk's pro-active reaction, which comes two days after the BBC ran a story documenting the operations of an Indian scam call center that was specifically targeting TalkTalk customers. | O
 Anticipating criticism from customers, other news outlets, and a possible sanction from government agencies, TalkTalk decided to take a pro-active approach and fight the scammers by blocking some of the apps they used. | O

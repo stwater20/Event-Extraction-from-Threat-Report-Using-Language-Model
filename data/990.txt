@@ -1,11 +1,11 @@
-185,000+ vulnerable Wi-Fi cameras just waiting to be hijacked - Help Net Security | O
+185,000+ vulnerable Wi-Fi cameras just waiting to be hijacked - Help Net Security | DiscoverVulnerability
 A generic wireless camera manufactured by a Chinese company and sold around the world under different names and brands can be easily hijacked and/or roped into a botnet. | O
 The flaw that allows this to happen is found in a custom version of GoAhead, a lightweight embedded web server that has been fitted into the devices. | O
 This and other vulnerabilities have been found by security researcher Pierre Kim, who tested one of the branded cameras – the Wireless IP Camera (P2P) WIFICAM. | O
-The extensive list of devices affected by the flaw in the custom embedded web server can be found here, and includes 1250+ camera models from over 300 vendors, including D-Link, Foscam, Logitech, Netcam, and Polaroid.| O 
-“This vulnerability allows an attacker to steal credentials, ftp accounts and smtp accounts (email),” Kim noted. | DiscoverVulnerability 
-He also shared a PoC exploit that leverages the flaw to allow an attacker to achieve root shell on the device. | DiscoverVulnerability 
-Other vulnerabilities present include a  RTSP server running on the camera’s TCP 10554 port, which can be accessed without authentication, allowing attackers to watch what the camera streams. | DiscoverVulnerability 
+The extensive list of devices affected by the flaw in the custom embedded web server can be found here, and includes 1250+ camera models from over 300 vendors, including D-Link, Foscam, Logitech, Netcam, and Polaroid. | O
+“This vulnerability allows an attacker to steal credentials, ftp accounts and smtp accounts (email),” Kim noted. | DiscoverVulnerability
+He also shared a PoC exploit that leverages the flaw to allow an attacker to achieve root shell on the device. | DiscoverVulnerability
+Other vulnerabilities present include a  RTSP server running on the camera’s TCP 10554 port, which can be accessed without authentication, allowing attackers to watch what the camera streams. | DiscoverVulnerability
 There is also a “cloud” functionality that is on by default, through which the camera can be managed via a mobile Android app. | O
 The connection between the two is established through UDP, and will be automatically established to any app that “asks” if a particular camera is online. | O
 Effectively, the attacker just needs to know the serial number of the device. | O
@@ -14,9 +14,9 @@ The established UDP tunnel can also be used by the attacker to dump the camera�
 “It’s useful to note the tunnel bypasses NAT and firewall, allowing the attacker to reach internal cameras (if they are connected to the Internet) and to bruteforce credentials. | O
 Then, the attacker can just try to bruteforce credentials of the camera”. | O
 Kim advises owners of these devices to disconnect them from the Internet. | O
-A simple search with Shodan revealed that there are 185,000+ vulnerable cameras out there, ready to be hijacked. | DiscoverVulnerability 
-The vulnerabilities are not in GoAhead, but the custom version of the web server developed by the Chinese OEM vendor, so EmbedThis – the company that develops GoAhead – can do nothing to fix this. | PatchVulnerability 
-Interestingly enough, SecuriTeam revealed today the existence of an arbitrary file content disclosure vulnerability affecting older versions of the GoAhead web server. | DiscoverVulnerability 
-Discovered by independent security researcher Istvan Toth, the vulnerability can be triggered by sending a malformed request to the web server, and it will disclose device credentials to the attacker in clear text. | DiscoverVulnerability 
+A simple search with Shodan revealed that there are 185,000+ vulnerable cameras out there, ready to be hijacked. | DiscoverVulnerability
+The vulnerabilities are not in GoAhead, but the custom version of the web server developed by the Chinese OEM vendor, so EmbedThis – the company that develops GoAhead – can do nothing to fix this. | PatchVulnerability
+Interestingly enough, SecuriTeam revealed today the existence of an arbitrary file content disclosure vulnerability affecting older versions of the GoAhead web server. | DiscoverVulnerability
+Discovered by independent security researcher Istvan Toth, the vulnerability can be triggered by sending a malformed request to the web server, and it will disclose device credentials to the attacker in clear text. | DiscoverVulnerability
 “The GoAhead web server is present on multiple embedded devices, from IP cameras to printers and other embedded devices,” SecuriTeam explained, and urged owners to remove the device from the network, “or at the very least not allow access to the web interface to anyone beside a very strict IP address range”. | O
  

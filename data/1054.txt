@@ -5,9 +5,9 @@ You literally take over control of the mouse and keyboard, and can see what is o
 Trust me, it’s a much easier way to fix things – and avoids the need to take a lengthy road-trip to their house. | O
 Many in the IT world use software like Team Viewer to do this remote technical support, and help their friends and family out when they find themselves in a PC pickle. | O
 But here’s the problem – bad guys use Team Viewer too. | O
-For years scammers have been contacting vulnerable people, pretending to be from their ISP or Microsoft technical support, and offering to clean-up non-existant virus infections. | AttackPhishing 
-If you make the mistake of granting one of these criminals remote access to your computer to “clean it up” you may find that they end up stealing your files, planting malicious code, and even demanding you pay a fee for their bogus service. | AttackPhishing 
-British ISP TalkTalk has decided that the problem of scammers defrauding its customers has become so big that they have blocked usage of TeamViewer from its network. | AttackPhishing 
+For years scammers have been contacting vulnerable people, pretending to be from their ISP or Microsoft technical support, and offering to clean-up non-existant virus infections. | AttackPhishing
+If you make the mistake of granting one of these criminals remote access to your computer to “clean it up” you may find that they end up stealing your files, planting malicious code, and even demanding you pay a fee for their bogus service. | AttackPhishing
+British ISP TalkTalk has decided that the problem of scammers defrauding its customers has become so big that they have blocked usage of TeamViewer from its network. | AttackPhishing
 That’s bad news if you’re a scammer, but it’s even worse news if you happen to be a TalkTalk customer who routinely uses TeamViewer to help out friends and family diagnose and fix computer problems. | O
 Unfortunately it took TalkTalk a while to admit that they had blocked the software, leaving many customers posting messages on its forum in the dark as they spent hours trying to get to the bottom of why the software they relied upon was no longer working. | O
-Eventually TalkTalk ‘fessed up that it was responsible for the block. | O 
+Eventually TalkTalk ‘fessed up that it was responsible for the block. | O

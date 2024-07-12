@@ -1,12 +1,12 @@
 Cyber-attack on Pa. Senate Dems is a reminder no one is safe from hackers: Editorial | 	PennLive.com | O
-By PennLive Editorial Board 
-penned@pennlive.com 
+By PennLive Editorial Board | O
+penned@pennlive.com | O
 With news last week that Pennsylvania Senate Democrats (along with about 11 other progressive groups) had apparently fallen prey to an attack by Russian hackers, it's tempting to ask if anyone is safe from the waking Great Bear. | O
-Democratic leaders have so far refused to meet the hackers' ransom demand or risk having their data destroyed, The Associated Press reported. | AttackRansom 
+Democratic leaders have so far refused to meet the hackers' ransom demand or risk having their data destroyed, The Associated Press reported. | AttackRansom
 The bad news is that the attack is a visceral reminder that no computer network is totally immune to a takeover by determined cyber-terorrists. | O
 It's also a reminder that the United States disregards this foreign threat at its peril. | O
 And it is one that is growing in its size and scope. | O
-Hackers launched 638 million ransomware attacks last year, at a cost of about $209 million, PennLive's Wallace McKelvey reported Wednesday, citing data compiled by the security firm SonicWall. | AttackRansom 
+Hackers launched 638 million ransomware attacks last year, at a cost of about $209 million, PennLive's Wallace McKelvey reported Wednesday, citing data compiled by the security firm SonicWall. | AttackRansom
 That was more than 167 times the 3.8 million attacks logged in 2015. | O
 The short form is that you can't protect yourself from the most determined hackers, as former presidential candidate Hillary Clinton and the Democratic National Committee learned during last year's presidential campaign. | O
 And whether you're a large corporation or just sitting in your local Starbucks pecking away on your laptop, the measures are essentially the same. | O
