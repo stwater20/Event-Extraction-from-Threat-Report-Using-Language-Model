@@ -2,7 +2,7 @@ Massive cyber attack affecting 500 industrial companies in 50 countries, says Ka
 Robotics & Automation News | O
 Market trends and business perspectives | O
 January 5, 2017 by Mark Allinson | O
-    A globally co-ordinated cyber attack has hit 500 industrial companies in 50 countries in the past few months, according to security company Kaspersky. | O
+A globally co-ordinated cyber attack has hit 500 industrial companies in 50 countries in the past few months, according to security company Kaspersky. | O
 The worst affected were companies in the smelting, electric power generation and transmission, construction, and engineering industries. | O
 The attacks take the form of emails purportedly from famous companies – such as DHL and Saudi Aramco – and most were sent from “legitimate email addresses belonging to valid organizations”, says Kaspersky. | AttackPhishing
 However, Kaspersky says its analysis of the emails compared to known malware shows that “no new code was written specifically for this attack”. | O
