@@ -1,3 +1,4 @@
+
 A scareware campaign has been uncovered that pushes a ‘free’ VPN app called MyMobileSecure to iOS users via rogue ads on popular torrent sites. | AttackPhishing
 The VPN app itself appears to be real—but researchers say its privacy policies are dubious, at best. | O
 The first interesting thing is the malvertising campaign that’s pushing the app. | O
