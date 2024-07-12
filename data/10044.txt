@@ -1,4 +1,4 @@
-     | O
+
 Universities often need to have a number of computers in classrooms ready for faculty and staff to use for presentations and Internet access, which can be a security challenge. | O
 Carleton University is the latest to find that out when a regular inspection discovered USB keylogging devices had been plugged into six classroom PCs. | O
 The computers themselves can’t store data, said Beth Gorham, Carleton’s manager of public affairs, so there was no risk of university data being captured. | AttackDatabreach
