@@ -1,14 +1,14 @@
 Callisto Group hackers targeted Foreign Office data - BBC News | O
 The UK's Foreign Office was targeted by highly motivated and well-resourced hackers over several months in 2016.  | O
 The BBC understands the government has investigated the previously unreported attack that began in April last year. | O
-The UK's National Cyber Security Centre would not say whether data was stolen. | AttackDatabreach
+The UK's National Cyber Security Centre would not say whether data was stolen. | O
 But a source told the BBC that the most sensitive Foreign Office information is not kept on the systems targeted by the hackers. | O
 Research published on Thursday by cybersecurity firm F-Secure suggested the attack was a "spear-phishing" campaign, in which people were sent targeted emails in attempts to fool them into clicking a rogue link or handing over their username and password. | AttackPhishing
 To do this, the attackers created a number of web addresses designed to resemble legitimate Foreign Office websites, including those used for accessing webmail.   | AttackPhishing
-F-Secure does not know whether the attack was successful. | AttackPhishing
+F-Secure does not know whether the attack was successful. | O
 The company says the domains were created by hackers that it calls the Callisto Group, which it says is still active. | O
-However the UK's National Cyber Security Centre (NCSC) declined to say who was behind the attack on the Foreign Office. | AttackPhishing
-The targeted emails that were sent out tried to fool targets into downloading malware which was first developed for law enforcement by the Italian software company Hacking Team.  | AttackPhishing
+However the UK's National Cyber Security Centre (NCSC) declined to say who was behind the attack on the Foreign Office. | O
+The targeted emails that were sent out tried to fool targets into downloading malware which was first developed for law enforcement by the Italian software company Hacking Team.  | O
 Hacking Team's surveillance tools were previously exposed in a cyberattack, first reported in 2015.  | O
 There is no suggestion that Hacking Team had any involvement in the attacks. | O
 F-Secure said that the use of the software should remind governments that they "don't have monopolies on these [surveillance] technologies", and that once created the software can fall into the hands of hackers. | O
