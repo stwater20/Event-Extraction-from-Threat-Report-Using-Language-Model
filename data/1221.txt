@@ -1,21 +1,21 @@
 Code Execution Vulnerability Found in Libpurple IM Library | Threatpost | The first stop for security news | DiscoverVulnerability
 A severe vulnerability has been disclosed in libpurple, the library used in the development of a number of popular instant messaging clients, including Pidgin and Adium for the macOS platform. | DiscoverVulnerability
 Adium 1.5.10.2 is vulnerable and can be exploited to run arbitrary code remotely. | DiscoverVulnerability
-A researcher who goes by the handle Erythronium submitted a post on March 15 to the Adium developers mailing list about the issue. | DiscoverVulnerability
+A researcher who goes by the handle Erythronium submitted a post on March 15 to the Adium developers mailing list about the issue. | O
 While there’s been some discussion of a fix for CVE-2017-2640, no Adium advisory or patches have been released. | DiscoverVulnerability, PatchVulnerability
-In the meantime, Erythronium told Threatpost that libpurple and Adium should no longer be used. | DiscoverVulnerability
-“Unless the [Adium] dev team comes out with an advisory about this issue, a serious apology, a completely solid story about how they plan to handle future vulnerabilities in their codebase and its dependencies, and a way for people to reproduce their builds without depending on a creepy binary blob of libpurple, people should simply stop using it,” the researcher said. | DiscoverVulnerability, PatchVulnerability
-“It’s also very arguable that people should stop using libpurple completely, since it also lacks strong security practices in its development”. | DiscoverVulnerability
-A request for comment from two members of the Adium team was not returned in time for publication. | DiscoverVulnerability
-“Adium’s build process documentation does not seem to include steps for upgrading or rebuilding libpurple, and the copy of libpurple checked into Adium’s open-source repository as a binary blob of unknown provenance,” Erythronium wrote in a post to the Full Disclosure mailing list. | DiscoverVulnerability
-Adium is a freely available IM client for the Apple platform, and users may connect a number of other IM networks to it, including AIM, Google Talk, Yahoo Messenger and others. | DiscoverVulnerability
+In the meantime, Erythronium told Threatpost that libpurple and Adium should no longer be used. | O
+“Unless the [Adium] dev team comes out with an advisory about this issue, a serious apology, a completely solid story about how they plan to handle future vulnerabilities in their codebase and its dependencies, and a way for people to reproduce their builds without depending on a creepy binary blob of libpurple, people should simply stop using it,” the researcher said. | PatchVulnerability
+“It’s also very arguable that people should stop using libpurple completely, since it also lacks strong security practices in its development”. | O
+A request for comment from two members of the Adium team was not returned in time for publication. | O
+“Adium’s build process documentation does not seem to include steps for upgrading or rebuilding libpurple, and the copy of libpurple checked into Adium’s open-source repository as a binary blob of unknown provenance,” Erythronium wrote in a post to the Full Disclosure mailing list. | O
+Adium is a freely available IM client for the Apple platform, and users may connect a number of other IM networks to it, including AIM, Google Talk, Yahoo Messenger and others. | O
 It’s written using the Cocoa API in macOS, and also supports Off the Record (OTR) encryption over XMPP. | O
-Libpurple is used in a number of IM programs, including Pidgin on Windows Linux and UNIX builds and Finch, a text-based IM program for Linux and UNIX. | DiscoverVulnerability
-The vulnerability is an out-of-bounds write flaw that happens when invalid XML is sent by an attacker, Pidgin said in an advisory. | DiscoverVulnerability, PatchVulnerability
-“Successfully exploiting this issue may allow an attacker to cause a denial-of-service condition, execute arbitrary code or perform unauthorized actions,” said a SecurityFocus advisory. | DiscoverVulnerability, PatchVulnerability
+Libpurple is used in a number of IM programs, including Pidgin on Windows Linux and UNIX builds and Finch, a text-based IM program for Linux and UNIX. | O
+The vulnerability is an out-of-bounds write flaw that happens when invalid XML is sent by an attacker, Pidgin said in an advisory. | DiscoverVulnerability
+“Successfully exploiting this issue may allow an attacker to cause a denial-of-service condition, execute arbitrary code or perform unauthorized actions,” said a SecurityFocus advisory. | DiscoverVulnerability
 The use of messaging apps that support encryption have been encouraged since the Snowden disclosures and other challenges to secure communication such as Apple vs. FBI. | O
-Adium specifically was included in a Privacy Pack recommended by the Electronic Frontier Foundation in the months following the Snowden leaks. | DiscoverVulnerability
-The pack was a collection of tools for privacy conscious users, and included the Tor browser, encryption extensions for browsers, HTTPS Everywhere, and Pidgin and Adium for encrypted chats. | DiscoverVulnerability
+Adium specifically was included in a Privacy Pack recommended by the Electronic Frontier Foundation in the months following the Snowden leaks. | O
+The pack was a collection of tools for privacy conscious users, and included the Tor browser, encryption extensions for browsers, HTTPS Everywhere, and Pidgin and Adium for encrypted chats. | O
 Enterprise applications from Oracle and others could be becoming juicier targets for attackers. | O
 Developers using the Twilio platform to build enterprise mobile communications apps have put call and text data at risk for exposure. | O
-Between $150 million and $300 million in digital currency called ether remains inaccessible today after a user said he “accidentally” triggered a vulnerability that froze the funds in the popular Parity wallet. | DiscoverVulnerability
+Between $150 million and $300 million in digital currency called ether remains inaccessible today after a user said he “accidentally” triggered a vulnerability that froze the funds in the popular Parity wallet. | O
