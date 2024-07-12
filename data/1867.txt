@@ -1,22 +1,22 @@
 R2Games compromised again, over one million accounts exposed | CSO Online | AttackDatabreach
-Online gaming company Reality Squared Games (R2Games) has been compromised for the second time in two years, according to records obtained by the for-profit notification service LeakBase.  | AttackDatabreach
-The hacker who shared the data with LeakBase says the attack happened earlier this month. | AttackDatabreach
+Online gaming company Reality Squared Games (R2Games) has been compromised for the second time in two years, according to records obtained by the for-profit notification service LeakBase.  | O
+The hacker who shared the data with LeakBase says the attack happened earlier this month. | O
 Headquartered in Shenzhen, China, R2Games operates a number of free-to-play, micropayment-driven games on iOS and Android, as well as modern browsers.  | O
 The company currently supports 19 online games, and claims over 52 million players. | O
 In December of 2015, stretching into July of 2016, more than 22 million R2Games accounts were compromised, exposing IP addresses, easily cracked passwords, email addresses, and usernames. | AttackDatabreach
-The company denied the breach reports, telling one customer that "R2Games is safe and secured, and far from being hacked." | AttackDatabreach
-The hacker claims all forums were compromised, in addition to the Russian version of r2games.com. | AttackDatabreach
-The latest record set includes usernames, passwords, email addresses, IP addresses, and other optional record fields, such as instant messenger IDs, birthday, and Facebook related details (ID, name, access token). | AttackDatabreach
-LeakBase shared the most recent records with Troy Hunt, a security researcher and owner of the non-profit breach notification website "Have I Been Pwned?" (HIBP). | AttackDatabreach
-Hunt checked the data by testing a small sample of email addresses and usernames against the password reset function on R2Games.  | AttackDatabreach
+The company denied the breach reports, telling one customer that "R2Games is safe and secured, and far from being hacked." | O
+The hacker claims all forums were compromised, in addition to the Russian version of r2games.com. | O
+The latest record set includes usernames, passwords, email addresses, IP addresses, and other optional record fields, such as instant messenger IDs, birthday, and Facebook related details (ID, name, access token). | O
+LeakBase shared the most recent records with Troy Hunt, a security researcher and owner of the non-profit breach notification website "Have I Been Pwned?" (HIBP). | O
+Hunt checked the data by testing a small sample of email addresses and usernames against the password reset function on R2Games.  | O
 Every address checked was confirmed as an existing account.  | O
 From there, Hunt did some number crunching. | O
-There were 5,191,898 unique email addresses in the data shared by LeakBase.  | AttackDatabreach
-However, 3,379,071 of those email addresses were using mail.ar.r2games.com or mail.r2games.com; and another 789,361 looked generated, as they were all [number]@vk.com addresses. | AttackDatabreach
+There were 5,191,898 unique email addresses in the data shared by LeakBase.  | O
+However, 3,379,071 of those email addresses were using mail.ar.r2games.com or mail.r2games.com; and another 789,361 looked generated, as they were all [number]@vk.com addresses. | O
 LeakBase speculates that the r2games.com addresses are the result of registrations from third-party services. | O
-After stripping the questionable addresses Hunt was left with 1,023,466 unique email addresses to load into HIBP.  | AttackDatabreach
+After stripping the questionable addresses Hunt was left with 1,023,466 unique email addresses to load into HIBP.  | O
 Of this set, 482,074 have been seen before in other breaches, leaving 541,392 new entries for his index – and new notifications for 1,105 subscribers. | O
-When asked about the passwords, Hunt told Salted Hash many of them are MD5 with no salt, but a large number of them have a hash corresponding to the password "admin" and a few hundred thousand others are using the plain text word "sync". | AttackDatabreach
+When asked about the passwords, Hunt told Salted Hash many of them are MD5 with no salt, but a large number of them have a hash corresponding to the password "admin" and a few hundred thousand others are using the plain text word "sync". | O
 "The observation I'd make here is that clearly, they don't seem to be learning from previous failures.  | O
 The prior incident should really have been a wake-up call and to see a subsequent breach not that long after is worrying.  | O
 Perhaps the prior denials are evidence that they just don't see the seriousness in security," Hunt said, when asked his opinion about the latest R2Games data breach. | AttackDatabreach
