@@ -6,7 +6,7 @@ Multiple models from each product line are affected so customers and consumers s
 Customers should also check out HP’s support pages for how to install the firmware updates, which can be done directly from the printer for web-enabled printers — mostly those released after 2010 — or via Windows or Mac computers they’re networked with. | O
 The bugs, which have been assigned the numbers CVE-2018-5924 and CVE-2018-5925, are rated “critical” and could allow remote code execution. | DiscoverVulnerability
 “Two security vulnerabilities have been identified with certain HP Inkjet printers. | DiscoverVulnerability
- A maliciously crafted file sent to an affected device can cause a stack or static buffer overflow, which could allow remote code execution,” HP notes in an advisory. | O
+ A maliciously crafted file sent to an affected device can cause a stack or static buffer overflow, which could allow remote code execution,” HP notes in an advisory. | DiscoverVulnerability
 The company hasn’t indicated whether the flaws are publicly known or under attack but says it was “recently made aware of a vulnerability in certain inkjet printers by a third-party researcher.” | DiscoverVulnerability
 The patches come just a few days after HP Inc announced it would soon launch its printer bug bounty, which is the world’s first and only print security bug bounty program. | DiscoverVulnerability, PatchVulnerability
 The computer maker is partnering with Australian-founded Bugcrowd to manage the program, which will validate the bug reports, and pay researchers between $500 to $10,000, depending on their severity. | O

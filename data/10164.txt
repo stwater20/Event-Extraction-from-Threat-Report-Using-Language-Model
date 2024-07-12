@@ -1,10 +1,10 @@
 Microsoft Half-Patches Old Outlook Vulnerability | PatchVulnerability
 Microsoft has published a patch for an Outlook vulnerability first reported in late 2016, but the patch has been deemed incomplete and additional workarounds are needed, according to the security researcher who discovered it. | DiscoverVulnerability, PatchVulnerability
-Yesterday's April 2018 Patch Tuesday updates train included a fix for CVE-2018-0950, a vulnerability in Microsoft Outlook discovered by Will Dormann, a vulnerability analyst at the CERT Coordination Center (CERT/CC). | DiscoverVulnerability
+Yesterday's April 2018 Patch Tuesday updates train included a fix for CVE-2018-0950, a vulnerability in Microsoft Outlook discovered by Will Dormann, a vulnerability analyst at the CERT Coordination Center (CERT/CC). | DiscoverVulnerability, PatchVulnerability
 Outlook retrieves remote OLE content without prompting | O
-According to Dormann, the main problem with CVE-2018-0950 is that Microsoft Outlook will automatically render the content of remote OLE objects embedded inside rich formatted emails without prompting the user, something that Microsoft does in other Office apps such as Word, Excel, and PowerPoint. | O
+According to Dormann, the main problem with CVE-2018-0950 is that Microsoft Outlook will automatically render the content of remote OLE objects embedded inside rich formatted emails without prompting the user, something that Microsoft does in other Office apps such as Word, Excel, and PowerPoint. | DiscoverVulnerability
 This leads to a slew of problems that come from automatically rendering OLE objects, a common attack vector for malware authors. | O
-Microsoft patches SMB attack vector only | O
+Microsoft patches SMB attack vector only | PatchVulnerability
 In a CERT/CC vulnerability note, Dormann says he notified Microsoft of Outlook's propensity for loading OLE objects without alerting users in November 2016. | O
 After almost 18 months, the company finally issued a patch for the reported issue, but Dormann says the patch does not address the problem at the core of the issue. | PatchVulnerability
 According to Microsoft, the CVE-2018-0950 patch delivered yesterday only blocks Outlook from initiating SMB connections when previewing rich formatted emails. | PatchVulnerability

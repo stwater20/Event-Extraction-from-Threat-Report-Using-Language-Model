@@ -10,4 +10,4 @@ Sergey Zelenyuk found that the security bug can be leveraged on virtual machines
 Zelenyuk says that an important aspect in getting how the vulnerability works is to understand that context descriptors are processed before data descriptors. | O
 The researcher describes the mechanics behind the security flaw in detail, showing how to trigger the necessary conditions to obtain a buffer overflow that could be abused to escape the confinements of the virtual operating system. | O
 First, he caused an integer underflow condition using packet descriptors - data segments that allow the network adapter to track network packet data in the system memory. | O
-This state was then leveraged to read data from the guest OS to into a heap buffer and cause an overflow condition that could lead to overwriting function pointers; or to cause a stack overflow condition. | O
+This state was then leveraged to read data from the guest OS to into a heap buffer and cause an overflow condition that could lead to overwriting function pointers; or to cause a stack overflow condition. | DiscoverVulnerability
