@@ -5,7 +5,7 @@ Two sources that use Ciphr on their phones told Motherboard the leak includes t
 Specifically, the website lists users' email addresses and IMEI numbers, data which law enforcement can leverage to expose a user. | AttackDatabreach
 
 In a message provided to Motherboard from one of its sources, the privacy platform says the data dump was not the result of a data breach. | AttackDatabreach
-Instead Ciphr blames a rival company for the incident: | AttackDatabreach
+Instead Ciphr blames a rival company for the incident: | O
 "Our rapid growth has caught the attention of competitors seeking to slow us down by way of slander, blocking and DDOS [distributed denial of service attacks].... | O
 We were shocked that any company in this industry would release information to the public under any circumstance." | O
 Ciphr's management explains in a blog post that a rogue reseller who was granted access to its sales systems gave the information to SkySecure, which makes custom Blackberry devices. | AttackDatabreach
