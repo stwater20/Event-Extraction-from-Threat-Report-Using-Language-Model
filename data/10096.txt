@@ -1,12 +1,12 @@
- Hackers Hold Local Government Computers for Ransom and Demand Two Bitcoin  
+Hackers Hold Local Government Computers for Ransom and Demand Two Bitcoin | AttackRansom 
 Officials in Mecklenburg, N.C. must make a difficult decision by 1 p.m. ET on Wednesday: They must choose whether to pay two bitcoins—currently worth about $25,000—to hackers who are holding the county’s computer files for ransom, [Update: they refused to pay]. | AttackRansom
 The situation is the latest example of cyber criminals deploying a form of software known as ransomware, which freezes up files on a computer network until someone enters a decryption code to unlock them. | O
 AttackRansom Typically, the code can only be obtained by paying the hackers. | O
 An official for the county, which encompasses the city of Charlotte, said the ransomware was triggered when an employee clicked on an email attachment, and that it is wrecking havoc with daily operations: | AttackRansom
-“She said an example of the problem is the county’s code enforcement office, where much of the work is done electronically. | O 
-Employees no longer have access to their records. | O 
+“She said an example of the problem is the county’s code enforcement office, where much of the work is done electronically. | O
+Employees no longer have access to their records. | O
 But she said they are switching to paper records for work on Wednesday,” according to the Charlotte Observer. | O
-The official also explained that the county faces a dilemma in deciding whether to pay. | AttackRansom 
+The official also explained that the county faces a dilemma in deciding whether to pay. | AttackRansom
 While paying the ransom may be the only way to obtain the decryption key, there is no guarantee the hackers will honor their commitment and provide the key. | AttackRansom
 The anonymous hackers do not appear to have targeted Mecklenburg county in particular, but rather the official thinks the attack was launched as part of a broader money-making scheme involving ransomware. | O
 Similar attacks, which typically exploit old Microsoft software, struck millions of computers in two separate waves earlier this year, affecting everything from businesses to governments to hospitals. | O 

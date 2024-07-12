@@ -1,13 +1,13 @@
-Senate Democrats still recovering from computer ransomware attack
+Senate Democrats still recovering from computer ransomware attack | AttackRansom
 Senate Democrats are still rebuilding their computer system after hackers demanded a ransom earlier this month to unlock the network. | AttackRansom
-The state legislators' offices continue to operate via a combination of cell phones and laptops, some personal and some provided by the caucus. | O 
+The state legislators' offices continue to operate via a combination of cell phones and laptops, some personal and some provided by the caucus. | O
 In the last two weeks, email service was also restored. | O
 On Monday, Senate Minority Leader Jay Costa said Microsoft technicians would begin going around to strip down and rebuild every computer with the goal of having everything restored in the next several days. | O
-"[They are] working to rebuild our network so we're all operating off one system," the Allegheny County Democrat said. | O 
+"[They are] working to rebuild our network so we're all operating off one system," the Allegheny County Democrat said. | O
 "We're rebooting that very soon." | O
-Costa said he cannot comment on the ongoing investigation or the exact dollar amount demanded by the hackers. | AttackRansom 
+Costa said he cannot comment on the ongoing investigation or the exact dollar amount demanded by the hackers. | AttackRansom
 The caucus has not and will not pay the ransom, he said. | AttackRansom
-"For people who do pay the ransom, the likelihood they'll get the codes they need to undo the encryption is much lower than people talk about," he said. | AttackRansom  
+"For people who do pay the ransom, the likelihood they'll get the codes they need to undo the encryption is much lower than people talk about," he said. | AttackRansom
 "And there are a number of times it's happened you don't hear about." | O
 Hackers who launch such attacks lock their targets out of their data in an effort to extract a ransom for its return. | AttackRansom 
 The security firm SonicWall estimated 638 million ransomware attacks that cost $209 million last year, more than 167 times the 3.8 million attacks recorded in 2015. | AttackRansom

@@ -1,6 +1,6 @@
- Ransomware attack sends City of Del Rio back to the days of pen and paper 
+Ransomware attack sends City of Del Rio back to the days of pen and paper | AttackRansom
 Officials based at the City of Del Rio, in Texas, were forced to abandon electronic services and switch to pen and paper after a ransomware attack effectively closed down City Hall servers. | AttackRansom
-City representatives disclosed the cyberattack last week. | O  
+City representatives disclosed the cyberattack last week. | O
 The city was struck by the ransomware on Thursday, leading to all servers being disabled to prevent further spread. | AttackRansom
 Del Rio's Management Information Services (MIS) department then attempted to isolate the malware by turning off all Internet connections for other city departments. | O
 In turn, this prevented any members of staff from logging into government systems. | O
@@ -11,5 +11,5 @@ The Texan city has also not revealed how much the ransomware demanded in payment
 Ransoms are usually requested in return for a decryption key -- which may or may not work -- in order to unlock encrypted systems and restore access. | AttackRansom
 However, a Del Rio City Hall spokeswoman did reveal that the malware is somewhat unusual, as the ransom note posted to roughly 30 - 45 PCs contained a phone number to be used to pay the blackmail fee. | AttackRansom
 Most of the time, a note will be posted on a landing page containing instructions for paying ransom in cryptocurrency and victims will be given a wallet address, rather than a means to directly call the malware's operator. | AttackRansom
-"The City is diligently working on finding the best solution to resolve this situation and restore the system," an official statement reads. | O 
+"The City is diligently working on finding the best solution to resolve this situation and restore the system," an official statement reads. | O
 "We ask the public to be patient with us as we may be slower in processing requests at this time." | O

@@ -1,4 +1,4 @@
- Siemens Patches Firewall Flaw That Put Operations at Risk  
+Siemens Patches Firewall Flaw That Put Operations at Risk | PatchVulnerability 
 The industrial company on Tuesday released mitigations for eight vulnerabilities overall. | PatchVulnerability
 Siemens AG on Tuesday issued a slew of fixes addressing eight vulnerabilities spanning its industrial product lines. | PatchVulnerability 
 The most serious of the patched flaws include a cross-site scripting vulnerability in Siemens’ SCALANCE firewall product. | O 

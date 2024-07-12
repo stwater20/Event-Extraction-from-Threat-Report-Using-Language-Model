@@ -1,12 +1,12 @@
-Police probe into data breach at Crosshouse after staff accessed patient records
+Police probe into data breach at Crosshouse after staff accessed patient records | AttackDatabreach
 POLICE have launched an investigation after a number of patients have had their personal details accessed by a member of staff at Crosshouse Hospital. | AttackDatabreach
 Those affected, believed to be mainly women, were notified that information, including their phone numbers and addresses, had been accessed and that the member of staff who breached their privacy had ‘no legitimate clinical or administrative requirement’. | AttackDatabreach
-The breach came from within information held in the Radiology Information System and patients affected had all recently been referred for an X-ray. | AttackDatabreach  
-A member of staff has been 'excluded from work' following the breach which took place between April and September of this year. | AttackDatabreach 
-Dr Alison Graham, Medical Director for the NHS Ayrshire & Arran said: "NHS Ayrshire & Arran has been made aware of a member of staff inappropriately accessing patient records. | AttackDatabreach 
+The breach came from within information held in the Radiology Information System and patients affected had all recently been referred for an X-ray. | AttackDatabreach
+A member of staff has been 'excluded from work' following the breach which took place between April and September of this year. | AttackDatabreach
+Dr Alison Graham, Medical Director for the NHS Ayrshire & Arran said: "NHS Ayrshire & Arran has been made aware of a member of staff inappropriately accessing patient records. | AttackDatabreach
 This individual is currently excluded from work." | O
-We are currently investigating and are contacting a number of patients to ascertain the extent of this breach. | O 
-We wish to apologise to anyone affected by this. | O 
+We are currently investigating and are contacting a number of patients to ascertain the extent of this breach. | O
+We wish to apologise to anyone affected by this. | O
 We take patient confidentially extremely serious and will ensure a full investigation is conducted. | O
-"We are working closely with Police Scotland and the Information Commissioner’s Office. | O 
-As this is an ongoing police investigation, we are not able to confirm any further details." | O 
+"We are working closely with Police Scotland and the Information Commissioner’s Office. | O
+As this is an ongoing police investigation, we are not able to confirm any further details." | O

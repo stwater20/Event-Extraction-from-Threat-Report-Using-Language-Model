@@ -1,4 +1,4 @@
- Update now! Adobe Acrobat and Reader have critical flaws  
+Update now! Adobe Acrobat and Reader have critical flaws | PatchVulnerability 
 Adobe has patched two critical flaws in Acrobat and Reader that warrant urgent attention. | PatchVulnerability
 Officially, Adobe patches security vulnerabilities around the middle of each month to coordinate with Microsoft’s Patch Tuesday, but recently it’s become almost routine for the company to issue out-of-band updates in between. | PatchVulnerability 
 APSB19-02, the first of such updates to reach customers in the new year, addresses critical flaws with a priority rating of ‘2’. | PatchVulnerability

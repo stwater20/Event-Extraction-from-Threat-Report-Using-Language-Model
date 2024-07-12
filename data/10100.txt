@@ -1,4 +1,4 @@
- Bad Rabbit Bitcoin Ransomware Misery Continues As Hackers Demand $300 in BTC  
+Bad Rabbit Bitcoin Ransomware Misery Continues As Hackers Demand $300 in BTC | AttackRansom
 Over 200 victims in Europe and beyond continue to suffer from a brand new ransomware attack demanding Bitcoin to release encrypted files. | AttackRansom
 Known as Bad Rabbit, the ransomware of unknown origin demands 0. | 05 BTC ($290) to unlock infected computers. | AttackRansom
 Its progress focuses on Russia and Ukraine, with outbreaks also reported in Turkey and Germany, according to cybersecurity firm Kaspersky Lab. | O

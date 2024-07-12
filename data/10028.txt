@@ -1,4 +1,4 @@
-Ransomware shuts down Licking County government in Ohio
+Ransomware shuts down Licking County government in Ohio | AttackRansom
 The government of Licking County in the US has taken many of its computer and telephone systems offline as it tries to tackle a ransomware infection. | O
 Ransomware is a type of computer malware that scrambles data and demands a fee for it to be restored. | AttackRansom
 Citizens have been told they must visit government offices to do tasks usually completed online or by phone. | O
@@ -16,5 +16,5 @@ It was just our unlucky day," he said. | O
 Some variants of ransomware have previously been defeated, with removal instructions now available online. | O
 However, security experts warn that in some cases the only way to get data back is by restoring from a back-up. | O
 Mr Bubb said he was exploring that option, but did not know how long it would take for computer systems to be back online. | O
-"We're evaluating our back-ups. | O 
+"We're evaluating our back-ups. | O
 We think our back-ups are pretty darn good," he said. | O

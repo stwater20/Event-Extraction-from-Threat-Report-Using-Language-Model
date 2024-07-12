@@ -1,13 +1,13 @@
- Teenager Arrested in Austria for Spreading Philadelphia Ransomware  
+Teenager Arrested in Austria for Spreading Philadelphia Ransomware | AttackRansom  
 Austrian police arrested a 19-year-old teenager from Linz for infecting the network of a local company with the Philadelphia ransomware. | O
-The incident in question took place last year and targeted an unnamed company based in Linz. | O 
+The incident in question took place last year and targeted an unnamed company based in Linz. | O
 The attacker locked the company's servers, including its production database. | O
 The attacker asked for $400 to unlock the company's systems, but the victim refused and instead recovered its data via older backups. | AttackRansom
 Attack traced back to Linz teenager | O
 The company filed a criminal complaint with the Austrian Federal Criminal Police Office (Bundeskriminalamt, or BK), claiming damages of €3,000 due to production losses. | O
-An investigation by Austrian police's SOKO Clavis unit tracked down the attack to a Linz teenager. | O 
+An investigation by Austrian police's SOKO Clavis unit tracked down the attack to a Linz teenager. | O
 Authorities searched the suspect's homes, one in Linz, and one near Vienna, where he moved. | O
-Police arrested the young man, who was later released and is now under an official investigation. | O 
+Police arrested the young man, who was later released and is now under an official investigation. | O
 According to a BK spokesperson, the teenager denied all accusations. | O
 Teenager bought ransomware off the Dark Web | AttackRansom
 Investigators believe the suspect bought the Philadelphia ransomware off the Dark Web. | O 

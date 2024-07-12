@@ -1,4 +1,4 @@
- LibreOffice patches malicious code-execution bug, Apache OpenOffice – wait for it, wait for it – doesn't  
+LibreOffice patches malicious code-execution bug, Apache OpenOffice – wait for it, wait for it – doesn't | PatchVulnerability, DiscoverVulnerability
 A security flaw affecting LibreOffice and Apache OpenOffice has been fixed in one of the two open-source office suites. | DiscoverVulnerability 
 The other still appears to be vulnerable. | DiscoverVulnerability
 Before attempting to guess which app has yet to be patched, consider that Apache OpenOffice for years has struggled attract more contributors. | PatchVulnerability  

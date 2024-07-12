@@ -1,4 +1,4 @@
- Two vulnerabilities patched in iOS 12.1.4 were exploited by hackers, Google researcher says  
+Two vulnerabilities patched in iOS 12.1.4 were exploited by hackers, Google researcher says | PatchVulnerability, DiscoverVulnerability
 A pair of iOS bugs identified as resolved by Apple in its latest iOS 12.1.4 release were successfully exploited by hackers, according to a Google researcher who shared details of the zero-day vulnerabilities on Thursday. | PatchVulnerability, DiscoverVulnerability
 Apple's latest iOS 12.1.4 release, issued earlier today, contains fixes for Foundation and IOKit flaws that, according to security researcher Ben Hawkes, were used to hack devices in the wild. | PatchVulnerability
 As noted by ZDNet, Hawkes, leader of Google's Project Zero security team, shared the revelation on Twitter late Thursday, saying the iOS bugs were leveraged as zero-day vulnerabilities. | DiscoverVulnerability 

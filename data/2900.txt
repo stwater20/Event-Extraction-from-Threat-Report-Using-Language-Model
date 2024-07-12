@@ -1,4 +1,4 @@
- Ulster University Also Suffered Ransomware Outage This Week 
+Ulster University Also Suffered Ransomware Outage This Week | AttackRansom
 A second UK university has been hit by a major ransomware attack this week, as new figures showed the country is the most frequently targeted by the malware in Europe. | AttackRansom
 The attack appears to have struck Northern Ireland’s Ulster University on the same day a ransomware outage affected University College London (UCL). | AttackRansom
 Ulster Uni’s Information Services Division (ISD) revealed yesterday that its AV partner suspects a zero-day threat was the cause, also echoing the current thinking at UCL. | O

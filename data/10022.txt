@@ -1,6 +1,6 @@
-Chesapeake Public Schools’ computer network affected by malware from phishing emails
+Chesapeake Public Schools’ computer network affected by malware from phishing emails | AttackPhishing
 ake Public Schools says a malware attack is responsible for taking the school off the grid. | O
-The school district said a virus entered their network through phishing emails sent to employees. | AttackPhishing 
-Only a couple of divisions have been affected and it's not a system-wide outage. | O 
-However, it impacted Grassfield High School in a big way. | O 
+The school district said a virus entered their network through phishing emails sent to employees. | AttackPhishing
+Only a couple of divisions have been affected and it's not a system-wide outage. | O
+However, it impacted Grassfield High School in a big way. | O
 Classes heavily relying on technology were affected, but the others carried on as usual. | O

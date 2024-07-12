@@ -1,4 +1,4 @@
- This new ransomware nightmare demands a big payday to decrypt your files  
+This new ransomware nightmare demands a big payday to decrypt your files | AttackRansom
 Infamous Necurs botnet seen sending spam emails containing new ransomware to millions of potential victims in just a few hours. | AttackPhishing
 A new form of ransomware is indiscriminately targeting millions of PCs, spread by the prolific botnet behind one of the most successful forms of ransomware in the world. | O
 The new ransomware is called Jaff and given that it appears to be heavily mimicking tactics of the infamous Locky - the most successful ransomware family of 2016 - it has the potential to become a major nuisance. | O
@@ -6,7 +6,7 @@ It's also brazen in its ransom demands, demanding victims pay 1.79 Bitcoins - cu
 It's an ambitious ransom - most forms of ransomware want a payment of between $500 and $1000 - but the authors are likely to be aware that many organisations are willing to give in and pay to avoid losing business-critical files. | AttackRansom
 As noted by cybersecurity researchers at Forcepoint, the Jaff campaign sprung to life on May 11, using the Necurs botnet to send millions of spam emails emails to targets across the globe in the space of just a few hours. | AttackPhishing
 The malicious email itself is sent with a subject line referring to a receipt or to a fake document, with the pattern involving the words PDF, Scan, File, Copy or Document followed by an underscore and a string of at least four numbers - four example, one subject line seen by researchers was 'Copy _293636'. | AttackPhishing
-Attached to this email is a PDF document containing an embedded DOCM file and a malicious Macro script. | O 
+Attached to this email is a PDF document containing an embedded DOCM file and a malicious Macro script. | O
 If this is run, the ransomware payload is executed and Jaff targets and encrypts a wide variety of file extensions, renaming them all to end in .jaff. | O
 While the attack might seem basic - especially compared with targeted spear-phising attacks - the sheer number of messages sent out means that even just a tiny percentage of targets open the email, download the attachment and enable the macros, this new ransomware could have a sizeable impact. | AttackPhishing
 As with other ransomware attacks, the infected victim sees their desktop changed to a ransom note and they're directed to instructions, telling them their files are encrypted and that they must visit a dark web address in order to pay to get their files back. | O

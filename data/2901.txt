@@ -1,4 +1,4 @@
-US restaurants targeted with fileless malware - Help Net Security
+US restaurants targeted with fileless malware - Help Net Security | DiscoverVulnerability
 Morphisec researchers have spotted another attack campaign using fileless malware that is believed to be mounted by the infamous FIN7 hacking group. | O 
 The goal of the campaign is to gain control of the target businesses’ systems, install a backdoor, and through it perform continual exfiltration of financial information. | AttackDatabreach
 “Like past attacks, the initial infection vector is a malicious Word document attached to a phishing email that is well-tailored to the targeted business and its day-to-day operations,” the researchers noted. | AttackPhishing 
