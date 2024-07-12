@@ -1,3 +1,4 @@
+
 The traditional model of hacking a bank isn't so different from the old-fashioned method of robbing one. | O
 But one enterprising group of hackers targeting a Brazilian bank seems to have taken a more comprehensive and devious approach: One weekend afternoon, they rerouted all of the bank's online customers to perfectly reconstructed fakes of the bank's properties, where the marks obediently handed over their account information. | AttackPhishing
 Researchers at the security firm Kaspersky on Tuesday described an unprecedented case of wholesale bank fraud, one that essentially hijacked a bank's entire internet footprint. | O
