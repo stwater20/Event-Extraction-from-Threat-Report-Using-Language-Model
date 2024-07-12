@@ -28,6 +28,6 @@ Instead, the Zinaps software wants to perform fake computer scans and trick user
 This is a very common theme among rogue security software, as most developers hope to make a lot of money by tempting users into paying for their useless creations. | AttackPhishing
 What makes this malware so dangerous is that Zinaps would edit the Windows Registry, ensuring the software runs as soon as the computer boots up. | O
 It also makes removing the software much harder and almost almost always leaves traces after its gone. | O
-This scareware rogue security program will not fix any issues related to Windows or otherwise. | AttackPhishing , PatchVulnerability
+This scareware rogue security program will not fix any issues related to Windows or otherwise. | AttackPhishing, PatchVulnerability
 Once again, this malware wants to force users to buy a license, while not offering any help with real security issues whatsoever. | O
 
