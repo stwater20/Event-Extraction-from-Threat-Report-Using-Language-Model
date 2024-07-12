@@ -1,25 +1,25 @@
 Auto Lender Exposes Loan Data For Up To 1 Million Applicants | Threatpost | The first stop for security news | AttackDatabreach
 A California auto loan company left the names, addresses, credit scores and partial Social Security numbers of up to 1 million people exposed on an insecure online database. | AttackDatabreach
-The company behind the database is Alliance Direct Lending Corporation, according to Kromtech Security Research Center, which discovered the data earlier this week. | AttackDatabreach
-It said the data was found on an unprotected Amazon server and that the data could have been exposed for up to two years. | AttackDatabreach
+The company behind the database is Alliance Direct Lending Corporation, according to Kromtech Security Research Center, which discovered the data earlier this week. | O
+It said the data was found on an unprotected Amazon server and that the data could have been exposed for up to two years. | O
 According to Alliance Direct Lending’s website, the company works with individuals and auto dealership partners to help car owners refinance existing auto loans. | O
 Data stored in the cloud was in clear text, according Diachenko. | O
 He said data also included several dozen recorded voice conversations with customers that disclosed full Social Security numbers of loan applicants. | AttackDatabreach
 Sample data included the names of 114 car dealerships. | O
-According to Kromtech, it estimated between 550,000 to 1.1 million loan records from those dealers were exposed online. | AttackDatabreach
+According to Kromtech, it estimated between 550,000 to 1.1 million loan records from those dealers were exposed online. | O
 Dealers were located across the United States from California, Colorado, Florida and Massachusetts. | O
-Kromtech said it was unsure if additional third parties may have accessed the data. | AttackDatabreach
-Privacy experts said the data in the hands of the wrong person would be a nightmare for victims. | AttackDatabreach
-A criminal that knows the data comes from people who have refinanced their car loan and may have less than stellar credit, coupled with partial Social Security numbers, would be a dream come true. | AttackDatabreach
+Kromtech said it was unsure if additional third parties may have accessed the data. | O
+Privacy experts said the data in the hands of the wrong person would be a nightmare for victims. | O
+A criminal that knows the data comes from people who have refinanced their car loan and may have less than stellar credit, coupled with partial Social Security numbers, would be a dream come true. | O
 “Things could go wrong on a variety of levels. | O
 The data could be used to phish additional data via email or phone scams. | AttackDatabreach, AttackPhishing
-That’s not even mentioning the reputational damage to those in the database with bad credit scores,” said Adam Levin, chairman and founder of CyberScout. | AttackDatabreach
-The data found by Kromtech was on an Amazon’s AWS S3 server. | AttackDatabreach
+That’s not even mentioning the reputational damage to those in the database with bad credit scores,” said Adam Levin, chairman and founder of CyberScout. | O
+The data found by Kromtech was on an Amazon’s AWS S3 server. | O
 AWS S3 is marketed as an easy-to-use web service that allows businesses to store and retrieve data at a moment’s notice. | O
 Data is stored in what Amazon calls buckets. | O
-“The Kromtech Security Research Center has seen an increase in vulnerable AWS S3 buckets recently due to misconfigurations or public settings,” Diachenko said. | AttackDatabreach
-“We have identified hundreds of misconfigured instances and we have been focused on helping to secure them as soon as we identify who the data belongs to.” | AttackDatabreach
-He said companies should consider Alliance Direct Lending’s example a sobering reminder that companies and individuals need to make sure their data is secure. | AttackDatabreach
+“The Kromtech Security Research Center has seen an increase in vulnerable AWS S3 buckets recently due to misconfigurations or public settings,” Diachenko said. | DiscoverVulnerability
+“We have identified hundreds of misconfigured instances and we have been focused on helping to secure them as soon as we identify who the data belongs to.” | O
+He said companies should consider Alliance Direct Lending’s example a sobering reminder that companies and individuals need to make sure their data is secure. | O
 For Diachenko, this is the latest in a string of insecure database he has helped uncover. | O
 In January, he was part of a research team that found 400,000 audio files associated with a Florida company’s telemarketing efforts were stored insecurely online. | O
 In February, Kromtech researchers found tens of thousands of sensitive documents insecurely stored online belonging to a print and marketing firm. | O
