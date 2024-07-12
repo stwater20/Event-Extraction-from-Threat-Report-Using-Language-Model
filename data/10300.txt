@@ -1,6 +1,6 @@
-This TV licence refund email is a scam | O
+This TV licence refund email is a scam | AttackPhishing
 There’s a new scam on the block and over 200 people have already been hit. | O
-Here’s what you need to know about the TV Licence con. | O
+Here’s what you need to know about the TV Licence con. | AttackPhishing
 Action Fraud is warning that criminals are sending out emails pretending to be from TV Licensing. | AttackPhishing
 The watchdog says it has already received over 200 reports about the phishing scam. | AttackPhishing
 The email lures you in by saying you are owed a refund on your TV Licence payments. | AttackPhishing
@@ -20,7 +20,7 @@ Do not click on any links within the email. | O
 “If you receive a similar email message please delete it. | O
 If you have already clicked the link, do not enter or submit any information. | O
 TV Licensing never sends refund information by email and is investigating the source of the fraud.” | O
-While these emails are a scam they carry an element of truth – you might be due a refund from TV Licensing. | O
+While these emails are a scam they carry an element of truth – you might be due a refund from TV Licensing. | AttackPhishing
 There are a number of ways you can avoid paying the full licence fee. | O
 If you are a student you are entitled to a £37 discount on the £147.50 colour TV licence. | O
 You can also apply for a refund if you’ve paid for a TV Licence beyond your 75th birthday. | O
