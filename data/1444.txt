@@ -5,7 +5,7 @@ Cure53 has published separate reports focusing on the NTP and NTPsec problems. |
 The Network Time Foundation addressed the flaws earlier this month with the release of ntp-4.2.8p10. | PatchVulnerability
 Cure53 has classified one vulnerability as being critical. | DiscoverVulnerability
 CVE-2017-6460, which only affects NTP, has been described as a stack-based buffer overflow that can be triggered by a malicious server when a client requests the restriction list. | DiscoverVulnerability
-The flaw can be exploited to cause a crash and possibly to execute arbitrary code. | DiscoverVulnerability
+The flaw can be exploited to cause a crash and possibly to execute arbitrary code. | O
 The security holes rated by Cure53 as high severity are CVE-2017-6463 and CVE-2017-6464, both of which can be exploited for DoS attacks. | DiscoverVulnerability
 It’s worth noting that while some of the vulnerabilities have been classified as critical and high severity by Cure53, NTP developers have only assigned medium, low and informational-level severity ratings to the discovered flaws. | DiscoverVulnerability
 Ntp-4.2.8p10 patches a total of 15 vulnerabilities and also includes just as many non-security fixes and improvements. | PatchVulnerability
