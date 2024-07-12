@@ -1,8 +1,8 @@
-Vulnerability hits Intel enterprise PCs going back 10 years | CSO Online | DiscoverVulnerability
+Vulnerability hits Intel enterprise PCs going back 10 years | CSO Online | O
 Intel is reporting a firmware vulnerability that could let attackers take over remote management functions on computers built over nearly the past decade. | DiscoverVulnerability
 The vulnerability, disclosed on Monday, affects features in Intel firmware that are designed for enterprise IT management. | DiscoverVulnerability
 Enterprises using Intel Active Management Technology, Intel Small Business Technology and Intel Standard Manageability on their systems should patch them as soon as possible, the company says. | PatchVulnerability
-The vulnerable firmware features can be found in some current Core processors and all the way back to Intel's first-generation Core, called Nehalem, which shipped in 2008. | DiscoverVulnerability
+The vulnerable firmware features can be found in some current Core processors and all the way back to Intel's first-generation Core, called Nehalem, which shipped in 2008. | O
 They're part of versions 6.0 through 11.6 of Intel's manageability firmware. | DiscoverVulnerability
 No consumer PCs are affected, the company said. | O 
 Nor are data-center servers running Intel Server Platform Services. | O
@@ -12,5 +12,5 @@ Intel didn’t provide technical details of the vulnerability, but it said a hac
 In an email, Intel said it learned about the vulnerability from a security researcher in March. | DiscoverVulnerability
 “We are not aware of any exploitation of this vulnerability,” the company said. | O
 Intel said it has prepared a patch and is working with manufacturers to roll it out to users as soon as possible. | PatchVulnerability
-Intel’s security advisory also lays out steps users can take to find out if they’re affected. | PatchVulnerability
-For example, PCs built with its vPro technology will have the vulnerable Intel Active Management feature. | DiscoverVulnerability
+Intel’s security advisory also lays out steps users can take to find out if they’re affected. | O
+For example, PCs built with its vPro technology will have the vulnerable Intel Active Management feature. | O
