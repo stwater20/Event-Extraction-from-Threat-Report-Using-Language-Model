@@ -1,13 +1,13 @@
 US spy agency hacked Pakistani cellular networks, shows leaked data | Sci-Tech - Geo.tv | AttackDatabreach
 A leaked arsenal of hacking tools allegedly belonging to the National Security Agency (NSA) shows the US spy agency infiltrated the servers of a major Pakistani cellular service provider. | AttackDatabreach
 The data dump, publicly released by the ShadowBrokers hacking group earlier this week, includes alleged digital weapons and notes shared by NSA operators about their access inside the servers of a Pakistani mobile network. | AttackDatabreach
-Notes contained in the massive dump of encrypted data, which is still being analysed by network security researchers, include details of how NSA used the exploits to infiltrate cellular operators in Pakistan. | AttackDatabreach
-One snippet from the leak, several terabytes in size, includes at least 14 lines mentioning different servers operated by a major Pakistani cellular network. | AttackDatabreach
+Notes contained in the massive dump of encrypted data, which is still being analysed by network security researchers, include details of how NSA used the exploits to infiltrate cellular operators in Pakistan. | O
+One snippet from the leak, several terabytes in size, includes at least 14 lines mentioning different servers operated by a major Pakistani cellular network. | O
 The snippet, analysed by a security researcher who goes by the name X0rz, appears to show NSA operators sharing a step-by-step technical guide on how to hack into the servers. | O
 "Try one of the following…old way, may not work on new machines," says one section of the snippet. | O
 Another section appears to show methods to retrieve call logs of users of the Pakistani cellular service. | AttackDatabreach
 "If searching for LACs and cell id's, use the format in the documentation…if searching for phone numbers, use the normal format," it says. | O
-Hundreds of NSA cyber weapons variants publicly released including code showing hacking of Pakistan mobile system https://t.co/bL833ktQpm | AttackDatabreach
+Hundreds of NSA cyber weapons variants publicly released including code showing hacking of Pakistan mobile system https://t.co/bL833ktQpm | O
 In a tweet, Wikileaks claimed the leaked "NSA cyber weapons variants" include "code showing hacking of Pakistan mobile system". | AttackDatabreach
 The data dump was publicly released earlier this week by the ShadowBrokers hacking group after it failed to auction the arsenal of hacking tools. | AttackDatabreach
 In a lengthy anonymous blog post, the group claimed it was releasing the files as a "form of protest" after losing faith in the leadership of US President Donald Trump. | O
