@@ -8,6 +8,6 @@ Just think of some of the personal information that you include in your CV or re
 Before you know it, a scammer might have your full name, date of birth, work and home email addresses, work and home telephone numbers, and all manner of other personal information that could be abused by scammers. | AttackPhishing
 At the simplest level such data breaches could lead to a rise in targeted spam attacks, or scam phone calls. | AttackDatabreach
 But it could also be a stepping stone to more damaging business email compromise (also often known as “CEO fraud”) which has resulted, in some cases, in companies losing tens of millions of dollars. | AttackPhishing
-Anything which gives online criminals inside information about you and your position within a company could give them the head start they need to launch a targeted attack that could lead to a significant data breach or a substantial financial loss. | AttackPhishing, Databreach
+Anything which gives online criminals inside information about you and your position within a company could give them the head start they need to launch a targeted attack that could lead to a significant data breach or a substantial financial loss. | AttackDatabreach
 In short, being careless with your personal information – such as your CV – might not just put your career in jeopardy, it could also ultimately endanger the company you work for. | O
 And that’s certainly not going to ever look good on your CV. | O
