@@ -11,6 +11,7 @@ Most of the malware that infects these devices are stealthy preventing users fro
 In the FalseGuide’s case, the malware managed to receive the administrator privileges, which means that the user cannot get rid of the infection. | AttackPhishing
 After administrator privileges, the malware proceeded to register to a cloud-based messaging service to receive further instructions. | AttackPhishing
 This way, malware can be used to provide its creator a full access to the device or even to allow them to launch DDoS attacks. | O
+
 After the discovery of these malicious apps, Google has done what they could to take them off the Play Store, but the apps already downloaded are still posing a problem. | O
 Furthermore, investigations revealed that there were two people behind the scheme going by (probably fake) names of Nikolai Zalupkin and Sergei Vernik. | O
 It’s believed that the gaming guides were selected because they’ve been very popular lately, and also because they do not require much time and effort when it comes to feature implementation and development. | O
