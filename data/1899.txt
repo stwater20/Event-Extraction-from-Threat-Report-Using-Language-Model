@@ -1,8 +1,8 @@
 Point-of-Sale Malware Steals Driver's License Information | AttackDatabreach
 Malware specialized in infecting Point of Sale (PoS) software has gained the ability to search and steal driver's license information, according to a report published by US cyber-security firm Trend Micro. | AttackDatabreach
-The collection of driver's license information surprised researchers, who haven't spotted such behavior in a PoS malware family until now. | AttackDatabreach
-Even more surprising was that this new data collection system was spotted in an ancient PoS malware family, and not in one of the newer players. | AttackDatabreach
-The name of this malware is RawPOS, a malware family that appeared way back in 2008.  | AttackDatabreach
+The collection of driver's license information surprised researchers, who haven't spotted such behavior in a PoS malware family until now. | O
+Even more surprising was that this new data collection system was spotted in an ancient PoS malware family, and not in one of the newer players. | O
+The name of this malware is RawPOS, a malware family that appeared way back in 2008. | O
 Typically, financial malware lives a few years, then it fizzles out and dies, as security firms learn to detect and stop it. | O
 In spite of its old age, RawPOS stuck around, and its operators continued to update and deploy it in attacks over the years. | O
 Like all other POS malware families, RawPOS is built to target and infect computers that run PoS software.  | O
@@ -12,7 +12,7 @@ This pattern is specifically designed to detect payment card data, such as card 
 Across the years, the different RawPOS versions have featured different versions of this regex string pattern. | O
 Earlier this year, Trend Micro discovered the sixth, which featured an expanded regex filter. | O
 Besides keeping an eye on credit card data, this expanded filter scraped the infected computer's RAM for the term "driver's license" and "ANSI 636." | AttackDatabreach
-While not directly evident for most, ANSI 636 is a barcode format used for the 2D barcode found on US drivers' licenses. | AttackDatabreach
+While not directly evident for most, ANSI 636 is a barcode format used for the 2D barcode found on US drivers' licenses. | O
 Pharmacies, retail shops, bars, casinos and others establishments usually scan a customer's driver's license as authorization before making particular transactions, such as when buying drugs and alcohol. | O
 This data, just like payment card data, is handled and collected by some PoS software solutions, so it makes sense seeing this new regex string pattern inside RawPOS. | O
 Researchers believe crooks behind this malware are gathering this information to create more complete victim profiles, in order to aid various fraud operations, such as identity theft. | AttackDatabreach
