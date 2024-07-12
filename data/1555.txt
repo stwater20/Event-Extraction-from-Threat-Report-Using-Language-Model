@@ -1,13 +1,14 @@
 Payday loan firm Wonga suffers data breach affecting up to 270,000  |  TechCrunch | AttackDatabreach
 Payday loan firm Wonga has suffered a data breach affecting up to 245,000 customers in the U.K. A further 25,000 customers in Poland may also be affected, according to the BBC. | AttackDatabreach
-It says it does not believe customers’ Wonga account passwords were compromised but suggests concerned users change their password anyway. | AttackDatabreach
-Wonga is warning affected customers to be “extra vigilant” and to alert their bank of potential risk — though it says it will also be contacting financial institutions about the breach. | AttackDatabreach
+It says it does not believe customers’ Wonga account passwords were compromised but suggests concerned users change their password anyway. | O
+Wonga is warning affected customers to be “extra vigilant” and to alert their bank of potential risk — though it says it will also be contacting financial institutions about the breach. | O
 We’ve reached out to Wonga with questions and will update this story with any response. | O
 Update: In a statement a spokesperson for the company told us: “Wonga is urgently investigating illegal and unauthorised access to the personal data of some of its customers in the UK and Poland. | AttackDatabreach
-We are working closely with authorities and we are in the process of informing affected customers. | AttackDatabreach
-According to The Guardian, the company became aware of a problem last week but only realized on Friday that data could be accessed externally, and only started contacting affected customers on Saturday. | AttackDatabreach
+We are working closely with authorities and we are in the process of informing affected customers. | O
+According to The Guardian, the company became aware of a problem last week but only realized on Friday that data could be accessed externally, and only started contacting affected customers on Saturday. | O
 The U.K.’s data protection regulator, the ICO, has apparently been informed of the breach — although it’s unclear when. | O
-An ICO spokesperson did not respond to the question, providing this statement instead: “All organisations have a responsibility to keep customers’ personal information secure. | O
+An ICO spokesperson did not respond to the question, providing this statement instead: | O
+“All organisations have a responsibility to keep customers’ personal information secure. | O
 Where we find this has not happened, we can investigate and may take enforcement action”. | O
 Back in 2014 the company had to write down $340 million in unpaid loans, following an investigation by the U.K.’s Competition and Markets Authority over its lending practices. | O
 It was also fined by the regulator for sending fake lawyers’ letters to customers in arrears. | O
