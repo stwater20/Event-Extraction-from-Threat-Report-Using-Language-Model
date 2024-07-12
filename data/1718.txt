@@ -1,12 +1,12 @@
 Microsoft Patches Vulnerabilities After Hack | PYMNTS.com | PatchVulnerability
-A group known as the Shadow Brokers published on Good Friday a set of confidential hacking tools used by the NSA to exploit software vulnerabilities in Microsoft Windows software. | PatchVulnerability, DiscoverVulnerability, AttackDatabreach
+A group known as the Shadow Brokers published on Good Friday a set of confidential hacking tools used by the NSA to exploit software vulnerabilities in Microsoft Windows software. | DiscoverVulnerability
 According to Fortune, Microsoft announced on the same day that it had patched the vulnerabilities related to the NSA leak. | PatchVulnerability
-It was especially important that the company moved quickly since juvenile hackers — also known as script kiddies — were expected to be active over the holiday weekend while defenders were away. | PatchVulnerability
-The threat was the latest and, according to security experts, the most damaging set of stolen documents published by the Shadow Brokers, which is believed to be tied to the Russian government. | PatchVulnerability, DiscoverVulnerability, AttackDatabreach
-Experts say the leak, which was mostly lines of computer code, was made up of a variety of “zero-day exploits” that can infiltrate Windows machines and then be used for espionage, vandalism or document theft. | PatchVulnerability, DiscoverVulnerability, AttackDatabreach
-The group also published another set of documents that show that the NSA penetrated the SWIFT banking network in the Middle East. | DiscoverVulnerability, AttackDatabreach
-“There appears to be at least several dozen exploits, including zero-day vulnerabilities, in this release. | PatchVulnerability, DiscoverVulnerability
-Some of the exploits even offer a potential ‘God mode’ on select Windows systems. | PatchVulnerability, DiscoverVulnerability
-A few of the products targeted include Lotus Notes, Lotus Domino, IIS, SMB, Windows XP, Windows 8, Windows Server 2003 and Windows Server 2012,” said Cris Thomas, a strategist at Tenable Network Security. | PatchVulnerability
-The Shadow Brokers have been threatening the U.S. government for some time but until last Friday had not released anything critical. | PatchVulnerability
-There is speculation that this document dump could be retaliation by Russia (if the hackers are indeed tied to the country) in response to recent U.S. military actions. | PatchVulnerability, AttackDatabreach
+It was especially important that the company moved quickly since juvenile hackers — also known as script kiddies — were expected to be active over the holiday weekend while defenders were away. | O
+The threat was the latest and, according to security experts, the most damaging set of stolen documents published by the Shadow Brokers, which is believed to be tied to the Russian government. | O
+Experts say the leak, which was mostly lines of computer code, was made up of a variety of “zero-day exploits” that can infiltrate Windows machines and then be used for espionage, vandalism or document theft. | DiscoverVulnerability
+The group also published another set of documents that show that the NSA penetrated the SWIFT banking network in the Middle East. | O
+“There appears to be at least several dozen exploits, including zero-day vulnerabilities, in this release. | DiscoverVulnerability
+Some of the exploits even offer a potential ‘God mode’ on select Windows systems. | O
+A few of the products targeted include Lotus Notes, Lotus Domino, IIS, SMB, Windows XP, Windows 8, Windows Server 2003 and Windows Server 2012,” said Cris Thomas, a strategist at Tenable Network Security. | O
+The Shadow Brokers have been threatening the U.S. government for some time but until last Friday had not released anything critical. | O
+There is speculation that this document dump could be retaliation by Russia (if the hackers are indeed tied to the country) in response to recent U.S. military actions. | O
