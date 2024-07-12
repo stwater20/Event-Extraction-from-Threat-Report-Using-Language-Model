@@ -1,24 +1,22 @@
- Fake Vodafone Phishing In Irish Mailboxes   
+Fake Vodafone Phishing In Irish Mailboxes | AttackPhishing
 ESET Ireland warns of an authentic looking phishing scam email, pretending to come from Vodafone. | AttackPhishing
 The cybercriminals are up to their old tricks even in the new year. | O
- An email, pretending to be from Vodafone has been spamming Irish mailboxes with a phishing attempt. | AttackPhishing
- The email reads: Dear Valued Customer, Just a quick reminder that you need to pay for your Vodafone service. | O
+An email, pretending to be from Vodafone has been spamming Irish mailboxes with a phishing attempt. | AttackPhishing
+The email reads: Dear Valued Customer, Just a quick reminder that you need to pay for your Vodafone service. | O
 Pay now to avoid service restriction or suspension. | O
 Your monthly bill for NETVIGATOR service has been issued. | O
 We have proceeded autopay payment according to your credit card information. | O
 However, such autopay payment is not successful. | O
 Your account is now overdue, so unless you’ve already paid in the last few days here’s what you need to do next. | O
- To check the total amount owing, please visit MyAccount
+To check the total amount owing, please visit MyAccount
 To avoid suspension of service, please settle the above amount before 04 Jan 2017. | O
 Log In To MyAccount https://www.vodafone.ie/myv/services/Process
 For details regarding the payment rejection, please contact your bank directly. | O
 It’s important that you make full payment of the outstanding amount to avoid restriction or suspension of your service. | O
- Please remember that if we suspend your service you’ll need to pay a reconnection fee. | O
- We’ll also apply all regular service charges until your service is cancelled. | O
+Please remember that if we suspend your service you’ll need to pay a reconnection fee. | O
+We’ll also apply all regular service charges until your service is cancelled. | O
 To help you manage your services, a number of online tools are available. | O
- You can pay your bill and track your usage through MyAccount and our 24×7 App. | O
+You can pay your bill and track your usage through MyAccount and our 24×7 App. | O
 While the email is made to look very convincing, with all the Vodafone logos and overall appearance, all the links in the email lead to a fake website, registered in Mexico, which tries to trick the user into submitting their account info and payment details. | AttackPhishing
 If you have received such an email, flag it as spam and delete it. | O
- Do not click any of the links in it. | O
-
-
+Do not click any of the links in it. | O

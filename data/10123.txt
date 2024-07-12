@@ -1,30 +1,28 @@
- The FBI is investigating a ransomware attack on the city of Atlanta  
+The FBI is investigating a ransomware attack on the city of Atlanta | AttackRansom
  (CNN)Atlanta's mayor on Thursday urged anyone with personal information in city information systems to check their financial records as an investigation continues into a ransomware attack on the city. | AttackRansom
 Ransomware is a malicious software that prevents or limits users from accessing their system by locking them out until a ransom is paid. | AttackRansom
- NBC affiliate WXIA reported that the city received a ransom demand in bitcoin for $6,800 per unit or $51,000 to unlock the entire system. | AttackRansom
- CNN has not independently confirmed the report. | O
+NBC affiliate WXIA reported that the city received a ransom demand in bitcoin for $6,800 per unit or $51,000 to unlock the entire system. | AttackRansom
+CNN has not independently confirmed the report. | O
 Mayor Keisha Lance Bottoms advised city employees to contact credit agencies and monitor their bank accounts in case their personal data was compromised. | AttackDatabreach
- She urged the public to take the same precautions while investigators work to determine the scope of the attack. | AttackRansom
+She urged the public to take the same precautions while investigators work to determine the scope of the attack. | AttackRansom
 "We don't know the extent so we just ask that you be vigilant," Bottoms said in a Thursday news conference. | O
- "All of us are subject to this attack, if you will. | O
- Many of us pay our bills online, we have direct deposit, so go online and check your bank statements." | AttackRansom
- Atlanta Chief Operating Officer Richard Cox confirmed that the city received a written demand related to the attack. | AttackRansom
- When asked in the news conference if the city was going to pay a ransom, Bottoms said, "We can't speak to that right now." | AttackRansom
+"All of us are subject to this attack, if you will. | O
+Many of us pay our bills online, we have direct deposit, so go online and check your bank statements." | AttackRansom
+Atlanta Chief Operating Officer Richard Cox confirmed that the city received a written demand related to the attack. | AttackRansom
+When asked in the news conference if the city was going to pay a ransom, Bottoms said, "We can't speak to that right now." | AttackRansom
 "We will be looking for guidance from, specifically, our federal partners on how to best navigate the best course of action," she said. | O
 The Federal Bureau of Investigation and Department of Homeland Security are investigating the cyberattack, which Atlanta Information Management officials learned of Thursday at 5:40 a.m., Cox said. | O
- DHS spokesman Scott McConnell said the agency offered technical expertise and support and referred questions to the city. | O
+DHS spokesman Scott McConnell said the agency offered technical expertise and support and referred questions to the city. | O
 The city announced outages earlier Thursday to various customer-facing applications, including those used to pay bills and access court-related information. | O
 Thursday afternoon, Cox said several departments were affected, too. | O
- Some city data remains encrypted while investigators continue to determine the scope of the attack, he said. | AttackRansom
+Some city data remains encrypted while investigators continue to determine the scope of the attack, he said. | AttackRansom
 The city's payroll has not been affected, he said. | O
- Public safety and water services are operating without incident. | O
+Public safety and water services are operating without incident. | O
 The city engaged Microsoft and a team from Cisco's Incident Response Services in the investigation, Deputy Chief Information Officer Daphne Rackley said. | O
 When asked if the city was aware of vulnerabilities and failed to take action, Rackley said the city had implemented measures in the past that might have lessened the scope of the breach. | O
- She cited a "cloud strategy" to migrate critical systems to secure infrastructure. | O
+She cited a "cloud strategy" to migrate critical systems to secure infrastructure. | O
 "This is not a new issue to the state of Georgia, it's not a new issue to our country. | O
- We have been taking active measures to mitigate any risk in the past." | O
+We have been taking active measures to mitigate any risk in the past." | O
 In the meantime, the mayor urged caution. | O
 "We don't know if it's limited to information related to just our employees or if it's more extensive than that. | O
- But because we don't know I think that it would be appropriate for the public just to be vigilant in checking their accounts and making sure your credit agencies also have been notified." | O
-
-
+But because we don't know I think that it would be appropriate for the public just to be vigilant in checking their accounts and making sure your credit agencies also have been notified." | O

@@ -1,4 +1,4 @@
- Ransomware for robots is the next big security nightmare  
+Ransomware for robots is the next big security nightmare | AttackRansom
 Researchers found they were able to infect robots with ransomware; in the real world, such attacks could be highly damaging to businesses if robotic security isn't addressed. | O
 Ransomware has long been a headache for PC and smartphone users, but in the future, it could be robots that stop working unless a ransom is paid. | AttackRansom
 Researchers at security company IOActive have shown how they managed to hack the humanoid NAO robot made by Softbank and infect one with custom-built ransomware. | O
@@ -19,6 +19,6 @@ While the robot ransomware infections have been done for the purposes of researc
 "While we don't see robots every day, they're going mainstream soon, businesses worldwide are deploying robots for different services. | O
 If we don't start making robots secure now, if more get out there which are easily hacked, there are very serious consequences," said Cerrudo. | O
 As with security vulnerabilities the Internet of Things and other products, the solution to this issue is for robotics manufacturers to think about cybersecurity at every step of the manufacturing process from day one. | O
-IOActive informed Softbank about the research in January but Cerrudo said: "We don't know if they [Softbank] are going to fix the issues and when, or even if they can fix the issues with the current design." | PatchVulnerability 
-Responding to the IOActive research, a Softbank spokesperson told ZDNet: "We will continue to improve our security measures on Pepper, so we can counter any risks we may face."  | O
+IOActive informed Softbank about the research in January but Cerrudo said: "We don't know if they [Softbank] are going to fix the issues and when, or even if they can fix the issues with the current design." | PatchVulnerability
+Responding to the IOActive research, a Softbank spokesperson told ZDNet: "We will continue to improve our security measures on Pepper, so we can counter any risks we may face." | O
 

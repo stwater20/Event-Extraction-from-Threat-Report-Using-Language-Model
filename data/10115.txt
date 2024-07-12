@@ -1,4 +1,4 @@
- Inside the Profitable Underworld of Ransomware  
+Inside the Profitable Underworld of Ransomware | AttackRansom
 (TNS) — Last month, employees at the Colorado Department of Transportation were greeted by a message on their computer screens similar to this: “All your files are encrypted with RSA-2048 encryption. | AttackRansom
  … It’s not possible to recover your files without private key. | O
  … You must send us 0.7 BitCoin for each affected PC or 3 BitCoins to receive ALL Private Keys for ALL affected PC’s.” | O

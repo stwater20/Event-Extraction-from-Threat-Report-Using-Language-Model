@@ -1,4 +1,4 @@
- Ransomware crooks test a new way to spread their malware  
+Ransomware crooks test a new way to spread their malware | AttackRansom
 A new form of ransomware has emerged which is, unusually, being distributed by two separate exploit kits -- one of which was thought to have disappeared -- and demands payment in a lesser-known form of cryptocurrency. | AttackRansom
 First seen on January 26, GandCrab has been spotted being distributed by two exploit kits, RIG EK and GrandSoft EK. | O
 According to researchers at security company Malwarebytes, it's unusual in itself for ransomware to be pushed using an exploit kit, with such tactics usually reserved for trojans and coin-miners. | O

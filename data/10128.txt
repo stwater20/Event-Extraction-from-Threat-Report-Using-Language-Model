@@ -1,56 +1,56 @@
- LI companies focus on weak link in cybersecurity: Employees   
+LI companies focus on weak link in cybersecurity: Employees | O
 Cybersecurity experts and companies on Long Island are looking for ways to shore up the weakest link on company computer networks: the employee. | O
 Local cybersecurity professionals are creating interactive comic books, testing employees with simulated phishing emails — tailored messages that seek to obtain key information, such as passwords — and seeking to convince top executives that the threat of business disruption from hacking requires their attention. | O
 “The biggest problem is not the technology; it’s the people,” said Laurin Buchanan, principal investigator at Secure Decisions, a division of Northport software developer Applied Visions Inc. | O
 Sixty percent of cyber-assaults on businesses can be traced to insiders’ actions, either inadvertent or malicious, according to a 2016 study by IBM Security. | O
 The average cost of a data breach for U.S. companies is $7.4 million, or $225 per lost or stolen record, a June 2017 study by IBM and the Ponemon Institute, a Traverse City, Michigan, researcher, found. | AttackDatabreach
 Costs related to data breaches can include the investigation, legal costs to defend against and settle class-action lawsuits, credit monitoring for affected customers, and coverage of fraud losses. | AttackDatabreach
- Harder to gauge is the cost to a company’s reputation. | O
+Harder to gauge is the cost to a company’s reputation. | O
 One of the largest hacks ever was disclosed this month, when credit reporting company Equifax Inc. revealed that sensitive data from 143 million consumers, including Social Security numbers and birth dates, was exposed. | AttackDatabreach
- A stock analyst from Stifel Financial Corp. | O
- estimated that the attack will cost Equifax about $300 million in direct expenses. | O
- Investors seem to think the incident will have a much greater impact on | O
+A stock analyst from Stifel Financial Corp. | O
+estimated that the attack will cost Equifax about $300 million in direct expenses. | O
+Investors seem to think the incident will have a much greater impact on | O
 At a seminar in Garden City this month, Henry Prince, chief security officer at Shellproof Security in Greenvale, explained how in a ransomware attack — one of many types — cybercriminals can buy specialized tools such as those used to send phishing emails. | AttackPhishing
- The easy availability of that software means that hackers require “no programming experience,” Prince said. | O
+The easy availability of that software means that hackers require “no programming experience,” Prince said. | O
 Phishing emails can be blocked by company email filters, firewalls and anti-virus software. | O
- But if one gets through and an employee clicks on the link in the phishing email, the business’ network is compromised. | AttackPhishing
- Hackers can then encrypt files, preventing access to them by the company and crippling the business, Prince said at the seminar. | O
+But if one gets through and an employee clicks on the link in the phishing email, the business’ network is compromised. | AttackPhishing
+Hackers can then encrypt files, preventing access to them by the company and crippling the business, Prince said at the seminar. | O
 Hackers then can demand payment, typically in an untraceable cryptocurrency like Bitcoin — a digital asset that uses encryption — before agreeing to decrypt the files. | AttackRansom
 “Ransomware is a business to these people,” Prince said. | O
- “Ninety-nine percent of the time, ransomware requires user interaction to infect.” | O
+“Ninety-nine percent of the time, ransomware requires user interaction to infect.” | O
 Della Ragione echoed that sentiment: “The greatest risk at a company is the employees. | O
- Training employees is one of the best steps in shoring up your defenses.” | O
+Training employees is one of the best steps in shoring up your defenses.” | O
 In response, many local experts and companies focus on teaching employees how to resist hackers’ tricks. | O
 Secure Decisions has developed interactive comics to teach employees ways of detecting “phishing” emails and other hacking attempts. | O
- The company has gotten more than $1 million for research related to the interactive comic project, known as Comic-BEE, from the Department of Homeland Security, as well as a grant for $162,262 from the National Science Foundation. | O
+The company has gotten more than $1 million for research related to the interactive comic project, known as Comic-BEE, from the Department of Homeland Security, as well as a grant for $162,262 from the National Science Foundation. | O
 The comics, inspired by children’s “Choose Your Own Adventure” books, feature different plots depending on the reader’s choices. | O
 “If you can give people the opportunity to role-play, some of the exhortations by the experts will make more sense,” Buchanan said. | O
 The comics are being field-tested at several companies and Stony Brook University. | O
- They were featured in July at a DHS cybersecurity workshop in Washington, D.C. | O
+They were featured in July at a DHS cybersecurity workshop in Washington, D.C. | O
 Radu Sion, a computer science professor at Stony Brook and director of its National Security Institute, which studies how to secure digital communications, acknowledged that security is far from a priority for most users. | O
 “Ultimately, the average Joe doesn’t care,” he said. | O
- “You [should] treat the vast majority of your users as easily hackable.” | O
+“You [should] treat the vast majority of your users as easily hackable.” | O
 Northwell Health, the New Hyde Park-based health care system that is the largest private employer in New York State, is trying to find and get the attention of those inattentive employees. | O
 Kathy Hughes, Northwell vice president and chief information security officer, sends out “phishing simulations” to the workforce. | O
- The emails are designed to mimic a real phishing campaign that seeks passwords and personal information. | AttackPhishing
- In April, for instance, Northwell sent out phishing emails with a tax theme. | AttackPhishing
+The emails are designed to mimic a real phishing campaign that seeks passwords and personal information. | AttackPhishing
+In April, for instance, Northwell sent out phishing emails with a tax theme. | AttackPhishing
 Hughes collects reports on which employees take the bait by user, department and job function. | AttackPhishing
 “We present them with a teachable moment,” she said. | O
- “We point out things in the email that they should have looked at more carefully.” | O
+“We point out things in the email that they should have looked at more carefully.” | O
 The emails are supplemented with newsletters, screen savers and digital signage reminding users that hackers are lurking. | O
- Another tool: Non-Northwell emails have an “external” notation in the subject line, making it harder for outsiders to pretend to be a colleague. | AttackPhishing
+Another tool: Non-Northwell emails have an “external” notation in the subject line, making it harder for outsiders to pretend to be a colleague. | AttackPhishing
 “We let [the employees] know that they are part of the security team,” she said. | O
- “Everybody has a responsibility for security.” | O
+“Everybody has a responsibility for security.” | O
 One of the most important constituencies for security is top executives. | O
 Drew Walker, a cybersecurity expert at Vector Solutions in Tampa, Florida, said many executives would rather not know about vulnerabilities to their computer systems, because knowledge of a hole makes them legally vulnerable and casts them in a bad light. | O
 “Nine times out of 10, they don’t want to hear it,” he said. | O
- “It makes them look bad.” | O
+“It makes them look bad.” | O
 Richard Frankel, a former FBI special agent who is of counsel at Ruskin Moscou, said that company tests of cybersecurity readiness often snare CEOs who weren’t paying attention to training. | O
 But attorney Della Ragione said high-profile attacks are getting notice from executives. | O
 “Everyone’s consciousness is being raised,” she said. | O
 Data leaks at Long Island companies have caused executives to heighten security. | AttackDatabreach
 In 2014, Farmingdale-based supermarket chain Uncle Giuseppe’s Marketplace said that foreign hackers had breached the credit card database of three stores. | AttackDatabreach
- Joseph Neglia, director of information technology at Uncle Giuseppe’s, said that after the data breach, which affected about 100 customers, the company began scheduling “monthly vulnerability scans” and upgraded its monitoring and security systems. | AttackDatabreach
+Joseph Neglia, director of information technology at Uncle Giuseppe’s, said that after the data breach, which affected about 100 customers, the company began scheduling “monthly vulnerability scans” and upgraded its monitoring and security systems. | AttackDatabreach
 For businesses, Stony Brook’s Sion said, the cybersecurity threat is real and immediate. | O
 “I need one second with your machine to compromise it forever and ever,” he said. | O
- “It’s an uphill battle.” | O
+“It’s an uphill battle.” | O

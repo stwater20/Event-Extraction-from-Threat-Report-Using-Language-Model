@@ -1,4 +1,4 @@
- Some Memcached DDoS Attackers Are Asking for a Ransom Demand in Monero  
+Some Memcached DDoS Attackers Are Asking for a Ransom Demand in Monero | AttackRansom
 DDoS extortionists have already pounced on the Memcached DDoS attack vector in attempts to extract payments from attacked companies. | AttackRansom
 Akamai revealed earlier today that it detected DDoS attacks executed via Memcached servers that were different from others. | O
 Instead of blasting targets with UDP packets containing random data, one group of attackers is leaving short messages inside these packets. | O

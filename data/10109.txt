@@ -1,7 +1,7 @@
- Exposed: The path of ransomware payments  
+Exposed: The path of ransomware payments | AttackRansom
 The murky ecosystem of ransomware payments comes into focus in new research led by Damon McCoy, an assistant professor of computer science and engineering at the NYU Tandon School of Engineering. | AttackRansom
 Ransomware attacks, which encrypt and hold a computer user's files hostage in exchange for payment, extort millions of dollars from individuals each month, and comprise one of the fastest-growing forms of cyber attack. | AttackRansom
-In a paper slated for presentation at the IEEE Symposium on Security and Privacy in May, McCoy and a team including researchers from the University of California, San Diego; Princeton University; Google; and the blockchain analytics firm Chainalysis provide the first detailed account of the ransomware payment ecosystem, from initial attack to cash-out. | O 
+In a paper slated for presentation at the IEEE Symposium on Security and Privacy in May, McCoy and a team including researchers from the University of California, San Diego; Princeton University; Google; and the blockchain analytics firm Chainalysis provide the first detailed account of the ransomware payment ecosystem, from initial attack to cash-out. | O
 Key findings include the discovery that South Koreans are disproportionately impacted by ransomware campaigns, with analysis revealing that $2.5 million of the $16 million in ransomware payments tracked by the researchers was paid in South Korea. | AttackRansom
 The paper's authors call for additional research to determine the reason that so many South Koreans are victimized and how they can be protected. | O
 The team also found that most ransomware operators used a Russian bitcoin exchange, BTC-E, to convert bitcoin to fiat currencies. | O

@@ -1,4 +1,4 @@
- Hit by ransomware? This new free decryption tool for GandCrab might help  
+Hit by ransomware? This new free decryption tool for GandCrab might help | AttackRansom
 Victims of one the newest - and most unusual - families of ransomware could now be able to recover their files without giving into the demands of criminals because decryption tools have been released for free. | AttackRansom
 A GandCrab ransomware decryption tool has been released as part of the No More Ransom initiative, following a combined operation by Bitdefender, the Romanian Police, the Directorate for Investigating Organized Crime and Terrorism (DIICOT) and Europol. | O
 GandGrab first appeared in January and has already claimed over 53,000 victims around the world, making it what Europol describe as "one of the most aggressive forms of ransomware so far this year" costing each victim anything from a few hundred dollars to a few thousand. | AttackRansom

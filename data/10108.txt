@@ -1,4 +1,4 @@
- SamSam virus demands bitcoin from CDOT, state shuts down 2,000 computers  
+SamSam virus demands bitcoin from CDOT, state shuts down 2,000 computers | O
 Colorado investigators call in FBI, work through the night. | O
 Colorado Department of Transportation employees spent a second day offline Thursday as security officials investigated the damage done by a ransomware virus that hijacked computer files and demanded payment in bitcoin for their safe return. | AttackRansom
 The state’s Office of Information Technology, which reached out to the FBI for assistance, are still investigating the attack and have not paid a cent to attackers — nor do they plan to, said Brandi Simmons, an OIT spokeswoman. | AttackRansom

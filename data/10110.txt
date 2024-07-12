@@ -1,4 +1,4 @@
- Ransomware Out, Cryptojacking In  
+Ransomware Out, Cryptojacking In | AttackRansom
 Cryptojacking attacks exploded by 8,500% in 2017 resulting from the sudden increase in cryptocurrency values. | O
 According to research released by Symantec, UK ranked as the fifth highest country worldwide, with a staggering 44,000% increase in coin-miner detections. | O
 With a low barrier to entry – only requiring a couple lines of code to operate – cyber-criminals are harnessing stolen processing power and cloud CPU usage from consumers and enterprises to mine cryptocurrency. | O

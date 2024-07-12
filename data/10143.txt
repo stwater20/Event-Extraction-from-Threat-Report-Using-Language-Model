@@ -1,16 +1,16 @@
- AWS FreeRTOS Bugs Allow Compromise of IoT Devices  
+AWS FreeRTOS Bugs Allow Compromise of IoT Devices | O
 The bugs let hackers crash IoT devices, leak their information, and completely take them over. | AttackDatabreach
 Researchers have found that a popular Internet of Things real-time operating system – FreeRTOS – is riddled with serious vulnerabilities. | DiscoverVulnerability
 The bugs could allow hackers to crash connected devices in smart homes or critical infrastructure systems, leak information from the devices’ memory, and take them over. | AttackDatabreach
- And while patches have been issued, researchers warn that it still may take time for smaller vendors to update. | PatchVulnerability
+And while patches have been issued, researchers warn that it still may take time for smaller vendors to update. | PatchVulnerability
 Researcher Ori Karliner, with Zimperium’s zLabs team, recently analyzed some of the leading operating systems in the IoT market – including FreeRTOS, an open-source OS specifically designed for the microcontrollers that are within IoT devices. | O
- Within several versions of FreeRTOS, Karliner found 13 vulnerabilities enabling an array of attacks, including remote code execution, information leak and denial-of-service bugs. | DiscoverVulnerability
+Within several versions of FreeRTOS, Karliner found 13 vulnerabilities enabling an array of attacks, including remote code execution, information leak and denial-of-service bugs. | DiscoverVulnerability
 “During our research, we discovered multiple vulnerabilities within FreeRTOS’s TCP/IP stack and in the AWS secure connectivity modules. | DiscoverVulnerability
- The same vulnerabilities are present in WHIS Connect TCP/IP component for OpenRTOS\SafeRTOS,” according to a Thursday post by zLabs. | DiscoverVulnerability
+The same vulnerabilities are present in WHIS Connect TCP/IP component for OpenRTOS\SafeRTOS,” according to a Thursday post by zLabs. | DiscoverVulnerability
 The vulnerabilities specifically exist in FreeRTOS’s TCP/IP stack and in the AWS secure connectivity modules (in as well as in the WHIS Connect TCP/IP component for OpenRTOS\SafeRTOS). | DiscoverVulnerability
 These vulnerabilities include four remote code execution bugs (CVE-2018-16522, CVE-2018-16525, CVE-2018-16526, and CVE-2018-16528); seven information leak vulnerabilities (CVE-2018-16524, CVE-2018-16527, CVE-2018-16599, CVE-2018-16600, CVE-2018-16601, CVE-2018-16602, CVE-2018-16603) one denial of service flaw (CVE-2018-16523) and a final (CVE-2018-16598) that was unspecified. | DiscoverVulnerability
 zLabs said it has disclosed the security issues to Amazon and collaborated with them to patch the vulnerabilities. | DiscoverVulnerability
- Those fixes were deployed for AWS FreeRTOS versions 1.3.2 and onwards. | PatchVulnerability
- The vulnerabilities in RTOS WHIS were also patched. | PatchVulnerability
+Those fixes were deployed for AWS FreeRTOS versions 1.3.2 and onwards. | PatchVulnerability
+The vulnerabilities in RTOS WHIS were also patched. | PatchVulnerability
 Amazon did not respond to a request for comment from Threatpost. | O
 Due to the amount of vendors impacted by the bugs, the researchers said that they would hold off on publishing further details until all holes have been sealed. | DiscoverVulnerability, PatchVulnerability

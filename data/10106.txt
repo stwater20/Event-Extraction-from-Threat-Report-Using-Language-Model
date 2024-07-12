@@ -1,4 +1,4 @@
- CDOT computers held for ransom, virus demands bitcoin payment  
+CDOT computers held for ransom, virus demands bitcoin payment | AttackRansom
 State-owned computers in Colorado are being held for ransom. | AttackRansom
 According to the governor’s office, some Colorado Department of Transportation computers were first infected with ransomware on Wednesday. | AttackRansom
 Security tools detected the problem. | O

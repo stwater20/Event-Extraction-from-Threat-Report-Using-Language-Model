@@ -1,28 +1,28 @@
- Scammer hacks into eBay, tricks Anderson woman to get phone  
+Scammer hacks into eBay, tricks Anderson woman to get phone | O  
 If you sell items online, beware scammers who are hacking into websites and taking over real users' accounts. | O
 Casundra Venable told FOX59 she has sold on eBay for five years with no problems, but recently she fell victim to a scam. | O
 Venable was selling a Samsung phone with accessories on the website. | O
- Her sale closed, she received a $227 payment, and then a message that she thought was from the buyer. | O
+Her sale closed, she received a $227 payment, and then a message that she thought was from the buyer. | O
 "Thanks so much for (an) interesting auction. | O
- It was hard to choose the present for my friend. | O
- I think my friend will love this," Venable said, reading the message. | O
+It was hard to choose the present for my friend. | O
+I think my friend will love this," Venable said, reading the message. | O
 The writer sent her supposed friend's address, and Venable sent the package to that address. | O
- A few days later, she received a message from eBay saying the buyer had not received the package. | O
- It was then that she realized the message had been a fake. | O
+A few days later, she received a message from eBay saying the buyer had not received the package. | O
+It was then that she realized the message had been a fake. | O
 "I thought, you know, 'How stupid (was I) for doing it?" Venable said. | O
 Venable said she was on the lookout for scams, but only those that come from people outside the eBay website. | O
- She assumed that because the message came through a real account, it was legitimate. | O
- It turns out, the scammer hacked into a real user's account and used it to find a closing sale, then pretended to be the buyer. | AttackPhishing
+She assumed that because the message came through a real account, it was legitimate. | O
+It turns out, the scammer hacked into a real user's account and used it to find a closing sale, then pretended to be the buyer. | AttackPhishing
 "If they ask you to send it somewhere besides their registered address, say no," Venable said. | O
 FOX59 spoke with the Better Business Bureau's Tim Maniscalo, who said that while he had not heard of this specific type of eBay scam, it didn't surprise him. | O
 "Well over 50 percent of the scams (we see) now are perpetrated in some way, shape, or form through the internet," Maniscalo said. | O
 Venable tried to get her package back, but she could not get it from the warehouse in Brooklyn, New York where it ended up. | O
 "(A man on the phone) said it’s off to the country of Georgia," Venable said. | O
 An eBay spokesperson confirmed this scam to FOX59, saying a hacker was involved. | O
- The company also sent an alert to Venable, but it was too late. | O
- The spokesperson sent this statement: | O
+The company also sent an alert to Venable, but it was too late. | O
+The spokesperson sent this statement: | O
 "This incident was a scam and was the result of an unauthorized takeover of another user’s account. | O
- Unfortunately, scam artists will gain access to eBay member accounts through phishing emails in order to defraud other members. | AttackDatabreach
- Criminals often exploit well-known, trusted brand names like eBay to attract consumers and then lure them into fraudulent transactions. | AttackPhishing
- We always encourage all our shoppers to be cautious and vigilant when executing a transaction on eBay. | O
- Members can prevent account takeovers from occurring by having frequent virus and spyware scans done on their account, regularly updating their passwords, and confirming a message was sent by eBay by checking their “My Messages” within their eBay account." | AttackPhishing
+Unfortunately, scam artists will gain access to eBay member accounts through phishing emails in order to defraud other members. | AttackDatabreach
+Criminals often exploit well-known, trusted brand names like eBay to attract consumers and then lure them into fraudulent transactions. | AttackPhishing
+We always encourage all our shoppers to be cautious and vigilant when executing a transaction on eBay. | O
+Members can prevent account takeovers from occurring by having frequent virus and spyware scans done on their account, regularly updating their passwords, and confirming a message was sent by eBay by checking their “My Messages” within their eBay account." | AttackPhishing

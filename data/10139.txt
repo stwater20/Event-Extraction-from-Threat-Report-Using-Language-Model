@@ -1,4 +1,4 @@
- Net Neutrality Activists Targeted by Clever Pornhub-Themed Phishing Campaign  
+Net Neutrality Activists Targeted by Clever Pornhub-Themed Phishing Campaign | AttackPhishing
 Employees of US NGOs Fight for the Future and Free Press were targeted with complex spear-phishing attempts between July 7 and August 8, reported today the Electronic Frontier Foundation (EFF). | AttackPhishing
 Both organizations targeted in the attacks are currently fighting against for Net Neutrality in the US. | AttackPhishing
 Based on currently available evidence, the attacks appear to have been orchestrated by the same attacker, located in a UTC+3-5:30 timezone, said EFF Director of Cybersecurity Eva Galperin and EFF security researcher Cooper Quintin. | O
@@ -20,14 +20,14 @@ Attackers also used other tactics. | O
 ⬭ LinkedIn message notifications that tried to trick users into giving away LinkedIn creds. | AttackPhishing
 ⬭ Emails disguised to look like they were coming from family members, sharing photos, but which asked the victim to log in and give away credentials instead. | AttackPhishing
 ⬭ Fake email notifications for hateful comments posted on the target's YouTube videos. | AttackPhishing
- When the victim followed the link included in the email, the target would have to enter Google credentials before performing the comment moderation actions. | O
+When the victim followed the link included in the email, the target would have to enter Google credentials before performing the comment moderation actions. | O
 ⬭ Emails that looked like a friend was sharing interesting news stories. | AttackPhishing
- Used topics and subject lines include:. | O
-                 - Net Neutrality Activists 'Rickroll' FCC Chairman Ajit Pai. |
-                 - Porn star Jessica Drake claims Donald Trump offered her $10G, use of his private jet for sex. | O
-                 - Reality show mom wants to hire a hooker for her autistic son. | O
+Used topics and subject lines include:. | O
+- Net Neutrality Activists 'Rickroll' FCC Chairman Ajit Pai. | O
+- Porn star Jessica Drake claims Donald Trump offered her $10G, use of his private jet for sex. | O
+- Reality show mom wants to hire a hooker for her autistic son. | O
 In one case, one of the targeted activists received a request from a user asking for a link to buy her music. | O
- When the target replied, the attacker answered back with a Gmail phishing link, claiming the buy link didn't work. | AttackPhishing
- EFF experts say that victims who had two-factor authentication turned on for their accounts would have prevented attackers from logging into their profiles even if they had managed to obtain their password. | AttackDatabreach
+When the target replied, the attacker answered back with a Gmail phishing link, claiming the buy link didn't work. | AttackPhishing
+EFF experts say that victims who had two-factor authentication turned on for their accounts would have prevented attackers from logging into their profiles even if they had managed to obtain their password. | AttackDatabreach
 
 

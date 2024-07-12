@@ -1,4 +1,4 @@
- Hospital Pays $55K Ransomware Demand Despite Having Backups  
+Hospital Pays $55K Ransomware Demand Despite Having Backups | AttackRansom
 An Indiana hospital paid a ransom of $55,000 to get rid of ransomware that had infected its systems and was hindering operations last week. | AttackRansom
 The infection took root last week, on Thursday, January 11, when attackers breached the network of Hancock Health, a regional hospital in the city of Greenfield, Indiana. | O
 Attackers deployed the SamSam ransomware, which encrypted files and renamed them with the phrase "I’m sorry", according to a local newspaper who broke the news last week. | O

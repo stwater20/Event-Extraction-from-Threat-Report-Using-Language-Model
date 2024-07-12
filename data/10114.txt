@@ -1,4 +1,4 @@
- Hospital hit by ransomware: Attackers demand Bitcoin to release control of system  
+Hospital hit by ransomware: Attackers demand Bitcoin to release control of system | AttackRansom
 GREENFIELD — Hancock Health fell victim to a cyber attack Thursday, with a hacker demanding Bitcoin to relinquish control of part of the hospital’s computer system. | AttackRansom
 Employees knew something was wrong Thursday night, when the network began running more slowly than normal, senior vice president/chief strategy and innovation officer Rob Matt said. | O
 A short time later, a message flashed on a hospital computer screen, stating parts of the system would be held hostage until a ransom is paid. | AttackRansom
@@ -12,7 +12,7 @@ Long declined to disclose details of the attack, including how much ransom has b
 The attack was not the result of an employee opening a malware-infected email, a common tactic used to hack computer systems, he said. | AttackRansom
 The attack was sophisticated, he said, adding FBI officials are familiar with this method of security breach. | AttackRansom
 “This was not a 15-year-old kid sitting in his mother’s basement,” Long said. | O
-Protecting patients. | O 
+Protecting patients. | O
 Notices posted Friday at entrances to Hancock Regional Hospital alerted visitors to a “system-wide outage” and asked any hospital employee or office using a HRH network to ensure all computers were turned off. | O
 Doctors and nurses have reverted to using pen and paper for now to keep patients’ medical charts updated. | O
  Long said he wasn’t aware of any appointments or procedures that were canceled directly related to the incident, adding Friday’s snowy weather contributed to many cancellations. | O
@@ -24,6 +24,6 @@ Long commended his staff, especially IT workers, who quickly identified the prob
 Leaders updated hospital employees, totaling about 1,200 people, throughout the day Friday and took steps to be accommodate both patients and staff, including offering free food in the hospital cafeteria all day, Long said. | O
 Long said if there is any suggestion private patient information has been compromised, hospital officials will reach out to those affected, though he doesn’t expect that to become an issue. | AttackDatabreach
 “We anticipate questions,” he said. | O
- “This is not a small deal.” | O
+“This is not a small deal.” | O
 
 

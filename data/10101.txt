@@ -1,4 +1,4 @@
- Hackers connected to NotPetya ransomware issue a new ransom demand  
+Hackers connected to NotPetya ransomware issue a new ransom demand | AttackRansom
 HACKERS connected with last week’s devastating NotPetya cyber attack have offered help — but it comes at a price. | O
 HACKERS connected with the ransomware that devastated overseas banks, power stations, and even Cadbury factories in Australia last week have issued a new ransom demand — and it’s for much more money than before. | AttackRansom
 The new ransom note was published in two places on the Dark Web and demanded a payment of 100 Bitcoins, or about $340,000, in return for a private security key that could decrypt any file locked by the Petya/Goldeneye malware. | AttackRansom

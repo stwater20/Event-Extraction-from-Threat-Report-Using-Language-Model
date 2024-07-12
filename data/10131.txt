@@ -1,21 +1,21 @@
- Microsoft has already fixed the Wi-Fi attack vulnerability   
+Microsoft has already fixed the Wi-Fi attack vulnerability | PatchVulnerability
 Technology companies are starting to respond to a new Wi-Fi exploit affecting all modern Wi-Fi networks using WPA or WPA2  encryption. | DiscoverVulnerability
- The security vulnerabilities allow attackers to read Wi-Fi traffic between devices and wireless access points, and in some cases even modify it to inject malware into websites. | DiscoverVulnerability
- Security researchers claim devices running macOS, Windows, iOS, Android, and Linux will be affected by the vulnerabilities. | DiscoverVulnerability
+The security vulnerabilities allow attackers to read Wi-Fi traffic between devices and wireless access points, and in some cases even modify it to inject malware into websites. | DiscoverVulnerability
+Security researchers claim devices running macOS, Windows, iOS, Android, and Linux will be affected by the vulnerabilities. | DiscoverVulnerability
 Microsoft says it has already fixed the problem for customers running supported versions of Windows. | PatchVulnerability
- “We have released a security update to address this issue,” says a Microsoft spokesperson in a statement to The Verge. | PatchVulnerability
- “Customers who apply the update, or have automatic updates enabled, will be protected. | PatchVulnerability
- We continue to encourage customers to turn on automatic updates to help ensure they are protected.” | O
- Microsoft says the Windows updates released on October 10th protect customers, and the company “withheld disclosure until other vendors could develop and release updates.” | PatchVulnerabilit
+“We have released a security update to address this issue,” says a Microsoft spokesperson in a statement to The Verge. | PatchVulnerability
+“Customers who apply the update, or have automatic updates enabled, will be protected. | PatchVulnerability
+We continue to encourage customers to turn on automatic updates to help ensure they are protected.” | O
+Microsoft says the Windows updates released on October 10th protect customers, and the company “withheld disclosure until other vendors could develop and release updates.” | PatchVulnerabilit
 While it looks like Android and Linux devices are affected by the worst part of the vulnerabilities, allowing attackers to manipulate websites, Google has promised a fix for affected devices “in the coming weeks.” | DiscoverVulnerability, PatchVulnerability
- Google’s own Pixel devices will be the first to receive fixes with security patch level of November 6, 2017, but most other handsets are still well behind even the latest updates. | PatchVulnerability
- Security researchers claim 41 percent of Android devices are vulnerable to an “exceptionally devastating” variant of the Wi-Fi attack that involves manipulating traffic, and it will take time to patch older devices. | DiscoverVulnerability
+Google’s own Pixel devices will be the first to receive fixes with security patch level of November 6, 2017, but most other handsets are still well behind even the latest updates. | PatchVulnerability
+Security researchers claim 41 percent of Android devices are vulnerable to an “exceptionally devastating” variant of the Wi-Fi attack that involves manipulating traffic, and it will take time to patch older devices. | DiscoverVulnerability
 The Verge has reached out to a variety of Android phone makers to clarify when security patches will reach handsets, and we’ll update you accordingly. | PatchVulnerability
- At the time of writing, Apple has not yet clarified whether the latest versions of macOS and iOS are vulnerable. | DiscoverVulnerability
+At the time of writing, Apple has not yet clarified whether the latest versions of macOS and iOS are vulnerable. | DiscoverVulnerability
 The Wi-Fi Alliance, a network of companies responsible for Wi-Fi, has responded to the disclosure of the vulnerabilities. | DiscoverVulnerability
- “This issue can be resolved through straightforward software updates, and the Wi-Fi industry, including major platform providers, has already started deploying patches to Wi-Fi users,” says a Wi-Fi Alliance spokesperson. | PatchVulnerability
- “Users can expect all their Wi-Fi devices, whether patched or unpatched, to continue working well together.” | PatchVulnerability
+“This issue can be resolved through straightforward software updates, and the Wi-Fi industry, including major platform providers, has already started deploying patches to Wi-Fi users,” says a Wi-Fi Alliance spokesperson. | PatchVulnerability
+“Users can expect all their Wi-Fi devices, whether patched or unpatched, to continue working well together.” | PatchVulnerability
 Apple also confirmed to both The Verge and AppleInsider that the vulnerability is patched in a beta version of the current operating systems. | PatchVulnerability
- The fix should go public in a few weeks, so iOS and macOS devices aren't in the clear just yet. | PatchVulnerability
- AppleInsider also reports that AirPort hardware, including the Time Machine, AirPort Extreme base station, and AirPort Express do not have a patch. | PatchVulnerability
- The publication's source also wasn't sure if one was in the works. | O
+The fix should go public in a few weeks, so iOS and macOS devices aren't in the clear just yet. | PatchVulnerability
+AppleInsider also reports that AirPort hardware, including the Time Machine, AirPort Extreme base station, and AirPort Express do not have a patch. | PatchVulnerability
+The publication's source also wasn't sure if one was in the works. | O
