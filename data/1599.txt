@@ -1,5 +1,5 @@
 Rise in hospital cyber attack reports - BBC News | O
-NHS hospital trusts in England reported 55 cyber attacks in 2016, according to data obtained by the BBC. | AttackRansom
+NHS hospital trusts in England reported 55 cyber attacks in 2016, according to data obtained by the BBC. | O
 The figures come from NHS Digital, which oversees cyber security, and show an increase on 16 attacks in 2015. | O
 NHS Digital said the figures showed a "rise in reporting, not necessarily a rise in cyber attacks". | O
 But Oliver Farnan, from the Oxford Cyber Security Centre, said ransomware attacks had become more common. | AttackRansom
