@@ -1,16 +1,16 @@
 Three UK's mobile customers experience new data breach | Business | The Guardian | AttackDatabreach
-The mobile phone company Three has experienced a fresh data breach after some customers logging into their accounts were presented with the names, addresses, phone numbers and call histories of strangers. | DiscoverVulnerability, AttackDatabreach
-Three said it was investigating a technical issue with its systems and urged those affected to contact its customer service department. | DiscoverVulnerability
-One customer, Andy Fidler, told the Guardian he was presented with the data usage and full call and text history of another named customer when he logged in on Sunday night. | DiscoverVulnerability, AttackDatabreach
-Another, Mark Thompson, said on Facebook he received a call from a complete stranger who said she had logged on to her account and was shown his details. | DiscoverVulnerability, AttackDatabreach
-Thompson said it was a “shocking breach of data privacy”. | DiscoverVulnerability, AttackDatabreach
-He wrote on Three UK’s Facebook page: “Care to explain just how my details have been shared, how many people have had access to my personal information, for how long, and how many of your other customers have had their details leaked by yourselves to other members of the public as well?” | DiscoverVulnerability, AttackDatabreach
-Other customers also wanted to know why they were being presented with other people’s information when they logged in. | AttackDatabreach
-Three UK, which is owned by the telecoms giant Hutchinson and has 9 million customers in Britain, said it was investigating. | DiscoverVulnerability, AttackDatabreach
-“We are aware of a small number of customers who may have been able to view the mobile account details of other Three users using My3,” a spokesman said. | DiscoverVulnerability, AttackDatabreach
+The mobile phone company Three has experienced a fresh data breach after some customers logging into their accounts were presented with the names, addresses, phone numbers and call histories of strangers. | AttackDatabreach
+Three said it was investigating a technical issue with its systems and urged those affected to contact its customer service department. | O
+One customer, Andy Fidler, told the Guardian he was presented with the data usage and full call and text history of another named customer when he logged in on Sunday night. | AttackDatabreach
+Another, Mark Thompson, said on Facebook he received a call from a complete stranger who said she had logged on to her account and was shown his details. | AttackDatabreach
+Thompson said it was a “shocking breach of data privacy”. | O
+He wrote on Three UK’s Facebook page: “Care to explain just how my details have been shared, how many people have had access to my personal information, for how long, and how many of your other customers have had their details leaked by yourselves to other members of the public as well?” | O
+Other customers also wanted to know why they were being presented with other people’s information when they logged in. | O
+Three UK, which is owned by the telecoms giant Hutchinson and has 9 million customers in Britain, said it was investigating. | O
+“We are aware of a small number of customers who may have been able to view the mobile account details of other Three users using My3,” a spokesman said. | O
 “No financial details were viewable during this time and we are investigating the matter”. | O
-The Information Commissioner’s Office said it “will be looking into this potential incident involving Three”. | DiscoverVulnerability, AttackDatabreach
-A spokeswoman for the regulator said: “Data protection law requires organisations to keep any personal information they hold secure. | DiscoverVulnerability, AttackDatabreach
-It’s our job to act on behalf of consumers to see whether that’s happened and take appropriate action if it has not”. | DiscoverVulnerability, AttackDatabreach
-The problem comes four months after three men were arrested after fraudsters accessed personal data of thousands of Three customers, including names and addresses, by using authorised logins to its database of customers eligible for an upgraded handset. | DiscoverVulnerability, AttackDatabreach
-Customer information from more than 133,000 users was compromised in the incident. | AttackDatabreach
+The Information Commissioner’s Office said it “will be looking into this potential incident involving Three”. | O
+A spokeswoman for the regulator said: “Data protection law requires organisations to keep any personal information they hold secure. | O
+It’s our job to act on behalf of consumers to see whether that’s happened and take appropriate action if it has not”. | O
+The problem comes four months after three men were arrested after fraudsters accessed personal data of thousands of Three customers, including names and addresses, by using authorised logins to its database of customers eligible for an upgraded handset. | O
+Customer information from more than 133,000 users was compromised in the incident. | O
