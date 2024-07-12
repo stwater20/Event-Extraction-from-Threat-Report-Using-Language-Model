@@ -14,6 +14,6 @@ A group called Kraken0, responsible for most of the ransomware attacks against d
 The number of wiped CouchDB databases is also growing rapidly, reaching more than 400 so far. | O
 CouchDB is a NoSQL-style database platform similar to MongoDB. | O
 Unlike the Hadoop vandalism, the CouchDB attacks are accompanied by ransom messages, with attackers asking for 0.1 bitcoins (around $100) to return the data. | AttackRansom
-Victims are advised against paying because, in many of the MongoDB attacks, there was no evidence that attackers had actually copied the data before deleting it. | AttackRansom , AttackDatabreach
+Victims are advised against paying because, in many of the MongoDB attacks, there was no evidence that attackers had actually copied the data before deleting it. | AttackRansom, AttackDatabreach
 Researchers from Fidelis Cybersecurity have also observed the Hadoop attacks and have published a blog post with more details and recommendations on securing such deployments. | O
 
