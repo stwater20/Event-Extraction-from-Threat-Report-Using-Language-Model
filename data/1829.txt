@@ -1,6 +1,6 @@
 Locky ransomware makes a comeback, courtesy of Necurs botnet - Help Net Security | O
 The Necurs botnet has, once again, begun pushing Locky ransomware on unsuspecting victims. | AttackRansom
-The botnet, which flip-flops from sending penny stock pump-and-dump emails to booby-trapped files that lead to malware (usually Locky or Dridex), has been spotted slinging thousand upon thousand of emails in the last three or four days. | AttackPhishing
+The botnet, which flip-flops from sending penny stock pump-and-dump emails to booby-trapped files that lead to malware (usually Locky or Dridex), has been spotted slinging thousand upon thousand of emails in the last three or four days. | O
 “Talos has seen in excess of 35K emails in the last several hours associated with this newest wave of Locky,” Cisco Talos researchers noted on Friday. | O
 In the first part of the spam campaign, the emails contain no text except in the Subject line, which simply says “Receipt” or “Payment”, followed by random numbers. | O
 Those numbers are seen again in the name of the attached PDF file (as seen in the screenshot above). | O
