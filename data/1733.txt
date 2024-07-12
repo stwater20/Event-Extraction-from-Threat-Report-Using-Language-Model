@@ -5,7 +5,7 @@ The database according to vendor’s listing was leaked in 2016 and leaked on th
 Although it is unclear how the database was stolen CosmicDark is selling the whole package for USD 300 (BTC 0.2559). | O
 The data contains emails and passwords decrypted with MD5 & SHA1 hashes. | O
 According to the sample data (552 accounts) provided by CosmicDark, most of the emails are based on @163.com, @qq.com, and @xiaonei.com. | O
-It must be noted that based on HackRead’s research the encrypted passwords provided in the sample data have already been decrypted and publically available on the Internet. | O
+It must be noted that based on HackRead’s research the encrypted passwords provided in the sample data have already been decrypted and publically available on the Internet. | AttackDatabreach
 Also, HaveIbeenpwned, a platform where you can check if your account has been compromised has also confirmed the breach. | O
 It is unclear whether Youku Inc. is aware of the breach or has notified its users, however it is evident that it poses a massive privacy threat to their users. | O
 Furthermore, vendors in the same marketplace are selling 21 million Gmail and Yahoo accounts, 640,000 decrypted PlayStation accounts, millions of accounts from 11 hacked Bitcoin forums and millions of accounts stolen from 25 hacked vBulletin forums. | AttackDatabreach
