@@ -1,6 +1,6 @@
 Proofpoint Finds Social Media Phishing Scam Steals Credentials And Credit Cards - Information Security Buzz | AttackPhishing
 In a new blog post researchers from Proofpoint have tracked a phishing campaign leveraging the concept of “Twitter Brand Verification”. | AttackPhishing
-Because the actors in this case are relying on paid, targeted ads on Twitter, users don’t need to do anything to see the phishing link. | O
+Because the actors in this case are relying on paid, targeted ads on Twitter, users don’t need to do anything to see the phishing link. | AttackPhishing
 Attackers are increasing the sophistication of social engineering approaches and extending them across social channels. | O
 Users and brands need to be increasingly savvy to avoid getting snared by ads, accounts, and messages that initially look legitimate. | O
 While this attack was observed on Twitter, such a scam could be implemented on any social media platform that implements some form of account verification. | O
@@ -12,5 +12,5 @@ Account verification is a process that Twitter manages for “accounts of public
 The promise, then, of a quick verification process is attractive, especially to smaller businesses that potentially lack the resources to meet Twitter’s requirements for account verification. | O
 In this phishing attack, discovered by Proofpoint researchers in December, attackers place legitimate ads targeting brand managers and influencers with a link to a phishing site purporting to offer account verification. | AttackPhishing
 The ads themselves come from an account that mimics the official Twitter support account, @support. | AttackPhishing
-The fraudulent account, @SupportForAll6, uses Twitter branding, logos, colors, etc., to increase the sense of authenticity, despite a very low number of followers and a suspect name. | O
+The fraudulent account, @SupportForAll6, uses Twitter branding, logos, colors, etc., to increase the sense of authenticity, despite a very low number of followers and a suspect name. | AttackPhishing
 

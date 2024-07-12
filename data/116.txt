@@ -1,14 +1,14 @@
-Merry X-Mas ransomware from Sunday 2017-01-08 - SANS Internet Storm Center | O
+Merry X-Mas ransomware from Sunday 2017-01-08 - SANS Internet Storm Center | AttackRansom
 On Tuesday 2017-01-03, BleepingComputer published an article about "Merry X-Mas Ransomware". | O
-This ransomware was first seen by people like @PolarToffee, @dvk01uk, and @Techhelplistcom. | O
-Merry X-Mas Ransomware was first reported as distributed through malicious spam (malspam) disguised as FTC consumer complaints. | AttackPhishing
-By Sunday 2017-01-08, I saw an updated version of the Merry X-Mas Ransomware distributed through malspam disguised as court attendance notifications. | AttackPhishing
-It seemed odd to find Christmas-themed ransomware two weeks after Christmas; however, Orthodox Christian communities celebrate Christmas on January 7th. | O
-Ultimately, such Christmas-themed ransomware isn't odd if it's from a Russian actor. | O
-With that in mind, let's review the characteristics of Sunday's Merry X-Mas ransomware. | O
+This ransomware was first seen by people like @PolarToffee, @dvk01uk, and @Techhelplistcom. | AttackRansom
+Merry X-Mas Ransomware was first reported as distributed through malicious spam (malspam) disguised as FTC consumer complaints. | AttackPhishing , AttackRansom
+By Sunday 2017-01-08, I saw an updated version of the Merry X-Mas Ransomware distributed through malspam disguised as court attendance notifications. | AttackPhishing, AttackRansom
+It seemed odd to find Christmas-themed ransomware two weeks after Christmas; however, Orthodox Christian communities celebrate Christmas on January 7th. | AttackRansom
+Ultimately, such Christmas-themed ransomware isn't odd if it's from a Russian actor. | AttackRansom
+With that in mind, let's review the characteristics of Sunday's Merry X-Mas ransomware. | AttackRansom
 Show above:  Comparison of Merry X-mas ransomware notifications from 2017-01-03 and 2017-01-08. | O
 The malspam was a fake notification to appear in court. | O
 Email headers indicate the sender's address was spoofed, and the email came from a cloudapp.net domain associated with Microsoft. | AttackPhishing
 The zip archive contained a Microsoft Word document with a malicious macro. | O
-If macros were enabled on the Word document, it downloaded and executed the ransomware. | O
+If macros were enabled on the Word document, it downloaded and executed the ransomware. | AttackRansom
 

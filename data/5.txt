@@ -1,8 +1,9 @@
 
-International war monitor the Organization for Security and Co-operation in Europe (OSCE) last week revealed it has been on the receiving end of a “major” cyber-attack. | O The 57-member state body – which also monitors elections, and plays a role in arms control and cybersecurity – told AFP that it first became aware of a “major information security incident” back in early November. | O
+International war monitor the Organization for Security and Co-operation in Europe (OSCE) last week revealed it has been on the receiving end of a “major” cyber-attack. | O
+The 57-member state body – which also monitors elections, and plays a role in arms control and cybersecurity – told AFP that it first became aware of a “major information security incident” back in early November. | AttackDatabreach
 The attack apparently “compromised the confidentiality" of its IT network and put its “integrity at risk”. | O
-Although there’s no obvious official statement up on the OSCE site, spokeswoman Mersiha Causevic Podzic told the newswire that “the way in which the attacker accessed the OSCE was identified, as have some of the external communication destinations”. | O
-There are rumors, emanating from a Western intelligence agency, that the notorious Russian hacking group APT28 is behind the attack. | O
+Although there’s no obvious official statement up on the OSCE site, spokeswoman Mersiha Causevic Podzic told the newswire that “the way in which the attacker accessed the OSCE was identified, as have some of the external communication destinations”. | AttackDatabreach
+There are rumors, emanating from a Western intelligence agency, that the notorious Russian hacking group APT28 is behind the attack. | AttackDatabreach
 There would certainly seem to be speculative evidence for this assumption, given that OSCE currently has 700 monitors overseeing the conflict with Russia in eastern Ukraine. | O
 The conflict has been at the center of numerous cyber espionage campaigns tracked back to the Kremlin, most recently one aimed at tracking Ukrainian troop movements via the RAT Sofacy (X-Agent). | O
 That particular campaign was also tied back to APT28 (aka Fancy Bear/Sofacy/Pawn Storm). | O

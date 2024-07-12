@@ -8,5 +8,5 @@ In tests carried out by Mavroudis, the researcher has intercepted some of the tr
 According to Mavroudis, there are multiple ways to deliver these attacks other than social-engineering Tor users to access certain URLs, where these ultrasound beacons can be served. | O
 Similarly, the attackers could also run a malicious Tor exit node and perform a Man-in-the-Middle attack, forcibly injecting the malicious code that triggers uXDT beacons in all Tor traffic going through that Tor node. | O
 A simpler attack method would also be to hide the ultrasounds, which are inaudible to human ears, inside videos or audio files that certain Tor users might be opening. | O
-The FBI might be very interested in this method and could deploy it to track viewers of child pornography videos on the Tor network, just like it previously did in Operation Playpen, where it used a Flash exploit. | O
+The FBI might be very interested in this method and could deploy it to track viewers of child pornography videos on the Tor network, just like it previously did in Operation Playpen, where it used a Flash exploit. | DiscoverVulnerability
 

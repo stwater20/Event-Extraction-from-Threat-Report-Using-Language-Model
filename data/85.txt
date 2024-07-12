@@ -1,9 +1,9 @@
 $247,000 KillDisk ransomware demands a fortune, forgets to unlock files | ZDNet | AttackRansom
 The malware asks for 222 Bitcoin but will not honor promises to decrypt files after payment is made. | AttackRansom
-The cost of ransomware reached close to $1 billion in 2016, and it's not hard to see why. | O
+The cost of ransomware reached close to $1 billion in 2016, and it's not hard to see why. | AttackRansom
 The malware family, which targets everything from Windows to Mac machines, executes procedures to encrypt files and disks before demanding a ransom payment in return for keys to decrypt and unlock compromised machines. | AttackRansom
 However, it is not only the general public which is being targeted with everything from hospitals to schools and businesses now in the firing line. | O
-As the prospect of losing valuable content on computer systems or facing widespread disruption to business operations is often too much to bear, many will simply give up and give in, paying the fee and unfortunately contributing to the cybercriminal's operations. | O
+As the prospect of losing valuable content on computer systems or facing widespread disruption to business operations is often too much to bear, many will simply give up and give in, paying the fee and unfortunately contributing to the cybercriminal's operations. | AttackRansom
 However, paying up does not guarantee that victims will get their files back, no matter how low or high the payment demand. | AttackRansom
 This week, ESET researchers discovered that a Linux variant of KillDisk, linked to attacks against core infrastructure system in Ukraine in 2015, is now being used against fresh Ukrainian financial targets. | O
 The ransomware demands a huge amount of money, but there is no underwritten protocol for decryption keys to be released once payment is made. | AttackRansom

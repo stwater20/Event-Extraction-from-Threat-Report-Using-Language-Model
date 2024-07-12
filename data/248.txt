@@ -4,7 +4,7 @@ According to Check Point, who recently released a report on December's most acti
 Previously, in October, Locky had been ranked as the top malware threat in the world, while now, in December, Locky is not even in the top 10 anymore. | O
 The same thing can also be seen in a chart released by Avast. | O
 Even if the chart doesn't cover the last ten days, Locky spam numbers have remained at the same low levels as during the holidays. | O
-The only tiny trail of activity in the chart above is the Locky ransomware delivered as a second-stage download for Kovter campaigns. | O
+The only tiny trail of activity in the chart above is the Locky ransomware delivered as a second-stage download for Kovter campaigns. | AttackRansom
 Kovter is a click-fraud malware that infects computers and clicks on invisible ads on the user's behalf. | O
 This malware has been around for years, and recently, it started distributing a wide range of secondary payloads. | O
 In January 2016, Kovter downloaded and installed a proxy client on infected PCs, transforming infected hosts into proxy servers for the ProxyGate web proxy service. | O

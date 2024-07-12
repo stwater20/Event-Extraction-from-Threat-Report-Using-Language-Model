@@ -16,5 +16,5 @@ Controversial Google security researcher Tavis Ormandy’s interest was piqued b
 According to statistics displayed on the Chrome web store, the controversial extension has tens of millions of users – all of whom are potentially vulnerable because of the flaw in its code. | O
 Every time you add additional software to your computer, you are increasing your potential attack surface. | O
 And be wary of software that is installed without your permission or that vendors bundle with their software against your wishes. | O
-Adobe has responded to Ormandy’s report by saying it has now issued an update to the extension that fixes the security holes. | PatchVulnerability,DiscoverVulnerability
+Adobe has responded to Ormandy’s report by saying it has now issued an update to the extension that fixes the security holes. | PatchVulnerability , DiscoverVulnerability
 

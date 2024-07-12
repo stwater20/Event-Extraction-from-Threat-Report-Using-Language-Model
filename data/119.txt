@@ -1,5 +1,5 @@
 Hackers are having a field day with stolen credentials | O
-Hackers made hay of the sorry state of credential security in 2016.
+Hackers made hay of the sorry state of credential security in 2016. | O
 They stole millions of username and password combinations from online services of all shapes and sizes. | AttackDatabreach
 Blogs and discussion forums were hit particularly hard. | O
 Exploiting credentials is an old attack vector that still works wonders for hackers. | O

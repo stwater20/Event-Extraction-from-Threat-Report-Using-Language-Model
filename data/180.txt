@@ -1,21 +1,21 @@
-   Check your security with our instant risk assessment, Security Preview | O 
-Get insight into the most topical issues around the threat landscape, cloud security, and business transformation. | O 
-See how Zscaler enables the secure transformation to the cloud. | O 
-Zscaler is the preferred choice of leading organizations. | O 
-Watch how Jabil achieved security at scale with Zscaler. | O 
-Nintendo recently released Super Mario Run for the iOS platform. | O 
-In no time, the game became a sensational hit on the iTunes store. | O 
-However, there is not yet an Android version and there has been no official news on such a release. | O 
+Check your security with our instant risk assessment, Security Preview | O
+Get insight into the most topical issues around the threat landscape, cloud security, and business transformation. | O
+See how Zscaler enables the secure transformation to the cloud. | O
+Zscaler is the preferred choice of leading organizations. | O
+Watch how Jabil achieved security at scale with Zscaler. | O
+Nintendo recently released Super Mario Run for the iOS platform. | O
+In no time, the game became a sensational hit on the iTunes store. | O
+However, there is not yet an Android version and there has been no official news on such a release. | O
 Attackers are taking advantage of the game's popularity, spreading malware posing as an Android version of Super Mario Run. | AttackPhishing
-The ThreatLabZ team wrote about a similar scam that occurred during the release of another wildly popular Niantic game, Pokemon GO. | O 
+The ThreatLabZ team wrote about a similar scam that occurred during the release of another wildly popular Niantic game, Pokemon GO. | O
 Like that scam, the new Android Marcher Trojan is disguised as the Super Mario Run app and attempts to trick users with fake finance apps and a credit card page in an effort to capture banking details. | AttackPhishing
 Once the user's mobile device has been infected, the malware waits for victims to open one of its targeted apps and then presents the fake overlay page asking for banking details. | AttackPhishing
-Unsuspecting victims will provide the details that will be harvested and sent out to to the malware's command and control (C&C) server. | O 
-We have seen this malware evolve and take advantage of recent trends in order to target a large number of users. | O 
-We have covered similar campaigns in the past related to Marcher malware here and here. | O 
-Technical details | O 
+Unsuspecting victims will provide the details that will be harvested and sent out to to the malware's command and control (C&C) server. | O
+We have seen this malware evolve and take advantage of recent trends in order to target a large number of users. | O
+We have covered similar campaigns in the past related to Marcher malware here and here. | O
+Technical details | O
 In this new strain, the Marcher malware is disguised as the Super Mario Run app for Android. | AttackPhishing
 Knowing that Android users are eagerly awaiting this game, the malware will attempt to present a fake web page promoting its release. | AttackPhishing
-In previous variants of Marcher, we observed this malware family targeting well-known Australian, UK, and French banks. | O 
-The current version is targeting account management apps as well as well-known banks. | O 
+In previous variants of Marcher, we observed this malware family targeting well-known Australian, UK, and French banks. | O
+The current version is targeting account management apps as well as well-known banks. | O
 Like previous Marcher variants, the current version also presents fake credit card pages once an infected victim opens the Google Play store. | AttackPhishing

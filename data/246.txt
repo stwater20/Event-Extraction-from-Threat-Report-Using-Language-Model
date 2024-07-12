@@ -3,10 +3,10 @@ UPDATE At DEFCON 22 in 2014, researchers demonstrated hacks against the Samsung
 Samsung’s reaction at the time was to remove the web interface enabling the attack rather than patch the code in question. | O
 The Exploitee.rs, formerly the GTVHacker group, said users weren’t pleased with the response and in turn, decided to take another crack at analyzing the device for vulnerabilities. | DiscoverVulnerability
 On Saturday, the group publicly disclosed a remote code execution bug it found in the SNH-1011 Smartcam, and cautioned that it likely exists in all Samsung Smartcam devices. | DiscoverVulnerability
-“The vulnerability occurs because of improper sanitization of the iWatch firmware update filename,” the group wrote in a technical description of the vulnerability that also included a proof-of-concept exploit and instructions on how to patch the flaw. | DiscoverVulnerability,PatchVulnerability
+“The vulnerability occurs because of improper sanitization of the iWatch firmware update filename,” the group wrote in a technical description of the vulnerability that also included a proof-of-concept exploit and instructions on how to patch the flaw. | DiscoverVulnerability , PatchVulnerability
 “A specially crafted request allows an attacker the ability to inject his own command providing the attacker remote root command execution”. | O
 A request for comment from Samsung was not returned in time for publication. | O
-A Samsung contact told Threatpost that the vulnerability affects only the SNH-1011 model and it will be removed in an upcoming firmware update. | DiscoverVulnerability,PatchVulnerability
+A Samsung contact told Threatpost that the vulnerability affects only the SNH-1011 model and it will be removed in an upcoming firmware update. | DiscoverVulnerability , PatchVulnerability
 The Exploitee.rs said they were motivated to look further at the cameras because of Samsung’s response to their first disclosure. | DiscoverVulnerability
 “This angered a number of users and crippled the device from being used in any DIY monitoring solutions. | O
 So, we decided to audit the device once more to see if there is a way we can give users back access to their cameras while at the same time verifying the security of the devices new firmware”. | O

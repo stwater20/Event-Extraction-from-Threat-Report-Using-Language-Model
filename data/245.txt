@@ -1,5 +1,5 @@
 Vulnerabilities Leave iTunes, Apple's App Store Open to Script Injection | Threatpost | The first stop for security news | O
-Apple is reportedly aware of and is in the middle of fixing a pair of vulnerabilities that exist in iTunes and the App Store. | DiscoverVulnerability,PatchVulnerability
+Apple is reportedly aware of and is in the middle of fixing a pair of vulnerabilities that exist in iTunes and the App Store. | DiscoverVulnerability , PatchVulnerability
 If exploited, researchers claim an attacker could inject malicious script into the application side of the vulnerable module or function. | DiscoverVulnerability
 Vulnerability Lab’s Benjamin Kunz Mejri disclosed the vulnerabilities on Monday, explaining the issues can be jointly exploited via iTunes and the App Store’s iOS “Notify” function. | DiscoverVulnerability
 Apple implemented the function in September, in the weeks leading up to the release of the game Super Mario Run. | O

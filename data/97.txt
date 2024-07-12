@@ -1,4 +1,4 @@
-Windows 10 Mobile has a pretty weird security flaw - MSPoweruser | O
+Windows 10 Mobile has a pretty weird security flaw - MSPoweruser | DiscoverVulnerability
 Today, we noticed a pretty weird security flaw in Windows 10 Mobile. | DiscoverVulnerability
 If you are using a Windows 10 Mobile that does not support Windows Hello, your are likely using a pin to secure your device. | O
 The pin can be easily set-up from Windows 10 Mobile’s Sign-in Options page in the Settings app. | O

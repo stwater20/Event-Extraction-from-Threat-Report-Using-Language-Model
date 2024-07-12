@@ -1,11 +1,11 @@
 Critical flaw lets hackers take control of Samsung SmartCam cameras | CSO Online | O
 The vulnerability was discovered by researchers from the hacking collective the Exploiteers (formerly GTVHacker), who have found vulnerabilities in the Samsung SmartCam devices in the past. | DiscoverVulnerability
-The flaw allows for command injection through a web script, even though the vendor has disabled the local web-based management interface in these devices. | O
+The flaw allows for command injection through a web script, even though the vendor has disabled the local web-based management interface in these devices. | DiscoverVulnerability
 The Samsung SmartCam is a series of cloud-enabled network security cameras that were originally developed by Samsung Techwin. | O
 Samsung sold this division to South Korean business conglomerate Hanwha Group in 2015 and the company was renamed Hanwha Techwin. | O
 In response to vulnerabilities reported in the web-based management interface of various SmartCam models over the past few years, Hanwha Techwin decided to completely disable the local administration panel and only allow users to access the cameras through the accompanying smartphone app and its My SmartCam cloud service. | DiscoverVulnerability
 The Exploiteers researchers recently analyzed the Samsung SmartCam SNH-1011 and noticed that while accessing the web interface over the local network was no longer possible, the web server was still running on the device and hosted some PHP scripts related to a video monitoring system called iWatch. | O
-One of these scripts allows users to update the iWatch software by uploading a file, but has a vulnerability that stems from improper sanitization of the file name. | O
+One of these scripts allows users to update the iWatch software by uploading a file, but has a vulnerability that stems from improper sanitization of the file name. | DiscoverVulnerability
 The flaw can be exploited by unauthenticated attackers to inject shell commands that will then be executed by the web server running with root privileges. | DiscoverVulnerability
 "The iWatch Install.php vulnerability can be exploited by crafting a special filename which is then stored within a tar command passed to a php system() call," the researchers explained in a blog post Saturday. | DiscoverVulnerability
 "Because the web-server runs as root, the filename is user supplied, and the input is used without sanitization, we are able to inject our own commands within to achieve root remote command execution." | O

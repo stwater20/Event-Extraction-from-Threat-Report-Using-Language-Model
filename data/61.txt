@@ -4,7 +4,7 @@ At the same time, having a high-profile customer doesn’t mean that platform is
 That’s why in 2016, in two different incidents, hackers leaked more than 36 million and 58 million accounts respectively from unsecured MongoDB. | AttackDatabreach
 More: LG Smart TV Screen Bricked After Android Ransomware Infection | O
 Now, unsecured MongoDB databases are being hijacked by a hacker, who is not only wiping out these databases but also storing copies of them and asking for a ransom of 0.2 bitcoins (roughly US$ 211) from admins in exchange of the lost data. | AttackRansom
-Those admins who haven’t created backups of these databases are seriously helpless because the rate of Bitcoin is also increasing and the latest rate is 1 Bitcoin = USD1063.93. | O
+Those admins who haven’t created backups of these databases are seriously helpless because the rate of Bitcoin is also increasing and the latest rate is 1 Bitcoin = USD1063.93. | AttackRansom
 The hacking campaign was discovered by security researcher Victor Gevers, co-founder of GDI Foundation, a non-profit organization. | O
 Gevers notified owners about the presence of vulnerable, non-password-protected MongoDB databases and also informed that around 200 of these installations have been wiped out by the hacker. | O
 Gevers believes that the hacker(s) might be utilizing an automation tool but they manually select their target databases. | O

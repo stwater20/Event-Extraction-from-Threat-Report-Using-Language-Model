@@ -5,7 +5,7 @@ Norway’s foreign ministry has been among the targets of hackers, also abroad. 
 DN reported that the list of targets is long, including embassies and ministries in more than 40 countries, several NATO and EU institutions, political and military leaders, well-known journalists, activists and academics. | O
 Most haven’t been aware they were attacked when they clicked on links in email that seemed to come from people they knew. | AttackPhishing
 The attacks enabled the hackers to steal confidential information by penetrating email accounts and internal systems. | AttackDatabreach
-The attacks in Norway only make up 2 percent of attacks on military and political institutions, DN reported, but local authorities are on high alert for more. |  Databreach
+The attacks in Norway only make up 2 percent of attacks on military and political institutions, DN reported, but local authorities are on high alert for more. | AttackDatabreach
 The US’ FBI, CIA and NSA have all described the attacks as the largest Russian attempt to gain influence in the US ever. | O
 Russian authorities from President Vladimir Putin’s office on down have vigorously denied they’re behind the hacking. | O
 In addition to the attacks on foreign ministry and military interests, email accounts at Norway’s Greens Party (Miljøpartiet De Grønne, MDG) were hacked last June and the attacker gained access to the party’s membership register. | O

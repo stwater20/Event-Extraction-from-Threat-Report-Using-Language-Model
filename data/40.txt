@@ -1,11 +1,11 @@
 Ransomware on smart TVs is here and removing it can be a pain | CSO Online | AttackRansom
 As one victim discovered this Christmas, figuring out how to clean such an infection can be quite difficult. | O
-Ransomware for Android phones has already been around for several years and security experts have warned in the past that it's only a matter of time until such malicious programs start affecting smart TVs, especially since some of them also run Android. | O
-In November 2015, a Symantec researcher named Candid Wueest even went as far as to infect his own TV with an Android ransomware application to highlight the threat. | O
-While that infection was just a demonstration, this Christmas, the owner of an LG Electronics TV experienced the real deal. | O
-Kansas-based software developer Darren Cauthon reported on Twitter on Dec. 25 that a family member accidentally infected his Android-based TV with ransomware after downloading a movie-watching app. | O
-The picture shared by Cauthon showed the TV screen with an FBI-themed ransom message. | O
-On Android the majority of ransomware applications are so-called screen lockers. | O
+Ransomware for Android phones has already been around for several years and security experts have warned in the past that it's only a matter of time until such malicious programs start affecting smart TVs, especially since some of them also run Android. | AttackRansom
+In November 2015, a Symantec researcher named Candid Wueest even went as far as to infect his own TV with an Android ransomware application to highlight the threat. | AttackRansom
+While that infection was just a demonstration, this Christmas, the owner of an LG Electronics TV experienced the real deal. | AttackRansom
+Kansas-based software developer Darren Cauthon reported on Twitter on Dec. 25 that a family member accidentally infected his Android-based TV with ransomware after downloading a movie-watching app. | AttackRansom
+The picture shared by Cauthon showed the TV screen with an FBI-themed ransom message. | AttackRansom
+On Android the majority of ransomware applications are so-called screen lockers. | AttackRansom
 They work by displaying persistent messages on the phone's screen and preventing users from performing any other actions on their devices. | O
 The messages usually impersonate some law enforcement authority and ask victims to pay fictitious fines to regain control. | AttackRansom
 Cauthon, who was the previous owner of the three-year-old TV, tried to help the new owner restore the device to its default factory settings, but didn't succeed even after receiving many suggestions and advice from other Twitter users. | O

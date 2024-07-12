@@ -7,7 +7,7 @@ Must Read: Hacking Facebook Account by Knowing Account Phone Number | O
 Reportedly, De Ceukelaire proved his claim by obtaining the cell number of Jan Jambon, the Interior Minister for Belgium, through his Facebook profile. | DiscoverVulnerability
 He further stated that: “For clarity, I could find out his number on his account, not vice versa; roughly, I think you get the number 20 percent of the Flemish people can find that way. | O
 Of all the people who have their mobile number linked to their profile goes to the 80 percent”. | O
-De Ceukelaire already warned the Facebook security team twice about this issue and stated that he might expose it to the public if the social network does not fix the issue and make necessary changes. | DiscoverVulnerability,PatchVulnerability
+De Ceukelaire already warned the Facebook security team twice about this issue and stated that he might expose it to the public if the social network does not fix the issue and make necessary changes. | DiscoverVulnerability , PatchVulnerability
 However, according to Facebook’s representatives, this isn’t a vulnerability that has been exploited but a feature. | DiscoverVulnerability
 He also notified law enforcement authorities about the exploitable aspect of this feature. | O
 “If the users enter their private phone numbers and don’t lock them down in the privacy settings section, chances of a privacy leak are quite bright”. | O
