@@ -1,7 +1,7 @@
 IAG CEO Peter Harmer blows the whistle on cyber risk  | afr.com | O
 After a week of being bruised and battered over elevated reputation and credit risks, the last thing the bankers attending The Australian Financial Review Banking and Wealth Summit needed was a reminder of the rising operational risks from cyber attacks. | O
 But the straight-shooting chief executive of Insurance Australia Group, Peter Harmer, did not dodge the question when asked what his firm had found while trawling through the "dark web". | O
-He said IAG had uncovered the personal details of customers belonging to one of the big four banks. | AttackDatabreach
+He said IAG had uncovered the personal details of customers belonging to one of the big four banks. | O
 The information was being sold online for $25 per customer. | AttackDatabreach
 That suggests the systems of at least one major financial institution have been breached and customer data stolen. | AttackDatabreach
 Harmer was primed for this conversation about cyber risks at the Summit. | O
