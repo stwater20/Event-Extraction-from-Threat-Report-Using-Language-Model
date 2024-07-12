@@ -2,23 +2,23 @@ Hacker Leaks Episodes From Netflix Show and Threatens Other Networks - The New Y
 A hacker who claims to have stolen unreleased television shows from several major networks shared the coming season of the Netflix series “Orange Is the New Black” on Saturday after the person said the streaming service failed to meet its ransom requests. | AttackDatabreach, AttackRansom
 The breach appears to have occurred at the postproduction company Larson Studios, a popular digital-mixing service in Los Angeles for television networks and movie studios.  | AttackDatabreach
 The hacker or hackers, who go by the name “thedarkoverlord,” also claim to have stolen unreleased content from ABC, Fox, National Geographic and IFC.  | AttackDatabreach
-The Federal Bureau of Investigation learned of the episode at Larson Studios in January but did not start notifying the content companies until a month ago. | AttackDatabreach
+The Federal Bureau of Investigation learned of the episode at Larson Studios in January but did not start notifying the content companies until a month ago. | O
 A message to Larson Studios was not immediately returned. | O
-On Twitter, thedarkoverlord suggested that other networks would have their shows released next. | AttackRansom
+On Twitter, thedarkoverlord suggested that other networks would have their shows released next. | O
 “Oh, what fun we’re all going to have,” the hacker said. | O
 “We’re not playing any games anymore.”| AttackRansom
 Netflix had announced this year that Season 5 of “Orange Is the New Black” would be released June 9, and it was not immediately clear whether it planned to move up the release date. | O
 In a statement, Netflix said: “We are aware of the situation. | O 
-A production vendor used by several major TV studios had its security compromised and the appropriate law enforcement authorities are involved.” | AttackDatabreach
-This specific breach highlights a risk posed by the weak security practices in the postproduction studios that manage the release of proprietary entertainment content. | AttackDatabreach
+A production vendor used by several major TV studios had its security compromised and the appropriate law enforcement authorities are involved.” | O
+This specific breach highlights a risk posed by the weak security practices in the postproduction studios that manage the release of proprietary entertainment content. | O
 While companies like Netflix and Fox might invest in state-of-the-art cybersecurity defense technology, they must also rely on an ecosystem of postproduction vendors, ranging from mom-and-pop shops to more sophisticated outfits like Dolby and Technicolor, which may not deploy the same level of cybersecurity and threat intelligence. | AttackDatabreach
-In a message posted Saturday, thedarkoverlord criticized Netflix for not meeting its blackmail requests. | AttackRansom
+In a message posted Saturday, thedarkoverlord criticized Netflix for not meeting its blackmail requests. | O
 “It didn’t have to be this way, Netflix,” the message said. | AttackRansom
-“You’re going to lose a lot more money in all of this than what our modest offer was.” | AttackRansom
+“You’re going to lose a lot more money in all of this than what our modest offer was.” | O
 The statement continued: “We’re quite ashamed to breathe the same air as you. | O 
 We figured a pragmatic business such as yourselves would see and understand the benefits of cooperating with a reasonable and merciful entity like ourselves.” | O
 The hacker threatened to release content from other studios on Saturday if its demands were not met. | AttackRansom
 ABC, Fox and IFC declined to comment, and a message to National Geographic was not immediately returned. | O
-The alias thedarkoverlord has popped up in other recent attacks, including one last January on a small charity in Muncie, Ind., the Little Red Door Cancer Services of East Central Indiana. | AttackDatabreach, AttackRansom
+The alias thedarkoverlord has popped up in other recent attacks, including one last January on a small charity in Muncie, Ind., the Little Red Door Cancer Services of East Central Indiana. | O
 In that case, the hackers wiped the organization’s servers and backup servers, and demanded 50 bitcoins — valued at $43,000 — to restore the data. | AttackRansom
-The organization did not pay. | AttackRansom
+The organization did not pay. | O
