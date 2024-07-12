@@ -1,16 +1,16 @@
-Turkish Crime Family' Demands $75,000 in Bitcoin from Apple in Exchange for Hacked iPhone Accounts
+Turkish Crime Family' Demands $75,000 in Bitcoin from Apple in Exchange for Hacked iPhone Accounts | O
 Rumor has it that a gang of hackers—or possibly, one lonesome individual—holds the power to remotely wipe millions of iPhones and iCloud accounts, unless Apple coughs up some ransom money by April 7. | AttackRansom
-The gang calls themselves the "Turkish Crime Family," and they're demanding $75,000 in Bitcoin or Ethereum cryptocurrency. | AttackRansom 
-In a bizarre twist, they're also willing to accept $100,000 in iTunes gift cards as an alternative form of payment, despite the obvious concern that Apple would easily be able to track this. | AttackRansom 
+The gang calls themselves the "Turkish Crime Family," and they're demanding $75,000 in Bitcoin or Ethereum cryptocurrency. | AttackRansom
+In a bizarre twist, they're also willing to accept $100,000 in iTunes gift cards as an alternative form of payment, despite the obvious concern that Apple would easily be able to track this. | AttackRansom
 In return, the hacker group would delete their entire collection of compromising data. | O
 According to Motherboard, a hacker has been quoted as saying: | O
 I just want my money and thought this would be an interesting report that a lot of Apple customers would be interested in reading and hearing. | O
 Apparently, one of the hackers shared screenshots of emails exchanged between the group and Apple, and then gave Motherboard's Joseph Cox access to the email account as proof. | O
-The hackers claim to have over 300 million Apple email accounts, including ones with @icloud and @me domains. | O 
-Later on, though, another hacker from the group claimed that they actually have 559 million accounts. | O 
+The hackers claim to have over 300 million Apple email accounts, including ones with @icloud and @me domains. | O
+Later on, though, another hacker from the group claimed that they actually have 559 million accounts. | O
 The only other proof they provided was a YouTube video of the hackers allegedly logging into an elderly woman's stolen iCloud account to view backed-up photos, then wiping her device, but this video has since been removed. | O
 Lending to the credibility of the hackers' claims, though, Apple is stated to have asked the hacker group to remove the video from YouTube: | O
 We firstly kindly request you to remove the video that you have uploaded on your YouTube channel as it's seeking unwanted attention, second of all we would like you to know that we do not reward cyber criminals for breaking the law. | O
 Cox also states that he read other emails in their account, and that it appeared the hackers have tried to approach many different media outlets to get more attention, possibly to help their extortion efforts. | AttackRansom
-Now, we don't know how true the Turkish Crime Family's claims are, but this is a good time to remind you to frequently change your passwords. | O 
+Now, we don't know how true the Turkish Crime Family's claims are, but this is a good time to remind you to frequently change your passwords. | O
 Make them strong and unique, people! No names, birthdays, 123s, or whatnot. | O

@@ -1,4 +1,4 @@
-Phishing campaigns target airline consumers seeking business credentials
+Phishing campaigns target airline consumers seeking business credentials | AttackPhishing
 A series of phishing campaigns is targeting airline consumers with messages crafted to trick victims into handing over personal or business credentials. | AttackPhishing
 A wave string of phishing campaigns is targeting airline consumers with messages crafted to trick victims into handing over personal or business credentials. | AttackPhishing
 The phishing messages pretend to be sent from a travel agency or a someone inside the target firm, they include a weaponized document or embed a malicious link. | AttackPhishing

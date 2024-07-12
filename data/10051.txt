@@ -1,13 +1,13 @@
- Advanced Chinese hacking campaign infiltrates IT service providers across the globe   
+Advanced Chinese hacking campaign infiltrates IT service providers across the globe | O
 'Cloud Hopper' campaign by sophisticated APT10 hacking group uses advanced phishing and customised malware to conduct espionage. | AttackPhishing
 A Chinese hacking group with advanced cyber-espionage capabilities has been targeting managed IT services providers across the globe in a campaign to steal sensitive data. | AttackDatabreach
 The cybercriminal gang is using sophisticated phishing attacks and customised malware in order to infect victims' machines and then gain access to IT providers and their customer networks. | AttackPhishing
-Dubbed Operation Cloud Hopper, the cyber-espionage campaign has been uncovered by security researchers at PwC, BAE Systems, and the UK's National Cyber Security Centre. | O 
+Dubbed Operation Cloud Hopper, the cyber-espionage campaign has been uncovered by security researchers at PwC, BAE Systems, and the UK's National Cyber Security Centre. | O
 The researchers say the campaign is "highly likely" to be the work of the China-based APT10 hacking group. | AttackPhishing
 The group has been focusing on espionage since 2009 and has evolved from targeting US defence firms as well as the technology and telecommunications sectors to targeting organisations in multiple industries across the globe. | O
-The group was behind the Poison Ivy malware family and has evolved its operations to include using custom tools capable of compromising high volumes of data from organisations and their customers, and stealthily moving it around the world. | AttackDatabreach 
+The group was behind the Poison Ivy malware family and has evolved its operations to include using custom tools capable of compromising high volumes of data from organisations and their customers, and stealthily moving it around the world. | AttackDatabreach
 It's because of the sophisticated nature of the campaign that PwC's Operation Cloud Hopper report describes how APT10 "almost certainly benefits from significant staffing and logistical resources, which have increased over the last three years". | O
-The group's work shifted significantly during 2016, as it started to focus on managed service providers, following the significant enhancements to its operations. | O 
+The group's work shifted significantly during 2016, as it started to focus on managed service providers, following the significant enhancements to its operations. | O
 The move enabled APT10 to exfiltrate data from multiple victims around the world as part of a large scale campaign. | AttackDatabreach
 Managed service providers (MSPs) represent a particularly lucrative target for attackers, because as well as having access to their clients' networks, they also store significant quantities of customer data, which can provide useful information or be sold for profit. | AttackDatabreach
 Researchers note that the spear phishing campaign undertaken by APT10 indicates that the group conducts significant research on targets, in order to have the best chance of tricking them into opening malicious documents attached to specially crafted emails. | AttackPhishing

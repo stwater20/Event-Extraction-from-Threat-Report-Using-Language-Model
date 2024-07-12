@@ -1,4 +1,4 @@
- Google and Facebook duped in huge 'scam'   
+Google and Facebook duped in huge 'scam' | O
 Google and Facebook have confirmed that they fell victim to an alleged $100m (£77m) scam. | O
 In March, it was reported that a Lithuanian man had been charged over an email phishing attack against "two US-based internet companies" that were not named at the time. | AttackPhishing
 They had allegedly been tricked into wiring more than $100m to the alleged scammer's bank accounts. | AttackPhishing
@@ -10,4 +10,4 @@ The DOJ also accused Mr Rimasauskas of forging invoices, contracts and letters "
 "We detected this fraud against our vendor management team and promptly alerted the authorities," a spokeswoman for Google said in a statement. | AttackPhishing
 "We recouped the funds and we're pleased this matter is resolved." | O
 However, the firm did not reveal how much money it had transferred and recouped. | O
-Nor did Facebook - but a spokeswoman said: "Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation." | O 
+Nor did Facebook - but a spokeswoman said: "Facebook recovered the bulk of the funds shortly after the incident and has been cooperating with law enforcement in its investigation." | O

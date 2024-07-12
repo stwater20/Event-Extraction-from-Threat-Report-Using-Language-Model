@@ -1,11 +1,11 @@
-Huge hacking operation uncovered targeting victims' supply chain  
+Huge hacking operation uncovered targeting victims' supply chain | O
 Advanced Persistent Threat group linked to China said to be attacking companies by targeting their suppliers - scale of operation said to be unprecedented. | O
 A Chinese hacking group is thought to be behind attacks on managed service providers as a way into their client companies, to facilitate the theft of intellectual property. | O
 The hacking group, called APT10, used custom malware and spear-phishing attacks to gain access to victims' systems. |  Once inside, they used the company's credentials to attack their client companies. | AttackPhishing
 The security of the supply chain has been a recognised weakness in security systems since at least 2013 when it was discovered that attackers had gained access to the Target retail chain in America through an HVAC service provider. | O
 Now it appears that APT10 is using that approach on a large scale. | O
-The group was discovered by PwC's cyber-security practice and BAE Systems, working alongside the UK's National Cyber Security Centre (NCSC). | O 
-The scale of the espionage campaign only became apparent in late 2016, but the attack is thought to be the largest sustained global cyber-espionage campaign ever seen. | O 
+The group was discovered by PwC's cyber-security practice and BAE Systems, working alongside the UK's National Cyber Security Centre (NCSC). | O
+The scale of the espionage campaign only became apparent in late 2016, but the attack is thought to be the largest sustained global cyber-espionage campaign ever seen. | O
 PwC and BAE Systems said APT10 conducted the espionage campaign by targeting providers of managed outsourced IT services as a way in to their customers' organisations around the world, gaining unprecedented access to intellectual property and sensitive data. | AttackDatabreach
 It is thought the group launched the campaign in 2014 and then significantly ramped it up in early 2016, adding new developers and intrusion operators to continually enhance capability. | O
 The group is known to have exfiltrated a high volume of data from multiple victims and used compromised networks to stealthily move this data around the world. | AttackDatabreach
@@ -14,10 +14,10 @@ Forensic analysis of the timings of the attack, as well as tools and techniques 
 Kris McConkey, partner for cyber-threat detection and response at PwC, said that the indirect approach of this attack highlights the need for organisations to have a comprehensive view of the threats they're exposed to – including those of their supply chain. | O
 “This is a global campaign with the potential to affect a wide range of countries, so organisations around the world should work with their security teams and providers to check networks for the key warning signs of compromise and ensure they respond and protect themselves accordingly,” he said. | O
 Richard Horne, cyber-security partner at PwC, added that “operating alone, none of us would have joined the dots to uncover this new campaign of indirect attacks. | O
-“Together we've been working to brief the global security community, managed service providers and known end victims to help prevent, detect and respond to these attacks,” he added. | O  
+“Together we've been working to brief the global security community, managed service providers and known end victims to help prevent, detect and respond to these attacks,” he added. | O
 Ilia Kolochenko, CEO of High-Tech Bridge, told SC Media UK that until there is more detail on the attacks, it would not be possible to make a reliable conclusion as to who was behind the so-called APT10. | O
 “Taking into consideration how careless and negligent some managed IT providers are, I wouldn't be surprised if all the attacks were conducted by a group of teenagers – something we have already seen in the past,” he said. | O
-“IT services providers should better enumerate and assess their digital risks, and implement appropriate security controls to mitigate related threats and vulnerabilities. | O 
-Security standards, like ISO 27001, can significantly help assure that the risks are continuously identified and are being duly addressed. | O 
+“IT services providers should better enumerate and assess their digital risks, and implement appropriate security controls to mitigate related threats and vulnerabilities. | O
+Security standards, like ISO 27001, can significantly help assure that the risks are continuously identified and are being duly addressed. | O
 For cyber-security service providers, accreditation by CREST is also an important factor to demonstrate the necessary standard of care around security, confidentiality and integrity for their own and client data,” he added. | O
 “Companies looking to secure their supply-chain can oblige their suppliers to get certified by ISO 27001 for example, or to provide solid and unconditional insurance to cover any data breaches and data leaks, including direct and consequent damages." | AttackDatabreach

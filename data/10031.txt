@@ -1,26 +1,26 @@
-Alert: 33.7 Millions Records Released to Public Due to Leak of Massive Marketing Database
+Alert: 33.7 Millions Records Released to Public Due to Leak of Massive Marketing Database | O
 In recent news, millions of records containing personal information were made available to the public in a sizable data leak, providing potential scammers with plenty of information to utilize in their schemes. | AttackDatabreach 
 These records were all part of a 53 GB database that was available for purchase from Dun & Bradstreet, a business service firm. | O
 The database contained information that could be of great use to hackers and marketers alike, as it outlined corporate data for businesses within the United States, providing professional details and contact information for members at every level of the businesses included. | O
-Dun & Bradstreet released a statement via email in an attempt to remove the firm from any responsibility. | O 
-According to the firm, there was no evidence of a breach on their systems. | AttackDatabreach 
+Dun & Bradstreet released a statement via email in an attempt to remove the firm from any responsibility. | O
+According to the firm, there was no evidence of a breach on their systems. | AttackDatabreach
 The email also pointed out that the leaked data was sold to “thousands” of other companies, and that the leaked data seemed to be six months old. | O
 In essence, Dun & Bradstreet’s position was “not our fault.,” and that there was little cause for worry, as the list only contained “generally publicly available business contact data.” | O
 However, not everyone feels that the responsibility for this event can be passed off so easily, especially considering the nature of the data found on the database. | O
-Troy Hunt manages Have I Been Pwned, a data leak alert site that allows a user to reference one of their accounts to determine if their credentials have been compromised. | AttackDatabreach 
+Troy Hunt manages Have I Been Pwned, a data leak alert site that allows a user to reference one of their accounts to determine if their credentials have been compromised. | AttackDatabreach
 He offered up his own take after reviewing the database for himself. | O 
-Hunt’s analysis revealed that the organizations with the most records in the database were: | O 
-    The United States Department Of Defense: 101,013 | O
-    The United States Postal Service: 88,153 | O
-    AT&T Inc. : 67,382 | O
-    Wal-Mart Stores, Inc. : 55,421 | O
-    CVS Health Corporation: 40,739 | O
-    The Ohio State University: 38,705 | O
-    Citigroup Inc. : 35,292 | O
-    Wells Fargo Bank, National Association: 34,928 | O
-    Kaiser Foundation Hospitals: 34,805 | O
-    International Business Machines Corporation: 33,412 | O
-If this list alarms you, you have the right idea. | O 
+Hunt’s analysis revealed that the organizations with the most records in the database were: | O
+The United States Department Of Defense: 101,013 | O
+The United States Postal Service: 88,153 | O
+AT&T Inc. : 67,382 | O
+Wal-Mart Stores, Inc. : 55,421 | O
+CVS Health Corporation: 40,739 | O
+The Ohio State University: 38,705 | O
+Citigroup Inc. : 35,292 | O
+Wells Fargo Bank, National Association: 34,928 | O
+Kaiser Foundation Hospitals: 34,805 | O
+International Business Machines Corporation: 33,412 | O
+If this list alarms you, you have the right idea. | O
 In his comments, Hunt brought up a few concerns that he had with the contents of the database out in public. | O
 First of all, this list is essentially a guidebook for someone running a phishing campaign. | AttackPhishing
 A resourceful scammer could easily use the information contained in this list (including names, titles, and contact information) to create a very convincing and effective campaign. | O 

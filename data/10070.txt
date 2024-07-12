@@ -1,11 +1,11 @@
- Big-game phishing: Lithuanian scammed US$100m from two big internet firms with fake email invoices, prosecutors say  
+Big-game phishing: Lithuanian scammed US$100m from two big internet firms with fake email invoices, prosecutors say | AttackPhishing
 US prosecutors have charged a Lithuanian man with engaging in an email fraud scheme in which he bilked two US-based companies out of more than US$100 million by posing as an Asian hardware vendor. | AttackPhishing
-Evaldas Rimasauskas, 48, was arrested late last week by Lithuanian authorities, Manhattan federal prosecutors said on Tuesday. | O 
+Evaldas Rimasauskas, 48, was arrested late last week by Lithuanian authorities, Manhattan federal prosecutors said on Tuesday. | O
 Rimasauskas does not yet have legal counsel, a spokesman for the prosecutors said. | O
 The alleged scheme is an example of a growing type of fraud called “business email compromise”, in which fraudsters ask for money using emails targeted at companies that work with foreign suppliers or regularly make wire transfers. | AttackPhishing 
 It is a variation on the common “phishing” scam, but on a massive scale. | AttackPhishing
 The FBI said last June that since October 2013, US and foreign victims have made 22,143 complaints about business email compromise scams involving requests for almost US$3.1 billion in transfers. | AttackPhishing
-In an indictment unsealed on Tuesday, prosecutors said that to carry out his scheme, which they said began around 2013 or earlier, Rimasauskas registered a company in Latvia with the same name as an Asian computer hardware manufacturer. | 
+In an indictment unsealed on Tuesday, prosecutors said that to carry out his scheme, which they said began around 2013 or earlier, Rimasauskas registered a company in Latvia with the same name as an Asian computer hardware manufacturer. | O
 He then sent emails to employees of the two unnamed victim companies, described as multinational internet firms, asking them to wire money that they actually owed to the Asian company to the sham Latvian company’s accounts, prosecutors said. | AttackPhishing
 The victim companies are described as a multinational technology company and a multinational social media company. | AttackPhishing
 After they wired money to Rimasauskas’s Latvian company, Rimasauskas quickly transferred the funds to different accounts around the world, including in Latvia, Cyprus, Slovakia, Lithuania, Hungary and Hong Kong, prosecutors said. | O

@@ -1,4 +1,4 @@
-Hacker steals 6.5 million accounts from Yu-Gi-Oh clone
+Hacker steals 6.5 million accounts from Yu-Gi-Oh clone | O
 A hacker allegedly used a vulnerability in MySQL to steal 6.5 million emails and poorly encrypted passwords from Dueling Network, a card game in the style of Yu-Gi-Oh, announced Motherboard. | AttackDatabreach
 The website’s forum has been kept online, although Dueling Network was shut down in 2016 following a cease-and-desist order. | O
 The request was made by a law firm on behalf of the animation company holding the rights to Yu-Gi-Oh. | O

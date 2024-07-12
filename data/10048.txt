@@ -1,4 +1,4 @@
-The post Splunk addressed several vulnerabilities in Enterprise and Light products appeared first on Security Affairs
+The post Splunk addressed several vulnerabilities in Enterprise and Light products appeared first on Security Affairs | DiscoverVulnerability
 Splunk recently addressed several vulnerabilities in Enterprise and Light products, some of which have been rated “high severity.” | PatchVulnerability
 Splunk Enterprise solution allows organizations to aggregate, search, analyze, and visualize data from various sources that are critical to business operations. | O
 The Splunk Light is a comprehensive solution for small IT environments that automates log analysis and integrates server and network monitoring. | PatchVulnerability

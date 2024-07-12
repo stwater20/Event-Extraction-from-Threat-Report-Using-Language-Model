@@ -1,4 +1,4 @@
-Track and Field Governing Body Says It Was Hacked by Fancy Bear
+Track and Field Governing Body Says It Was Hacked by Fancy Bear | O
 The world governing body of track and field said Monday that it was the victim of a cyberattack carried out by the infamous Fancy Bear hacking group. | O
 The International Association of Athletics Federations (IAAF) said the hack had "compromised athletes' Therapeutic Use Exemption (TUE) applications stored on IAAF servers." | AttackDatabreach
 However, "it is not known if this information was subsequently stolen from the network." | AttackDatabreach
