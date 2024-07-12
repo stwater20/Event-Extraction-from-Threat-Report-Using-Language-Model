@@ -11,10 +11,10 @@ Attackers who are more technically inclined may bypass the fake emails and breac
 In addition to using W-2 data for their own scams, fraudsters will sell it on the dark web, the report states. | AttackDatabreach
 The most valuable bundles of information are called "Fullz" and contain the victim's address, contact info, Social Security and driver's license numbers, plus all W-2 and W-9 information. | O
 Each record runs for $40-$50 in Bitcoin on the Dark Web. | O
-With all this data for $50 per record, harmful activity doesn't have to stop at tax fraud, Kessem notes. | AttackDatabreach
+With all this data for $50 per record, harmful activity doesn't have to stop at tax fraud, Kessem notes. | O
 Cybercriminals can buy and use this data for other scams like identity theft or online loan applications. | AttackDatabreach
 Tax-related risks increase as the filing deadline approaches. | O
-One-third of Americans (54 million people) filed their taxes after April 1 in 2016, giving fraudsters a larger window of opportunity to strike. | AttackDatabreach
+One-third of Americans (54 million people) filed their taxes after April 1 in 2016, giving fraudsters a larger window of opportunity to strike. | O
 Tax-related cybercrime won't stop after April 18, 2017. | O
 "There are a number of people filing after the deadline," says Kessem, noting the popularity of extensions. | O
 There are millions who will still be interested in tax-themed emails." | O
