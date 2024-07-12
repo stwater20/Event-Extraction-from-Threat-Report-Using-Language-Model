@@ -8,6 +8,6 @@ The phishing attempts feature embedded URLs that direct users to the fake PayPal
 This is done using a decommissioned PayPal service that allows a person to buy a gift card from a user. | O
 The phishing attack then starts with a ‘reassuring welcome page’, Proofpoint says. | AttackPhishing
 Users are then asked to confirm the credit card information. | O
-After the phishing kit validates the card, it asks users to enter security information about the card, the link to their bank account and details and identification. | O
-Proofpoint says that the particular phishing kit shows how ‘crimeware as a service’ is rapidly advancing, and will become a more common technique. | O
+After the phishing kit validates the card, it asks users to enter security information about the card, the link to their bank account and details and identification. | AttackPhishing
+Proofpoint says that the particular phishing kit shows how ‘crimeware as a service’ is rapidly advancing, and will become a more common technique. | AttackPhishing
 Proofpoint says it has notified PayPal of the phishing campaign and the findings. | AttackPhishing

@@ -1,6 +1,6 @@
 How one man could have deleted any public Facebook video – Naked Security | O
-Freelance security researcher Dan Melamed has done us all a solid.
-Then, he did the right thing: he reported it to Facebook.
+Freelance security researcher Dan Melamed has done us all a solid. | O
+Then, he did the right thing: he reported it to Facebook. | O
 Melamed said in a blog post on Monday that he’d discovered the critical vulnerability in June. | DiscoverVulnerability
 Besides finding a kill switch for any public video, he also discovered he could disable commenting on any video. | DiscoverVulnerability
 Melamed had looked at the HTTP request that his browser sends to Facebook when he uploads a video. | O

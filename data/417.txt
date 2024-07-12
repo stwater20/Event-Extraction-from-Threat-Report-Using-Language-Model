@@ -1,4 +1,4 @@
-   Two-thirds of police internet-connected CCTV cameras in Washington DC were forced offline in January ahead of the presidential inauguration after a ransomware attack. | AttackRansom
+Two-thirds of police internet-connected CCTV cameras in Washington DC were forced offline in January ahead of the presidential inauguration after a ransomware attack. | AttackRansom
 Officials told the Washington Post that 123 out of a network of 187 cameras were affected. | O
 The devices are apparently used run by the police to monitor public spaces. | O
 The attack targeted 70% of the storage systems on which camera data is recorded, leaving them out of action from 12 to 15 January, the report claimed. | O

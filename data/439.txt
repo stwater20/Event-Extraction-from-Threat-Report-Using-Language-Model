@@ -1,4 +1,4 @@
-Sex club for women exposes members’ private photographs – Naked Security | O
+Sex club for women exposes members’ private photographs – Naked Security | AttackDatabreach
 Skirt Club is a place for lesbian and bisexual women to play out their fantasies, and it’s known for being discreet. | O
 But that doesn’t seem to apply when it comes to the online privacy component, according to Vice Germany. | O
 All the data collected by us is stored on a secure server. | O
@@ -10,7 +10,7 @@ Vice published a feature on Skirt Club in October 2016, which is probably why it
 After they looked into those claims, the editors found that at that time, thousands of personal images that members had uploaded in order to join Skirt Club were accessible to non-members – photos of users partially or fully naked, often recognizable, sometimes even with their names mentioned in the image. | O
 You didn’t need to hack the site to see – they weren’t password protected and anyone curious enough to make a bit of an effort could view and download the photos. | O
 Vice was particularly critical of how Skirt Club dealt with the issue: | O
-After VICE Germany reported the security issues to Skirt Club in mid-December 2016, it took Skirt Club more than three weeks to patch the issue. | DiscoverVulnerability,PatchVulnerability
+After VICE Germany reported the security issues to Skirt Club in mid-December 2016, it took Skirt Club more than three weeks to patch the issue. | DiscoverVulnerability , PatchVulnerability
 The users’ pictures and data aren’t accessible any more, but the security issue isn’t resolved completely – and at the time of publication, Skirt Club hasn’t informed users of the former problem. | O
 Naked Security reached out to Skirt Club, which directed press inquiries toward its attorney: | O
 Skirt Club is directing all media enquiries to its lawyer, Dr Sebastian Gorski at Schertz Bergmann Rechtsanwälte in Berlin. | O

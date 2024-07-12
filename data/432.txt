@@ -35,7 +35,7 @@ Perhaps it was fixed as part of a different patch cycle. | PatchVulnerability
 The second advisory included 25 models, all of which were vulnerable in their latest firmware version. | DiscoverVulnerability
 In June NETGEAR published a notice that provided a fix for a small subset of vulnerable routers and a workaround for the rest. | PatchVulnerability
 They also made the commitment to working toward 100% coverage for all affected routers. | O
-The notice has been updated several time since then and currently contains 31 vulnerable models, 18 of which are patched now, and 2 models that they previously listed as vulnerable, but are now listed as not vulnerable. | DiscoverVulnerability,PatchVulnerability
+The notice has been updated several time since then and currently contains 31 vulnerable models, 18 of which are patched now, and 2 models that they previously listed as vulnerable, but are now listed as not vulnerable. | DiscoverVulnerability , PatchVulnerability
 In fact, our tests show that one of the models listed as not vulnerable (DGN2200v4) is, in fact, vulnerable and this can easily be reproduced with the POC provided in our advisory. | DiscoverVulnerability
 Over the past nine months we attempted to contact NETGEAR multiple times for clarification and to allow them time to patch more models. | PatchVulnerability
 Over that time we have found more vulnerable models that were not listed in the initial notice, although they were added later. | DiscoverVulnerability
@@ -44,7 +44,7 @@ Luckily NETGEAR did eventually get back to us right before we were set to disclo
 We were a little skeptical since our experience to date matched that of other third-party vulnerability researchers that have tried to responsibly disclose to NETGEAR only to be met with frustration. | DiscoverVulnerability
 The first was that NETGEAR committed to pushing out firmware to the currently unpatched models on an aggressive timeline. | O
 The second change made us more confident that NETGEAR was not just serious about patching these vulnerabilities, but serious about changing how they handle third-party disclosure in general. | PatchVulnerability
-We fully expect this move will not only smooth the relationship between third-party researchers and NETGEAR, but, in the end, will result in a more secure line of products and services.
+We fully expect this move will not only smooth the relationship between third-party researchers and NETGEAR, but, in the end, will result in a more secure line of products and services. | O
 For starters, it affects a large number of models. | O
 We have found more than ten thousand vulnerable devices that are remotely accessible. | DiscoverVulnerability
 The real number of affected devices is probably in the hundreds of thousands, if not over a million. | O

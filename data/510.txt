@@ -3,7 +3,7 @@ A series of remotely exploitable vulnerabilities exist in a popular web-based SC
 The flaws exist in some versions of Honeywell’s XL Web II controllers, systems deployed across the critical infrastructure sector, including wastewater, energy, and manufacturing companies. | DiscoverVulnerability
 An advisory from the Department of Homeland Security’s Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) warned about the vulnerabilities Thursday. | DiscoverVulnerability
 The company has developed a fix, version 3.04.05.05, to address the issues but users have to call their local Honeywell Building Solutions branch to receive the update, according to the company. | PatchVulnerability
-The controllers suffer from five vulnerabilities in total but the scariest one might be the fact that passwords for the controllers are stored in clear text. | O
+The controllers suffer from five vulnerabilities in total but the scariest one might be the fact that passwords for the controllers are stored in clear text. | PatchVulnerability
 Furthermore, if attackers wanted to, they could disclose that password simply by accessing a particular URL. | AttackDatabreach
 An attacker could also carry out a path traversal attack by accessing a specific URL, open and change some parameters by accessing a particular URL, or establish a new user session. | O
 The problem with starting a new user session is that the controllers didn’t invalidate any existing session identifier, something that could have made it easier for an attacker to steal any active authenticated sessions. | O
@@ -13,4 +13,4 @@ Two years ago he discovered a pair of vulnerabilities in Tuxedo Touch, a home au
 It’s unclear how widespread the usage of Honeywell’s XL Web II controllers is. | O
 While Honeywell is a US-based company, according to ICS-CERT’s advisory the majority of the affected products are used in Europe and the Middle East. | O
 When reached on Friday, a spokesperson for Honeywell confirmed that the affected controllers are used in Europe and the Middle East. | O
-The company also stressed that the vulnerabilities were patched in September 2016 after they were reported in August. | DiscoverVulnerability,PatchVulnerability
+The company also stressed that the vulnerabilities were patched in September 2016 after they were reported in August. | DiscoverVulnerability , PatchVulnerability

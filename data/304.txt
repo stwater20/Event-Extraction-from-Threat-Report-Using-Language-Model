@@ -1,4 +1,4 @@
-Android Banking Trojan Source Code Leaked Online, Leads to New Variation Right Away | O
+Android Banking Trojan Source Code Leaked Online, Leads to New Variation Right Away | AttackDatabreach
 The Russian antivirus maker says the leaked source code appears to be a high-quality product and the security firm is positive this will attract the attention of many cyber-criminals looking for a base to develop and deploy their own mobile malware. | O
 Android banking trojans are usually sold for thousands of dollars, or rented for similar high fees. | O
 The easily availability of this trojan might lead to a surge in banking trojans targeting Android devices, Dr.Web researchers warn. | O

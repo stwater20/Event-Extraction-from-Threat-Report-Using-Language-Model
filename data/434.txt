@@ -22,10 +22,10 @@ Eventually, Netgear reported that they were going to fix all the unpatched model
 They also teamed up with Bugcrowd to improve their vulnerability handling process. | O
 Netgear has a status page on the vulnerability, they also provide a workaround for those who can't update their firmware yet. | O
 It wasn't until after the story ran that the PR firm representing Trustwave and pitching the research named Simon Kenin as one who made the discovery. | DiscoverVulnerability
-Netgear issued a statement, downplaying the discovery some, and reminding users that fixes are available for most of the impacted devices. | DiscoverVulnerability,PatchVulnerability
+Netgear issued a statement, downplaying the discovery some, and reminding users that fixes are available for most of the impacted devices. | DiscoverVulnerability , PatchVulnerability
 The emailed comments are reprinted below: NETGEAR is aware of the vulnerability (CVE-2017-5521), that has been recently publicized by Trustwave. | DiscoverVulnerability
 We have been working with the security analysts to evaluate the vulnerability. | O
-NETGEAR has published a knowledge base article from our support page, which lists the affected routers and the available firmware fix. | DiscoverVulnerability,PatchVulnerability
+NETGEAR has published a knowledge base article from our support page, which lists the affected routers and the available firmware fix. | DiscoverVulnerability , PatchVulnerability
 Firmware fixes are currently available for the majority of the affected devices. | PatchVulnerability
 To download the firmware release that fixes the password recovery vulnerability, click the link for the model and visit the firmware release page for further instructions. | PatchVulnerability
 

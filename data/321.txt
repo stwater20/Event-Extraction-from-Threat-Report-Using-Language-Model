@@ -1,7 +1,7 @@
 A flawed medical device, a troubling response - CSMonitor.com | O
 A case involving software vulnerabilities in medical electronics reveals the inability for both the health care sector and federal regulators to swiftly address cybersecurity problems. | DiscoverVulnerability
 This past fall, an investment firm rattled the health care industry with unsubstantiated claims of multiple software vulnerabilities in internet-connected pacemakers and cardiac defibrillators. | DiscoverVulnerability
-But it took federal authorities who regulate medical devices four months to acknowledge only one of the alleged defects, and for the company, St. Jude Medical, to patch it. | DiscoverVulnerability,PatchVulnerability
+But it took federal authorities who regulate medical devices four months to acknowledge only one of the alleged defects, and for the company, St. Jude Medical, to patch it. | DiscoverVulnerability , PatchVulnerability
 The delayed response to a problem that could potentially put patients at risk raises many questions about why it took so long for the government to act, and what it will take for the health care industry to respond more swiftly to bugs in medical equipment increasingly connected to the internet. | O
 "Software is never perfect and all systems still will have these flaws," says Joshua Corman, director of the Cyber Statecraft Initiative at the Atlantic Council and an expert on medical device security. | O
 "The question is how gracefully and collaboratively and quickly and safely can we respond to these flaws." | O
@@ -23,5 +23,5 @@ The controversy could have been partly avoided, perhaps, if St. Jude and MedSec 
 A week before federal regulators publicized the one St. Jude glitch on Jan. 9, they announced the completion of a 2016 draft policy that might have yielded multiple fixes in two months without anyone resorting to public shaming or legal action. | O
 On Jan. 4, DHS circulated the final Food and Drug Administration (FDA) cybersecurity guidelines for monitoring networked medical devices on the market that threaten manufacturers with penalties such as a recall unless they cooperate with bug hunters to patch vulnerabilities within 60 days. | PatchVulnerability
 Corman recommends that providers, including VA, heed all the literature that's been published on the St. Jude glitches, including a DHS technical advisory, FDA security communication, MedSec report, and guidance written by Bishop Fox, a cybersecurity consultancy Muddy Waters hired in response to the lawsuit. | O
-"Just understand that the FDA and DHS do need to get the ground truth, that security researcher claims do need to be validated through the normal regulatory process," he says.
+"Just understand that the FDA and DHS do need to get the ground truth, that security researcher claims do need to be validated through the normal regulatory process," he says. | O
 

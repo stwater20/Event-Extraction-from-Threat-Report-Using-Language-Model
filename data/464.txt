@@ -1,6 +1,6 @@
-Every Scotty’s Brewhouse employee affected by data breach; scammer gets copy of all W-2 forms | FOX59 | O
+Every Scotty’s Brewhouse employee affected by data breach; scammer gets copy of all W-2 forms | FOX59 | AttackDatabreach
 INDIANAPOLIS, Ind.– Officials at Scotty’s Brewhouse are working to inform thousands of employees across the company about an email data breach, leaking employees’ W-2 forms to an unknown suspect. | AttackDatabreach
-Company officials called IMPD Monday afternoon to report the breach, which apparently resulted from an email phishing scam. | AttackPhishing,Databreach
+Company officials called IMPD Monday afternoon to report the breach, which apparently resulted from an email phishing scam. | AttackPhishing , AttackDatabreach
 According to the police report, an individual posing as company CEO Scott Wise sent an email to a payroll account employee. | AttackPhishing
 The email requested the employee to send all 4,000 employees W-2 forms in PDF form. | O
 Chris Martin, director of HR/Payroll for the company, told police the email did not really come from Wise. | O
@@ -9,7 +9,7 @@ The report says Martin contacted the IRS to inform the agency of the breach. | O
 The IRS recommended Martin also file a report with IMPD. | O
 Scotty’s Brewhouse officials are now in the process of informing all employees, and providing them with precautionary measures to take in order to protect their financial and personal information. | O
 The company says it will offer one year of credit monitoring at no cost to employees, in addition to providing information regarding available resources for its employees to monitor their credit. | O
-Scotty’s says no customer information was obtained during the phishing scam. | AttackPhishing,Databreach
+Scotty’s says no customer information was obtained during the phishing scam. | AttackPhishing , AttackDatabreach
 The company is working with law enforcement and the credit bureaus to limit any potential misuse of the information that was obtained and to identify and apprehend the scammers. | AttackDatabreach
 Scott Wise, CEO of Scotty’s Holdings, LLC, issued the following statement: | O
 “Unfortunately, Scotty’s was the target of and fell victim to scammers, as so many other companies have,” said Wise. | O

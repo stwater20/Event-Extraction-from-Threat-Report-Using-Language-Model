@@ -1,5 +1,5 @@
 Locky and Sage Ransomware Use the Same Distribution Infrastructure | AttackRansom
-PhishMe security researchers warn that the Locky ransomware is relying on the same delivery infrastructure which was previously used for the Sage ransomware distribution. | O
+PhishMe security researchers warn that the Locky ransomware is relying on the same delivery infrastructure which was previously used for the Sage ransomware distribution. | AttackRansom
 Cybercriminals often share infrastructure between one another, so the fact that Locky and Sage use the same recourses is not that surprising. | O
 However, the fact also shows that the crooks behind Locky are working on securing new distribution venues after the main Locky distributor – Necurs botnet – recently went silent. | O
 The Sage ransomware first appeared on the malware stage at the end of last year and was analyzed early this year. | O
@@ -8,7 +8,7 @@ Later, the operators abandoned this tactic and starting using business-related t
 Some of the delivery emails didn’t come with a subject at all but they did use the victim`s name in the file attachment name. | O
 This file attachment was usually a double-zipper archive that contained a malicious .js file or an Office document. | O
 Other messages posed as a rejected financial transaction, failed deposit/refund or canceled order alerts in order to trick the users into opening them. | AttackPhishing
-The campaign, according to PhishMe, used a .zip file (named “document_1.zip”), containing a JavaScript application in it, which would download the Sage ransomware in the form of a Windows executable. | O
+The campaign, according to PhishMe, used a .zip file (named “document_1.zip”), containing a JavaScript application in it, which would download the Sage ransomware in the form of a Windows executable. | AttackPhishing
 The payload was retrieved from the domain affections[. | O
 ]top, and the malware relied on the same payment gateway’s Tor site as before, as well as the Tor2Web gateway addresses on rzunt3u2[. | O
 Then, however, on January 26th, another phishing campaign was spotted to distribute the Locky ransomware, leveraging the same email messages and metadata. | AttackPhishing

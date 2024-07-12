@@ -1,6 +1,6 @@
 Rsync errors lead to data breach at Canadian ISP, KWIC Internet | CSO Online | AttackDatabreach
 For those unfamiliar with the tool, Rsync (remote sync) is commonly used by hosting providers, ISPs, and IT departments to backup data between servers. | O
-The ISP in question, KWIC Internet in Simcoe, Ontario, fixed the Rsync problems after being notified by Salted Hash, but it isn’t clear how long the company’s customers were exposed. | PatchVulnerability,DiscoverVulnerability
+The ISP in question, KWIC Internet in Simcoe, Ontario, fixed the Rsync problems after being notified by Salted Hash, but it isn’t clear how long the company’s customers were exposed. | PatchVulnerability , DiscoverVulnerability
 Via email, Vickery shared his latest findings with Salted Hash last week. | DiscoverVulnerability
 [ Learn about top security certifications: Who they're for, what they cost, and which you need. | O
 Initially, Vickery discovered databases belonging to Annex Business Media, a publishing firm with offices in Simcoe and Aurora, Ontario. | O

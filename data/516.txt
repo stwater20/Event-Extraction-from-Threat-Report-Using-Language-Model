@@ -14,11 +14,11 @@ Distribution International emailed employees that their W-2 data was compromised
 Their notification expands the number of affected taxpayers to more than 30,000. | O
 The scammers spoofed an email and  one of the company's owners. | AttackPhishing
 W-2 records for all companies and all employees were compromised. | AttackDatabreach
-Salted Hash reached out to Sky Climber's CFO, Jeff Caswell, for more information.
+Salted Hash reached out to Sky Climber's CFO, Jeff Caswell, for more information. | O
 Also, the College of Southern Idaho has reported an incident that could impact 3,000 employees. | O
 According to Public Information Officer Doug Maughan, the W-2 records affected belong to seasonal and auxiliary staff. | O
 Palomar College disclosed an attack on January 30, which affected employee W-2 records. | AttackDatabreach
-The school didn't say the incident was the result of a BEC attack, but Salted Hash is listing it anyway due to the timing of the attack and the information targeted. | AttackDatabreach,Phishing
+The school didn't say the incident was the result of a BEC attack, but Salted Hash is listing it anyway due to the timing of the attack and the information targeted. | AttackDatabreach , AttackPhishing
 Finally today, the West Michigan Whitecaps - a Class A minor league baseball team affiliated with the Detroit Tigers - said staff W-2 records were compromised after someone posing as a manager requested them. | AttackPhishing
 In 2016, the criminals behind the BEC attacks mostly focused on payroll and tax records. | AttackPhishing
 This year though, the IRS says that in addition to the usual records request, the scammers are now following-up and requesting wire transfers. | O

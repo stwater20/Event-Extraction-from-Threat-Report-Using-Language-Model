@@ -6,7 +6,7 @@ The company’s vice president of security strategy Mike Pittenger says it’s l
 “However, I would not extrapolate that to say 11% of all commercial applications were vulnerable to Heartbleed at that time”. | O
 That 11% is a number from the company’s last published report. | O
 In a new report due out next month that hasn’t been wrapped up yet, that number is likely to dip into the single digits, but is still significant. | O
-The problem is that commercial software in general uses a great deal of open source code – 35% on average - and authors of the code don’t necessarily have processes in place to track when vulnerabilities are found in that code and to then patch them, he says. | DiscoverVulnerability,PatchVulnerability
+The problem is that commercial software in general uses a great deal of open source code – 35% on average - and authors of the code don’t necessarily have processes in place to track when vulnerabilities are found in that code and to then patch them, he says. | DiscoverVulnerability , PatchVulnerability
 He says Black Duck’s study finds that two-thirds of these applications have open-source vulnerabilities of one kind or another and that they average 5 years old. | DiscoverVulnerability
 In regard to Heartbleed in particular, he says the reports draw on anonymized data about its audits so they don’t reveal the specific applications in which the Heartbleed vulnerability was found. | DiscoverVulnerability
 Running vulnerable applications in a regulated environment could have consequences for the enterprises using them, he says, because the security threat they represent could violate HIPAA or PCI security and privacy requirements. | O

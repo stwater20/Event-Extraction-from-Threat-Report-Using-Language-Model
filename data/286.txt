@@ -1,8 +1,8 @@
 Cyber Criminals Held Cancer Services Computers for Ransom | AttackRansom
-The executive director of the organization revealed on Tuesday that their computer systems have been infected with a ransomware by cyber criminals who happen to be “an international cyber terrorist organization”. | O
+The executive director of the organization revealed on Tuesday that their computer systems have been infected with a ransomware by cyber criminals who happen to be “an international cyber terrorist organization”. | AttackRansom
 Aimee Fant, the Executive Director of Little Red Door, officially revealed its involvement in the agency’s computer system hack in a press release. | O
 According to their Facebook post, the attack occurred last week on Wednesday night when the hackers attacked the terminal service and backup driver of Cancer Services’ computer systems. | O
-They managed to access, hack and encrypt the data. | O
+They managed to access, hack and encrypt the data. | AttackDatabreach
 After carrying out the hack attack, the notorious gang of cyber criminals demanded $43,000 ransom on Thursday. | AttackRansom
 The press release also revealed that the perpetrators of the crime were gearing up to threaten the family members of living or deceased “cancer clients, donors and community partners”. | O
 She further informed that the FBI has been contacted to conduct an “active investigation”. | O

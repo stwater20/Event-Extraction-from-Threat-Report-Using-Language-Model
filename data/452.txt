@@ -8,6 +8,6 @@ In another case, user X noticed R$3,000 (US$955.11, as of January 30, 2017) was 
 Her home router was also infected with a malicious DNS-changing malware. | O
 Routers often have unsecure configurations that make them susceptible to malware attacks similar to the real-world cases we presented above. | DiscoverVulnerability
 For one, security flaws exist in the operating system, firmware, and web applications of routers. | DiscoverVulnerability
-Attackers can simply use these vulnerabilities as entry points to further compromise the home network. | O
+Attackers can simply use these vulnerabilities as entry points to further compromise the home network. | DiscoverVulnerability
 Web-based scripts are an effective tactic to infiltrate routers. | O
 

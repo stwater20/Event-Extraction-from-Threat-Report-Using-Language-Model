@@ -1,4 +1,4 @@
-   Rick Wang, an official with Taiwan’s Financial Supervisory Commission (FSC), said each brokerage had received an email setting a deadline for the transfer of funds to avoid a distributed denial of service (DDoS) attack. | O
+Rick Wang, an official with Taiwan’s Financial Supervisory Commission (FSC), said each brokerage had received an email setting a deadline for the transfer of funds to avoid a distributed denial of service (DDoS) attack. | O
 They have become common tools for cyber criminals trying to cripple businesses and organizations with significant online activities. | O
 “We have never seen this on such a scale - five companies hit at one time with the same threat,” said Wang, adding that the regulator usually sees single instances of cyber-crime. | O
 FireEye, a cybersecurity consultancy, said the attacks were similar to a wave of threatened denial of service attacks by a previously unidentified group that first appeared in Europe last month. | O

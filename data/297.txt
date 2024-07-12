@@ -1,4 +1,4 @@
-What You Need To Know About The iMessage Security Flaw | O
+What You Need To Know About The iMessage Security Flaw | DiscoverVulnerability
 With everything that’s gone down in 2016 it’s easy to forget Tim Cook’s and Apple’s battle with the FBI over data encryption laws. | O
 Apple took a strong stance though, and other tech giants followed suite leading to a victory of sorts for (the little guy in) online privacy. | O
 In this era of web exposure, it was a step in the right direction for those who feel our online identities are increasingly vulnerable on the web. | O

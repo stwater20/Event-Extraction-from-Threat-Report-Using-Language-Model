@@ -1,4 +1,5 @@
-   A controversial Florida-based marketing company has accidentally exposed nearly 400,000 audio recordings with customers, providing criminals with the perfect raw data to commit follow-up fraud. | O
+
+A controversial Florida-based marketing company has accidentally exposed nearly 400,000 audio recordings with customers, providing criminals with the perfect raw data to commit follow-up fraud. | AttackDatabreach
 Security vendor MacKeeper claimed the files were left publicly available, leading to one of its biggest discoveries to date, and include customer details such as names, addresses, phone numbers, credit card numbers and CV2 numbers. | O
 The firm is still working its way through the huge trove of data, but said that it has discovered 17,649 audio recordings with credit card numbers and private customer files and 375,368 audio recordings of “cold calls,” which also include some personal customer information. | O
 The revelations are doubly damaging for the company in question, Vici Marketing. | O
