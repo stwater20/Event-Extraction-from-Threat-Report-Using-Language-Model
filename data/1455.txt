@@ -2,8 +2,8 @@ Security Researcher Finds 40 Zero-Day Vulnerabilities in Samsung's Tizen OS | Di
 Samsung, being a large multinational company, makes a lot of products spread across various spheres of life and marketed to diverse segments in a multitude of countries. | O
 Over here on XDA-Developers, Samsung is famously known for their Android smartphones and tablets, given they are some of the top contenders for their respective product categories. | O
 Samsung also makes many more interesting electronics, including a few “smart” ones that run on its own open-source OS, Tizen OS. | O
-Tizen powers Samsung products like smart TVs, smartwatches like the Gear series and even mobile phones like the Samsung Galaxy Z lineup. | DiscoverVulnerability
-Samsung is seeking to expand the Tizen offerings to more products and more markets, as is evident from the expansion of the Galaxy Z smartphones and the Gear smartwatches. | DiscoverVulnerability
+Tizen powers Samsung products like smart TVs, smartwatches like the Gear series and even mobile phones like the Samsung Galaxy Z lineup. | O
+Samsung is seeking to expand the Tizen offerings to more products and more markets, as is evident from the expansion of the Galaxy Z smartphones and the Gear smartwatches. | O
 As security researcher Amihai Neiderman of Equus Software mentioned to Motherboard, Samsung’s Tizen OS has as many as 40 zero-day vulnerabilities still active and posing threat to the security of the operating system. | DiscoverVulnerability
 These vulnerabilities allow someone to remotely hack “millions” of newer Samsung smart TVs, smartwatches and mobile phones, both already on the market as well as ones slated for future release as Samsung does not know and has not fixed these vulnerabilities (hence, “zero day”). | DiscoverVulnerability
 You can see that nobody with any understanding of security looked at this code or wrote it. | O
@@ -18,4 +18,4 @@ The vulnerabilities are described as “mistakes programmers were making twenty 
 When contacted, Samsung sent the researcher an automated email in response. | O
 Samsung’s current smartphone lineup is heavily dependent on Android, so these news shouldn’t necessarily impact your opinion of their Android smartphones in particular. | O
 But Samsung’s other avenues that involve Tizen are likely to invite hackers to explore and find more of such zero-day vulnerabilities. | DiscoverVulnerability
-There needs to be a higher priority on Tizen’s security if Samsung ever wants Tizen to be an OS for the internet of things. | DiscoverVulnerability
+There needs to be a higher priority on Tizen’s security if Samsung ever wants Tizen to be an OS for the internet of things. | O
