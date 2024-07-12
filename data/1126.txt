@@ -4,11 +4,11 @@ According to data protection firm Datto, 87% of European IT service providers it
 Additionally, 40% of respondents reported multiple attacks during that time. | O
 Just over a quarter of respondents (27%) reported experiencing multiple attacks in a single day. | O
 In terms of the impact these attacks are having, the survey revealed the average ransom demanded was between £500 and £2000. | AttackRansom 
-In 15% of reported cases the demand was in excess of £2000. | O
+In 15% of reported cases the demand was in excess of £2000. | AttackRansom
 Nearly half (47%) said paying the ransom was ineffective, as they still lost some of the data that had been encrypted by the attackers. | AttackRansom
 As well as financial penalties, ransomware attacks can also impact the business in other ways. | AttackRansom
 A majority of respondents (62%) said they’d experienced downtime during the attack. | O 
-For smaller organizations, the combination of financial loss and downtime can threaten the continued operation of the business, Datto said. | AttackRansom
+For smaller organizations, the combination of financial loss and downtime can threaten the continued operation of the business, Datto said. | O
 Frustratingly, just 40% of ransomware victims end up reporting the crime to the authorities. | O
 The FBI has previously said that reporting ransomware attacks will help it get a better understanding of exactly how many attacks are occurring as well as help the industry develop its defenses; traditional antivirus has so far proved to be ineffectual against most ransomware. | AttackRansom
 “Ransomware is more than just a nuisance; it’s a major money-making operation backed by professional and well-funded organizations,” said Andrew Stuart, managing director, EMEA at Datto. | O
