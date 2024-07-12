@@ -5,9 +5,9 @@ The site lists main applications of the EV-07S as elderly care, disabled and pat
 "I wouldn't be worried about giving this to my grandma. | O
 But I would be more concerned giving it to anyone who might be at risk," said Deral Heiland, internet of things research lead at Rapid7. | O
 The group found another six vulnerabilities not listed in the manual. | DiscoverVulnerability
-Those include a web portal for the device that allows anyone (even people without passwords) to access GPS coordinates of any device. | DiscoverVulnerability, AttackDatabreach
-Anyone who logs into an account on the site has access to other information from all accounts, including phone numbers and device configurations. | DiscoverVulnerability, AttackDatabreach
-The device also transmits data in "clear," unencrypted text, allowing anyone to tamper or alter information in transit. | DiscoverVulnerability, AttackDatabreach
+Those include a web portal for the device that allows anyone (even people without passwords) to access GPS coordinates of any device. | DiscoverVulnerability
+Anyone who logs into an account on the site has access to other information from all accounts, including phone numbers and device configurations. | O
+The device also transmits data in "clear," unencrypted text, allowing anyone to tamper or alter information in transit. | O
 Rapid7 spoke with the manufacturer in December to relay its findings. | O
-Eview has not informed Rapid7 of any intention to repair the security flaws. | DiscoverVulnerability
-"We thought we had a responsibility to alert users that these vulnerabilities exist," said Heiland. | DiscoverVulnerability, AttackDatabreach
+Eview has not informed Rapid7 of any intention to repair the security flaws. | O
+"We thought we had a responsibility to alert users that these vulnerabilities exist," said Heiland. | O
