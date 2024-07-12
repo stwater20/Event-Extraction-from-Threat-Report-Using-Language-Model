@@ -2,15 +2,15 @@ US military leak exposes 'holy grail' of security clearance files | ZDNet | Atta
 An unsecured backup drive has exposed thousands of US Air Force documents, including highly sensitive personnel files on senior and high-ranking officers. | AttackDatabreach
 Security researchers found that the gigabytes of files were accessible to anyone because the internet-connected backup drive was not password protected. | AttackDatabreach
 The files, reviewed by ZDNet, contained a range of personal information, such as names and addresses, ranks, and Social Security numbers of more than 4,000 officers. | AttackDatabreach
-Another file lists the security clearance levels of hundreds of other officers, some of whom possess "top secret" clearance, and access to sensitive compartmented information and codeword-level clearance. | AttackDatabreach, O
+Another file lists the security clearance levels of hundreds of other officers, some of whom possess "top secret" clearance, and access to sensitive compartmented information and codeword-level clearance. | O
 Phone numbers and contact information of staff and their spouses, as well as other sensitive and private personal information, were found in several other spreadsheets. | AttackDatabreach
 The drive is understood to belong to a lieutenant colonel, whose name we are not publishing. | O
 ZDNet reached out to the officer by email but did not hear back. | O
 The data was secured last week after a notification by MacKeeper security researcher Bob Diachenko. | O
-Among the most damaging documents on the drive included the completed applications for renewed national security clearances for two US four-star generals, both of whom recently had top US military and NATO positions. | AttackDatabreach
-Both of these so-called SF86 applications contain highly sensitive and detailed information, including financial and mental health history, past convictions, relationships with foreign nationals, and other personal information. | AttackDatabreach, O
+Among the most damaging documents on the drive included the completed applications for renewed national security clearances for two US four-star generals, both of whom recently had top US military and NATO positions. | O
+Both of these so-called SF86 applications contain highly sensitive and detailed information, including financial and mental health history, past convictions, relationships with foreign nationals, and other personal information. | AttackDatabreach
 These completed questionnaires are used to determine a candidate's eligibility to receive classified material. | O
-Several national security experts and former government officials we spoke to for this story described this information as the "holy grail" for foreign adversaries and spies, and said that it should not be made public. | AttackDatabreach
+Several national security experts and former government officials we spoke to for this story described this information as the "holy grail" for foreign adversaries and spies, and said that it should not be made public. | O
 For that reason, we are not publishing the names of the generals, who have since retired from service. | O
 Nevertheless, numerous attempts to contact the generals over the past week went unreturned. | O
 "Some of the questions ask for information that can be very personal, as well as embarrassing," said Mark Zaid, a national security attorney, in an email. | O
