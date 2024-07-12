@@ -1,6 +1,6 @@
 Unusual cyber attack thwarted - Israel National News | O
 Attacker forges security certificates, sends emails to government offices and private citizens. | AttackPhishing
-In the past few days, the National Authority for Cyber Security has seen evidence of planned cyber attacks on various targets in the Israeli marketplace. | AttackDatabreach
+In the past few days, the National Authority for Cyber Security has seen evidence of planned cyber attacks on various targets in the Israeli marketplace. | O
 The Authority analyzed the evidence and uncovered the attacker's plan, as well as the different points of application he had used. | AttackDatabreach
 Their analysis showed the attacker sent emails under the guise of a legitimate organization and attempted to attack 120 organizations, government offices, public institutions, and private citizens. | AttackPhishing
 He also forged security certificates, masquerading as a safe company. | AttackPhishing
