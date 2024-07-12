@@ -2,7 +2,7 @@ Phishing attacks responsible for three-quarters of all malware - Help Net Securi
 With phishing now widely used as a mechanism for distributing ransomware, a new NTT Security reveals that 77% of all detected ransomware globally was in four main sectors – business & professional services (28%), government (19%), health care (15%) and retail (15%). | AttackPhishing
 While technical attacks on the newest vulnerabilities tend to dominate the media, many attacks rely on less technical means.  | O
 According to the GTIR, phishing attacks were responsible for nearly three-quarters (73%) of all malware delivered to organizations, with government (65%) and business & professional services (25%) as the industry sectors most likely to be attacked at a global level.  | AttackPhishing
-When it comes to attacks by country, the U.S.(41%), Netherlands (38%) and France (5%) were the top three sources of phishing attacks. | AttackPhishing
+When it comes to attacks by country, the U.S.(41%), Netherlands (38%) and France (5%) were the top three sources of phishing attacks. | O
 The report also reveals that just 25 passwords accounted for nearly 33% of all authentication attempts against NTT Security honeypots last year.  | O
 Over 76% of log on attempts included a password known to be implemented in the Mirai botnet – a botnet comprised of IoT devices, which was used to conduct, what were at the time, the largest ever distributed denial of service (DDoS) attacks.  | O
 DDoS attacks represented less than 6% of attacks globally, but accounted for over 16% of all attacks from Asia and 23% of all attacks from Australia. | O
