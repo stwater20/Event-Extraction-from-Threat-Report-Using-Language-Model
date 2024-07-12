@@ -1,16 +1,16 @@
-'High Risk' Zero-Day Leaves 200,000 Magento Merchants Vulnerable  | Threatpost | The first stop for security news | DiscoverVulnerability
+'High Risk' Zero-Day Leaves 200,000 Magento Merchants Vulnerable  | Threatpost | The first stop for security news | O
 A popular version of the open source Magento ecommerce platform is vulnerable to a zero-day remote code execution vulnerability, putting as many as 200,000 online retailers at risk. | DiscoverVulnerability
-The warning comes from security firm DefenseCode, which found and originally reported the vulnerability to Magento in November. | PatchVulnerability, DiscoverVulnerability
+The warning comes from security firm DefenseCode, which found and originally reported the vulnerability to Magento in November. | DiscoverVulnerability
 “During the security audit of Magento Community Edition, a high risk vulnerability was discovered that could lead to remote code execution and thus the complete system compromise including the database containing sensitive customer information such as stored credit card numbers and other payment information,” DefenseCode wrote in a technical description of its discovery (PDF) posted Wednesday. | DiscoverVulnerability
-According Bosko Stankovic, information security engineer at DefenseCode, despite repeated efforts to notify Magento, which began in November 2016, the vulnerability remains unpatched despite four version updates since the disclosure.  | PatchVulnerability, DiscoverVulnerability
+According Bosko Stankovic, information security engineer at DefenseCode, despite repeated efforts to notify Magento, which began in November 2016, the vulnerability remains unpatched despite four version updates since the disclosure.  | O
 DefenseCode did not examine Magento Enterprise, the commercial version of the platform, but warns both share the same underlying vulnerable code. | O
-“We’re unsure if this vulnerability is actively being exploited in the wild, but since the vulnerability has been unpatched for so long it provides a window of opportunity for potential hackers,” Stankovic said. | PatchVulnerability, DiscoverVulnerability
+“We’re unsure if this vulnerability is actively being exploited in the wild, but since the vulnerability has been unpatched for so long it provides a window of opportunity for potential hackers,” Stankovic said. | O
 Magento confirmed the existence of the flaw in a brief statement to Threatpost and said it was investigating. | DiscoverVulnerability
-“We have been actively investigating the root cause of the reported issue and are not aware of any attacks in the wild.  | DiscoverVulnerability
+“We have been actively investigating the root cause of the reported issue and are not aware of any attacks in the wild.  | O
 We will be addressing the issue in our next patch release and continue to consistently work to improve our assurance processes,” Magento said in a statement. | PatchVulnerability
-Yesterday, Threatpost reported a story about a remote code execution vulnerability with Magento 2 Enterprise and Community software.  | DiscoverVulnerability
-Magento is committed to delivering superior security to clients and has been actively investigating the root cause of the reported issue.  | DiscoverVulnerability
+Yesterday, Threatpost reported a story about a remote code execution vulnerability with Magento 2 Enterprise and Community software.  | O
+Magento is committed to delivering superior security to clients and has been actively investigating the root cause of the reported issue.  | O
 We are not aware of any attacks in the wild.  | O
 Admin access is required to execute the exploit, so as always, we encourage you to follow best practices to keep your Admin secure.  | O
-In addition, this vulnerability will be addressed in our next release targeted for early May.  | PatchVulnerability, DiscoverVulnerability
+In addition, this vulnerability will be addressed in our next release targeted for early May.  | PatchVulnerability
 Until then, we recommend enforcing the use of “Add Secret Key to URLs” to mitigate potential attacks. | O
