@@ -1,4 +1,4 @@
- Flaw in Fiserv banking platform exposed personal data  
+Flaw in Fiserv banking platform exposed personal data | AttackDatabreach
  The exploit, which has now been patched, affected customers banking with hundreds of financial institutions. | PatchVulnerability
 US-based financial services firm Fiserv has just fixed a flaw in its web platform that exposed the personal and financial details of a vast number of banking customers. | PatchVulnerability
 With more than 12,000 clients across the world using the company's services, it is hard to establish how many customers' details were exposed in the 'information disclosure vulnerability' found by security researcher Kristian Erik Hermansen. | DiscoverVulnerability

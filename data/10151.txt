@@ -1,4 +1,4 @@
- Microsoft Working on a Fix for Windows 10 Meltdown Patch Bypass  
+Microsoft Working on a Fix for Windows 10 Meltdown Patch Bypass | PatchVulnerability
 Microsoft's patches for the Meltdown vulnerability have had a fatal flaw all these past months, according to Alex Ionescu, a security researcher with cyber-security firm Crowdstrike. | O
 Only patches for Windows 10 versions were affected, the researcher wrote today in a tweet. | DiscoverVulnerability
  Microsoft quietly fixed the issue on Windows 10 Redstone 4 (v1803), also known as the April 2018 Update, released on Monday. | PatchVulnerability

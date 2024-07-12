@@ -1,4 +1,4 @@
-Google discloses another Windows 10 security flaw before a patch is ready 
+Google discloses another Windows 10 security flaw before a patch is ready | DiscoverVulnerability
 Google disclosed a flaw in Microsoft Edge earlier this week, after Microsoft failed to patch the bug in time. | DiscoverVulnerability, PatchVulnerability
  Now Google’s Project Zero team of security researchers are disclosing yet another Windows 10 security flaw that Microsoft has again failed to patch before Google’s imposed 90-day period. | DiscoverVulnerability, PatchVulnerability
  Neowin spotted that Google reported two bugs to Microsoft in November, but the company only addressed one of them with its recent Patch Tuesday fixes. | DiscoverVulnerability, PatchVulnerability
@@ -14,5 +14,3 @@ Google’s policy to disclose after 90 days without a patch is often criticized 
 Reports suggest Google’s Project Zero security team originated from the fallout around the 2009 Google hack, an intrusion blamed on an unpatched flaw in Microsoft’s Internet Explorer 6 browser. | O
 Google makes exceptions to its strict rules, with grace periods, and can even disclose much sooner if the vulnerability is being actively exploited. | DiscoverVulnerability
  Google disclosed a major Windows bug back in 2016 just 10 days after reporting it to Microsoft, and the company has revealed zero-day bugs in Windows in the past before patches are available. | DiscoverVulnerability, PatchVulnerability
-
-

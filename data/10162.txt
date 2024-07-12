@@ -1,4 +1,4 @@
- VirtualBox Zero-Day Vulnerability Details and Exploit Are Publicly Available 
+VirtualBox Zero-Day Vulnerability Details and Exploit Are Publicly Available | O
 A Russian vulnerability researcher and exploit developer has published detailed information about a zero-day vulnerability in VirtualBox. | DiscoverVulnerability
  His explanations include step-by-step instructions for exploiting the bug. | O
 According to the initial details in the disclosure, the issue is present in a shared code base of the virtualization software, available on all supported operating systems. | DiscoverVulnerability

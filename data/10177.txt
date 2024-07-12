@@ -1,4 +1,4 @@
- PureVPN Windows client leaked passwords ***now patched*** 
+PureVPN Windows client leaked passwords ***now patched*** | AttackDatabreach, PatchVulnerability
 PureVPN has had two vulnerabilities which would allow hackers to retrieve stored passwords through the VPN client. | DiscoverVulnerability
  This was confirmed by Trustwave’s security researcher Manuel Nader, and the VPN provider itself. | DiscoverVulnerability
 One of the two vulnerabilities were fixed in the meantime, while the other one remains active, and PureVPN has, according to Nader, “accepted the risk”. | PatchVulnerability
@@ -22,5 +22,3 @@ For now the community has raised concerns and is confusing it as a vulnerability
 We use Bugcrowd, a public Bug Bounty Program that employees some 90,000 ethical hackers to test our product. | O
  We remain in heavy collaboration with the InfoSec community and hence have such aggressive and streamlined processes in place to have released the new version 6.2.2 within a few hours only." | PatchVulnerability
 Those interested in learning more about VPNs and how they help improve your online privacy, make sure to read our Best VPN article. | O
-
-

@@ -1,4 +1,4 @@
- Git discloses and patches security vulnerability 
+Git discloses and patches security vulnerability | PatchVulnerability
 Git has disclosed a security vulnerability that allows for arbitrary code execution in malicious repositories, Microsoft reports. | DiscoverVulnerability
 The vulnerability, CVE-2018-11235, was addressed and fixed in Git 2.17.1 and Git for Windows 2.17.1 (2), which were both released today. | PatchVulnerability
  In addition, the Visual Studio Team Services (VSTS) team has blocked malicious repositories from being pushed to VSTS to ensure that Visual Studio cannot be used as a vector for transmitting malicious repositories to clients who have not yet patched their clients. | PatchVulnerability

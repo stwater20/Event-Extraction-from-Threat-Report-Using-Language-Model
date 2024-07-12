@@ -1,4 +1,4 @@
- Microsoft patches patch for Meltdown bug patch: Windows 7, Server 2008 rushed an emergency fix  
+Microsoft patches patch for Meltdown bug patch: Windows 7, Server 2008 rushed an emergency fix | | PatchVulnerability
 Microsoft today issued an emergency security update to correct a security update it issued earlier this month to correct a security update it issued in January and February. | PatchVulnerability
 In January and February, Redmond emitted fixes for Windows 7 and Server 2008 R2 machines to counter the Meltdown chip-level vulnerability in modern Intel x64 processors. | PatchVulnerability
  Unfortunately, those patches blew a gaping hole in the operating systems: normal applications and logged-in users could now access and modify any part of physical RAM, and gain complete control over a box, with the updates installed. | PatchVulnerability

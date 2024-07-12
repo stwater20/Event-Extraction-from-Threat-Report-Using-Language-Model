@@ -1,4 +1,4 @@
- No Patch Available Yet for New Major Vulnerability in Ghostscript Interpreter  
+No Patch Available Yet for New Major Vulnerability in Ghostscript Interpreter | O
 Tavis Ormandy, a Google Project Zero security researcher, has revealed details about a new major vulnerability discovered in Ghostscript, an interpreter for Adobe's PostScript and PDF page description languages. | DiscoverVulnerability
 Ghostscript is by far the most widely used solution of its kind. | O
  The Ghostscript interpreter is embedded in hundreds of software suites and coding libraries that allow desktop software and web servers to handle PostScript and PDF-based documents. | O

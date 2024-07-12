@@ -1,4 +1,4 @@
-EOS Forced to Patch ‘Epic’ Security Loopholes Ahead of Launch
+EOS Forced to Patch ‘Epic’ Security Loopholes Ahead of Launch | PatchVulnerability
 EOS has tweeted to confirm that it has patched “most” of the reported bugs and is “working hard” on the remainder. | PatchVulnerability
  It expects the mainnet launch to stay on schedule. | O
 Qihoo 360, a China-based internet security firm, says it has notified the EOS blockchain project about “a series of epic vulnerabilities” discovered on its platform. | DiscoverVulnerability
@@ -10,5 +10,3 @@ While EOS has not yet made any public comment on the issue, Qihoo 360 said in an
 “If any of these asserts trigger in release it shouldn’t pass, but should throw. | O
  Allowing the code to continue running in release is a potential security vulnerability and will likely result in crashes elsewhere,” Larimer wrote on the Github page. | O
 Meanwhile, Larimer has today appealed for more external assistance in identifying critical bugs in the system with the project’s mainnet launch just days away. | DiscoverVulnerability
-
-

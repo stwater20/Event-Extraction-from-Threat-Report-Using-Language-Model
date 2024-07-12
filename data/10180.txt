@@ -1,4 +1,4 @@
- Apache's latest SNAFU – Struts normal, all fscked up: Web app framework needs urgent patching 
+ Apache's latest SNAFU – Struts normal, all fscked up: Web app framework needs urgent patching | O
 Another critical security hole has been found in Apache Struts 2, requiring an immediate update. | DiscoverVulnerability
 The vulnerability – CVE-2018-11776 – affects core code and allows miscreants to pull off remote code execution against vulnerable servers and websites. | DiscoverVulnerability
  It affects all versions of Struts 2, the popular open-source framework for Java web apps. | DiscoverVulnerability

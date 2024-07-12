@@ -1,7 +1,6 @@
- Git security vulnerability could lead to an attack of the (repo) clones 
+Git security vulnerability could lead to an attack of the (repo) clones | O
 A new version of Git has been emitted to ward off attempts to exploit a potential arbitrary code execution vulnerability – which can be triggered by merely cloning a malicious repository. | DiscoverVulnerability
-The security hole, CVE-2018-11235, reported by Etienne Stalmans, stems from a flaw in Git whereby sub-module names supplied by the . | DiscoverVulnerability
-gitmodules file are not properly validated when appended to $GIT_DIR/modules. | O
+The security hole, CVE-2018-11235, reported by Etienne Stalmans, stems from a flaw in Git whereby sub-module names supplied by the .gitmodules file are not properly validated when appended to $GIT_DIR/modules. | DiscoverVulnerability
  Including "../" in a name could result in directory hopping. | O
  Post-checkout hooks could then be executed, potentially causing all manner of mayhem to ensue on the victim's system. | O
 Another vulnerability, CVE-2018-11233, describes a flaw in the processing of pathnames in Git on NTFS-based systems, allowing the reading of memory contents. | DiscoverVulnerability

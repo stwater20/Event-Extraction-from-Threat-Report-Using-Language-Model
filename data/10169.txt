@@ -1,4 +1,4 @@
- Lock-Screen Bypass Bug Quietly Patched in Handsets 
+Lock-Screen Bypass Bug Quietly Patched in Handsets | PatchVulnerability
 A design flaw affecting all in-display fingerprint sensors – that left over a half-dozen cellphone models vulnerable to a trivial lock-screen bypass attack – has been quietly patched. | DiscoverVulnerability, PatchVulnerability
  The flaw was tied to a bug in the popular in-display fingerprint reader technology used for user authentication. | O
 In-display fingerprint reader technology is widely considered an up-and-coming feature to be used in a number of flagship model phones introduced in 2019 by top OEM phone makers, according to Tencent’s Xuanwu Lab which is credited for first identifying the flaw earlier this year. | DiscoverVulnerability
@@ -15,6 +15,6 @@ In-display fingerprint readers based on optical fingerprint imaging, experts bel
  In-display readers allow for a user to place a finger on the screen of a smartphone where a scanner from behind the display can verify a fingerprint, authenticate the user and unlock the phone. | O
 Design-wise the feature allows phones to be sleeker and less cluttered, supporting infinity displays. | O
  Usability advantages include the ability to unlock the phone simply by placing your finger on the phone’s screen at any angle, whether it’s sitting on a table or in a car mount. | O
-The vulnerability, which Huawei issued a patch (CVE-2018-7929) for in September, can be exploited in a matter of seconds, researchers said. | PatchVulnerability, DiscoverVulnerability
+The vulnerability, which Huawei issued a patch (CVE-2018-7929) for in September, can be exploited in a matter of seconds, researchers said. | PatchVulnerability
  In an exclusive interview with Threatpost on the flaw Yu said all an attacker needs to carry out the attack is an opaque reflective material such as aluminum foil. | O
  By placing the reflective material over a residual fingerprint on the phone’s display the capacitance fingerprint imaging mechanism can be tricked into authenticating a fingerprint. | O

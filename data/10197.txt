@@ -1,4 +1,3 @@
-Abbott releases firmware patch to fix cybersecurity flaws in 350,000 medical devices
 Haven't updated your Adobe PDF software lately? Here's 85 new reasons to do it now  | O
 Adobe has posted an update to address 85 CVE-listed security vulnerabilities in Acrobat and Reader for both Windows and macOS. | PatchVulnerability
 The PDF apps have received a major update that includes dozens of fixes for flaws that would allow for remote code execution attacks if exploited. | PatchVulnerability
@@ -13,5 +12,3 @@ In total, Adobe credited 19 different researchers with discovering and reporting
  Beihang University's Lin Wang was given credit for nine vulnerabilities. | DiscoverVulnerability
 While we're on the subject of massive security updates, both users and admins will want to mark their calendars for a week from Tuesday. | O
  October 9 is slated to be this month's edition of the scheduled 'Patch Tuesday' monthly security update. | O
-
-

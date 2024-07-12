@@ -1,4 +1,4 @@
- Cisco releases fixes for remote code execution flaws in Webex Network Recording Player 
+Cisco releases fixes for remote code execution flaws in Webex Network Recording Player | PatchVulnerability
 Cisco has patched a set of severe vulnerabilities which could lead to remote code execution in the Cisco Webex Network Recording Player for Advanced Recording Format (ARF). | PatchVulnerability
 The security flaws, CVE-2018-15414, CVE-2018-15421, and CVE-2018-15422, have been issued a base score of 7.8. | DiscoverVulnerability
 According to the Cisco Product Security Incident Response Team (PSIRT), the flaws could lead to "an unauthenticated, remote attacker to execute arbitrary code on a targeted system." | O
@@ -17,7 +17,7 @@ There are no workarounds to address these vulnerabilities. | PatchVulnerability
 It is recommended that users accept these updates as quickly as possible. | O
  The tech giant notes that some Cisco Webex Meetings builds might be at the end of their support cycles and won't receive these updates. | O
  In these cases, users should contact the company directly. | O
-CNET: Kansas City gets smarter thanks to Cisco and Sprint
+CNET: Kansas City gets smarter thanks to Cisco and Sprint | O
 Alternatively, the ARF component is an add-on and can simply be uninstalled manually. | O
  A removal tool is has been made available. | O
 Cisco is not aware of any reports of any active exploits in the wild. | DiscoverVulnerability

@@ -1,4 +1,4 @@
- Intel Fixes Yet Another Flaw In Management Engine   
+Intel Fixes Yet Another Flaw In Management Engine | PatchVulnerability
 It was starting to feel like Intel was overdue for serious Management Engine (ME) vulnerabilities. | O
  But this week, researchers at Positive Technologies revealed a new security flaw in the subsystem that could let attackers compromise its MFS file system. | DiscoverVulnerability
  Intel has released updates to address the problem, though, so Intel CPU owners should make sure their firmware is up-to-date. | PatchVulnerability

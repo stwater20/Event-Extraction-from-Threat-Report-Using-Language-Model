@@ -1,4 +1,4 @@
-Major Bitcoin Core DoS Vulnerability Has Now Received a Patch 
+Major Bitcoin Core DoS Vulnerability Has Now Received a Patch | PatchVulnerability
 The Bitcoin Core developers recently fixed a major vulnerability in the Bitcoin (BTC) network’s (client) codebase. | PatchVulnerability
  Explaining the potentially serious nature of the software bug, which is tracked as CVE-2018-17144 and classified as a denial-of-service (DoS) attack, Casaba Security co-founder Jason Glassberg said: “[It] can take down the network.” | DiscoverVulnerability
 Glassberg also told ZDNet the vulnerability in the Bitcoin Core codebase “would [have] affected transactions in the sense that they cannot be completed, but does not appear to open up a way to steal or manipulate wallets. ” | DiscoverVulnerability
@@ -19,5 +19,3 @@ Notably, the CVE-2018-17144 vulnerability could have also affected the litecoin 
 The Turkish-American cryptographer, who identified critical vulnerabilities in Ethereum’s codebase before its network was hit with the DAO attack, was referring to all the currently 69 active bitcoin forks that could still be exploited with a 51% attack as their clients might still not have received a patch and are not as secure as bitcoin network due to their smaller size. | DiscoverVulnerability, PatchVulnerability
 In fact, Crypto51 has estimated it would only cost $122 to launch a 51% attack on the Bitcoin Private (BTCP) network. | O
  However, this estimate has not been confirmed by another source. | O
-
-

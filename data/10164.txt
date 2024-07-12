@@ -1,4 +1,4 @@
- Microsoft Half-Patches Old Outlook Vulnerability 
+Microsoft Half-Patches Old Outlook Vulnerability | PatchVulnerability
 Microsoft has published a patch for an Outlook vulnerability first reported in late 2016, but the patch has been deemed incomplete and additional workarounds are needed, according to the security researcher who discovered it. | DiscoverVulnerability, PatchVulnerability
 Yesterday's April 2018 Patch Tuesday updates train included a fix for CVE-2018-0950, a vulnerability in Microsoft Outlook discovered by Will Dormann, a vulnerability analyst at the CERT Coordination Center (CERT/CC). | DiscoverVulnerability
 Outlook retrieves remote OLE content without prompting | O

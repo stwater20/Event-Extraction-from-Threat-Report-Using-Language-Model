@@ -1,4 +1,4 @@
- Mozilla Patches Critical Code Execution Bug in Firefox 62  
+Mozilla Patches Critical Code Execution Bug in Firefox 62 | PatchVulnerability
 Mozilla released nine fixes in its Wednesday launch of Firefox 62 for Windows, Mac and Android – including one for a critical glitch that could enable attackers to run arbitrary code. | PatchVulnerability
 Overall, the latest version of the Firefox browser included fixes for the critical issue, three high-severity flaws, two moderate problems and three low-severity vulnerabilities. | PatchVulnerability
  Topping the list is a memory safety bug (CVE-2018-12376), discovered by a number of Mozilla developers and community members. | DiscoverVulnerability

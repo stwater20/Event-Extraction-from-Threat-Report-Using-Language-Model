@@ -1,4 +1,4 @@
- Depressed Security Researcher Drops Serious 0-Day Windows Exploit On Twitter 
+Depressed Security Researcher Drops Serious 0-Day Windows Exploit On Twitter | O
 Due to the far reaching implications, Security Researchers will typically submit serious 0-day Windows exploits to Microsoft and give the company ample time to patch the vulnerabilities before they can be used to create malware and do harm. | DiscoverVulnerability, PatchVulnerability
  A security researcher that goes by the Twitter handle SandboxEscaper, however, decided it would be a good idea to expose a 0-day threat to the world on Twitter, without forewarning Microsoft, and even linked to proof on concept code on GitHub that has since been verified as functional. | DiscoverVulnerability
 The language in the original Tweet prevents me from directly embedding it here. | O

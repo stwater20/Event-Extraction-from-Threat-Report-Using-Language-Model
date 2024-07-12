@@ -1,4 +1,4 @@
- Adobe Patches Critical Photoshop Flaws in Unscheduled Update 
+Adobe Patches Critical Photoshop Flaws in Unscheduled Update | PatchVulnerability
 The two vulnerabilities are critical remote code execution flaws that exist in Adobe Photoshop CC. | DiscoverVulnerabilit
 Adobe hurried out unscheduled patches today for two critical flaws that could enable remote code-execution in Photoshop CC. | PatchVulnerability
 The patches impact two memory corruption vulnerabilities in Adobe Photoshop products, including Photoshop CC 2018 (v 19.1.6) and Photoshop CC 2017 (v 18.1.6), both for Windows and macOS. | PatchVulnerability

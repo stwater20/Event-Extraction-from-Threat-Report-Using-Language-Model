@@ -1,4 +1,4 @@
- Smart city systems are riddled with critical security vulnerabilities 
+Smart city systems are riddled with critical security vulnerabilities | O
 IBM has discovered 17 zero-day vulnerabilities in smart city systems which could debilitate core services. | DiscoverVulnerability
 At the Black Hat conference in Las Vegas on Monday, the cybersecurity firm's X-Force Red team of penetration testers and hackers demonstrated how old-school threats are placing the cities of the future at risk in the present day. | O
 Smart city technology spending is predicted to hit $80 billion this year and become as high as $135 billion by 2021. | O

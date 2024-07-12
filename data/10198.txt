@@ -1,4 +1,4 @@
-Use Windows, macOS? Don't be hacked by PDF, patch these critical Adobe flaws now
+Use Windows, macOS? Don't be hacked by PDF, patch these critical Adobe flaws now | PatchVulnerability
 Adobe's scheduled October update for its Acrobat and Reader PDF software addresses 85 vulnerabilities, including dozens of critical flaws that allow arbitrary code execution. | PatchVulnerability
 The patches also address multiple privilege-escalation and information-disclosure flaws, shoring up Adobe's PDF software further following a patch for a critical Acrobat and Reader flaw plugged two weeks ago. | PatchVulnerability
 The bugs affect Acrobat DC and Reader versions 2018.011.20063 and earlier from Adobe's continuous track, Acrobat 2017 and Acrobat Reader 2017 2017.011.30102, and Acrobat DC and Reader DC versions 2015.006.30452 and earlier from Adobe's classic 2015 track. | DiscoverVulnerability
@@ -10,5 +10,3 @@ Since PDFs are still widely used in the enterprise, hackers continue to develop 
 This happened earlier this year, prompting a warning from Adobe in May after it was informed by researchers at ESET and Microsoft that they'd discovered a malicious PDF using a zero-day remote code execution flaw in Reader with a sandbox-busting Windows privilege escalation flaw. | DiscoverVulnerability
 Adobe credits researchers from Qihoo 360, Cisco Talos, Beihang University, Palo Alto Networks, and Check Point for reporting flaws patched in the October update. | PatchVulnerability
 Check Point researcher Omri Herscovici was responsible for reporting 35 of this month's bugs, all of which were information disclosure flaws. | DiscoverVulnerability
-
-

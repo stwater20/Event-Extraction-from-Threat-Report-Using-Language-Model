@@ -1,4 +1,4 @@
- Foscam Issues Patches For Vulnerabilities in IP Cameras  
+Foscam Issues Patches For Vulnerabilities in IP Cameras | PatchVulnerability
 Researchers found three vulnerabilities in Foscam connected security cameras that could enable a bad actor to gain root access knowing only the camera’s IP address. | O
 Foscam  is urging customers to update their security cameras after researchers found three vulnerabilities in that could enable a bad actor to gain root access knowing only the camera’s IP address. | DiscoverVulnerability
 The vulnerability trifecta includes an arbitrary file-deletion bug, a shell command-injection flaw and a stack-based buffer overflow vulnerability according to the researchers at VDOO who found the flaws. | DiscoverVulnerability

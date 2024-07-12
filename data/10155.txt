@@ -1,4 +1,4 @@
- Cisco warns of critical remotely exploitable vulnerabilities 
+Cisco warns of critical remotely exploitable vulnerabilities | DiscoverVulnerability
 Struts bugs, Umbrella misconfig and router Guest accounts fixed. | PatchVulnerability
 Cisco has issued security alerts for 30 vulnerabilities across a range of its products and services, with three being ranked as critical and remotely exploitable. | DiscoverVulnerability
 Some 20 different Cisco products contain a vulnerable version of the Apache Struts 2 framework that is currently under active exploitation by miscreants dropping cryptocurrency miner malware on exposed systems. | DiscoverVulnerability

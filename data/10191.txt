@@ -1,4 +1,4 @@
-AMD has fixes coming for its 13 chip vulnerabilities
+AMD has fixes coming for its 13 chip vulnerabilities | PatchVulnerability
 The chipmaker says the patches will arrive within a few weeks and AMD device owners shouldn’t worry about the reported flaws. | DiscoverVulnerability, PatchVulnerability
 AMD is addressing several vulnerabilities discovered in its Ryzen and EPYC chips, and rolling out updates for millions of devices "in the coming weeks. " | DiscoverVulnerability, PatchVulnerability
 The 13 vulnerabilities came to public attention clouded in controversy. | DiscoverVulnerability
@@ -15,4 +15,3 @@ According to AMD's technical assessment, each of the flaws required administrati
 "Any attacker gaining unauthorized administrative access would have a wide range of attacks at their disposal well beyond the exploits identified in this research," Papermaster said in a statement. | O
 Critics also took issue with another aspect of the CTS Labs report, pointing out the legal disclaimer on the company's website: "You are advised that we may have, either directly or indirectly, an economic interest in the performance of the securities of the companies whose products are the subject of our reports. "  | O
 Last Wednesday, CTS Labs' chief financial officer and co-founder, Yaron Luk-Zilberman, a former hedge fund manager, said it didn't have "any investment (long or short) in Intel or AMD. " | O
-

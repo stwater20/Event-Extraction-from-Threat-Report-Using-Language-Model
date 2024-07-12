@@ -1,4 +1,4 @@
- Samba releases patch to fix two critical vulnerabilities 
+Samba releases patch to fix two critical vulnerabilities | PatchVulnerability
 Samba has released security updates addressing a possible avenue for DoS attacks and attackers changing administrator passwords. | PatchVulnerability
  Samba 4 users should update now. | O
 Open source server platform Samba has issued patches for two critical vulnerabilities that could be used to launch denial-of-service attacks or allow anyone to change user and administrator passwords. | PatchVulnerability

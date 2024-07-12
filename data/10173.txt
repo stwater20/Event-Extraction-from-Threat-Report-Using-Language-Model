@@ -1,4 +1,4 @@
- Microsoft May 2018 Patch Tuesday Fixes 67 Security Issues, Including IE Zero-Day 
+Microsoft May 2018 Patch Tuesday Fixes 67 Security Issues, Including IE Zero-Day | PatchVulnerability
 Microsoft published earlier today the Patch Tuesday security bulletin for May 2018, containing fixes for 67 security issues. | PatchVulnerability
 This month, Microsoft fixed security flaws in Microsoft Windows, Internet Explorer, Microsoft Edge, ChakraCore, . | PatchVulnerability
 NET Framework, Microsoft Exchange Server, Windows Host Compute Service Shim, and Microsoft Office and Microsoft Office Services and Web Apps. | PatchVulnerability

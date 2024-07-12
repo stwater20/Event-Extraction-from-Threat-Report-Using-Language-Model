@@ -1,4 +1,4 @@
-Abbott releases firmware patch to fix cybersecurity flaws in 350,000 medical devices
+Abbott releases firmware patch to fix cybersecurity flaws in 350,000 medical devices | PatchVulnerability
 The device manufacturer acquired St Jude Medical last year and has since been working to fix severe vulnerabilities found in its pacemakers. | PatchVulnerability, DiscoverVulnerability
 Abbott released its second and final round of planned cybersecurity updates to its pacemakers, programmers and remote monitoring systems to fix severe cybersecurity flaws in the devices. | PatchVulnerability
 The patch will update the battery performance alert, allowing the device to monitor for abnormal battery behavior and automatically vibrate to tell the patient when something is wrong. | PatchVulnerability
@@ -14,5 +14,3 @@ The FDA’s recall notice said the firmware update will reduce the risk of patie
  The update will effectively complete the necessary patches to prevent unauthorized access. | O
 The update is not a response to any new flaws, but are merely a continuation of last year’s patches, according to officials. | O
 "Technology and its security are always evolving, and this firmware upgrade is part of our commitment to ensuring our products include the latest advancements and protections for patients," said Robert Ford, executive vice president of medical devices at Abbott, in a statement. | O
-
-

@@ -1,4 +1,4 @@
- Did you hear? There's a critical security hole that lets web pages hijack computers. Of course it's Adobe Flash's fault  
+Did you hear? There's a critical security hole that lets web pages hijack computers. Of course it's Adobe Flash's fault  | DiscoverVulnerability
 Adobe has emitted software updates to address a critical vulnerability in Flash Player for Windows, Mac, and Linux. | PatchVulnerability
 PC owners and admins will want to upgrade their copies of Flash to version 31.0.0.153 or later in order to get the patch – or just dump the damn thing all together. | PatchVulnerability
 The November 20 security update addresses a single flaw, designated CVE-2018-15981. | PatchVulnerability, DiscoverVulnerability

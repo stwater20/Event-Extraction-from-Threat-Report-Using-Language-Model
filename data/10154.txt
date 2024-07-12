@@ -1,4 +1,4 @@
- Adobe Patches Zero-Day Vulnerability in Flash Player 
+Adobe Patches Zero-Day Vulnerability in Flash Player | PatchVulnerability
 Adobe on Wednesday released several unscheduled fixes for Flash Player, including a critical vulnerability that it said is being exploited in the wild. | PatchVulnerability
 The critical vulnerability, CVE-2018-15982, is a use-after-free flaw enabling arbitrary code-execution in Flash. | DiscoverVulnerability
 “Adobe has released security updates for Adobe Flash Player for Windows, macOS, Linux and Chrome OS,” Adobe said in its release. | PatchVulnerability

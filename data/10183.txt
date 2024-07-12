@@ -1,4 +1,4 @@
-Security researchers discover flaw allowing access to deleted photos on iPhone, fix on the way 
+Security researchers discover flaw allowing access to deleted photos on iPhone, fix on the way | DiscoverVulnerability
 An exploit discovered by a pair of security researchers allowed them to hack an iPhone X and access a photo that was supposedly deleted from the device. | DiscoverVulnerability
 Apple was informed of the security hole and a fix is on the way. | DiscoverVulnerability
 As first reported by Forbes, hackers Richard Zhu and Amat Cama teamed up and discovered the hole that allowed access to deleted files on iOS devices running iOS 12. | DiscoverVulnerability

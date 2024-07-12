@@ -1,4 +1,4 @@
- Does your BMW need a security patch? 
+Does your BMW need a security patch? | O
 If you’re a BMW owner, prepare to patch! Chinese researchers have found 14 security vulnerabilities affecting many models. | DiscoverVulnerability
 The ranges affected (some as far back as 2012) are the BMW i Series, X Series, 3 Series, 5 Series and 7 Series, with a total of seven rated serious enough to be assigned CVE numbers. | DiscoverVulnerability
 The vulnerabilities are in in the Telematics Control Unit (TCU), the Central Gateway Module, and Head Unit, across a range of interfaces including via GSM, BMW Remote Service, BMW ConnectedDrive, Remote Diagnosis, NGTP, Bluetooth, and the USB/OBD-II interfaces. | DiscoverVulnerability

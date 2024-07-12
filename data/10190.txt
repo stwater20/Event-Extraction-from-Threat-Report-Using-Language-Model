@@ -1,4 +1,4 @@
-Microsoft Windows zero-day vulnerability disclosed through Twitter
+Microsoft Windows zero-day vulnerability disclosed through Twitter | DiscoverVulnerability
 Microsoft has quickly reacted to the disclosure of a previously unknown zero-day vulnerability in the Windows operating system. | DiscoverVulnerability
 On Monday, Twitter user SandboxEscaper revealed the existence of the bug on the microblogging platform. | PatchVulnerability
 As reported by the Register, the user said: | O
@@ -17,4 +17,3 @@ However, Microsoft has acknowledged the zero-day flaw. | DiscoverVulnerability
 This is likely to take place on September 11, the next scheduled Microsoft Patch Tuesday, unless the firm decides to issue an out-of-schedule patch. | PatchVulnerability
     "Windows has a customer commitment to investigate reported security issues, and proactively update impacted devices as soon as possible. | O
 Our standard policy is to provide solutions via our current Update Tuesday schedule." | O
-

@@ -1,4 +1,4 @@
- Patch your inkjet printer now warns HP over two critical flaws 
+Patch your inkjet printer now warns HP over two critical flaws | Ｏ
 Over a hundred HP Inkjet printers have serious flaws that should be fixed, HP has warned. | DiscoverVulnerability, PatchVulnerability
 Computer and printer giant HP has flagged two critical flaws over a hundred different printer models that it says should be patched “as soon as possible”. | DiscoverVulnerability, PatchVulnerability
 Owners of numerous HP Inject models will need to install new firmware for each of the affected models from its Officejet, Deskjet, Envy, as well as its larger form business printers, including DesignJet and PageWide Pro printers. | O

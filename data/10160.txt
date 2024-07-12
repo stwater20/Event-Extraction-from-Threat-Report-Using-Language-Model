@@ -1,4 +1,4 @@
- U.K. cybersecurity agency mounts transparency push 
+U.K. cybersecurity agency mounts transparency push | O
 LONDON — The U.K. agency tasked with fighting cyberthreats on Thursday announced a new process for the public disclosure of potentially sensitive software flaws, introducing a new level of transparency to its work. | DiscoverVulnerability
 The National Cyber Security Centre laid out its new procedure, called the "Equities Process" in a blog post that details how it makes decisions on whether to make public the discovery of new flaws. | DiscoverVulnerability
 National security operations sometimes hold back from announcing the discovery of security flaws in part because the bugs can be used to gather intelligence. | DiscoverVulnerability
