@@ -1,6 +1,6 @@
 PureVPN Windows client leaked passwords ***now patched*** | AttackDatabreach, PatchVulnerability
 PureVPN has had two vulnerabilities which would allow hackers to retrieve stored passwords through the VPN client. | DiscoverVulnerability
- This was confirmed by Trustwave’s security researcher Manuel Nader, and the VPN provider itself. | DiscoverVulnerability
+ This was confirmed by Trustwave’s security researcher Manuel Nader, and the VPN provider itself. | O
 One of the two vulnerabilities were fixed in the meantime, while the other one remains active, and PureVPN has, according to Nader, “accepted the risk”. | PatchVulnerability
 The vulnerability that was patched saw saved passwords stored in plaintext, on this location: 'C:\ProgramData\purevpn\config\login.conf | PatchVulnerability
 All users have had the chance to access and read the file by simply opening it through the CMD. | O

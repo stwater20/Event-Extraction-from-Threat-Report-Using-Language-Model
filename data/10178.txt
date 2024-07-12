@@ -20,7 +20,7 @@ It is recommended that users accept these updates as quickly as possible. | O
 CNET: Kansas City gets smarter thanks to Cisco and Sprint | O
 Alternatively, the ARF component is an add-on and can simply be uninstalled manually. | O
  A removal tool is has been made available. | O
-Cisco is not aware of any reports of any active exploits in the wild. | DiscoverVulnerability
+Cisco is not aware of any reports of any active exploits in the wild. | O
 Steven Seeley from Source Incite and Ziad Badawi, working together with the Trend Micro Zero Day Initiative, have been credited with finding and reporting the bugs. | DiscoverVulnerability
 In related news this week, Trend Micro's Zero Day Initiative disclosed a Microsoft Jet zero-day vulnerability which was unpatched at the point of public disclosure. |  DiscoverVulnerability, PatchVulnerability
 If exploited, the vulnerability permits attackers to remotely execute code on infected machines. | DiscoverVulnerability

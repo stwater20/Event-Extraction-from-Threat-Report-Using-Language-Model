@@ -1,8 +1,8 @@
 Unpatched routers bad, doubly unpatched routers worse – much, much worse! | O
 Back in August we wrote about a security bugfix for Mikrotik routers that was reverse engineered and turned into a working exploit. | PatchVulnerability
 Indeed, patches that fix security vulnerabilities often end up giving away enough about the vulnerability that both good guys and bad guys alike can weaponise it from first principles – all without having to figure out the vulnerability in the first place. | PatchVulnerability
-In the August 2018 case, dubbed CVE-2018-14847, a crook could trick an unpatched Microtik router into coughing up the contents of any file on the device, including the password file. | O
-Worse still, the password file included plaintext passwords, with no salting, hashing or stretching, meaning that a security bypass bug could be parlayed into a credential compromise. | O
+In the August 2018 case, dubbed CVE-2018-14847, a crook could trick an unpatched Microtik router into coughing up the contents of any file on the device, including the password file. | DiscoverVulnerability
+Worse still, the password file included plaintext passwords, with no salting, hashing or stretching, meaning that a security bypass bug could be parlayed into a credential compromise. | AttackDatabreach
 The perils of late patching. | O
 What we didn’t know back then was that security researchers at Tenable had responsibly disclosed another bunch of Mikrotik router bugs at about the same time. | DiscoverVulnerability
 These bugs were serious – indeed, one of them allows a attacker to run any program of their choosing, just by making a web request to the router. | O

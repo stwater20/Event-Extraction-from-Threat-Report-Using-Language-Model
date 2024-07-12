@@ -3,14 +3,14 @@ If you’re a BMW owner, prepare to patch! Chinese researchers have found 14 sec
 The ranges affected (some as far back as 2012) are the BMW i Series, X Series, 3 Series, 5 Series and 7 Series, with a total of seven rated serious enough to be assigned CVE numbers. | DiscoverVulnerability
 The vulnerabilities are in in the Telematics Control Unit (TCU), the Central Gateway Module, and Head Unit, across a range of interfaces including via GSM, BMW Remote Service, BMW ConnectedDrive, Remote Diagnosis, NGTP, Bluetooth, and the USB/OBD-II interfaces. | DiscoverVulnerability
 Some require local access (e.g. via USB) to exploit but six including the Bluetooth flaw were accessible remotely, making them the most serious. | O
-Should owners worry that the flaws could be exploited, endangering drivers and vehicles? | DiscoverVulnerability
+Should owners worry that the flaws could be exploited, endangering drivers and vehicles? | O
 On the basis of the technical description, that seems unlikely, although Keen Lab won’t release the full proof-of-concept code until 2019. | O
 Keen Lab described the effect of its hacking as allowing it to carry out: The execution of arbitrary, unauthorized diagnostic requests of BMW in-car systems remotely. | O
 To which BMW responded: | O
     BMW Group has already implemented security measures, which are currently being rolled out via over-the-air configuration updates. | O
  Additional security enhancements for the affected infotainment systems are being developed and will be available as software updates for customers. | PatchVulnerability
 In other words, some fixes have already been made, while others will be made between now and early 2019, potentially requiring a trip to a service centre. | PatchVulnerability
-Full marks to BMW for promptly responding to the research but the press release issued in its wake reads like PR spin. | PatchVulnerability
+Full marks to BMW for promptly responding to the research but the press release issued in its wake reads like PR spin. | O
 To most outsiders, this is a case of Chinese white hats finding vulnerabilities in BMW’s in-car systems. | DiscoverVulnerability
 To BMW, judging by the triumphant language of its press release, it’s as if this was the plan all along, right down to awarding Keen Lab the “first-ever BMW Group Digitalization and IT Research Award.” | O
 More likely, car makers are being caught out by the attention their in-car systems are getting from researchers, with Volkswagen Audi Group experiencing some of the same discomfort a couple of weeks ago at the hands of Dutch researchers. | O
