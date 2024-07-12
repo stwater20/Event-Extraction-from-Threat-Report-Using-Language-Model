@@ -2,32 +2,32 @@ Hackers exploited Word flaw for months while Microsoft investigated | Reuters | 
 To understand why it is so difficult to defend computers from even moderately capable hackers, consider the case of the security flaw officially known as CVE-2017-0199. | DiscoverVulnerability
 The bug was unusually dangerous but of a common genre: it was in Microsoft software, could allow a hacker to seize control of a personal computer with little trace, and was fixed April 11 in Microsoft’s regular monthly security update. | DiscoverVulnerability, PatchVulnerability
 But it had traveled a rocky, nine-month journey from discovery to resolution, which cyber security experts say is an unusually long time. | O
-Google’s security researchers, for example, give vendors just 90 days’ warning before publishing flaws they find. | DiscoverVulnerability, PatchVulnerability
-Microsoft Corp (MSFT.O) declined to say how long it usually takes to patch a flaw. | PatchVulnerability
+Google’s security researchers, for example, give vendors just 90 days’ warning before publishing flaws they find. | DiscoverVulnerability
+Microsoft Corp (MSFT.O) declined to say how long it usually takes to patch a flaw. | O
 While Microsoft investigated, hackers found the flaw and manipulated the software to spy on unknown Russian speakers, possibly in Ukraine. | AttackDatabreach
 And a group of thieves used it to bolster their efforts to steal from millions of online bank accounts in Australia and other countries. | AttackDatabreach
 Those conclusions and other details emerged from interviews with researchers at cyber security firms who studied the events and analyzed versions of the attack code. | O
 Microsoft confirmed the sequence of events. | O
 The tale began last July, when Ryan Hanson, a 2010 Idaho State University graduate and consultant at boutique security firm Optiv Inc in Boise, found a weakness in the way that Microsoft Word processes documents from another format. | DiscoverVulnerability
 That allowed him to insert a link to a malicious program that would take control of a computer. | O
-The company often pays a modest bounty of a few thousands dollars for the identification of security risks. | DiscoverVulnerability, PatchVulnerability
-Soon after that point six months ago, Microsoft could have fixed the problem, the company acknowledged. | DiscoverVulnerability, PatchVulnerability
+The company often pays a modest bounty of a few thousands dollars for the identification of security risks. | DiscoverVulnerability
+Soon after that point six months ago, Microsoft could have fixed the problem, the company acknowledged. | PatchVulnerability
 But it was not that simple. | O
 A quick change in the settings on Word by customers would do the trick, but if Microsoft notified customers about the bug and the recommended changes, it would also be telling hackers about how to break in. | DiscoverVulnerability, PatchVulnerability
 Alternatively, Microsoft could have created a patch that would be distributed as part of its monthly software updates. | PatchVulnerability
-But the company did not patch immediately and instead dug deeper. | DiscoverVulnerability, PatchVulnerability
+But the company did not patch immediately and instead dug deeper. | O
 It was not aware that anyone was using Hanson’s method, and it wanted to be sure it had a comprehensive solution. | O
 “We performed an investigation to identify other potentially similar methods and ensure that our fix addresses [sic] more than just the issue reported,” Microsoft said through a spokesman, who answered emailed questions on the condition of anonymity. | PatchVulnerability
 “This was a complex investigation.” | O
 Hanson declined interview requests. | O
-The saga shows that Microsoft’s progress on security issues, as well as that of the software industry as a whole, remains uneven in an era when the stakes are growing dramatically. | DiscoverVulnerability
+The saga shows that Microsoft’s progress on security issues, as well as that of the software industry as a whole, remains uneven in an era when the stakes are growing dramatically. | O
 Finally, on the Tuesday, about six months after hearing from Hanson, Microsoft made the patch available. | PatchVulnerability
 As always, some computer owners are lagging behind and have not installed it. | O
 Ben-Gurion University employees in Israel were hacked, after the patch, by attackers linked to Iran who took over their email accounts and sent infected documents to their contacts at technology companies and medical professionals, said Michael Gorelik, vice president of cyber security firm Morphisec. | PatchVulnerability
 When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff. | PatchVulnerability
-A six-month delay is bad but not unheard of, said Marten Mickos, chief executive of HackerOne, which coordinates patching efforts between researchers and vendors. | DiscoverVulnerability, PatchVulnerability
+A six-month delay is bad but not unheard of, said Marten Mickos, chief executive of HackerOne, which coordinates patching efforts between researchers and vendors. | PatchVulnerability
 “Normal fixing times are a matter of weeks,” Mickos said. | O
-Privately-held Optiv said through a spokeswoman that it usually gives vendors 45 days to make fixes before publishing research when appropriate, and that it “materially followed” that practice in this case. | DiscoverVulnerability, PatchVulnerability
-If the patching took time, others who learned of the flaw moved quickly. | DiscoverVulnerability, PatchVulnerability
-On the final weekend before the patch, the criminals could have sold it along to the Dridex hackers, or the original makers could have cashed in a third time, Hultquist said, effectively staging a last clearance sale before it lost peak effectiveness. | DiscoverVulnerability, PatchVulnerability
+Privately-held Optiv said through a spokeswoman that it usually gives vendors 45 days to make fixes before publishing research when appropriate, and that it “materially followed” that practice in this case. | PatchVulnerability
+If the patching took time, others who learned of the flaw moved quickly. | DiscoverVulnerability
+On the final weekend before the patch, the criminals could have sold it along to the Dridex hackers, or the original makers could have cashed in a third time, Hultquist said, effectively staging a last clearance sale before it lost peak effectiveness. | PatchVulnerability
 It is unclear how many people were ultimately infected or how much money was stolen. | O
