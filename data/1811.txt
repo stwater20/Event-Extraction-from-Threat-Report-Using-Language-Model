@@ -1,7 +1,7 @@
 Dozen hotels in Eastern Carolina victims of lengthy cyber attack | O
-GREENVILLE, NC (WITN) - A dozen Eastern Carolina hotels are among the 1200 locations that were victims of a lengthy cyber attack last year. | AttackDatabreach
+GREENVILLE, NC (WITN) - A dozen Eastern Carolina hotels are among the 1200 locations that were victims of a lengthy cyber attack last year. | O
 InterContinental Hotels Group says customer credit card information was stolen from franchised locations that include Holiday Inn, Holiday Inn Express, Candlewood Suites and Staybridge Suites. | AttackDatabreach
-The hacking began on September 29th and continued at some locations for three months. | AttackDatabreach
+The hacking began on September 29th and continued at some locations for three months. | O
 Hackers used malware that searched for track data stored on magnetic stripes, which includes name, card number, expiration date and internal verification code, the company said. | AttackDatabreach
 Those hotels in Eastern Carolina affected, and the dates of hacking were: | O
 Greenville - Holiday Inn at 203 Greenville Boulevard. | O
