@@ -1,13 +1,13 @@
-Yahoo breach exposes the drawbacks of state-sponsored hacking | ITworld | DiscoverVulnerability
-On the one hand, it gives them a bit of plausible deniability while reaping the potential spoils of each attack, but if the hackers aren't kept on a tight leash things can turn bad. | AttackDatabreach
-Karim Baratov, the 22-year-old Canadian hacker who the FBI alleges Russia's state security agency hired to carry out the Yahoo breach, didn't care much for a low profile. | AttackPhishing, Databreach
+Yahoo breach exposes the drawbacks of state-sponsored hacking | ITworld | AttackDatabreach
+On the one hand, it gives them a bit of plausible deniability while reaping the potential spoils of each attack, but if the hackers aren't kept on a tight leash things can turn bad. | O
+Karim Baratov, the 22-year-old Canadian hacker who the FBI alleges Russia's state security agency hired to carry out the Yahoo breach, didn't care much for a low profile. | O
 His Facebook and Instagram posts boasted of the million-dollar house he bought in a Toronto suburb and there were numerous pictures of him with expensive sports cars -- the latest an Aston Martin DB9 with the license plate "MR KARIM." | O
-But forget those for a moment and consider he wasn't very careful in hiding his hacking work. | AttackDatabreach
+But forget those for a moment and consider he wasn't very careful in hiding his hacking work. | O
 In the domain name records, he listed his home address. | O
-“When you bring in amateurs who don’t follow standard protocol, that carries risk,” said Alex Holden, chief information security officer at Hold Security. | AttackDatabreach
-At the time, the company notified the FBI but only believed 26 accounts had been targeted. | AttackDatabreach
-It wasn't until mid 2016 that the true enormity of the hack started to become apparent. | AttackDatabreach
-Security experts say it’s possible Baratov or a second hacker hired to help might have bragged online about the hack at some point, tipping off U.S. investigators. | AttackPhishing, AttackDatabreach
+“When you bring in amateurs who don’t follow standard protocol, that carries risk,” said Alex Holden, chief information security officer at Hold Security. | O
+At the time, the company notified the FBI but only believed 26 accounts had been targeted. | O
+It wasn't until mid 2016 that the true enormity of the hack started to become apparent. | O
+Security experts say it’s possible Baratov or a second hacker hired to help might have bragged online about the hack at some point, tipping off U.S. investigators. | O
 And then in August 2016 a database allegedly stolen from Yahoo was found circulating on the black market. | AttackDatabreach
 “Some of the information about this hack was basically leaked,” Holden said. | AttackDatabreach
 “That’s not a sign of a mature intelligence operation”. | O
@@ -15,10 +15,10 @@ So why did Russia turn to a 22-year-old from Canada? | O
 According to the indictment, Baratov broke into the accounts through spear phishing email attacks, which are often designed to dupe victims into handing over password information. | AttackPhishing, AttackDatabreach
 However, spear phishing only works best if the emails appear authentic. | AttackPhishing
 “The benefit of having Karim, the Canadian, on the team probably allowed creation of far more believable phishing attacks due to his being a native English speaker,” said Chester Wisniewski, a research scientist at security firm Sophos, in an email. | AttackPhishing
-In addition to Baratov, the Russian agents allegedly hired a 29-year-old Latvian named Aleksey Belan, who pulled off the main hack against Yahoo, and stole the database involving 500 million user accounts. | AttackPhishing, Databreach
-By outsourcing the operation to Belan, Russia probably wanted to conceal the true motives for the Yahoo breach, Wisniewski said. | AttackDatabreach
-Prior to Wednesday’s indictment, Belan himself was already a wanted man for hacks against U.S. e-commerce companies. | AttackDatabreach
+In addition to Baratov, the Russian agents allegedly hired a 29-year-old Latvian named Aleksey Belan, who pulled off the main hack against Yahoo, and stole the database involving 500 million user accounts. | AttackDatabreach
+By outsourcing the operation to Belan, Russia probably wanted to conceal the true motives for the Yahoo breach, Wisniewski said. | O
+Prior to Wednesday’s indictment, Belan himself was already a wanted man for hacks against U.S. e-commerce companies. | O
 “There is also the ‘cover’ of criminal actions to potentially obfuscate the spying that was allegedly the real purpose”. | O
 In response to Wednesday's criminal indictments by the FBI, the Russian government is denying any involvement, and calling the allegations a distraction. | O
-Baratov, who has been arrested in Canada, is also claiming innocence, according to his lawyer. | AttackPhishing
-But if the allegations are true, it does show one example of how Russia is harnessing the power of cybercriminals for spying purposes -- and how it can get sloppy. | AttackDatabreach
+Baratov, who has been arrested in Canada, is also claiming innocence, according to his lawyer. | O
+But if the allegations are true, it does show one example of how Russia is harnessing the power of cybercriminals for spying purposes -- and how it can get sloppy. | O
