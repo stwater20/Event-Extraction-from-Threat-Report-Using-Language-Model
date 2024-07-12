@@ -1,4 +1,4 @@
-Researchers identify new variant of IoT/Linux botnet | DiscoverVulnerability
+Researchers identify new variant of IoT/Linux botnet | O
 A new variant of the IoT/Linux botnet “Tsunami” has been identified by Unit 42 researchers, according to a blog post by Palo Alto Networks. | O
 Co-authored by Claud Xiao, Cong Zheng and Yanhui Jia, the post names the new variant as Amnesia, a botnet that targets an unpatched remote code execution vulnerability. | O
 This vulnerability was publicly disclosed over a year ago in March 2016 in DVR (digital video recorder) devices made by TVT Digital and branded by over 70 vendors across the globe. | DiscoverVulnerability
