@@ -14,4 +14,4 @@ Bubb said people have asked him why the county didn't just pay the demand, but B
 "There was no guarantee that would have been the final price, or that they would have acted honorably. | O
 There's a certain amount of unknown that would make you uneasy." | O
 Sylint, a cyber security firm assisting the county, was set to notify the state that the county's computer system was virus-free, Bubb said. | PatchVulnerability
-The state asked for the assurance before it hooked back up with the county. | PatchVulnerability
+The state asked for the assurance before it hooked back up with the county. | O
