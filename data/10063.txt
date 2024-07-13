@@ -1,5 +1,5 @@
 Google Addressed That Scary Gmail Phishing Scam — Here's What To Look Out For | AttackPhishing
-Google has come up with a fix for the phishing scam that affected users. | PatchVulnerability, Phishing
+Google has come up with a fix for the phishing scam that affected users. | PatchVulnerability, AttackPhishing
 A Chrome browser update, which has been rolling out since February, now issues a warning when you've landed on an page with the scam. | PatchVulnerability
 In your browser address bar, look out for "not secure" to the left of the address. | O
 Fortune reports that in the future, Google will present this warning and indicate unprotected sites more aggressively with a red triangle. | O
@@ -15,7 +15,7 @@ In one school district, for example, team members received what looked like a co
 Still, there are things you can look out for to spot a fake. | O
 "The best way to identify this attack is to look at the address bar. | O  
 In this case, look for the words 'data:/text/html' at the beginning of the URL," Narang says. | O
-"If you see this, close the browser tab and alert your friend that their account has been compromised." | Databreach
+"If you see this, close the browser tab and alert your friend that their account has been compromised." | AttackDatabreach
 Narang also recommends setting up two-step verification for your Gmail account (find out how to do so here). | O
 And follow these rules for boosting your password strength. | O
 In a statement about the attack, a Google spokesperson said, "“We're aware of this issue and continue to strengthen our defenses against it. | O

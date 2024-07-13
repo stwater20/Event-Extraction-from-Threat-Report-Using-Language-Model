@@ -3,7 +3,7 @@ A massive phishing campaign targeting Google accounts ripped through the interne
 Several people online across a range of industries said they received emails containing what looked like a link to a Google Doc that appeared to come from someone they know. | AttackPhishing
 These, however, were malicious emails designed to hijack their accounts. | AttackPhishing
  It's unclear exactly how the attack works at the moment, but it does appear to be highly sophisticated. | O 
-A Reddit user has a good breakdown of what happens exactly when you click on the Google Doc button. | o
+A Reddit user has a good breakdown of what happens exactly when you click on the Google Doc button. | O
 In a few words, when you click on the link, the login screen takes you to a genuine Google domain, but that domain asks you to grant access to an app called Google Docs that is not the real Google Docs. | O
 And the "Google Docs" app reads all your email and contacts, and then self-propagates by sending more emails. | O
  We've also heard reports that Google Drive was down, and experienced the outage ourselves, but cannot yet confirm if that is related to the attack. (It'd be a hell of a coincidence, although Drive appears to be working again.) | O

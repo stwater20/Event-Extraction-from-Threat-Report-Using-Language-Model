@@ -1,5 +1,5 @@
 Apple Yet to Patch Safari Browser Address Bar Spoofing Flaw | O
-A flaw in Safari – that allows an attacker to spoof websites and trick victims into handing over their credentials – has yet to be patched. | Phishing, PatchVulnerability
+A flaw in Safari – that allows an attacker to spoof websites and trick victims into handing over their credentials – has yet to be patched. | AttackPhishing, PatchVulnerability
 A browser address bar spoofing flaw was found by researchers this week in Safari – and Apple has yet issue a patch for the flaw. | DiscoverVulnerability, PatchVulnerability
 Researcher Rafay Baloch on Monday disclosed two proof-of-concepts revealing how vulnerabilities in Edge browser 42.17134.1.0 and Safari iOS 11.3.1 could be abused to manipulate the browsers’ address bars, tricking victims into thinking they are visiting a legitimate website. | DiscoverVulnerability
 Baloch told Threatpost Wednesday that Apple has promised to fix the flaw in its next security update for Safari. | PatchVulnerability

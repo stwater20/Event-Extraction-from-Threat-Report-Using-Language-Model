@@ -6,7 +6,7 @@ Microsoft says it has already fixed the problem for customers running supported 
 “We have released a security update to address this issue,” says a Microsoft spokesperson in a statement to The Verge. | PatchVulnerability
 “Customers who apply the update, or have automatic updates enabled, will be protected. | PatchVulnerability
 We continue to encourage customers to turn on automatic updates to help ensure they are protected.” | O
-Microsoft says the Windows updates released on October 10th protect customers, and the company “withheld disclosure until other vendors could develop and release updates.” | PatchVulnerabilit
+Microsoft says the Windows updates released on October 10th protect customers, and the company “withheld disclosure until other vendors could develop and release updates.” | PatchVulnerability
 While it looks like Android and Linux devices are affected by the worst part of the vulnerabilities, allowing attackers to manipulate websites, Google has promised a fix for affected devices “in the coming weeks.” | DiscoverVulnerability, PatchVulnerability
 Google’s own Pixel devices will be the first to receive fixes with security patch level of November 6, 2017, but most other handsets are still well behind even the latest updates. | PatchVulnerability
 Security researchers claim 41 percent of Android devices are vulnerable to an “exceptionally devastating” variant of the Wi-Fi attack that involves manipulating traffic, and it will take time to patch older devices. | DiscoverVulnerability

@@ -1,4 +1,4 @@
-Google Docs Phishing Scam a Game Changer | AttacKPhishing
+Google Docs Phishing Scam a Game Changer | AttackPhishing
 The Google Doc phishing scam that conned over a million users this week illustrates how attackers cleverly respond to wider spread end-user awareness about how phishing attacks work. | AttackPhishing
 The attack didn't ask users to enter credentials. | O
 Instead, it exhibited very few traditional phishing scam behaviors and couldn't have been detected by endpoint protections. | AttackPhishing

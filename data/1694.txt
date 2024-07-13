@@ -22,6 +22,6 @@ It's unclear who developed the exploit used to spread FinFisher and Latentbot, b
 As the CEO of Hacking Team, a company that used to buy zero-day exploits, once said, "exclusive zero-days don't exist." | O
 "Talent, tools, and techniques move between espionage, criminal, and hacktivist worlds." | O
 A source who works in the surveillance technology industry said that FinFisher buys exploits from private researchers as well as from Zerodium, a well-known exploit seller.  | O
-The source, who asked to remain anonymous, said FinFisher recently offered access to an exploit subscription portal that seemed similar to what Zerodium's predecessor, Vupen, used to offer.  |O
+The source, who asked to remain anonymous, said FinFisher recently offered access to an exploit subscription portal that seemed similar to what Zerodium's predecessor, Vupen, used to offer.  | O
 Zerodium's founder Chaouki Bekrar declined to comment.  | O
 (FinFisher did not respond to a request for comment.) | O

@@ -3,7 +3,7 @@ Phishing and other hacking incidents have led to several recently reported large
 In describing a phishing attack, UConn Health says that on Dec 24, 2018, it determined that an unauthorized third party illegally accessed a limited number of employee email accounts containing 
 patient information, including some individuals' names, dates of birth, addresses and limited medical information, such as billing and appointment information. | AttackPhishing, AttackDatabreach 
 The accounts also contained the Social Security numbers of some individuals. | O
-Several other healthcare entities also have recently reported to federal regulators data breaches involving apparent phishing and other email-related attacks. | AttackDatabreach, Phishing
+Several other healthcare entities also have recently reported to federal regulators data breaches involving apparent phishing and other email-related attacks. | AttackDatabreach, AttackPhishing
 "All of these incidents speak to the rampant attacks we are seeing across healthcare, and yet organizations are still not investing enough in protection or detection," says Mac McMillan, CEO of security consulting firm CynergisTek. | O
 UConn Health, an academic medical center, says in a media statement that it identified approximately 326,000 potentially impacted individuals whose personal information was contained in the compromised email accounts. | AttackDatabreach 
 For approximately 1,500 of these individuals, this information included Social Security numbers. | AttackDatabreach
@@ -19,7 +19,7 @@ Among those is a hacking incident impacting 40,000 individuals reported on Feb 1
 In a statement, the organization notes that on Dec 5, 2018, it discovered it had been the target of a "criminal malware attack. " | O
 An RMIA practice manager tells Information Security Media Group that independent computer forensics experts removed the malware, but did not definitively determine how the malware infection was launched. | O
 The practice suspects the malware was likely embedded in an email attachment, he says. | O
-RMIA's statement notes that while the investigation did not identify any evidence of unauthorized access to anyone's personal information, "we unfortunately could not completely rule out the possibility that patients' personal information, including name, address, date of birth, health insurance information, limited treatment information and, for donors only, Social Security number, may have been accessible." | Databreach
+RMIA's statement notes that while the investigation did not identify any evidence of unauthorized access to anyone's personal information, "we unfortunately could not completely rule out the possibility that patients' personal information, including name, address, date of birth, health insurance information, limited treatment information and, for donors only, Social Security number, may have been accessible." | AttackDatabreach
 In the aftermath of the incident, RMIA says it's adding another firewall, requiring changes to user credentials/passwords, implementing dual-factor authentication and providing additional staff training regarding information security." | O
 Also reporting a hacking incident in recent weeks was Charleston, S.C. -based Roper St. | O
 Francis Healthcare, which operates several hospitals in the region. | O

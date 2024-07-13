@@ -12,7 +12,7 @@ Because the unauthorized requests are made over an established connection, they 
 The requests do appear in the kubelet or aggregated API server logs, but are indistinguishable from correctly authorized and proxied requests via the Kubernetes API server. " | O
 In other words, Red Hat said, "The privilege escalation flaw makes it possible for any user to gain full administrator privileges on any compute node being run in a Kubernetes pod. | O
 This is a big deal. | O
-Not only can this actor steal sensitive data or inject malicious code, but they can also bring down production applications and services from within an organization's firewall. " | AttacklDatabreach
+Not only can this actor steal sensitive data or inject malicious code, but they can also bring down production applications and services from within an organization's firewall. " | AttackDatabreach
 The only real fix is to upgrade Kubernetes. | PatchVulnerability
 Any program, which includes Kubernetes, is vulnerable. | O
 Kubernetes distributors are already releasing fixes. | PatchVulnerability

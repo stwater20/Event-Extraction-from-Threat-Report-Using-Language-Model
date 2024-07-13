@@ -8,7 +8,7 @@ At first glance, it may look fairly convincing - the spelling and grammar is pre
 But it's very definitely a 'phishing' email - whereby the fraudster sender is trying to hook you into providing personal information. | AttackPhishing
 In this case, they're after my credit or debit card numbers. | O
 Phishing happens by text message too. | AttackPhishing
-Earlier this month HMRC reported people are nine times more likely to fall for text message scams than other types such as email because they can appear more legitimate, with many texts displaying ‘HMRC’ as the sender, rather than a phone number. | AttacKPhishing
+Earlier this month HMRC reported people are nine times more likely to fall for text message scams than other types such as email because they can appear more legitimate, with many texts displaying ‘HMRC’ as the sender, rather than a phone number. | AttackPhishing
 It also said it had 'stopped thousands of taxpayers from receiving scam text messages, with 90 per cent of the most convincing texts now halted before they reach their phones'. | O
 To help you protect yourself and your bank account, there are several warning signs you should always look out for to determine whether such emails and texts are fakes | O
 

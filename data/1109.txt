@@ -1,4 +1,4 @@
-Apache Struts 2 bug bites Canada, Cisco, VMware and others • The Register | Discover Vulnerability
+Apache Struts 2 bug bites Canada, Cisco, VMware and others • The Register | DiscoverVulnerability
 The site was taken offline to patch the security bug, and only publicly accessible information was lifted from the compromised web servers, we're told. | PatchVulnerability
 The flaw in the Struts 2 framework is trivial to exploit: just upload a file with an invalid Content-Type value. | DiscoverVulnerability
 It then throws an exception, and opens the target to remote code execution. | DiscoverVulnerability

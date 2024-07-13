@@ -4,7 +4,7 @@ Researchers have also found that the malware poses as a guide that wants to help
 These guides are actually a malicious software named FalseGuide. | O
 It’s been discovered that FalseGuide was hiding in over 40 different guide apps and that the oldest one was posted more than three years ago on 14th of February 2014. | O
 Some of the infected apps reached over 50,000 downloads, as claimed by Check Point security. | O
-The researchers also said that all of those devices can now be considered infected. | o
+The researchers also said that all of those devices can now be considered infected. | O
 The aim, as claimed by experts, was to create a ‘silent botnet,’ that would later be used for adware purposes. | O
 Cyber criminals are well known for their use of botnets and most often these botnets are made of a series of infected devices which include computers, as well as IoT (Internet of Things) devices including DVRS, CCTV cameras, Smart TVs, Smart cars and Smart Switches, etc. | O
 Most of the malware that infects these devices are stealthy preventing users from detecting them, which in return allows the malware to remain undisturbed on the device. | O
