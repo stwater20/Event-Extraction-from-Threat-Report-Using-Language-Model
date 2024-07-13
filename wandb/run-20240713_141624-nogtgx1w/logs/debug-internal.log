@@ -4253,3 +4253,10 @@
 2024-07-13 16:47:47,654 DEBUG   SenderThread:681312 [sender.py:send_request():406] send_request: stop_status
 2024-07-13 16:47:47,695 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: internal_messages
 2024-07-13 16:47:47,898 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: status_report
+2024-07-13 16:47:52,899 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: status_report
+2024-07-13 16:47:57,900 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: status_report
+2024-07-13 16:48:02,653 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: stop_status
+2024-07-13 16:48:02,654 DEBUG   SenderThread:681312 [sender.py:send_request():406] send_request: stop_status
+2024-07-13 16:48:02,695 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: internal_messages
+2024-07-13 16:48:03,884 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: status_report
+2024-07-13 16:48:08,885 DEBUG   HandlerThread:681312 [handler.py:handle_request():144] handle_request: status_report
