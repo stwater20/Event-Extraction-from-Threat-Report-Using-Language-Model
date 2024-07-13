@@ -7,16 +7,7 @@ Our research has been submitted to the Cryptology and Information Security Confe
 
 Thank you for your interest in our work.
 
-# Cite
+## Please give the star for this repo
 
-If you only directly using a part of code of this repo, please use bellow citation.
+If you only directly using a part of code of this repo, please give me star >//<
 
-```
-@misc{chen2024event,
-  author = {Sheng-Shan Chen},
-  title = {Event Extraction from Threat Report Using Language Model},
-  year = {2024},
-  howpublished = {\url{https://github.com/stwater20/Event-Extraction-from-Threat-Report-Using-Language-Model}},
-  note = {Accessed: 2024-07-13}
-}
-```
